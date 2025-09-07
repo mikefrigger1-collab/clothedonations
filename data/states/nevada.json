@@ -1,0 +1,1236 @@
+{
+  "name": "Nevada",
+  "slug": "nevada",
+  "locations": [
+    {
+      "id": "17320",
+      "title": "Savers - Henderson",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "1231 W Warm Springs Rd Bldg F, Henderson, NV 89014, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.053477,
+        "lng": -115.038979
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-henderson/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17321",
+      "title": "Savers - Henderson",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Henderson",
+      "address": "1445 American Pacific Dr, Henderson, NV 89074, USA",
+      "street": "1445 American Pacific Drive",
+      "zip": "89074",
+      "coordinates": {
+        "lat": 36.041345,
+        "lng": -115.049055
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-henderson-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17322",
+      "title": "Savers - Henderson",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Henderson",
+      "address": "645 S Green Valley Pkwy, Henderson, NV 89052, USA",
+      "street": "645 South Green Valley Parkway",
+      "zip": "89052",
+      "coordinates": {
+        "lat": 36.00402,
+        "lng": -115.084772
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-henderson-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17347",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "1100 E Charleston Blvd, Las Vegas, NV 89104, USA",
+      "street": "1100 East Charleston Boulevard",
+      "zip": "89104",
+      "coordinates": {
+        "lat": 36.158044,
+        "lng": -115.138417
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17348",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "201 NV-612, Las Vegas, NV 89110, USA",
+      "street": "201 North Nellis Boulevard",
+      "zip": "89110",
+      "coordinates": {
+        "lat": 36.165171,
+        "lng": -115.063465
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17349",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "2300 E Tropicana Ave, Las Vegas, NV 89119, USA",
+      "street": "East Tropicana Avenue",
+      "zip": "89112",
+      "coordinates": {
+        "lat": 36.102151,
+        "lng": -115.120545
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17350",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "2620 S Decatur Blvd, Las Vegas, NV 89102, USA",
+      "street": "South Decatur Boulevard",
+      "zip": "89102",
+      "coordinates": {
+        "lat": 36.142296,
+        "lng": -115.206355
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17351",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "3121 N Rancho Dr, Las Vegas, NV 89130, USA",
+      "street": "3121 North Rancho Drive",
+      "zip": "89130",
+      "coordinates": {
+        "lat": 36.215467,
+        "lng": -115.212505
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17352",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "4800 Blue Diamond Rd, Las Vegas, NV 89139, USA",
+      "street": "4800 Blue Diamond Road",
+      "zip": "89139",
+      "coordinates": {
+        "lat": 36.033427,
+        "lng": -115.2062
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-6/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17353",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "5050 S Fort Apache Rd, Las Vegas, NV 89148, USA",
+      "street": "5050 South Fort Apache Road",
+      "zip": "89148",
+      "coordinates": {
+        "lat": 36.097345,
+        "lng": -115.293945
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-7/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17354",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "7910 S Rainbow Blvd, Las Vegas, NV 89139, USA",
+      "street": "7910 South Rainbow Boulevard",
+      "zip": "89139",
+      "coordinates": {
+        "lat": 36.044392,
+        "lng": -115.242963
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-8/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17355",
+      "title": "Savers - Las Vegas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "8530 W Lake Mead Blvd, Las Vegas, NV 89128, USA",
+      "street": "8530 West Lake Mead Boulevard",
+      "zip": "89128",
+      "coordinates": {
+        "lat": 36.199366,
+        "lng": -115.279591
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-las-vegas-9/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17427",
+      "title": "Savers - Reno",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "3800 Kietzke Ln #250, Reno, NV 89502, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.487531,
+        "lng": -119.786935
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-reno/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17446",
+      "title": "Savers - Sparks",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Sparks",
+      "address": "2350 Oddie Blvd, Sparks, NV 89431, USA",
+      "street": "2350 Oddie Boulevard",
+      "zip": "89431",
+      "coordinates": {
+        "lat": 39.54582,
+        "lng": -119.777939
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/savers-sparks/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17777",
+      "title": "Salvation Army - Bullhead City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Bullhead City",
+      "address": "1461 Palma Rd, Bullhead City, AZ 86442, USA",
+      "street": "1461 Palma Road",
+      "zip": "86442",
+      "coordinates": {
+        "lat": 35.117164,
+        "lng": -114.599943
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-bullhead-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18134",
+      "title": "Salvation Army - Henderson",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Henderson",
+      "address": "1080 W Sunset Rd, Henderson, NV 89014, USA",
+      "street": "1080 West Sunset Road",
+      "zip": "89014",
+      "coordinates": {
+        "lat": 36.066438,
+        "lng": -115.034922
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-henderson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18135",
+      "title": "Salvation Army - Henderson",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Henderson",
+      "address": "360 N Stephanie St, Henderson, NV 89014, USA",
+      "street": "360 North Stephanie Street",
+      "zip": "89014",
+      "coordinates": {
+        "lat": 36.05375,
+        "lng": -115.045765
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-henderson-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18243",
+      "title": "Salvation Army - Kingman",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Kingman",
+      "address": "1200 E Andy Devine Ave, Kingman, AZ 86401, USA",
+      "street": "East Andy Devine Avenue",
+      "zip": "86402",
+      "coordinates": {
+        "lat": 35.187121,
+        "lng": -114.038399
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-kingman/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18264",
+      "title": "Salvation Army - Las Vegas",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "1610 E Tropicana Ave, Las Vegas, NV 89119, USA",
+      "street": "1610 East Tropicana Avenue",
+      "zip": "89119",
+      "coordinates": {
+        "lat": 36.101449,
+        "lng": -115.13052
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-las-vegas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18265",
+      "title": "Salvation Army - Las Vegas",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "2929 W Sahara Ave, Las Vegas, NV 89102, USA",
+      "street": "2929 West Sahara Avenue",
+      "zip": "89102",
+      "coordinates": {
+        "lat": 36.143925,
+        "lng": -115.181792
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-las-vegas-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18266",
+      "title": "Salvation Army - Las Vegas",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "4196 S Durango Dr, Las Vegas, NV 89147, USA",
+      "street": "South Durango Drive",
+      "zip": "89147",
+      "coordinates": {
+        "lat": 36.113308,
+        "lng": -115.27848
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-las-vegas-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18267",
+      "title": "Salvation Army - Las Vegas",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "North Las Vegas",
+      "address": "4305 Boulder Hwy, Las Vegas, NV 89121, USA",
+      "street": "4305 Boulder Highway",
+      "zip": "89121",
+      "coordinates": {
+        "lat": 36.127817,
+        "lng": -115.080053
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-las-vegas-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18361",
+      "title": "Salvation Army - Mesquite",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Mesquite",
+      "address": "780 Hafen Ln D, Mesquite, NV 89027, USA",
+      "street": "780 West Hafen Lane",
+      "zip": "89027",
+      "coordinates": {
+        "lat": 36.79565,
+        "lng": -114.092501
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-mesquite/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18480",
+      "title": "Salvation Army - Las Vegas",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "North Las Vegas",
+      "address": "2035 Yale St, North Las Vegas, NV 89030, USA",
+      "street": "2035 Yale Street",
+      "zip": "89030",
+      "coordinates": {
+        "lat": 36.198161,
+        "lng": -115.136203
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-las-vegas-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18481",
+      "title": "Salvation Army - N Las Vegas",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "North Las Vegas",
+      "address": "211 Judson Ave, North Las Vegas, NV 89030, USA",
+      "street": "Judson Avenue",
+      "zip": "89030",
+      "coordinates": {
+        "lat": 36.199085,
+        "lng": -115.136157
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-n-las-vegas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18545",
+      "title": "Salvation Army - Pahrump",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Pahrump",
+      "address": "240 Dahlia St, Pahrump, NV 89048, USA",
+      "street": "240 Dahlia Street",
+      "zip": "89048",
+      "coordinates": {
+        "lat": 36.216211,
+        "lng": -115.996177
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/salvation-army-pahrump/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20232",
+      "title": "Goodwill - Carson City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "3520 E US Hwy 50, Garden City, KS 67846, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.960322,
+        "lng": -100.830742
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-carson-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20353",
+      "title": "Goodwill - Henderson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Henderson",
+      "address": "1390 American Pacific Dr, Henderson, NV 89074, USA",
+      "street": "1390 American Pacific Drive",
+      "zip": "89074",
+      "coordinates": {
+        "lat": 36.042235,
+        "lng": -115.04595
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-henderson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20354",
+      "title": "Goodwill - Henderson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "1451 S Boulder Hwy, Henderson, NV 89015, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.014394,
+        "lng": -114.955454
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-henderson-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20622",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "10300 W Charleston Blvd #1, Las Vegas, NV 89135, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.160569,
+        "lng": -115.320885
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20623",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "3141 N Rainbow Blvd, Las Vegas, NV 89108, USA",
+      "street": "3141 North Rainbow Boulevard",
+      "zip": "89108",
+      "coordinates": {
+        "lat": 36.217097,
+        "lng": -115.244924
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20624",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "330 E Silverado Ranch Blvd, Las Vegas, NV 89183, USA",
+      "street": "East Silverado Ranch Boulevard",
+      "zip": "89183",
+      "coordinates": {
+        "lat": 36.013837,
+        "lng": -115.157287
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20625",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "3345 E Tropicana Ave, Las Vegas, NV 89121, USA",
+      "street": "3345 East Tropicana Avenue",
+      "zip": "89121",
+      "coordinates": {
+        "lat": 36.098815,
+        "lng": -115.103033
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20626",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "348 N Nellis Blvd, Las Vegas, NV 89110, USA",
+      "street": "348 North Nellis Boulevard",
+      "zip": "89110",
+      "coordinates": {
+        "lat": 36.166254,
+        "lng": -115.061728
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20627",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "3700 S Maryland Pkwy, Las Vegas, NV 89119, USA",
+      "street": "South Maryland Parkway",
+      "zip": "89104",
+      "coordinates": {
+        "lat": 36.122087,
+        "lng": -115.134872
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20628",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "4580 W Sahara Ave #120, Las Vegas, NV 89102, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.145429,
+        "lng": -115.203187
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20629",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "6765 N Durango Dr, Las Vegas, NV 89131, USA",
+      "street": "North Durango Drive",
+      "zip": "89159",
+      "coordinates": {
+        "lat": 36.283376,
+        "lng": -115.288667
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20630",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "741 S Rainbow Blvd, Las Vegas, NV 89145, USA",
+      "street": "741 South Rainbow Boulevard",
+      "zip": "89145",
+      "coordinates": {
+        "lat": 36.165191,
+        "lng": -115.245883
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20631",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "7420 S Rainbow Blvd, Las Vegas, NV 89139, USA",
+      "street": "7420 South Rainbow Boulevard",
+      "zip": "89139",
+      "coordinates": {
+        "lat": 36.05353,
+        "lng": -115.241435
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20632",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "7570 Dean Martin Dr, Las Vegas, NV 89139, USA",
+      "street": "7570 Dean Martin Drive",
+      "zip": "89139",
+      "coordinates": {
+        "lat": 36.052523,
+        "lng": -115.181968
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20633",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Las Vegas",
+      "address": "9230 S Eastern Ave, Las Vegas, NV 89123, USA",
+      "street": "9230 South Eastern Avenue",
+      "zip": "89123",
+      "coordinates": {
+        "lat": 36.02165,
+        "lng": -115.116932
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20634",
+      "title": "Goodwill - Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "North Las Vegas",
+      "address": "9385 W Flamingo Rd, Las Vegas, NV 89147, USA",
+      "street": "West Flamingo Road",
+      "zip": "89103",
+      "coordinates": {
+        "lat": 36.114397,
+        "lng": -115.29626
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-las-vegas-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21088",
+      "title": "Goodwill - North Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "North Las Vegas",
+      "address": "1280 W Cheyenne Ave, North Las Vegas, NV 89030, USA",
+      "street": "1280 West Cheyenne Avenue",
+      "zip": "89030",
+      "coordinates": {
+        "lat": 36.2186,
+        "lng": -115.158658
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-north-las-vegas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21089",
+      "title": "Goodwill - North Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "North Las Vegas",
+      "address": "1280 W Cheyenne Ave, North Las Vegas, NV 89030, USA",
+      "street": "1280 West Cheyenne Avenue",
+      "zip": "89030",
+      "coordinates": {
+        "lat": 36.2186,
+        "lng": -115.158658
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-north-las-vegas-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21090",
+      "title": "Goodwill - North Las Vegas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "North Las Vegas",
+      "address": "2575 E Lake Mead Blvd, North Las Vegas, NV 89030, USA",
+      "street": "2575 East Lake Mead Boulevard",
+      "zip": "89030",
+      "coordinates": {
+        "lat": 36.195174,
+        "lng": -115.114708
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-north-las-vegas-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21202",
+      "title": "Goodwill - Pahrump",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "Loop Rd, Pahrump, NV 89048, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.203894,
+        "lng": -115.976049
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-pahrump/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21339",
+      "title": "Goodwill - Reno",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Reno",
+      "address": "5000 Smithridge Dr, Reno, NV 89502, USA",
+      "street": "5000 Smithridge Drive",
+      "zip": "89502",
+      "coordinates": {
+        "lat": 39.478607,
+        "lng": -119.78793
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-reno/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21521",
+      "title": "Goodwill - Reno",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "2424 Oddie Blvd B, Sparks, NV 89431, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.547348,
+        "lng": -119.781146
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-reno-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21522",
+      "title": "Goodwill - Reno",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nevada",
+      "stateSlug": "nevada",
+      "city": "Unknown",
+      "address": "2424 Oddie Blvd C, Sparks, NV 89431, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.547348,
+        "lng": -119.781146
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nevada/goodwill-reno-3/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

@@ -1,0 +1,3564 @@
+{
+  "name": "Michigan",
+  "slug": "michigan",
+  "locations": [
+    {
+      "id": "17206",
+      "title": "Savers - Allen Park",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3100 Fairlane Dr, Allen Park, MI 48101, USA",
+      "street": "3100 Fairlane Drive",
+      "zip": "48101",
+      "coordinates": {
+        "lat": 42.283963,
+        "lng": -83.207932
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/savers-allen-park/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17599",
+      "title": "Salvation Army - Ada",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1180 Buttrick Ave SE, Ada, MI 49301, USA",
+      "street": "Buttrick Avenue Southeast",
+      "zip": "49301",
+      "coordinates": {
+        "lat": 42.944438,
+        "lng": -85.475826
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-ada/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17637",
+      "title": "Salvation Army - Ann Arbor",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Ann Arbor",
+      "address": "1621 S State St, Ann Arbor, MI 48104, USA",
+      "street": "1621 South State Street",
+      "zip": "48104",
+      "coordinates": {
+        "lat": 42.259615,
+        "lng": -83.739337
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-ann-arbor/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17645",
+      "title": "Salvation Army - Ashley",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "623 S Quarterline St, Ashley, MI 48806, USA",
+      "street": "South Quarterline Street",
+      "zip": "48806",
+      "coordinates": {
+        "lat": 43.179821,
+        "lng": -84.476919
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-ashley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17651",
+      "title": "Salvation Army - Auburn",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "985 W Midland Rd, Auburn, MI 48611, USA",
+      "street": "West Midland Road",
+      "zip": "48611",
+      "coordinates": {
+        "lat": 43.60254,
+        "lng": -84.087506
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-auburn-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17683",
+      "title": "Salvation Army - Battle Creek",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Battle Creek",
+      "address": "294 Highland Ave, Battle Creek, MI 49015, USA",
+      "street": "294 Highland Avenue",
+      "zip": "49015",
+      "coordinates": {
+        "lat": 42.299424,
+        "lng": -85.202843
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-battle-creek/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17684",
+      "title": "Salvation Army - Bay City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Bay City",
+      "address": "108 Adams St, Bay City, MI 48708, USA",
+      "street": "108 Adams Street",
+      "zip": "48708",
+      "coordinates": {
+        "lat": 43.590373,
+        "lng": -83.88747
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-bay-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17685",
+      "title": "Salvation Army - Bay City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Bay City",
+      "address": "601 N Euclid Ave, Bay City, MI 48706, USA",
+      "street": "601 North Euclid Avenue",
+      "zip": "48706",
+      "coordinates": {
+        "lat": 43.606925,
+        "lng": -83.916028
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-bay-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17739",
+      "title": "Salvation Army - Breckenridge",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "120 S Pine St, Breckenridge, MI 48615, USA",
+      "street": "120 South Pine Street",
+      "zip": "48615",
+      "coordinates": {
+        "lat": 43.407695,
+        "lng": -84.481675
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-breckenridge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17742",
+      "title": "Salvation Army - Brighton",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "7000 W Grand River Rd, Brighton, MI 48116, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.543286,
+        "lng": -83.787866
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-brighton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17784",
+      "title": "Salvation Army - Byron Center",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "119 100th St SW, Byron Center, MI 49315, USA",
+      "street": "119 100th Street Southwest",
+      "zip": "49315",
+      "coordinates": {
+        "lat": 42.783239,
+        "lng": -85.666337
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-byron-center/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17786",
+      "title": "Salvation Army - Caledonia",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4475 Kalamazoo Ave, Caledonia, MI 49316, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.743538,
+        "lng": -85.599191
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-caledonia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17793",
+      "title": "Salvation Army - Canton",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "43403 Joy Rd, Canton, MI 48187, USA",
+      "street": "43403 Joy Road",
+      "zip": "48187",
+      "coordinates": {
+        "lat": 42.348977,
+        "lng": -83.467991
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-canton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17883",
+      "title": "Salvation Army - Clio",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "2396 E Vienna Rd, Clio, MI 48420, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.177867,
+        "lng": -83.665377
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-clio/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17951",
+      "title": "Salvation Army - Dearborn Heights",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "8525 N Telegraph Rd, Dearborn Heights, MI 48127, USA",
+      "street": "8525 North Telegraph Road",
+      "zip": "48127",
+      "coordinates": {
+        "lat": 42.354556,
+        "lng": -83.275478
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-dearborn-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18023",
+      "title": "Salvation Army - Flint",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Flint",
+      "address": "4451 W Pierson Rd, Flint, MI 48504, USA",
+      "street": "West Pierson Road",
+      "zip": "48504",
+      "coordinates": {
+        "lat": 43.059976,
+        "lng": -83.77016
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-flint/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18025",
+      "title": "Salvation Army - Flushing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1415 E Pierson Rd, Flushing, MI 48433, USA",
+      "street": "1415 East Pierson Road",
+      "zip": "48433",
+      "coordinates": {
+        "lat": 43.060606,
+        "lng": -83.821696
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-flushing/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18078",
+      "title": "Salvation Army - Garden City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "28982 Ford Rd, Garden City, MI 48135, USA",
+      "street": "28982 Ford Road",
+      "zip": "48135",
+      "coordinates": {
+        "lat": 42.325984,
+        "lng": -83.327083
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-garden-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18107",
+      "title": "Salvation Army - Grand Rapids",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Grand Rapids",
+      "address": "1491 Division Ave S, Grand Rapids, MI 49507, USA",
+      "street": "1491 Division Avenue South",
+      "zip": "49507",
+      "coordinates": {
+        "lat": 42.937366,
+        "lng": -85.668907
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-grand-rapids/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18108",
+      "title": "Salvation Army - Grand Rapids",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4415 Broadmoor Ave SE, Grand Rapids, MI 49512, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.883033,
+        "lng": -85.56607
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-grand-rapids-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18133",
+      "title": "Salvation Army - Hemlock",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "147 Gratiot Rd, Hemlock, MI 48626, USA",
+      "street": "147 Gratiot Road",
+      "zip": "48626",
+      "coordinates": {
+        "lat": 43.414239,
+        "lng": -84.230538
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-hemlock/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18140",
+      "title": "Salvation Army - Highland Twsp",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "560 Highland Rd, Highland, MI 48357, USA",
+      "street": "560 West Highland Road",
+      "zip": "48357",
+      "coordinates": {
+        "lat": 42.643139,
+        "lng": -83.62337
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-highland-twsp/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18233",
+      "title": "Salvation Army - Kalamazoo",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Kalamazoo",
+      "address": "1700 S Burdick St, Kalamazoo, MI 49001, USA",
+      "street": "1700 South Burdick Street",
+      "zip": "49001",
+      "coordinates": {
+        "lat": 42.274553,
+        "lng": -85.58368
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-kalamazoo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18237",
+      "title": "Salvation Army - Kawkawlin",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "2807 S Huron Rd, Kawkawlin, MI 48631, USA",
+      "street": "2807 South Huron Road",
+      "zip": "48631",
+      "coordinates": {
+        "lat": 43.659269,
+        "lng": -83.947268
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-kawkawlin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18239",
+      "title": "Salvation Army - Kentwood",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4283 28th St SE, Kentwood, MI 49512, USA",
+      "street": "4283 28th Street Southeast",
+      "zip": "49512",
+      "coordinates": {
+        "lat": 42.913907,
+        "lng": -85.56223
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-kentwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18256",
+      "title": "Salvation Army - Lansing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "2301 E Grand River Rd, Lansing, MI 48912, USA",
+      "street": "Grand River Access Road",
+      "zip": "48906",
+      "coordinates": {
+        "lat": 42.7439,
+        "lng": -84.518369
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-lansing/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18257",
+      "title": "Salvation Army - Lansing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "2604 N East St, Lansing, MI 48906, USA",
+      "street": "2604 North East Street",
+      "zip": "48906",
+      "coordinates": {
+        "lat": 42.760571,
+        "lng": -84.54245
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-lansing-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18258",
+      "title": "Salvation Army - Lansing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "2829 S Martin Luther King Jr Blvd, Lansing, MI 48910, USA",
+      "street": "South Martin Luther King Jr Boulevard",
+      "zip": "48910",
+      "coordinates": {
+        "lat": 42.704076,
+        "lng": -84.566971
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-lansing-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18259",
+      "title": "Salvation Army - Lansing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "401 W Holmes Rd, Lansing, MI 48910, USA",
+      "street": "401 West Holmes Road",
+      "zip": "48910",
+      "coordinates": {
+        "lat": 42.697016,
+        "lng": -84.557025
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-lansing-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18260",
+      "title": "Salvation Army - Lansing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "5016 S Martin Luther King Jr Blvd, Lansing, MI 48910, USA",
+      "street": "5016 South Martin Luther King Jr Boulevard",
+      "zip": "48910",
+      "coordinates": {
+        "lat": 42.683767,
+        "lng": -84.568404
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-lansing-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18261",
+      "title": "Salvation Army - Lansing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "6061 S Pennsylvania Ave, Lansing, MI 48911, USA",
+      "street": "6061 South Pennsylvania Avenue",
+      "zip": "48911",
+      "coordinates": {
+        "lat": 42.66943,
+        "lng": -84.53763
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-lansing-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18295",
+      "title": "Salvation Army - Lincoln Park",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "2627 Dix Hwy, Lincoln Park, MI 48146, USA",
+      "street": "2627 Dix Highway",
+      "zip": "48146",
+      "coordinates": {
+        "lat": 42.24576,
+        "lng": -83.194591
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-lincoln-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18298",
+      "title": "Salvation Army - Livonia",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "33600 Plymouth Rd, Livonia, MI 48150, USA",
+      "street": "33600 Plymouth Road",
+      "zip": "48150",
+      "coordinates": {
+        "lat": 42.368761,
+        "lng": -83.374098
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-livonia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18355",
+      "title": "Salvation Army - Merrill",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "148 W Saginaw St, Merrill, MI 48637, USA",
+      "street": "148 West Saginaw Street",
+      "zip": "48637",
+      "coordinates": {
+        "lat": 43.410126,
+        "lng": -84.33132
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-merrill/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18385",
+      "title": "Salvation Army - Midland",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Midland",
+      "address": "330 Waldo Ave, Midland, MI 48642, USA",
+      "street": "330 Waldo Avenue",
+      "zip": "48641",
+      "coordinates": {
+        "lat": 43.602702,
+        "lng": -84.186783
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-midland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18386",
+      "title": "Salvation Army - Midland",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Midland",
+      "address": "825 S Saginaw Rd, Midland, MI 48642, USA",
+      "street": "825 South Saginaw Road",
+      "zip": "48640",
+      "coordinates": {
+        "lat": 43.620816,
+        "lng": -84.219728
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-midland-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18393",
+      "title": "Salvation Army - Millington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "9385 State Rd, Millington, MI 48746, USA",
+      "street": "9385 State Road",
+      "zip": "48746",
+      "coordinates": {
+        "lat": 43.255301,
+        "lng": -83.528883
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-millington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18411",
+      "title": "Salvation Army - Montrose",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "12450 W Vienna Rd, Montrose, MI 48457, USA",
+      "street": "West Vienna Road",
+      "zip": "48457",
+      "coordinates": {
+        "lat": 43.17622,
+        "lng": -83.883344
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-montrose-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18543",
+      "title": "Salvation Army - Owosso",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1812 E Main St #21, Owosso, MI 48867, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.997334,
+        "lng": -84.133157
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-owosso/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18544",
+      "title": "Salvation Army - Owosso",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "302 E Exchange St, Owosso, MI 48867, USA",
+      "street": "302 East Exchange Street",
+      "zip": "48867",
+      "coordinates": {
+        "lat": 42.998237,
+        "lng": -84.167769
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-owosso-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18605",
+      "title": "Salvation Army - Plainwell",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1269 M-89, Plainwell, MI 49080, USA",
+      "street": "1269 Allegan Street",
+      "zip": "49080",
+      "coordinates": {
+        "lat": 42.450689,
+        "lng": -85.668371
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-plainwell/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18615",
+      "title": "Salvation Army - Portage",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Kalamazoo",
+      "address": "5117 Portage Rd, Portage, MI 49002, USA",
+      "street": "5117 Portage Road",
+      "zip": "49002",
+      "coordinates": {
+        "lat": 42.243376,
+        "lng": -85.557752
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-portage/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18689",
+      "title": "Salvation Army - Romulus",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "5875 Middlebelt Rd, Romulus, MI 48174, USA",
+      "street": "5875 Middlebelt Road",
+      "zip": "48174",
+      "coordinates": {
+        "lat": 42.267077,
+        "lng": -83.327668
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-romulus/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18694",
+      "title": "Salvation Army - Royal Oak",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "114 W 4th St, Royal Oak, MI 48067, USA",
+      "street": "114 West 4th Street",
+      "zip": "48067",
+      "coordinates": {
+        "lat": 42.487508,
+        "lng": -83.144902
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-royal-oak/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18698",
+      "title": "Salvation Army - Saginaw",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Saginaw",
+      "address": "2020 N Carolina St, Saginaw, MI 48602, USA",
+      "street": "2020 North Carolina Street",
+      "zip": "48602",
+      "coordinates": {
+        "lat": 43.435799,
+        "lng": -83.970012
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-saginaw/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18699",
+      "title": "Salvation Army - Saginaw",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Saginaw",
+      "address": "530 W Genesee Ave, Saginaw, MI 48602, USA",
+      "street": "530 West Genesee Avenue",
+      "zip": "48602",
+      "coordinates": {
+        "lat": 43.435516,
+        "lng": -83.950043
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-saginaw-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18700",
+      "title": "Salvation Army - Saginaw",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "5700 State St, Saginaw, MI 48603, USA",
+      "street": "5700 State Street",
+      "zip": "48603",
+      "coordinates": {
+        "lat": 43.437729,
+        "lng": -84.028597
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-saginaw-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18712",
+      "title": "Salvation Army - Saline",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "423 E Michigan Ave, Saline, MI 48176, USA",
+      "street": "423 East Michigan Avenue",
+      "zip": "48176",
+      "coordinates": {
+        "lat": 42.172086,
+        "lng": -83.772722
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-saline/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18766",
+      "title": "Salvation Army - Sanford",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "11 W Saginaw Rd, Sanford, MI 48657, USA",
+      "street": "11 West Saginaw Road",
+      "zip": "48657",
+      "coordinates": {
+        "lat": 43.666997,
+        "lng": -84.369402
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-sanford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18802",
+      "title": "Salvation Army - Sebewaing",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "8856 Unionville Rd, Sebewaing, MI 48759, USA",
+      "street": "Unionville Road",
+      "zip": "48759",
+      "coordinates": {
+        "lat": 43.721461,
+        "lng": -83.44543
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-sebewaing/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18818",
+      "title": "Salvation Army - South Lyon",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "570 N Lafayette St, South Lyon, MI 48178, USA",
+      "street": "570 North Lafayette Street",
+      "zip": "48178",
+      "coordinates": {
+        "lat": 42.46598,
+        "lng": -83.649992
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-south-lyon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18823",
+      "title": "Salvation Army - Southfield",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "26065 Greenfield Rd, Southfield, MI 48076, USA",
+      "street": "26065 Greenfield Road",
+      "zip": "48076",
+      "coordinates": {
+        "lat": 42.482626,
+        "lng": -83.20358
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-southfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18824",
+      "title": "Salvation Army - Southgate",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "14275 Eureka Rd, Southgate, MI 48195, USA",
+      "street": "14275 Eureka Road",
+      "zip": "48195",
+      "coordinates": {
+        "lat": 42.198382,
+        "lng": -83.197122
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-southgate/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18871",
+      "title": "Salvation Army - Taylor",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "9850 Telegraph Rd, Taylor, MI 48180, USA",
+      "street": "9850 Telegraph Road",
+      "zip": "48180",
+      "coordinates": {
+        "lat": 42.23472,
+        "lng": -83.271508
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-taylor/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18902",
+      "title": "Salvation Army - Trenton",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3004 Van Horn Rd, Trenton, MI 48183, USA",
+      "street": "3004 Van Horn Road",
+      "zip": "48183",
+      "coordinates": {
+        "lat": 42.127839,
+        "lng": -83.204333
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-trenton-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18935",
+      "title": "Salvation Army - Walled Lake",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "730 N Pontiac Trail, Walled Lake, MI 48390, USA",
+      "street": "730 North Pontiac Trail",
+      "zip": "48390",
+      "coordinates": {
+        "lat": 42.536124,
+        "lng": -83.480196
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-walled-lake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18946",
+      "title": "Salvation Army - Orchard Lake",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3232 Orchard Lake Rd, West Bloomfield Township, MI 48324, USA",
+      "street": "Orchard Lake Road",
+      "zip": "48324",
+      "coordinates": {
+        "lat": 42.603191,
+        "lng": -83.349718
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-orchard-lake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18962",
+      "title": "Salvation Army - White Lake",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "9434 Highland Rd, White Lake Charter Township, MI 48386, USA",
+      "street": "Highland Road",
+      "zip": "48386",
+      "coordinates": {
+        "lat": 42.656794,
+        "lng": -83.47244
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-white-lake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18987",
+      "title": "Salvation Army - Wyoming",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Wyoming",
+      "address": "4277 Stonebridge Rd SW, Wyoming, MI 49519, USA",
+      "street": "4277 Stonebridge Road Southwest",
+      "zip": "49519",
+      "coordinates": {
+        "lat": 42.887322,
+        "lng": -85.729004
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/salvation-army-wyoming/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19436",
+      "title": "Goodwill - Adrian",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1357 Division St, Adrian, MI 49221, USA",
+      "street": "1357 Division Street",
+      "zip": "49221",
+      "coordinates": {
+        "lat": 41.877665,
+        "lng": -84.030456
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-adrian/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19437",
+      "title": "Goodwill - Adrian",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "136 E Maumee St, Adrian, MI 49221, USA",
+      "street": "136 East Maumee Street",
+      "zip": "49221",
+      "coordinates": {
+        "lat": 41.89812,
+        "lng": -84.035677
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-adrian-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19438",
+      "title": "Goodwill - Adrian",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1400 US-223, Adrian, MI 49221, USA",
+      "street": "1400 South Main Street",
+      "zip": "49221",
+      "coordinates": {
+        "lat": 41.877617,
+        "lng": -84.030945
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-adrian-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19459",
+      "title": "Goodwill - Allendale",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "5269 Lake Michigan Dr, Allendale, MI 49401, USA",
+      "street": "5269 Lake Michigan Drive",
+      "zip": "49401",
+      "coordinates": {
+        "lat": 42.973016,
+        "lng": -85.916159
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-allendale/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19463",
+      "title": "Goodwill - Alpena",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Alpena",
+      "address": "1201 N Bagley St, Alpena, MI 49707, USA",
+      "street": "1201 North Bagley Street",
+      "zip": "49707",
+      "coordinates": {
+        "lat": 45.06462,
+        "lng": -83.471176
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-alpena/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19592",
+      "title": "Goodwill - Bad Axe",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "780 N Van Dyke Rd, Bad Axe, MI 48413, USA",
+      "street": "North Van Dyke Road",
+      "zip": "48413",
+      "coordinates": {
+        "lat": 43.813318,
+        "lng": -82.998786
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-bad-axe/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19619",
+      "title": "Goodwill - Battle Creek",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Battle Creek",
+      "address": "15383 Helmer Rd S, Battle Creek, MI 49015, USA",
+      "street": "15383 South Helmer Road",
+      "zip": "49015",
+      "coordinates": {
+        "lat": 42.295753,
+        "lng": -85.239214
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-battle-creek/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19620",
+      "title": "Goodwill - Battle Creek",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Battle Creek",
+      "address": "6085 B Dr N, Battle Creek, MI 49014, USA",
+      "street": "6085 B Drive North",
+      "zip": "49014",
+      "coordinates": {
+        "lat": 42.261547,
+        "lng": -85.176247
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-battle-creek-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19621",
+      "title": "Goodwill - Bay City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Bay City",
+      "address": "4011 Euclid Ave, Bay City, MI 48706, USA",
+      "street": "4011 North Euclid Avenue",
+      "zip": "48706",
+      "coordinates": {
+        "lat": 43.623278,
+        "lng": -83.914244
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-bay-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19678",
+      "title": "Goodwill - Birch Run",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "12240 S Beyer Rd, Birch Run, MI 48415, USA",
+      "street": "12240 South Beyer Road",
+      "zip": "48415",
+      "coordinates": {
+        "lat": 43.245852,
+        "lng": -83.773938
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-birch-run/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19764",
+      "title": "Goodwill - Burton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4190 E Court St, Burton, MI 48509, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.01659,
+        "lng": -83.629687
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-burton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19770",
+      "title": "Goodwill - Cadillac",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "2025 N Mitchell St, Cadillac, MI 49601, USA",
+      "street": "2025 North Mitchell Street",
+      "zip": "49601",
+      "coordinates": {
+        "lat": 44.278648,
+        "lng": -85.408131
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-cadillac/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19786",
+      "title": "Goodwill - Canton, MI",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "41937 Ford Rd, Canton, MI 48187, USA",
+      "street": "41937 Ford Road",
+      "zip": "48187",
+      "coordinates": {
+        "lat": 42.322122,
+        "lng": -83.454727
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-canton-mi/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19805",
+      "title": "Goodwill - Caro",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1560 W Caro Rd, Caro, MI 48723, USA",
+      "street": "1560 West Caro Road",
+      "zip": "48723",
+      "coordinates": {
+        "lat": 43.475647,
+        "lng": -83.416156
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-caro/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19841",
+      "title": "Goodwill - Charlevoix",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "402 Petoskey Ave, Charlevoix, MI 49720, USA",
+      "street": "402 Petoskey Avenue",
+      "zip": "49720",
+      "coordinates": {
+        "lat": 45.322266,
+        "lng": -85.252348
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-charlevoix/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19842",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1656 Packard Hwy, Charlotte, MI 48813, USA",
+      "street": "1656 Packard Highway",
+      "zip": "48813",
+      "coordinates": {
+        "lat": 42.581879,
+        "lng": -84.805045
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-charlotte/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19843",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "350 Lansing St, Charlotte, MI 48813, USA",
+      "street": "350 Lansing Street",
+      "zip": "48813",
+      "coordinates": {
+        "lat": 42.569095,
+        "lng": -84.823717
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-charlotte-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19860",
+      "title": "Goodwill - Cheboygan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "982 S Main St, Cheboygan, MI 49721, USA",
+      "street": "982 South Main Street",
+      "zip": "49721",
+      "coordinates": {
+        "lat": 45.628126,
+        "lng": -84.48234
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-cheboygan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19863",
+      "title": "Goodwill - Chelsea",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1167 S Main St, Chelsea, MI 48118, USA",
+      "street": "1167 South Main Street",
+      "zip": "48118",
+      "coordinates": {
+        "lat": 42.303583,
+        "lng": -84.020501
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-chelsea/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19913",
+      "title": "Goodwill - Clio",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "Mott Community College Northern Tier Center, 4082 W Vienna Rd, Clio, MI 48420, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.178884,
+        "lng": -83.757142
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-clio/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19918",
+      "title": "Goodwill - Coldwater",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "398 N Willowbrook Rd C, Coldwater, MI 49036, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.941372,
+        "lng": -84.972408
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-coldwater/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19946",
+      "title": "Goodwill - Commerce Township",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3281 Crumb Rd, Commerce Charter Twp, MI 48390, USA",
+      "street": "3281 Crumb Road",
+      "zip": "48390",
+      "coordinates": {
+        "lat": 42.545824,
+        "lng": -83.440427
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-commerce-township/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19961",
+      "title": "Goodwill - Coopersville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1141 W Randall St, Coopersville, MI 49404, USA",
+      "street": "1141 West Randall Street",
+      "zip": "49404",
+      "coordinates": {
+        "lat": 43.06079,
+        "lng": -85.954803
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-coopersville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20027",
+      "title": "Goodwill - Dearborn, MI",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Dearborn",
+      "address": "22451 Michigan Ave, Dearborn, MI 48124, USA",
+      "street": "22451 Michigan Avenue",
+      "zip": "48124",
+      "coordinates": {
+        "lat": 42.30329,
+        "lng": -83.251852
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-dearborn-mi/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20037",
+      "title": "Goodwill - Holt",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "2040 N Aurelius Rd, Holt, MI 48842, USA",
+      "street": "North Aurelius Road",
+      "zip": "48842",
+      "coordinates": {
+        "lat": 42.64122,
+        "lng": -84.522232
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-holt/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20063",
+      "title": "Goodwill - Dewitt",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1161 E Clark Rd, Dewitt, MI 48820, USA",
+      "street": "1161 East Clark Road",
+      "zip": "48906",
+      "coordinates": {
+        "lat": 42.814899,
+        "lng": -84.540331
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-dewitt/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20076",
+      "title": "Goodwill - Dundee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "119 Waterstradt Commerce Dr, Dundee, MI 48131, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.956998,
+        "lng": -83.67353
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-dundee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20081",
+      "title": "Goodwill - East Lansing",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "2200 Coolidge Ct, East Lansing, MI 48823, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.760138,
+        "lng": -84.502361
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-east-lansing/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20161",
+      "title": "Goodwill - Fenton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3150 Owen Rd, Fenton, MI 48430, USA",
+      "street": "3150 Owen Road",
+      "zip": "48430",
+      "coordinates": {
+        "lat": 42.790944,
+        "lng": -83.732365
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-fenton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20171",
+      "title": "Goodwill - Flint",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4340 Miller Rd, Flint, MI 48507, USA",
+      "street": "4340 Miller Road",
+      "zip": "48507",
+      "coordinates": {
+        "lat": 42.979912,
+        "lng": -83.7645
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-flint/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20172",
+      "title": "Goodwill - Flint",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Flint",
+      "address": "501 S Averill Ave, Flint, MI 48506, USA",
+      "street": "501 South Averill Avenue",
+      "zip": "48506",
+      "coordinates": {
+        "lat": 43.020963,
+        "lng": -83.641778
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-flint-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20215",
+      "title": "Goodwill - Fremont",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1422 W Main St, Fremont, MI 49412, USA",
+      "street": "1422 West Main Street",
+      "zip": "49412",
+      "coordinates": {
+        "lat": 43.466717,
+        "lng": -85.970564
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-fremont/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20238",
+      "title": "Goodwill - Gaylord",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "600 Edelweiss Village Pkwy, Gaylord, MI 49735, USA",
+      "street": "600 Edelweiss Village Parkway",
+      "zip": "49735",
+      "coordinates": {
+        "lat": 45.022912,
+        "lng": -84.694913
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-gaylord/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20262",
+      "title": "Goodwill - Goodrich",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "8175 S State Rd, Goodrich, MI 48438, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.913757,
+        "lng": -83.500589
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-goodrich/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20267",
+      "title": "Goodwill - Grand Haven",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1112 Robbins Rd, Grand Haven, MI 49417, USA",
+      "street": "1112 Robbins Road",
+      "zip": "49417",
+      "coordinates": {
+        "lat": 43.044013,
+        "lng": -86.21405
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-grand-haven/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20270",
+      "title": "Goodwill - Grand Ledge",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "514 S Clinton St, Grand Ledge, MI 48837, USA",
+      "street": "South Clinton Street",
+      "zip": "48837",
+      "coordinates": {
+        "lat": 42.743138,
+        "lng": -84.740189
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-grand-ledge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20342",
+      "title": "Goodwill - Hastings",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "2542 W M 43, Hastings, MI 49058, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.646134,
+        "lng": -85.336568
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-hastings/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20388",
+      "title": "Goodwill - Holland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Holland",
+      "address": "1180 Washington Ave, Holland, MI 49423, USA",
+      "street": "Washington Avenue",
+      "zip": "49423",
+      "coordinates": {
+        "lat": 42.755921,
+        "lng": -86.117573
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-holland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20389",
+      "title": "Goodwill - Holland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "393 E Lakewood Blvd, Holland, MI 49424, USA",
+      "street": "393 East Lakewood Boulevard",
+      "zip": "49424",
+      "coordinates": {
+        "lat": 42.805293,
+        "lng": -86.091224
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-holland-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20390",
+      "title": "Goodwill - Holly",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "15205 N Holly Rd, Holly, MI 48442, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.808254,
+        "lng": -83.627005
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-holly/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20475",
+      "title": "Goodwill - Imlay",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "605 N Cedar St, Imlay City, MI 48444, USA",
+      "street": "North Cedar Street",
+      "zip": "48444",
+      "coordinates": {
+        "lat": 43.031978,
+        "lng": -83.072881
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-imlay/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20502",
+      "title": "Goodwill - Jackson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Jackson",
+      "address": "617 N Mechanic St, Jackson, MI 49202, USA",
+      "street": "617 North Mechanic Street",
+      "zip": "49202",
+      "coordinates": {
+        "lat": 42.255732,
+        "lng": -84.405528
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-jackson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20503",
+      "title": "Goodwill - Jackson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Jackson",
+      "address": "955 W Argyle St, Jackson, MI 49202, USA",
+      "street": "955 West Argyle Street",
+      "zip": "49202",
+      "coordinates": {
+        "lat": 42.261458,
+        "lng": -84.425969
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-jackson-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20528",
+      "title": "Goodwill - Jonesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "761 Olds St, Jonesville, MI 49250, USA",
+      "street": "Olds Street",
+      "zip": "49250",
+      "coordinates": {
+        "lat": 41.965562,
+        "lng": -84.66904
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-jonesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20607",
+      "title": "Goodwill - Lambertville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "7300 Secor Rd, Lambertville, MI 48144, USA",
+      "street": "Secor Road",
+      "zip": "48144",
+      "coordinates": {
+        "lat": 41.746421,
+        "lng": -83.624534
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-lambertville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20616",
+      "title": "Goodwill - East Lansing",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "3040 Lake Lansing Rd, Lansing, MI 48912, USA",
+      "street": "Lake Lansing Road",
+      "zip": "48912",
+      "coordinates": {
+        "lat": 42.760699,
+        "lng": -84.508637
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-east-lansing-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20617",
+      "title": "Goodwill - Lansing",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "5353 W Saginaw Hwy, Lansing, MI 48917, USA",
+      "street": "5353 West Saginaw Highway",
+      "zip": "48890",
+      "coordinates": {
+        "lat": 42.739107,
+        "lng": -84.626083
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-lansing/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20618",
+      "title": "Goodwill - Lansing",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Lansing",
+      "address": "6250 S Cedar St, Lansing, MI 48911, USA",
+      "street": "6250 South Cedar Street",
+      "zip": "48911",
+      "coordinates": {
+        "lat": 42.66663,
+        "lng": -84.544362
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-lansing-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20620",
+      "title": "Goodwill - Lapeer",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1945 W Genesee St, Lapeer, MI 48446, USA",
+      "street": "1945 West Genesee Street",
+      "zip": "48446",
+      "coordinates": {
+        "lat": 43.050108,
+        "lng": -83.329246
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-lapeer/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20702",
+      "title": "Goodwill - Livonia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "12651 Middlebelt Rd, Livonia, MI 48150, USA",
+      "street": "12651 Middlebelt Road",
+      "zip": "48150",
+      "coordinates": {
+        "lat": 42.377281,
+        "lng": -83.334935
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-livonia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20744",
+      "title": "Goodwill - Ludington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4781 US-10, Ludington, MI 49431, USA",
+      "street": "East Ludington Avenue",
+      "zip": "49431",
+      "coordinates": {
+        "lat": 43.954888,
+        "lng": -86.397767
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-ludington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20767",
+      "title": "Goodwill - Manistee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "282 12th St, Manistee, MI 49660, USA",
+      "street": "282 12th Street",
+      "zip": "49660",
+      "coordinates": {
+        "lat": 44.235185,
+        "lng": -86.316401
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-manistee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20789",
+      "title": "Goodwill - Marshall",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "842 W Michigan Ave, Marshall, MI 49068, USA",
+      "street": "842 West Michigan Avenue",
+      "zip": "49068",
+      "coordinates": {
+        "lat": 42.272339,
+        "lng": -84.973708
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-marshall/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20796",
+      "title": "Goodwill - Mason MI",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "556 N Cedar St, Mason, MI 48854, USA",
+      "street": "556 North Cedar Street",
+      "zip": "48854",
+      "coordinates": {
+        "lat": 42.587399,
+        "lng": -84.452627
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-mason-mi/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20847",
+      "title": "Goodwill - Okemos",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1860 W Grand River Rd, Okemos, MI 48864, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.720652,
+        "lng": -84.417164
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-okemos/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20886",
+      "title": "Goodwill - Midland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Midland",
+      "address": "2030 N Saginaw Rd, Midland, MI 48640, USA",
+      "street": "2030 North Saginaw Road",
+      "zip": "48640",
+      "coordinates": {
+        "lat": 43.642697,
+        "lng": -84.251216
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-midland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20934",
+      "title": "Goodwill - Monroe",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "255 N Telegraph Rd, Monroe, MI 48162, USA",
+      "street": "255 North Telegraph Road",
+      "zip": "48162",
+      "coordinates": {
+        "lat": 41.926425,
+        "lng": -83.414738
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-monroe-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20994",
+      "title": "Goodwill - Muskegon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1169 Whitehall Rd, Muskegon, MI 49445, USA",
+      "street": "1169 Whitehall Road",
+      "zip": "49445",
+      "coordinates": {
+        "lat": 43.273398,
+        "lng": -86.25996
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-muskegon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20995",
+      "title": "Goodwill - Muskegon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Muskegon",
+      "address": "1501 E Apple Ave, Muskegon, MI 49442, USA",
+      "street": "1501 East Apple Avenue",
+      "zip": "49442",
+      "coordinates": {
+        "lat": 43.231979,
+        "lng": -86.207352
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-muskegon-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20996",
+      "title": "Goodwill - Muskegon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Muskegon",
+      "address": "1934 E Sherman Blvd, Muskegon, MI 49444, USA",
+      "street": "1934 East Sherman Boulevard",
+      "zip": "49444",
+      "coordinates": {
+        "lat": 43.206401,
+        "lng": -86.196712
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-muskegon-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20997",
+      "title": "Goodwill - Muskegon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "950 W Norton Ave, Muskegon, MI 49441, USA",
+      "street": "950 West Norton Avenue",
+      "zip": "49441",
+      "coordinates": {
+        "lat": 43.191576,
+        "lng": -86.267122
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-muskegon-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21054",
+      "title": "Goodwill - Newaygo",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "8143 Mason Dr, Newaygo, MI 49337, USA",
+      "street": "8143 Mason Drive",
+      "zip": "49337",
+      "coordinates": {
+        "lat": 43.407548,
+        "lng": -85.804659
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-newaygo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21109",
+      "title": "Goodwill - Norton Shores",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1484 E Ellis Rd, Norton Shores, MI 49444, USA",
+      "street": "1484 East Ellis Road",
+      "zip": "49444",
+      "coordinates": {
+        "lat": 43.162177,
+        "lng": -86.207193
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-norton-shores/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21185",
+      "title": "Goodwill - Oscoda",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "5122 N U.S. 23, Oscoda, MI 48750, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.428247,
+        "lng": -83.329244
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-oscoda/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21194",
+      "title": "Goodwill - Owosso",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1427 E M 21, Owosso, MI 48867, USA",
+      "street": "East Main Street",
+      "zip": "48867",
+      "coordinates": {
+        "lat": 42.999545,
+        "lng": -84.144896
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-owosso/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21196",
+      "title": "Goodwill - Oxford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "190 S Washington St, Oxford, MI 48371, USA",
+      "street": "190 South Washington Street",
+      "zip": "48371",
+      "coordinates": {
+        "lat": 42.818734,
+        "lng": -83.25914
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-oxford-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21245",
+      "title": "Goodwill - Petoskey",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "1600 Anderson Rd, Petoskey, MI 49770, USA",
+      "street": "Anderson Road",
+      "zip": "49770",
+      "coordinates": {
+        "lat": 45.350334,
+        "lng": -84.973761
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-petoskey/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21421",
+      "title": "Goodwill - Saginaw",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4675 Bay Rd, Saginaw, MI 48604, USA",
+      "street": "4675 Bay Road",
+      "zip": "48604",
+      "coordinates": {
+        "lat": 43.475436,
+        "lng": -83.977568
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-saginaw/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21426",
+      "title": "Goodwill - St. Johns",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "800 S, US-127 BUS, St Johns, MI 48879, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.993331,
+        "lng": -84.549326
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-st-johns/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21435",
+      "title": "Goodwill - Saline",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "557 E Michigan Ave, Saline, MI 48176, USA",
+      "street": "East Michigan Avenue",
+      "zip": "48176",
+      "coordinates": {
+        "lat": 42.172937,
+        "lng": -83.770583
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-saline/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21537",
+      "title": "Goodwill - Suite E, Spring Lake",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "17687 174th Ave E, Spring Lake, MI 49456, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.091035,
+        "lng": -86.220726
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-suite-e-spring-lake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21547",
+      "title": "Goodwill - Suite E, Spring Lake",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "17687 174th Ave E, Spring Lake, MI 49456, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.091035,
+        "lng": -86.220726
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-suite-e-spring-lake-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21634",
+      "title": "Goodwill - Traverse City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Traverse City",
+      "address": "2279 W South Airport Rd, Traverse City, MI 49684, USA",
+      "street": "West South Airport Road",
+      "zip": "49686",
+      "coordinates": {
+        "lat": 44.73267,
+        "lng": -85.621404
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-traverse-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21635",
+      "title": "Goodwill - Traverse City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Traverse City",
+      "address": "853 US-31, Traverse City, MI 49685, USA",
+      "street": "853 South Division Street",
+      "zip": "49684",
+      "coordinates": {
+        "lat": 44.676199,
+        "lng": -85.655564
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-traverse-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21753",
+      "title": "Goodwill - Whitehall",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3353 Underwood Dr, Whitehall, MI 49461, USA",
+      "street": "3353 Underwood Drive",
+      "zip": "49461",
+      "coordinates": {
+        "lat": 43.407336,
+        "lng": -86.325237
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-whitehall-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21772",
+      "title": "Goodwill - Williamsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3922 M-72, Williamsburg, MI 49690, USA",
+      "street": "East M 72",
+      "zip": "49690",
+      "coordinates": {
+        "lat": 44.772636,
+        "lng": -85.498373
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-williamsburg-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21774",
+      "title": "Goodwill - Williamston",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "725 W Grand River Ave, Williamston, MI 48895, USA",
+      "street": "725 West Grand River Avenue",
+      "zip": "48895",
+      "coordinates": {
+        "lat": 42.687434,
+        "lng": -84.294279
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-williamston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21815",
+      "title": "Goodwill - Woodhaven",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "20080 West Rd, Woodhaven, MI 48183, USA",
+      "street": "20080 West Road",
+      "zip": "48183",
+      "coordinates": {
+        "lat": 42.142333,
+        "lng": -83.228433
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-woodhaven/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21827",
+      "title": "Goodwill - Ypsilanti",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "3782 Carpenter Rd, Ypsilanti, MI 48197, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.234141,
+        "lng": -83.682128
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-ypsilanti/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21830",
+      "title": "Goodwill - Zeeland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "9479 Riley St, Zeeland, MI 49464, USA",
+      "street": "9479 Riley Street",
+      "zip": "49464",
+      "coordinates": {
+        "lat": 42.828182,
+        "lng": -86.016622
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/goodwill-zeeland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21972",
+      "title": "St Vincent De Paul - Detroit",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Detroit",
+      "address": "3000 Gratiot Ave, Detroit, MI 48207, USA",
+      "street": "3000 Gratiot Avenue",
+      "zip": "48207",
+      "coordinates": {
+        "lat": 42.356065,
+        "lng": -83.029298
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/st-vincent-de-paul-detroit/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22088",
+      "title": "St Vincent De Paul - Lincoln Park",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "4089 Dix Hwy, Lincoln Park, MI 48146, USA",
+      "street": "4089 Dix Highway",
+      "zip": "48146",
+      "coordinates": {
+        "lat": 42.223869,
+        "lng": -83.193661
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/st-vincent-de-paul-lincoln-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22104",
+      "title": "St Vincent De Paul - Madison Heights",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "28720 Stephenson Hwy, Madison Heights, MI 48071, United States",
+      "street": "Stephenson Highway",
+      "zip": "48071",
+      "coordinates": {
+        "lat": 42.503527,
+        "lng": -83.116846
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/st-vincent-de-paul-madison-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22157",
+      "title": "St Vincent De Paul - Port Huron",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Port Huron",
+      "address": "1337 24th St, Port Huron, MI 48060, USA",
+      "street": "1337 24th Street",
+      "zip": "48060",
+      "coordinates": {
+        "lat": 42.968939,
+        "lng": -82.453358
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/st-vincent-de-paul-port-huron/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22184",
+      "title": "St Vincent De Paul - St. Clair Shores",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "23746 Greater Mack Ave, St Clair Shores, MI 48080, USA",
+      "street": "23746 Greater Mack Avenue",
+      "zip": "48080",
+      "coordinates": {
+        "lat": 42.468036,
+        "lng": -82.896613
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/st-vincent-de-paul-st-clair-shores/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22202",
+      "title": "St Vincent De Paul - Utica",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "45550 Van Dyke Ave, Utica, MI 48317, USA",
+      "street": "45550 Van Dyke Avenue",
+      "zip": "48317",
+      "coordinates": {
+        "lat": 42.630959,
+        "lng": -83.03169
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/st-vincent-de-paul-utica/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22207",
+      "title": "St Vincent De Paul - Waterford",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Michigan",
+      "stateSlug": "michigan",
+      "city": "Unknown",
+      "address": "5395 Dixie Hwy, Waterford Twp, MI 48329, USA",
+      "street": "5395 Dixie Highway",
+      "zip": "48329",
+      "coordinates": {
+        "lat": 42.69682,
+        "lng": -83.39609
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/michigan/st-vincent-de-paul-waterford/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

@@ -1,0 +1,1766 @@
+{
+  "name": "Mississippi",
+  "slug": "mississippi",
+  "locations": [
+    {
+      "id": "16063",
+      "title": "America's Thrift Stores - Aberdeen",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "103 MS-145, Aberdeen, MS 39730, USA",
+      "street": "103 East Commerce Street",
+      "zip": "39730",
+      "coordinates": {
+        "lat": 33.8276,
+        "lng": -88.562483
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-aberdeen/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16064",
+      "title": "America's Thrift Stores - Aberdeen",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "172 E Canal St, Aberdeen, MS 39730, USA",
+      "street": "172 East Canal Street",
+      "zip": "39730",
+      "coordinates": {
+        "lat": 33.827074,
+        "lng": -88.542721
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-aberdeen-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16194",
+      "title": "America's Thrift Stores - Bay Saint Louis",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "297 US-90, Bay St Louis, MS 39520, USA",
+      "street": "297 US 90",
+      "zip": "39576",
+      "coordinates": {
+        "lat": 30.320234,
+        "lng": -89.336869
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-bay-saint-louis/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16197",
+      "title": "America's Thrift Stores - Belmont",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "2 3rd St, Belmont, MS 38827, USA",
+      "street": "2 3rd Street",
+      "zip": "38827",
+      "coordinates": {
+        "lat": 34.507355,
+        "lng": -88.20838
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-belmont/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16209",
+      "title": "America's Thrift Stores - Diberville",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "14491 Lamey Bridge Rd, Biloxi, MS 39532, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 30.494437,
+        "lng": -88.907427
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-diberville/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16255",
+      "title": "America's Thrift Stores - Burnsville",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "Burnsville, MS 38833, USA",
+      "street": "",
+      "zip": "38833",
+      "coordinates": {
+        "lat": 34.840645,
+        "lng": -88.314767
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-burnsville/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16256",
+      "title": "America's Thrift Stores - Burnsville",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "Old Hwy 72, Mississippi, USA",
+      "street": "Old Hwy 72",
+      "zip": "",
+      "coordinates": {
+        "lat": 34.926616,
+        "lng": -89.08858
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-burnsville-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16362",
+      "title": "America's Thrift Stores - Corinth",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "599 S Tate St, Corinth, MS 38834, USA",
+      "street": "599 South Tate Street",
+      "zip": "38834",
+      "coordinates": {
+        "lat": 34.929106,
+        "lng": -88.527217
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-corinth/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16363",
+      "title": "America's Thrift Stores - Corinth",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "609 S Tate St, Corinth, MS 38834, USA",
+      "street": "609 South Tate Street",
+      "zip": "38834",
+      "coordinates": {
+        "lat": 34.929092,
+        "lng": -88.52724
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-corinth-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16364",
+      "title": "America's Thrift Stores - Corinth",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "609 S Tate St, Corinth, MS 38834, USA",
+      "street": "609 South Tate Street",
+      "zip": "38834",
+      "coordinates": {
+        "lat": 34.929092,
+        "lng": -88.52724
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-corinth-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16400",
+      "title": "America's Thrift Stores - Gautier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Del Rio",
+      "address": "3609 US-90, Del Rio, TX 78840, USA",
+      "street": "3609 Veterans Boulevard",
+      "zip": "78840",
+      "coordinates": {
+        "lat": 29.368533,
+        "lng": -100.847991
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gautier/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16536",
+      "title": "America's Thrift Stores - Fulton",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1409 S Adams St, Fulton, MS 38843, USA",
+      "street": "1409 South Adams Street",
+      "zip": "38843",
+      "coordinates": {
+        "lat": 34.251336,
+        "lng": -88.402741
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-fulton/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16537",
+      "title": "America's Thrift Stores - Fulton",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1409 S Adams St, Fulton, MS 38843, USA",
+      "street": "1409 South Adams Street",
+      "zip": "38843",
+      "coordinates": {
+        "lat": 34.251336,
+        "lng": -88.402741
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-fulton-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16538",
+      "title": "America's Thrift Stores - Tremont",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1013 MS-178, Fulton, MS 38843, USA",
+      "street": "1013 East Main Street",
+      "zip": "38843",
+      "coordinates": {
+        "lat": 34.26427,
+        "lng": -88.446576
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-tremont/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16558",
+      "title": "America's Thrift Stores - Gautier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "2715 US-90, Gautier, MS 39553, USA",
+      "street": "2715 US 90",
+      "zip": "39553",
+      "coordinates": {
+        "lat": 30.391401,
+        "lng": -88.656688
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gautier-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16559",
+      "title": "America's Thrift Stores - Gautier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "2967 Old Spanish Trail, Gautier, MS 39553, USA",
+      "street": "2967 Old Spanish Trail",
+      "zip": "39553",
+      "coordinates": {
+        "lat": 30.388312,
+        "lng": -88.659186
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gautier-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16560",
+      "title": "America's Thrift Stores - Gautier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "2971 Old Spanish Trail, Gautier, MS 39553, USA",
+      "street": "2971 Old Spanish Trail",
+      "zip": "39553",
+      "coordinates": {
+        "lat": 30.388335,
+        "lng": -88.659298
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gautier-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16561",
+      "title": "America's Thrift Stores - Gautier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "5302 Gautier Vancleave Rd, Gautier, MS 39553, USA",
+      "street": "5302 Gautier Vancleave Road",
+      "zip": "39553",
+      "coordinates": {
+        "lat": 30.417778,
+        "lng": -88.650409
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gautier-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16562",
+      "title": "America's Thrift Stores - Gautier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "5508 Gautier Vancleave Rd, Gautier, MS 39553, USA",
+      "street": "5508 Gautier Vancleave Road",
+      "zip": "39553",
+      "coordinates": {
+        "lat": 30.421916,
+        "lng": -88.648592
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gautier-6/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16564",
+      "title": "America's Thrift Stores - Tishomingo",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "28140 MS-25, Golden, MS 38847, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 34.404988,
+        "lng": -88.295318
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-tishomingo/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16575",
+      "title": "America's Thrift Stores - Greenwood Springs",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "50004 Splunge Rd, Greenwood Springs, MS 38848, USA",
+      "street": "50004 Splunge Road",
+      "zip": "38848",
+      "coordinates": {
+        "lat": 33.887222,
+        "lng": -88.309011
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-greenwood-springs/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16584",
+      "title": "America's Thrift Stores - Gulfport",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Gulfport",
+      "address": "10239 Three Rivers Rd, Gulfport, MS 39503, USA",
+      "street": "10239 Three Rivers Road",
+      "zip": "39503",
+      "coordinates": {
+        "lat": 30.432954,
+        "lng": -89.087084
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gulfport/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16585",
+      "title": "America's Thrift Stores - Gulfport",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Gulfport",
+      "address": "11548 Dedeaux Rd, Gulfport, MS 39503, USA",
+      "street": "11548 Dedeaux Road",
+      "zip": "39503",
+      "coordinates": {
+        "lat": 30.450083,
+        "lng": -89.035443
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gulfport-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16586",
+      "title": "America's Thrift Stores - Gulfport",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Gulfport",
+      "address": "15472 Duckworth Rd, Gulfport, MS 39503, USA",
+      "street": "15472 Duckworth Road",
+      "zip": "39503",
+      "coordinates": {
+        "lat": 30.48244,
+        "lng": -89.101522
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gulfport-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16587",
+      "title": "America's Thrift Stores - Gulfport",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Gulfport",
+      "address": "16266 Robinson Rd, Gulfport, MS 39503, USA",
+      "street": "16266 Robinson Road",
+      "zip": "39503",
+      "coordinates": {
+        "lat": 30.464215,
+        "lng": -89.112187
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gulfport-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16588",
+      "title": "America's Thrift Stores - Gulfport",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Gulfport",
+      "address": "4408 W Railroad St, Gulfport, MS 39501, USA",
+      "street": "4408 West Railroad Street",
+      "zip": "39501",
+      "coordinates": {
+        "lat": 30.362658,
+        "lng": -89.116276
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-gulfport-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16641",
+      "title": "America's Thrift Stores - Iuka",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "615 Battleground Dr, Iuka, MS 38852, USA",
+      "street": "615 Battleground Drive",
+      "zip": "38852",
+      "coordinates": {
+        "lat": 34.80837,
+        "lng": -88.199414
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-iuka/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16642",
+      "title": "America's Thrift Stores - Iuka",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "615 Battleground Dr, Iuka, MS 38852, USA",
+      "street": "615 Battleground Drive",
+      "zip": "38852",
+      "coordinates": {
+        "lat": 34.80837,
+        "lng": -88.199414
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-iuka-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16671",
+      "title": "America's Thrift Stores - Kiln",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "17046 MS-603, Kiln, MS 39556, USA",
+      "street": "17046 MS 43;MS 603",
+      "zip": "39556",
+      "coordinates": {
+        "lat": 30.411445,
+        "lng": -89.434646
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-kiln/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16672",
+      "title": "America's Thrift Stores - Kiln",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "17048 MS-603, Kiln, MS 39556, USA",
+      "street": "17048 MS 43;MS 603",
+      "zip": "39556",
+      "coordinates": {
+        "lat": 30.411452,
+        "lng": -89.434644
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-kiln-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16673",
+      "title": "America's Thrift Stores - Kiln",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "18593 MS-43, Kiln, MS 39556, USA",
+      "street": "18593 MS 43",
+      "zip": "39556",
+      "coordinates": {
+        "lat": 30.428811,
+        "lng": -89.443138
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-kiln-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16674",
+      "title": "America's Thrift Stores - Kiln",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "18601 MS-43, Kiln, MS 39556, USA",
+      "street": "MS 43;MS 603",
+      "zip": "39556",
+      "coordinates": {
+        "lat": 30.428811,
+        "lng": -89.443138
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-kiln-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16731",
+      "title": "America's Thrift Stores - Long Beach",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "18953 Commission Rd, Long Beach, MS 39560, USA",
+      "street": "Commission Road",
+      "zip": "39560",
+      "coordinates": {
+        "lat": 30.369123,
+        "lng": -89.153338
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-long-beach/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16732",
+      "title": "America's Thrift Stores - Long Beach",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "19192 Commission Rd, Long Beach, MS 39560, USA",
+      "street": "19192 Commission Road",
+      "zip": "39560",
+      "coordinates": {
+        "lat": 30.369471,
+        "lng": -89.169036
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-long-beach-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16733",
+      "title": "America's Thrift Stores - Long Beach",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "5112 Beatline Rd, Long Beach, MS 39560, USA",
+      "street": "5112 Beatline Road",
+      "zip": "39560",
+      "coordinates": {
+        "lat": 30.362157,
+        "lng": -89.187037
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-long-beach-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16739",
+      "title": "America's Thrift Stores - Lucedale",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "MS-63, Mississippi, USA",
+      "street": "MS 63",
+      "zip": "39452",
+      "coordinates": {
+        "lat": 30.925149,
+        "lng": -88.627989
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-lucedale/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16867",
+      "title": "America's Thrift Stores - New Albany",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "New Albany, MS 38652, USA",
+      "street": "",
+      "zip": "38652",
+      "coordinates": {
+        "lat": 34.494268,
+        "lng": -89.007842
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-new-albany/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16894",
+      "title": "America's Thrift Stores - Ocean Springs",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "3009 Pabst Rd, Ocean Springs, MS 39564, USA",
+      "street": "3009 Pabst Road",
+      "zip": "39564",
+      "coordinates": {
+        "lat": 30.409718,
+        "lng": -88.777112
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-ocean-springs/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16895",
+      "title": "America's Thrift Stores - Ocean Springs",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "3011 Pabst Rd, Ocean Springs, MS 39564, USA",
+      "street": "3011 Pabst Road",
+      "zip": "39564",
+      "coordinates": {
+        "lat": 30.409693,
+        "lng": -88.776955
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-ocean-springs-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16896",
+      "title": "America's Thrift Stores - Ocean Springs",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "3176 Bienville Blvd, Ocean Springs, MS 39564, USA",
+      "street": "3176 Bienville Boulevard",
+      "zip": "39564",
+      "coordinates": {
+        "lat": 30.410806,
+        "lng": -88.781664
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-ocean-springs-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16897",
+      "title": "America's Thrift Stores - Ocean Springs",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "6391 Campbell Rd, Ocean Springs, MS 39564, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 30.433753,
+        "lng": -88.71448
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-ocean-springs-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16898",
+      "title": "America's Thrift Stores - Ocean Springs",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "6436 MS-57, Ocean Springs, MS 39564, USA",
+      "street": "Mississippi Highway 57",
+      "zip": "39564",
+      "coordinates": {
+        "lat": 30.434349,
+        "lng": -88.714715
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-ocean-springs-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16906",
+      "title": "America's Thrift Stores - Okolona",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "416 N Church St, Okolona, MS 38860, USA",
+      "street": "416 North Church Street",
+      "zip": "38860",
+      "coordinates": {
+        "lat": 34.011423,
+        "lng": -88.755033
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-okolona/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16907",
+      "title": "America's Thrift Stores - Okolona",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "499 N Church St, Okolona, MS 38860, USA",
+      "street": "499 North Church Street",
+      "zip": "38860",
+      "coordinates": {
+        "lat": 34.013213,
+        "lng": -88.756217
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-okolona-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16908",
+      "title": "America's Thrift Stores - Okolona",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "499 S Church St, Okolona, MS 38860, USA",
+      "street": "499 South Church Street",
+      "zip": "38860",
+      "coordinates": {
+        "lat": 33.993745,
+        "lng": -88.755906
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-okolona-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16929",
+      "title": "America's Thrift Stores - Pascagoula",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Pascagoula",
+      "address": "1830 E St, Pascagoula, MS 39567, USA",
+      "street": "1830 E Street",
+      "zip": "39567",
+      "coordinates": {
+        "lat": 30.354832,
+        "lng": -88.545428
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-pascagoula/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16952",
+      "title": "America's Thrift Stores - Perkinston",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1025 Ridge Rd, Perkinston, MS 39573, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 30.714999,
+        "lng": -89.320759
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-perkinston/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16961",
+      "title": "America's Thrift Stores - Picayune",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1552 Palestine Rd, Picayune, MS 39466, USA",
+      "street": "1552 Palestine Road",
+      "zip": "39466",
+      "coordinates": {
+        "lat": 30.526848,
+        "lng": -89.698018
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-picayune/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16962",
+      "title": "America's Thrift Stores - Picayune",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "18 Stafford Rd, Picayune, MS 39466, USA",
+      "street": "18 Stafford Road",
+      "zip": "39466",
+      "coordinates": {
+        "lat": 30.517862,
+        "lng": -89.650132
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-picayune-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16972",
+      "title": "America's Thrift Stores - Poplarville",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "360 MS-26, Poplarville, MS 39470, USA",
+      "street": "360 MS 26",
+      "zip": "39470",
+      "coordinates": {
+        "lat": 30.843924,
+        "lng": -89.511269
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-poplarville/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17044",
+      "title": "America's Thrift Stores - Saucier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "17067 W Wortham Rd, Saucier, MS 39574, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 30.555124,
+        "lng": -89.122668
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-saucier/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17045",
+      "title": "America's Thrift Stores - Saucier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "20384 US 49, Saucier, MS 39574, USA",
+      "street": "US 49",
+      "zip": "39574",
+      "coordinates": {
+        "lat": 30.584747,
+        "lng": -89.126562
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-saucier-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17046",
+      "title": "America's Thrift Stores - Saucier",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "23481 Central Dr, Saucier, MS 39574, USA",
+      "street": "23481 Central Drive",
+      "zip": "39574",
+      "coordinates": {
+        "lat": 30.63001,
+        "lng": -89.132747
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-saucier-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17114",
+      "title": "America's Thrift Stores - Tishomingo",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1480 MS-25, Tishomingo, MS 38873, USA",
+      "street": "1480 MS 25",
+      "zip": "38873",
+      "coordinates": {
+        "lat": 34.665279,
+        "lng": -88.226072
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-tishomingo-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17159",
+      "title": "America's Thrift Stores - Vancleave",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "13815 Jericho Rd, Vancleave, MS 39565, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 30.546634,
+        "lng": -88.714234
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-vancleave/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17190",
+      "title": "America's Thrift Stores - Wiggins",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1793 S Azalea Dr, Wiggins, MS 39577, USA",
+      "street": "1793 South Azalea Drive",
+      "zip": "39577",
+      "coordinates": {
+        "lat": 30.829487,
+        "lng": -89.136404
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/americas-thrift-stores-wiggins/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "19720",
+      "title": "Goodwill - Brandon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "1923 Spillway Rd, Brandon, MS 39047, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 32.379059,
+        "lng": -90.033009
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-brandon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19911",
+      "title": "Goodwill - Clinton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Jackson",
+      "address": "941 US-80, Clinton, MS 39056, USA",
+      "street": "941 US 80",
+      "zip": "39056",
+      "coordinates": {
+        "lat": 32.32996,
+        "lng": -90.304792
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-clinton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20344",
+      "title": "Goodwill - Hattiesburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Hattiesburg",
+      "address": "5916 US 49, Hattiesburg, MS 39401, USA",
+      "street": "5916 US 49",
+      "zip": "39401",
+      "coordinates": {
+        "lat": 31.311847,
+        "lng": -89.320138
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-hattiesburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20504",
+      "title": "Goodwill - Jackson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "2 Twelve Oak Cir, Jackson, MS 39209, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 32.299765,
+        "lng": -90.260611
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-jackson-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20505",
+      "title": "Goodwill - Jackson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Jackson",
+      "address": "4950 I-55, Jackson, MS 39211, USA",
+      "street": "I 55",
+      "zip": "39211",
+      "coordinates": {
+        "lat": 32.364857,
+        "lng": -90.147846
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-jackson-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21224",
+      "title": "Goodwill - Pearl",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "5708 US-80, Pearl, MS 39208, USA",
+      "street": "US 80",
+      "zip": "39208",
+      "coordinates": {
+        "lat": 32.284622,
+        "lng": -90.042404
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-pearl/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21359",
+      "title": "Goodwill - Ridgeland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "637 US-51, Ridgeland, MS 39157, USA",
+      "street": "637 United States Highway 51",
+      "zip": "39157",
+      "coordinates": {
+        "lat": 32.436222,
+        "lng": -90.125663
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-ridgeland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21360",
+      "title": "Goodwill - Ridgeland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Mississippi",
+      "stateSlug": "mississippi",
+      "city": "Unknown",
+      "address": "863 Centre St, Ridgeland, MS 39157, USA",
+      "street": "863 Centre Street",
+      "zip": "39157",
+      "coordinates": {
+        "lat": 32.401743,
+        "lng": -90.137469
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/mississippi/goodwill-ridgeland-2/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

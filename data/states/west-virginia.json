@@ -1,0 +1,563 @@
+{
+  "name": "West Virginia",
+  "slug": "west-virginia",
+  "locations": [
+    {
+      "id": "17693",
+      "title": "Salvation Army - Beckley",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Beckley",
+      "address": "600 S Fayette St, Beckley, WV 25801, USA",
+      "street": "600 South Fayette Street",
+      "zip": "25801",
+      "coordinates": {
+        "lat": 37.771505,
+        "lng": -81.185752
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/salvation-army-beckley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17807",
+      "title": "Salvation Army - Charleston",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Charleston",
+      "address": "207 Wyoming St, Charleston, WV 25302, USA",
+      "street": "207 Wyoming Street",
+      "zip": "25302",
+      "coordinates": {
+        "lat": 38.35985,
+        "lng": -81.644883
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/salvation-army-charleston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17922",
+      "title": "Salvation Army - Charleston",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "911 Cross Lanes Dr, Cross Lanes, WV 25313, USA",
+      "street": "Cross Lanes Drive",
+      "zip": "25143",
+      "coordinates": {
+        "lat": 38.421546,
+        "lng": -81.794329
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/salvation-army-charleston-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18102",
+      "title": "Salvation Army - Grafton",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "501 Blueville Dr, Grafton, WV 26354, USA",
+      "street": "501 Blueville Drive",
+      "zip": "26354",
+      "coordinates": {
+        "lat": 39.344501,
+        "lng": -79.997833
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/salvation-army-grafton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18628",
+      "title": "Salvation Army - Princeton",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "818 Mercer St, Princeton, WV 24740, USA",
+      "street": "818 Mercer Street",
+      "zip": "24740",
+      "coordinates": {
+        "lat": 37.369907,
+        "lng": -81.093617
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/salvation-army-princeton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19634",
+      "title": "Goodwill - Beckley",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Beckley",
+      "address": "112 Appalachian Dr, Beckley, WV 25801, USA",
+      "street": "112 Appalachian Drive",
+      "zip": "25801",
+      "coordinates": {
+        "lat": 37.816715,
+        "lng": -81.184616
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-beckley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19730",
+      "title": "Goodwill - Bridgeport",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "1210 W Main St, Bridgeport, WV 26330, USA",
+      "street": "1210 West Main Street",
+      "zip": "26330",
+      "coordinates": {
+        "lat": 39.282158,
+        "lng": -80.275228
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-bridgeport-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19752",
+      "title": "Goodwill - Buckhannon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "15 S Spring St, Buckhannon, WV 26201, USA",
+      "street": "South Spring Street",
+      "zip": "26201",
+      "coordinates": {
+        "lat": 38.99252,
+        "lng": -80.22943
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-buckhannon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19839",
+      "title": "Goodwill - Charleston",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Charleston",
+      "address": "209 Virginia St W, Charleston, WV 25302, USA",
+      "street": "209 Virginia Street West",
+      "zip": "25302",
+      "coordinates": {
+        "lat": 38.358475,
+        "lng": -81.647087
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-charleston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19840",
+      "title": "Goodwill - Kanawha City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Charleston",
+      "address": "7200 MacCorkle Ave, Charleston, WV 25304, USA",
+      "street": "7200 Maccorkle Avenue Southeast",
+      "zip": "25304",
+      "coordinates": {
+        "lat": 38.26209,
+        "lng": -81.573991
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-kanawha-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20114",
+      "title": "Goodwill - Elkins",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "70 Stone Mountain Ln, Elkins, WV 26241, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.896159,
+        "lng": -79.843664
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-elkins/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20116",
+      "title": "Goodwill - Elkview",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "203 Crossings Mall Rd, Elkview, WV 25071, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.45854,
+        "lng": -81.499932
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-elkview/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20160",
+      "title": "Goodwill - Oak Hill",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "9003 Fayette Landing, Fayetteville, WV 25840, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.012032,
+        "lng": -81.12767
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-oak-hill/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20666",
+      "title": "Goodwill - Lewisburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "316 Seneca Trail, Lewisburg, WV 24901, USA",
+      "street": "Seneca Trail",
+      "zip": "24901",
+      "coordinates": {
+        "lat": 37.76701,
+        "lng": -80.466214
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-lewisburg-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20753",
+      "title": "Goodwill - Madison",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "198 State St, Madison, WV 25130, USA",
+      "street": "State Street",
+      "zip": "25130",
+      "coordinates": {
+        "lat": 38.067016,
+        "lng": -81.819063
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-madison-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20961",
+      "title": "Goodwill - Morgantown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "1954 Hunters Way, Morgantown, WV 26505, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.617602,
+        "lng": -79.92373
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-morgantown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21074",
+      "title": "Goodwill - Cross Lanes",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "210 Nitro Market Pl, Nitro, WV 25143, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.410806,
+        "lng": -81.808491
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-cross-lanes/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21362",
+      "title": "Goodwill - Ripley",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "122 McGraw St, Ripley, WV 25271, USA",
+      "street": "McGraw Street",
+      "zip": "25271",
+      "coordinates": {
+        "lat": 38.819343,
+        "lng": -81.722844
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-ripley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21455",
+      "title": "Goodwill - Scott Depot",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "33 Corporate Center Dr, Scott Depot, WV 25560, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.457007,
+        "lng": -81.929729
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-scott-depot/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21599",
+      "title": "Goodwill - Summersville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "221 Merchant Walk, Summersville, WV 26651, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.29906,
+        "lng": -80.835026
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-summersville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21663",
+      "title": "Goodwill - Vienna",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "1500 Grand Central Ave #122, Vienna, WV 26105, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.314023,
+        "lng": -81.551844
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-vienna/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21746",
+      "title": "Goodwill - Morgantown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "727 Fairmont Rd, Westover, WV 26501, USA",
+      "street": "727 Fairmont Road",
+      "zip": "26501",
+      "coordinates": {
+        "lat": 39.632451,
+        "lng": -79.978036
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-morgantown-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21751",
+      "title": "Goodwill - Whitehall",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "West Virginia",
+      "stateSlug": "west-virginia",
+      "city": "Unknown",
+      "address": "50 Southland Dr, White Hall, WV 26554, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.43263,
+        "lng": -80.182254
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/west-virginia/goodwill-whitehall/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

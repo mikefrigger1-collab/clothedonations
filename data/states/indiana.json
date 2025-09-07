@@ -1,0 +1,3595 @@
+{
+  "name": "Indiana",
+  "slug": "indiana",
+  "locations": [
+    {
+      "id": "17650",
+      "title": "Salvation Army - Auburn",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1006 W 7th St, Auburn, IN 46706, USA",
+      "street": "1006 West 7th Street",
+      "zip": "46706",
+      "coordinates": {
+        "lat": 41.368016,
+        "lng": -85.072412
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-auburn/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17694",
+      "title": "Salvation Army - Bedford",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1721 28th St, Bedford, IN 47421, USA",
+      "street": "1721 28th Street",
+      "zip": "47421",
+      "coordinates": {
+        "lat": 38.847983,
+        "lng": -86.495983
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-bedford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17717",
+      "title": "Salvation Army - Bloomington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Bloomington",
+      "address": "111 N Rogers St, Bloomington, IN 47404, USA",
+      "street": "111 North Rogers Street",
+      "zip": "47404",
+      "coordinates": {
+        "lat": 39.16694,
+        "lng": -86.538979
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-bloomington-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17718",
+      "title": "Salvation Army - Bloomington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Bloomington",
+      "address": "115 N Rogers St, Bloomington, IN 47404, USA",
+      "street": "115 North Rogers Street",
+      "zip": "47404",
+      "coordinates": {
+        "lat": 39.167365,
+        "lng": -86.539002
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-bloomington-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17893",
+      "title": "Salvation Army - Columbia City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "120 W Walker Way, Columbia City, IN 46725, USA",
+      "street": "Walker Way",
+      "zip": "46725",
+      "coordinates": {
+        "lat": 41.16824,
+        "lng": -85.487061
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-columbia-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17894",
+      "title": "Salvation Army - Columbia City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "950 E Van Buren St, Columbia City, IN 46725, USA",
+      "street": "950 East Van Buren Street",
+      "zip": "46725",
+      "coordinates": {
+        "lat": 41.157227,
+        "lng": -85.473249
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-columbia-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17955",
+      "title": "Salvation Army - Decatur",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "421 N 13th St, Decatur, IN 46733, USA",
+      "street": "421 North 13th Street",
+      "zip": "46733",
+      "coordinates": {
+        "lat": 40.833656,
+        "lng": -84.939074
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-decatur-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18037",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "102 E Pettit Ave, Fort Wayne, IN 46806, USA",
+      "street": "102 East Pettit Avenue",
+      "zip": "46806",
+      "coordinates": {
+        "lat": 41.037344,
+        "lng": -85.136024
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18038",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "1021 Fairfield Ave, Fort Wayne, IN 46802, USA",
+      "street": "1021 Fairfield Avenue",
+      "zip": "46802",
+      "coordinates": {
+        "lat": 41.075994,
+        "lng": -85.145083
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18039",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "1309 N Coliseum Blvd, Fort Wayne, IN 46805, USA",
+      "street": "1309 North Coliseum Boulevard",
+      "zip": "46805",
+      "coordinates": {
+        "lat": 41.088958,
+        "lng": -85.088718
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18040",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "131 W Tillman Rd, Fort Wayne, IN 46807, USA",
+      "street": "131 West Tillman Road",
+      "zip": "46807",
+      "coordinates": {
+        "lat": 41.016875,
+        "lng": -85.136691
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18041",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "1400 W Washington Center Rd, Fort Wayne, IN 46825, USA",
+      "street": "1400 West Washington Center Road",
+      "zip": "46825",
+      "coordinates": {
+        "lat": 41.134326,
+        "lng": -85.157962
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18042",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "1818 Bluffton Rd, Fort Wayne, IN 46809, USA",
+      "street": "1818 Bluffton Road",
+      "zip": "46809",
+      "coordinates": {
+        "lat": 41.051579,
+        "lng": -85.161493
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18043",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "2615 Abbey Dr, Fort Wayne, IN 46835, USA",
+      "street": "2615 Abbey Drive",
+      "zip": "46835",
+      "coordinates": {
+        "lat": 41.122982,
+        "lng": -85.106001
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18044",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "2754 E Paulding Rd, Fort Wayne, IN 46816, USA",
+      "street": "2754 East Paulding Road",
+      "zip": "46816",
+      "coordinates": {
+        "lat": 41.031571,
+        "lng": -85.101572
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18045",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "2901 N Clinton St, Fort Wayne, IN 46805, USA",
+      "street": "2901 North Clinton Street",
+      "zip": "46805",
+      "coordinates": {
+        "lat": 41.102342,
+        "lng": -85.138756
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18046",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "3010 Simcoe Dr, Fort Wayne, IN 46815, USA",
+      "street": "3010 Simcoe Drive",
+      "zip": "46815",
+      "coordinates": {
+        "lat": 41.104214,
+        "lng": -85.055331
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18047",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "3710 E Paulding Rd, Fort Wayne, IN 46816, USA",
+      "street": "3710 East Paulding Road",
+      "zip": "46816",
+      "coordinates": {
+        "lat": 41.032367,
+        "lng": -85.089945
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18048",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "4900 Stellhorn Rd, Fort Wayne, IN 46815, USA",
+      "street": "4900 Stellhorn Road",
+      "zip": "46815",
+      "coordinates": {
+        "lat": 41.119272,
+        "lng": -85.078943
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18049",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "5700 Homestead Rd, Fort Wayne, IN 46814, USA",
+      "street": "5700 Homestead Road",
+      "zip": "46814",
+      "coordinates": {
+        "lat": 41.030995,
+        "lng": -85.284978
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18050",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "5710 River Run Trail, Fort Wayne, IN 46825, USA",
+      "street": "5710 River Run Trail",
+      "zip": "46825",
+      "coordinates": {
+        "lat": 41.132045,
+        "lng": -85.112075
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18051",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "5911 N Clinton St, Fort Wayne, IN 46825, USA",
+      "street": "5911 North Clinton Street",
+      "zip": "46825",
+      "coordinates": {
+        "lat": 41.133538,
+        "lng": -85.122044
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18052",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "6031 Lima Rd, Fort Wayne, IN 46818, USA",
+      "street": "6031 Lima Road",
+      "zip": "46818",
+      "coordinates": {
+        "lat": 41.134388,
+        "lng": -85.16179
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-16/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18053",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "710 E Dupont Rd, Fort Wayne, IN 46825, USA",
+      "street": "East Dupont Road",
+      "zip": "46825",
+      "coordinates": {
+        "lat": 41.176946,
+        "lng": -85.132256
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-17/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18054",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "8405 Lima Rd, Fort Wayne, IN 46818, USA",
+      "street": "8405 Lima Road",
+      "zip": "46818",
+      "coordinates": {
+        "lat": 41.156998,
+        "lng": -85.167864
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-18/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18055",
+      "title": "Salvation Army - Fort Wayne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "999 E Tillman Rd, Fort Wayne, IN 46816, USA",
+      "street": "999 East Tillman Road",
+      "zip": "46816",
+      "coordinates": {
+        "lat": 41.018217,
+        "lng": -85.122445
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-fort-wayne-19/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18060",
+      "title": "Salvation Army - Frankfort",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "300 W Washington St, Frankfort, IN 46041, USA",
+      "street": "300 West Washington Street",
+      "zip": "46041",
+      "coordinates": {
+        "lat": 40.281855,
+        "lng": -86.514616
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-frankfort/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18115",
+      "title": "Salvation Army - Greenwood",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1285 N State Rd 135, Greenwood, IN 46142, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.634471,
+        "lng": -86.156973
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-greenwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18195",
+      "title": "Salvation Army - Huntington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1424 E Market St, Huntington, IN 46750, USA",
+      "street": "1424 East Market Street",
+      "zip": "46750",
+      "coordinates": {
+        "lat": 40.886682,
+        "lng": -85.480176
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-huntington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18200",
+      "title": "Salvation Army - Indianapolis",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "1357 W 86th St, Indianapolis, IN 46260, USA",
+      "street": "1357 West 86th Street",
+      "zip": "46260",
+      "coordinates": {
+        "lat": 39.910329,
+        "lng": -86.182566
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-indianapolis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18201",
+      "title": "Salvation Army - Indianapolis",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "725 E Washington St, Indianapolis, IN 46202, USA",
+      "street": "725 East Washington Street",
+      "zip": "46202",
+      "coordinates": {
+        "lat": 39.766139,
+        "lng": -86.144732
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-indianapolis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18202",
+      "title": "Salvation Army - Indianapolis",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "8310 E Washington St, Indianapolis, IN 46219, USA",
+      "street": "8310 East Washington Street",
+      "zip": "46219",
+      "coordinates": {
+        "lat": 39.773778,
+        "lng": -86.020568
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-indianapolis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18247",
+      "title": "Salvation Army - Lafayette",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Lafayette",
+      "address": "2121 Sagamore Pkwy S, Lafayette, IN 47905, USA",
+      "street": "2121 Sagamore Parkway South",
+      "zip": "47905",
+      "coordinates": {
+        "lat": 40.396082,
+        "lng": -86.853873
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-lafayette/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18471",
+      "title": "Salvation Army - Noblesville",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Noblesville",
+      "address": "585 Noble Creek Dr, Noblesville, IN 46060, USA",
+      "street": "585 Noble Creek Drive",
+      "zip": "46060",
+      "coordinates": {
+        "lat": 40.03984,
+        "lng": -85.998004
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-noblesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18669",
+      "title": "Salvation Army - Roanoke",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "8976 US-24, Roanoke, IN 46783, USA",
+      "street": "8976 US 24",
+      "zip": "46783",
+      "coordinates": {
+        "lat": 40.960297,
+        "lng": -85.371449
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-roanoke/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18931",
+      "title": "Salvation Army - Wabash",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1435 Cass St, Wabash, IN 46992, USA",
+      "street": "1435 Cass Street",
+      "zip": "46992",
+      "coordinates": {
+        "lat": 40.817622,
+        "lng": -85.836922
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/salvation-army-wabash/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19474",
+      "title": "Goodwill - Anderson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "4909 S Scatterfield Rd, Anderson, IN 46013, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.065318,
+        "lng": -85.653361
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-anderson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19478",
+      "title": "Goodwill - Steuben",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1651 N Wayne St, Angola, IN 46703, USA",
+      "street": "1651 North Old US Highway 27",
+      "zip": "46703",
+      "coordinates": {
+        "lat": 41.654499,
+        "lng": -85.001376
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-steuben/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19534",
+      "title": "Goodwill - DeKalb",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1003 W 7th St, Auburn, IN 46706, USA",
+      "street": "1003 West 7th Street",
+      "zip": "46706",
+      "coordinates": {
+        "lat": 41.366237,
+        "lng": -85.072818
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-dekalb/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19589",
+      "title": "Goodwill - Avon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "193 Avon Village Pkwy, Avon, IN 46123, USA",
+      "street": "Avon Village Parkway",
+      "zip": "46123",
+      "coordinates": {
+        "lat": 39.766107,
+        "lng": -86.356923
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-avon-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19590",
+      "title": "Wheeler Mission - Avon",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "6121 E County Rd 100 S, Avon, IN 46123, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.747377,
+        "lng": -86.416595
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-avon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19635",
+      "title": "Goodwill - Bedford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1221 James Ave, Bedford, IN 47421, USA",
+      "street": "1221 James Avenue",
+      "zip": "47421",
+      "coordinates": {
+        "lat": 38.864595,
+        "lng": -86.519668
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-bedford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19685",
+      "title": "Goodwill - Bloomington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1284 Liberty Dr, Bloomington, IN 47401, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.157314,
+        "lng": -86.576742
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-bloomington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19686",
+      "title": "Goodwill - Bloomington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Bloomington",
+      "address": "512 S College Mall Rd, Bloomington, IN 47401, USA",
+      "street": "512 South College Mall Road",
+      "zip": "47401",
+      "coordinates": {
+        "lat": 39.161504,
+        "lng": -86.498944
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-bloomington-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19746",
+      "title": "Goodwill - Brownsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "11 E Garner Rd, Brownsburg, IN 46112, USA",
+      "street": "East Garner Road",
+      "zip": "46112",
+      "coordinates": {
+        "lat": 39.864837,
+        "lng": -86.391272
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-brownsburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19775",
+      "title": "Goodwill - Camby",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "10333 Prosperity Cir, Camby, IN 46113, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.636469,
+        "lng": -86.339023
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-camby/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19800",
+      "title": "Goodwill - Carmel",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Carmel",
+      "address": "10491 Walnut Creek Dr, Carmel, IN 46032, USA",
+      "street": "10491 Walnut Creek Drive",
+      "zip": "46032",
+      "coordinates": {
+        "lat": 39.938508,
+        "lng": -86.233714
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-carmel/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19801",
+      "title": "Goodwill - Carmel",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1122 Keystone Way S, Carmel, IN 46032, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.961039,
+        "lng": -86.115764
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-carmel-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19802",
+      "title": "Goodwill - Carmel",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Carmel",
+      "address": "15050 Greyhound Ct, Carmel, IN 46032, USA",
+      "street": "15050 Greyhound Court",
+      "zip": "46032",
+      "coordinates": {
+        "lat": 40.006778,
+        "lng": -86.129574
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-carmel-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19803",
+      "title": "Wheeler Mission - Carmel",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Carmel",
+      "address": "1242 W 136th St, Carmel, IN 46032, USA",
+      "street": "1242 West 136th Street",
+      "zip": "46032",
+      "coordinates": {
+        "lat": 39.985907,
+        "lng": -86.151099
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-carmel/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19804",
+      "title": "Wheeler Mission - Carmel",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Carmel",
+      "address": "14501 Hazel Dell Pkwy, Carmel, IN 46033, USA",
+      "street": "14501 Hazel Dell Parkway",
+      "zip": "46033",
+      "coordinates": {
+        "lat": 39.997438,
+        "lng": -86.067616
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-carmel-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19898",
+      "title": "Goodwill - Clarksville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1319 Applegate Ln, Clarksville, IN 47129, USA",
+      "street": "1319 Applegate Lane",
+      "zip": "47129",
+      "coordinates": {
+        "lat": 38.312036,
+        "lng": -85.760679
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-clarksville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19934",
+      "title": "Goodwill - Columbus",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Columbus",
+      "address": "55 Carr Hill Rd, Columbus, IN 47201, USA",
+      "street": "55 Carr Hill Road",
+      "zip": "47201",
+      "coordinates": {
+        "lat": 39.198364,
+        "lng": -85.94746
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-columbus/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19935",
+      "title": "Goodwill - Columbus",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Columbus",
+      "address": "980 Creekview Dr, Columbus, IN 47201, USA",
+      "street": "980 Creekview Drive",
+      "zip": "47201",
+      "coordinates": {
+        "lat": 39.208153,
+        "lng": -85.884201
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-columbus-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19951",
+      "title": "Goodwill - Connersville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "4000 Western Ave, Connersville, IN 47331, USA",
+      "street": "4000 Western Avenue",
+      "zip": "47331",
+      "coordinates": {
+        "lat": 39.681947,
+        "lng": -85.136835
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-connersville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19986",
+      "title": "Goodwill - Corydon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "2400 Landmark Ave NE, Corydon, IN 47112, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.236169,
+        "lng": -86.126158
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-corydon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19995",
+      "title": "Goodwill - Crawfordsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1528 Bush Ln, Crawfordsville, IN 47933, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.020371,
+        "lng": -86.902533
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-crawfordsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20165",
+      "title": "Goodwill - Fishers",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "11561 Geist Pavilion Dr, Fishers, IN 46037, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.956724,
+        "lng": -85.91584
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fishers/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20166",
+      "title": "Goodwill - Fishers",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fishers",
+      "address": "12727 Parkside Dr, Fishers, IN 46038, USA",
+      "street": "12727 Parkside Drive",
+      "zip": "46038",
+      "coordinates": {
+        "lat": 39.973002,
+        "lng": -86.001553
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fishers-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20167",
+      "title": "Goodwill - Fishers",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fishers",
+      "address": "7440 Fishers Station Dr, Fishers, IN 46038, USA",
+      "street": "7440 Fishers Station Drive",
+      "zip": "46038",
+      "coordinates": {
+        "lat": 39.958686,
+        "lng": -86.037265
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fishers-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20168",
+      "title": "Wheeler Mission - Fishers",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fishers",
+      "address": "10293 E 126th St, Fishers, IN 46038, USA",
+      "street": "10293 East 126th Street",
+      "zip": "46038",
+      "coordinates": {
+        "lat": 39.970618,
+        "lng": -85.983528
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-fishers/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20175",
+      "title": "Goodwill - Ste. A Floyds Knobs",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "4646 Duffy Rd A, Floyds Knobs, IN 47119, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.312687,
+        "lng": -85.898323
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-ste-a-floyds-knobs/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20190",
+      "title": "Goodwill - Fort Wayne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "10540 Maysville Rd, Fort Wayne, IN 46815, USA",
+      "street": "10540 Maysville Road",
+      "zip": "46835",
+      "coordinates": {
+        "lat": 41.130102,
+        "lng": -85.00579
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fort-wayne/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20191",
+      "title": "Goodwill - Fort Wayne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "3101 E State Blvd, Fort Wayne, IN 46805, USA",
+      "street": "3101 East State Boulevard",
+      "zip": "46805",
+      "coordinates": {
+        "lat": 41.097923,
+        "lng": -85.100153
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fort-wayne-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20192",
+      "title": "Goodwill - Fort Wayne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "3127 Brooklyn Ave, Fort Wayne, IN 46809, USA",
+      "street": "3127 Brooklyn Avenue",
+      "zip": "46809",
+      "coordinates": {
+        "lat": 41.056135,
+        "lng": -85.164347
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fort-wayne-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20193",
+      "title": "Goodwill - Fort Wayne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "4122 Lima Rd, Fort Wayne, IN 46805, USA",
+      "street": "4122 Lima Road",
+      "zip": "46805",
+      "coordinates": {
+        "lat": 41.116514,
+        "lng": -85.144199
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fort-wayne-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20194",
+      "title": "Goodwill - Fort Wayne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "525 E Dupont Rd, Fort Wayne, IN 46845, USA",
+      "street": "East Dupont Road",
+      "zip": "46845",
+      "coordinates": {
+        "lat": 41.179476,
+        "lng": -85.134607
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fort-wayne-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20195",
+      "title": "Goodwill - Fort Wayne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Fort Wayne",
+      "address": "6256 W Jefferson Blvd, Fort Wayne, IN 46804, USA",
+      "street": "6256 West Jefferson Boulevard",
+      "zip": "46804",
+      "coordinates": {
+        "lat": 41.058908,
+        "lng": -85.2218
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-fort-wayne-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20203",
+      "title": "Goodwill - Frankfort",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1911 E Wabash St, Frankfort, IN 46041, USA",
+      "street": "1911 East Wabash Street",
+      "zip": "46041",
+      "coordinates": {
+        "lat": 40.277907,
+        "lng": -86.490731
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-frankfort-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20206",
+      "title": "Goodwill - Franklin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1530 N Morton St, Franklin, IN 46131, USA",
+      "street": "1530 North Morton Street",
+      "zip": "46131",
+      "coordinates": {
+        "lat": 39.491462,
+        "lng": -86.065181
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-franklin-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20282",
+      "title": "Goodwill - Greenfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1772 Muskegon Ln, Greenfield, IN 46140, USA",
+      "street": "1772 Muskegon Lane",
+      "zip": "46140",
+      "coordinates": {
+        "lat": 39.809312,
+        "lng": -85.772191
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-greenfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20283",
+      "title": "Goodwill - Greensburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "480 Greensburg Commons Shopping Center, Greensburg, IN 47240, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.361165,
+        "lng": -85.475942
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-greensburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20298",
+      "title": "Goodwill - Greenwood",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Greenwood",
+      "address": "709 U.S. Hwy 31 N, Greenwood, IN 46142, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.627793,
+        "lng": -86.120576
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-greenwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20299",
+      "title": "Goodwill - Greenwood",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Greenwood",
+      "address": "989 N Emerson Ave, Greenwood, IN 46143, USA",
+      "street": "989 North Emerson Avenue",
+      "zip": "46143",
+      "coordinates": {
+        "lat": 39.63172,
+        "lng": -86.082561
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-greenwood-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20300",
+      "title": "Goodwill - Greenwood",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Greenwood",
+      "address": "W Stones Crossing Rd, Greenwood, IN 46143, USA",
+      "street": "West Stones Crossing Road",
+      "zip": "46143",
+      "coordinates": {
+        "lat": 39.579568,
+        "lng": -86.147335
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-greenwood-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20467",
+      "title": "Goodwill - Huntington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1966 N Jefferson St, Huntington, IN 46750, USA",
+      "street": "1966 North Jefferson Street",
+      "zip": "46750",
+      "coordinates": {
+        "lat": 40.892025,
+        "lng": -85.507026
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-huntington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20476",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "10499 E Washington St, Indianapolis, IN 46229, USA",
+      "street": "10499 East Washington Street",
+      "zip": "46229",
+      "coordinates": {
+        "lat": 39.774768,
+        "lng": -85.980497
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20477",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "1260 Shelby St, Indianapolis, IN 46203, USA",
+      "street": "1260 Shelby Street",
+      "zip": "46203",
+      "coordinates": {
+        "lat": 39.750124,
+        "lng": -86.140435
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20478",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "1520 E 86th St, Indianapolis, IN 46240, USA",
+      "street": "1520 East 86th Street",
+      "zip": "46240",
+      "coordinates": {
+        "lat": 39.913804,
+        "lng": -86.133635
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20479",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "2950 E 38th St, Indianapolis, IN 46218, USA",
+      "street": "East 38th Street",
+      "zip": "46218",
+      "coordinates": {
+        "lat": 39.825741,
+        "lng": -86.112267
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20480",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "4200 S East St, Indianapolis, IN 46227, USA",
+      "street": "4200 South East Street",
+      "zip": "46227",
+      "coordinates": {
+        "lat": 39.704006,
+        "lng": -86.151425
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20481",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "4420 Lafayette Rd, Indianapolis, IN 46254, USA",
+      "street": "4420 Lafayette Road",
+      "zip": "46254",
+      "coordinates": {
+        "lat": 39.835378,
+        "lng": -86.247219
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20482",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "5640 W Washington St, Indianapolis, IN 46241, USA",
+      "street": "5640 West Washington Street",
+      "zip": "46241",
+      "coordinates": {
+        "lat": 39.751184,
+        "lng": -86.256712
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20483",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "5720 Sunnyside Rd, Indianapolis, IN 46235, USA",
+      "street": "5720 Sunnyside Road",
+      "zip": "46235",
+      "coordinates": {
+        "lat": 39.85884,
+        "lng": -85.973654
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20484",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "6110 N Keystone Ave, Indianapolis, IN 46220, USA",
+      "street": "6110 North Keystone Avenue",
+      "zip": "46220",
+      "coordinates": {
+        "lat": 39.86612,
+        "lng": -86.124165
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20485",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "6302 E 82nd St, Indianapolis, IN 46250, USA",
+      "street": "6302 East 82nd Street",
+      "zip": "46250",
+      "coordinates": {
+        "lat": 39.908303,
+        "lng": -86.059413
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20486",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "6775 S Emerson Ave, Indianapolis, IN 46237, USA",
+      "street": "6775 South Emerson Avenue",
+      "zip": "46237",
+      "coordinates": {
+        "lat": 39.668639,
+        "lng": -86.080467
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20487",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "8011 S Meridian St, Indianapolis, IN 46217, USA",
+      "street": "8011 South Meridian Street",
+      "zip": "46217",
+      "coordinates": {
+        "lat": 39.651227,
+        "lng": -86.157132
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20488",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Carmel",
+      "address": "8450 N Michigan Rd, Indianapolis, IN 46268, USA",
+      "street": "North Michigan Road",
+      "zip": "46032",
+      "coordinates": {
+        "lat": 39.909749,
+        "lng": -86.223711
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20489",
+      "title": "Goodwill - Indianapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "9510 Corporation Dr, Indianapolis, IN 46256, USA",
+      "street": "9510 Corporation Drive",
+      "zip": "46256",
+      "coordinates": {
+        "lat": 39.925222,
+        "lng": -86.033607
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-indianapolis-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20490",
+      "title": "Wheeler Mission - Indianapolis",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "205 E New York St, Indianapolis, IN 46204, USA",
+      "street": "205 East New York Street",
+      "zip": "46204",
+      "coordinates": {
+        "lat": 39.771027,
+        "lng": -86.153913
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-indianapolis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20491",
+      "title": "Wheeler Mission - Indianapolis",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "47 Beachway Dr, Indianapolis, IN 46224, USA",
+      "street": "47 Beachway Drive",
+      "zip": "46224",
+      "coordinates": {
+        "lat": 39.766625,
+        "lng": -86.264266
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-indianapolis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20492",
+      "title": "Wheeler Mission - Indianapolis",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "7860 Lafayette Rd, Indianapolis, IN 46278, USA",
+      "street": "7860 Lafayette Road",
+      "zip": "46278",
+      "coordinates": {
+        "lat": 39.895157,
+        "lng": -86.303719
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-indianapolis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20493",
+      "title": "Wheeler Mission - Indianapolis",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "9111 Haverstick Rd, Indianapolis, IN 46240, USA",
+      "street": "9111 Haverstick Road",
+      "zip": "46240",
+      "coordinates": {
+        "lat": 39.920386,
+        "lng": -86.115693
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-indianapolis-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20517",
+      "title": "Goodwill - Jeffersonville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Jeffersonville",
+      "address": "2764 Jefferson Centre Way, Jeffersonville, IN 47130, USA",
+      "street": "Jefferson Centre Way",
+      "zip": "47130",
+      "coordinates": {
+        "lat": 38.325248,
+        "lng": -85.709422
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-jeffersonville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20583",
+      "title": "Goodwill - Kokomo",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Kokomo",
+      "address": "2222 W Sycamore St, Kokomo, IN 46901, USA",
+      "street": "2222 West Sycamore Street",
+      "zip": "46901",
+      "coordinates": {
+        "lat": 40.488412,
+        "lng": -86.161459
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-kokomo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20584",
+      "title": "Goodwill - Kokomo",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Kokomo",
+      "address": "2258 E Markland Ave, Kokomo, IN 46901, USA",
+      "street": "2258 East Markland Avenue",
+      "zip": "46901",
+      "coordinates": {
+        "lat": 40.477467,
+        "lng": -86.09994
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-kokomo-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20591",
+      "title": "Goodwill - Lafayette",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Lafayette",
+      "address": "101 Shenandoah Dr, Lafayette, IN 47905, USA",
+      "street": "101 Shenandoah Drive",
+      "zip": "47905",
+      "coordinates": {
+        "lat": 40.42011,
+        "lng": -86.845171
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-lafayette-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20592",
+      "title": "Goodwill - Lafayette",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Lafayette",
+      "address": "3229 Daugherty Dr, Lafayette, IN 47909, USA",
+      "street": "3229 Daugherty Drive",
+      "zip": "47909",
+      "coordinates": {
+        "lat": 40.368409,
+        "lng": -86.857715
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-lafayette-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20652",
+      "title": "Goodwill - Lebanon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "2480 N Lebanon St, Lebanon, IN 46052, USA",
+      "street": "2480 North Lebanon Street",
+      "zip": "46052",
+      "coordinates": {
+        "lat": 40.073964,
+        "lng": -86.476
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-lebanon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20752",
+      "title": "Goodwill - Unit A Madison",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "3200 English Sta, Madison, IN 47250, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.781944,
+        "lng": -85.374167
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-unit-a-madison/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20782",
+      "title": "Goodwill - Marion",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Marion",
+      "address": "3164 S Western Ave, Marion, IN 46953, USA",
+      "street": "3164 South Western Avenue",
+      "zip": "46953",
+      "coordinates": {
+        "lat": 40.532316,
+        "lng": -85.675351
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-marion/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20793",
+      "title": "Goodwill - Martinsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "75 Bill's Blvd, Martinsville, IN 46151, USA",
+      "street": "75 Bill's Boulevard",
+      "zip": "46151",
+      "coordinates": {
+        "lat": 39.407937,
+        "lng": -86.427153
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-martinsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20953",
+      "title": "Wheeler Mission - Zionsville",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "9090 E State Rd, Mooresville, IN 46158, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.563514,
+        "lng": -86.269925
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-zionsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20979",
+      "title": "Goodwill - Muncie",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Muncie",
+      "address": "1413 E 29th St, Muncie, IN 47302, USA",
+      "street": "1413 East 29th Street",
+      "zip": "47302",
+      "coordinates": {
+        "lat": 40.159646,
+        "lng": -85.37038
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-muncie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20980",
+      "title": "Goodwill - Muncie",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "5035 W, 5035 Hessler Rd, Muncie, IN 47304, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.218668,
+        "lng": -85.444811
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-muncie-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21027",
+      "title": "Goodwill - New Albany",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "375 Professional Ct, New Albany, IN 47150, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.352843,
+        "lng": -85.792971
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-new-albany/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21028",
+      "title": "Goodwill - Suite B New Albany",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "3400 Grant Line Rd B, New Albany, IN 47150, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.328965,
+        "lng": -85.818064
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-suite-b-new-albany/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21034",
+      "title": "Goodwill - New Castle",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1719 S Memorial Dr, New Castle, IN 47362, USA",
+      "street": "1719 South Memorial Drive",
+      "zip": "47362",
+      "coordinates": {
+        "lat": 39.914952,
+        "lng": -85.386355
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-new-castle/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21075",
+      "title": "Goodwill - Noblesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Noblesville",
+      "address": "16650 Mercantile Blvd, Noblesville, IN 46060, USA",
+      "street": "16650 Mercantile Boulevard",
+      "zip": "46060",
+      "coordinates": {
+        "lat": 40.030217,
+        "lng": -85.991584
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-noblesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21076",
+      "title": "Wheeler Mission - Noblesville",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Noblesville",
+      "address": "16000 Cumberland Rd, Noblesville, IN 46060, USA",
+      "street": "Cumberland Road",
+      "zip": "46060",
+      "coordinates": {
+        "lat": 40.020653,
+        "lng": -85.993924
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-noblesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21102",
+      "title": "Goodwill - North Vernon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "2260 State Hwy 7, North Vernon, IN 47265, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.019166,
+        "lng": -85.64441
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-north-vernon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21283",
+      "title": "Goodwill - Plainfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "3724 Shady Ln, Plainfield, IN 46168, USA",
+      "street": "3724 Shady Lane",
+      "zip": "46168",
+      "coordinates": {
+        "lat": 39.715916,
+        "lng": -86.366906
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-plainfield-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21284",
+      "title": "Wheeler Mission - Plainfield",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "752 Dan Jones Rd, Plainfield, IN 46168, USA",
+      "street": "752 South Dan Jones Road",
+      "zip": "46168",
+      "coordinates": {
+        "lat": 39.717419,
+        "lng": -86.382929
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-plainfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21344",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Richmond",
+      "address": "33 Hayes Arboretum Rd, Richmond, IN 47374, USA",
+      "street": "33 Hayes Arboretum Road",
+      "zip": "47374",
+      "coordinates": {
+        "lat": 39.832053,
+        "lng": -84.841667
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-richmond-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21417",
+      "title": "Goodwill - Rushville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1548 N Main St, Rushville, IN 46173, USA",
+      "street": "1548 North Main Street",
+      "zip": "46173",
+      "coordinates": {
+        "lat": 39.625037,
+        "lng": -85.4434
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-rushville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21429",
+      "title": "Goodwill - Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "400 S Main St, Salem, IN 47167, USA",
+      "street": "400 South Main Street",
+      "zip": "47167",
+      "coordinates": {
+        "lat": 38.602235,
+        "lng": -86.100238
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-salem/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21457",
+      "title": "Goodwill - Scottsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "543 S Mansfield Dr, Scottsburg, IN 47170, USA",
+      "street": "Mansfield Drive",
+      "zip": "47170",
+      "coordinates": {
+        "lat": 38.681145,
+        "lng": -85.800055
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-scottsburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21464",
+      "title": "Goodwill - Seymour",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "1857 E Tipton St, Seymour, IN 47274, USA",
+      "street": "1857 East Tipton Street",
+      "zip": "47274",
+      "coordinates": {
+        "lat": 38.959,
+        "lng": -85.859259
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-seymour/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21471",
+      "title": "Goodwill - Shelbyville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "570 Saraina Rd, Shelbyville, IN 46176, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.517241,
+        "lng": -85.752485
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-shelbyville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21526",
+      "title": "Goodwill - Speedway",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "6145 Crawfordsville Rd, Speedway, IN 46224, USA",
+      "street": "6145 Crawfordsville Road",
+      "zip": "46224",
+      "coordinates": {
+        "lat": 39.799277,
+        "lng": -86.268828
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-speedway/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21727",
+      "title": "Goodwill - W Lafayette",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "200 Sagamore Pkwy W, West Lafayette, IN 47906, USA",
+      "street": "200 Sagamore Parkway West",
+      "zip": "47906",
+      "coordinates": {
+        "lat": 40.454203,
+        "lng": -86.907897
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-w-lafayette/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21744",
+      "title": "Goodwill - Westfiled",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "17404 Carey Rd, Westfield, IN 46074, USA",
+      "street": "17404 Carey Road",
+      "zip": "46074",
+      "coordinates": {
+        "lat": 40.040594,
+        "lng": -86.109688
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-westfiled/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21758",
+      "title": "Goodwill - Whitestown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "6065 S Main St, Whitestown, IN 46075, USA",
+      "street": "6065 Main Street",
+      "zip": "46075",
+      "coordinates": {
+        "lat": 39.955028,
+        "lng": -86.346059
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-whitestown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21759",
+      "title": "Wheeler Mission - Whitestown",
+      "company": "Wheeler Mission",
+      "description": "Wheeler Mission is a Christian social service group founded in 1893, with a mission to alleviate poverty. Now it aids the homeless, poor, and needy in central Indiana by providing them with urgently needed goods and services.\r\n\r\nThey accept financial donations as well as clothing, certain types of medicine (Tylenol, ibuprofen, etc.), new underwear, hygiene products, houseware, footwear, and more.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Unknown",
+      "address": "6590 S Indianapolis Rd, Whitestown, IN 46075, USA",
+      "street": "6590 Indianapolis Road",
+      "zip": "46075",
+      "coordinates": {
+        "lat": 39.942473,
+        "lng": -86.364272
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "wheeler-mission.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/wheeler-mission-whitestown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21760",
+      "title": "Goodwill - Whitley",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Phoenix",
+      "address": "N Country Club Dr, Arizona, USA",
+      "street": "North Country Club Drive",
+      "zip": "82158",
+      "coordinates": {
+        "lat": 33.475967,
+        "lng": -111.839385
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/goodwill-whitley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22048",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "1109 Cameron St, Indianapolis, IN 46203, USA",
+      "street": "1109 Cameron Street",
+      "zip": "46203",
+      "coordinates": {
+        "lat": 39.72484,
+        "lng": -86.139051
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22049",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "1201 E Maryland St, Indianapolis, IN 46201, USA",
+      "street": "1201 East Maryland Street",
+      "zip": "46202",
+      "coordinates": {
+        "lat": 39.764474,
+        "lng": -86.137463
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22050",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "1530 Union St, Indianapolis, IN 46225, USA",
+      "street": "1530 Union Street",
+      "zip": "46225",
+      "coordinates": {
+        "lat": 39.746688,
+        "lng": -86.158086
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22051",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "1733 Dr Andrew J Brown Ave, Indianapolis, IN 46202, USA",
+      "street": "1733 Dr Andrew J Brown Avenue",
+      "zip": "46202",
+      "coordinates": {
+        "lat": 39.791525,
+        "lng": -86.134837
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22052",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "3354 W 30th St, Indianapolis, IN 46222, USA",
+      "street": "3354 West 30th Street",
+      "zip": "46222",
+      "coordinates": {
+        "lat": 39.812373,
+        "lng": -86.21545
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22053",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "3600 S Pennsylvania St, Indianapolis, IN 46227, USA",
+      "street": "3600 South Pennsylvania Street",
+      "zip": "46227",
+      "coordinates": {
+        "lat": 39.71455,
+        "lng": -86.156576
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22054",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "4052 E 38th St, Indianapolis, IN 46218, USA",
+      "street": "East 38th Street",
+      "zip": "46218",
+      "coordinates": {
+        "lat": 39.82634,
+        "lng": -86.099114
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22055",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "4100 E 56th St, Indianapolis, IN 46220, USA",
+      "street": "4100 East 56th Street",
+      "zip": "46220",
+      "coordinates": {
+        "lat": 39.856469,
+        "lng": -86.096995
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22056",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "4625 N Kenwood Ave, Indianapolis, IN 46208, USA",
+      "street": "4625 North Kenwood Avenue",
+      "zip": "46208",
+      "coordinates": {
+        "lat": 39.83999,
+        "lng": -86.160064
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22057",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "520 Stevens St, Indianapolis, IN 46203, USA",
+      "street": "520 Stevens Street",
+      "zip": "46203",
+      "coordinates": {
+        "lat": 39.75808,
+        "lng": -86.148806
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22058",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "5301 W 16th St, Indianapolis, IN 46224, USA",
+      "street": "5301 West 16th Street",
+      "zip": "46224",
+      "coordinates": {
+        "lat": 39.786349,
+        "lng": -86.251128
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22059",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "5353 McFarland Rd, Indianapolis, IN 46227, USA",
+      "street": "5353 McFarland Road",
+      "zip": "46227",
+      "coordinates": {
+        "lat": 39.689774,
+        "lng": -86.110683
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22060",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "5692 Central Ave, Indianapolis, IN 46220, USA",
+      "street": "5692 Central Avenue",
+      "zip": "46220",
+      "coordinates": {
+        "lat": 39.856906,
+        "lng": -86.150591
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22061",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "5884 Crittenden Ave, Indianapolis, IN 46220, USA",
+      "street": "5884 Crittenden Avenue",
+      "zip": "46220",
+      "coordinates": {
+        "lat": 39.861053,
+        "lng": -86.128481
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22062",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "6000 W 34th St, Indianapolis, IN 46224, USA",
+      "street": "6000 West 34th Street",
+      "zip": "46224",
+      "coordinates": {
+        "lat": 39.817395,
+        "lng": -86.263949
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22063",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Carmel",
+      "address": "6131 N Michigan Rd, Indianapolis, IN 46228, USA",
+      "street": "North Michigan Road",
+      "zip": "46032",
+      "coordinates": {
+        "lat": 39.86579,
+        "lng": -86.200408
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-16/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22064",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "6350 S Mooresville Rd, Indianapolis, IN 46221, USA",
+      "street": "6350 South Mooresville Road",
+      "zip": "46221",
+      "coordinates": {
+        "lat": 39.671189,
+        "lng": -86.270851
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-17/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22065",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "7200 Sarto Dr, Indianapolis, IN 46240, USA",
+      "street": "7200 Sarto Drive",
+      "zip": "46240",
+      "coordinates": {
+        "lat": 39.884584,
+        "lng": -86.116694
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-18/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22066",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "7243 E 10th St, Indianapolis, IN 46219, USA",
+      "street": "7243 East 10th Street",
+      "zip": "46219",
+      "coordinates": {
+        "lat": 39.780849,
+        "lng": -86.038301
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-19/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22067",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "740 W 28th St, Indianapolis, IN 46208, USA",
+      "street": "740 West 28th Street",
+      "zip": "46208",
+      "coordinates": {
+        "lat": 39.807158,
+        "lng": -86.17351
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-20/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22068",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "7575 Holliday Dr E, Indianapolis, IN 46260, USA",
+      "street": "7575 Holliday Drive East",
+      "zip": "46260",
+      "coordinates": {
+        "lat": 39.892493,
+        "lng": -86.160995
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-21/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22069",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "8300 Rahke Rd, Indianapolis, IN 46217, USA",
+      "street": "8300 Rahke Road",
+      "zip": "46217",
+      "coordinates": {
+        "lat": 39.64536,
+        "lng": -86.169692
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-22/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22086",
+      "title": "St Vincent De Paul - Indianapolis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Indiana",
+      "stateSlug": "indiana",
+      "city": "Indianapolis",
+      "address": "6944 E 46th St, Lawrence, IN 46226, USA",
+      "street": "East 46th Street",
+      "zip": "46226",
+      "coordinates": {
+        "lat": 39.842365,
+        "lng": -86.046648
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/indiana/st-vincent-de-paul-indianapolis-23/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

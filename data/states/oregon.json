@@ -1,0 +1,2573 @@
+{
+  "name": "Oregon",
+  "slug": "oregon",
+  "locations": [
+    {
+      "id": "17468",
+      "title": "Savers - Tigard",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Tigard",
+      "address": "12060 SW Main St, Tigard, OR 97223, USA",
+      "street": "12060 Southwest Main Street",
+      "zip": "97223",
+      "coordinates": {
+        "lat": 45.432019,
+        "lng": -122.766235
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/savers-tigard/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "18109",
+      "title": "Salvation Army - Grants Pass",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1377 Redwood Ave, Grants Pass, OR 97527, USA",
+      "street": "1377 Redwood Avenue",
+      "zip": "97527",
+      "coordinates": {
+        "lat": 42.422149,
+        "lng": -123.354704
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-grants-pass/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18116",
+      "title": "Salvation Army - Gresham",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Gresham",
+      "address": "2990 NE Hogan Dr, Gresham, OR 97030, USA",
+      "street": "2990 Northeast Hogan Drive",
+      "zip": "97030",
+      "coordinates": {
+        "lat": 45.518391,
+        "lng": -122.411089
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-gresham/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18125",
+      "title": "Salvation Army - Happy Valley",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "10174 SE 82nd Ave, Happy Valley, OR 97086, USA",
+      "street": "10174 Southeast 82nd Avenue",
+      "zip": "97086",
+      "coordinates": {
+        "lat": 45.449061,
+        "lng": -122.576856
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-happy-valley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18345",
+      "title": "Salvation Army - Medford",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Medford",
+      "address": "922 N Central Ave, Medford, OR 97501, USA",
+      "street": "922 North Central Avenue",
+      "zip": "97501",
+      "coordinates": {
+        "lat": 42.334701,
+        "lng": -122.879413
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-medford-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18398",
+      "title": "Salvation Army - Milwaukie",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "10900 SE Oak St, Milwaukie, OR 98222, USA",
+      "street": "10900 Southeast Oak Street",
+      "zip": "97222",
+      "coordinates": {
+        "lat": 45.441842,
+        "lng": -122.624958
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-milwaukie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18617",
+      "title": "Salvation Army - Portland",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "1111 NE 102nd Ave, Portland, OR 97220, USA",
+      "street": "1111 Northeast 102nd Avenue",
+      "zip": "97220",
+      "coordinates": {
+        "lat": 45.530646,
+        "lng": -122.560148
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-portland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18618",
+      "title": "Salvation Army - Portland",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "1300 NE 16th Ave, Portland, OR 97232, USA",
+      "street": "1300 room 6B Northeast 16th Avenue",
+      "zip": "97232",
+      "coordinates": {
+        "lat": 45.531922,
+        "lng": -122.648927
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-portland-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18690",
+      "title": "Salvation Army - Roseburg",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "3030 NE Stephens St, Roseburg, OR 97470, USA",
+      "street": "3030 Northeast Stephens Street",
+      "zip": "97470",
+      "coordinates": {
+        "lat": 43.244624,
+        "lng": -123.353333
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-roseburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18711",
+      "title": "Salvation Army - Salem",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Salem",
+      "address": "642 Lancaster Dr NE, Salem, OR 97301, USA",
+      "street": "642 Lancaster Drive Northeast",
+      "zip": "97301",
+      "coordinates": {
+        "lat": 44.938662,
+        "lng": -122.981866
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-salem-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18808",
+      "title": "Salvation Army - Sherwood",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "13921 SW Tualatin-Sherwood Rd, Sherwood, OR 97140, USA",
+      "street": "13921 Southwest Tualatin Sherwood Road",
+      "zip": "97140",
+      "coordinates": {
+        "lat": 45.36895,
+        "lng": -122.818493
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-sherwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18882",
+      "title": "Salvation Army - The Dalles",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "623 E 3rd St, The Dalles, OR 97058, USA",
+      "street": "623 East 3rd Street",
+      "zip": "97058",
+      "coordinates": {
+        "lat": 45.598738,
+        "lng": -121.177908
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-the-dalles/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18885",
+      "title": "Salvation Army - Tigard",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Tigard",
+      "address": "11847 SW Pacific Hwy, Tigard, OR 97223, USA",
+      "street": "11847 Southwest Pacific Highway",
+      "zip": "97223",
+      "coordinates": {
+        "lat": 45.434675,
+        "lng": -122.763903
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/salvation-army-tigard/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19518",
+      "title": "Goodwill - Ashland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "639 Tolman Creek Rd, Ashland, OR 97520, USA",
+      "street": "639 Tolman Creek Road",
+      "zip": "97520",
+      "coordinates": {
+        "lat": 42.183436,
+        "lng": -122.671967
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-ashland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19627",
+      "title": "Goodwill - Aloha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Beaverton",
+      "address": "1463 SW 204th Ave, Beaverton, OR 97006, USA",
+      "street": "1463 Southwest 204th Avenue",
+      "zip": "97003",
+      "coordinates": {
+        "lat": 45.509083,
+        "lng": -122.88752
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-aloha/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19628",
+      "title": "Goodwill - Beaverton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Beaverton",
+      "address": "12975 SW Westgate Dr, Beaverton, OR 97005, USA",
+      "street": "12975 Southwest Westgate Drive",
+      "zip": "97005",
+      "coordinates": {
+        "lat": 45.492598,
+        "lng": -122.810208
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-beaverton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19629",
+      "title": "Goodwill - Beaverton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "16400 SW Hart Rd B, Beaverton, OR 97007, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.46526,
+        "lng": -122.845646
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-beaverton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19630",
+      "title": "Goodwill - Beaverton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Beaverton",
+      "address": "4700 SW Griffith Dr, Beaverton, OR 97005, USA",
+      "street": "4700 Southwest Griffith Drive",
+      "zip": "97005",
+      "coordinates": {
+        "lat": 45.486018,
+        "lng": -122.794905
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-beaverton-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19631",
+      "title": "Goodwill - Beaverton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Beaverton",
+      "address": "4955 SW Western Ave, Beaverton, OR 97005, USA",
+      "street": "4955 Southwest Western Avenue",
+      "zip": "97005",
+      "coordinates": {
+        "lat": 45.484408,
+        "lng": -122.784591
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-beaverton-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19632",
+      "title": "Goodwill - Hillsboro",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Beaverton",
+      "address": "16157 NW Cornell Rd, Beaverton, OR 97006, USA",
+      "street": "16157 Northwest Cornell Road",
+      "zip": "97006",
+      "coordinates": {
+        "lat": 45.531922,
+        "lng": -122.843884
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-hillsboro/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19633",
+      "title": "Goodwill - Hillsboro",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "18638 NE Eider Ct, Beaverton, OR 97006, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.530799,
+        "lng": -122.869098
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-hillsboro-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19657",
+      "title": "Goodwill - Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Bend",
+      "address": "1121 NW Newport Ave, Bend, OR 97701, USA",
+      "street": "1121 Northwest Newport Avenue",
+      "zip": "97703",
+      "coordinates": {
+        "lat": 44.061824,
+        "lng": -121.328332
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-bend/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19658",
+      "title": "Goodwill - Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Bend",
+      "address": "19570 Amber Meadow Dr, Bend, OR 97702, USA",
+      "street": "19570 Southwest Amber Meadow Drive",
+      "zip": "97702",
+      "coordinates": {
+        "lat": 44.009081,
+        "lng": -121.344862
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-bend-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19659",
+      "title": "Goodwill - Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Bend",
+      "address": "19570 Amber Meadow Dr, Bend, OR 97702, USA",
+      "street": "19570 Southwest Amber Meadow Drive",
+      "zip": "97702",
+      "coordinates": {
+        "lat": 44.009081,
+        "lng": -121.344862
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-bend-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19660",
+      "title": "Goodwill - Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Bend",
+      "address": "2065 NE Hwy 20, Bend, OR 97701, USA",
+      "street": "2065 Northeast Highway 20",
+      "zip": "97701",
+      "coordinates": {
+        "lat": 44.054565,
+        "lng": -121.272813
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-bend-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19661",
+      "title": "Goodwill - Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Bend",
+      "address": "61315 S Hwy 97, Bend, OR 97702, USA",
+      "street": "61315 Southeast 3rd Street",
+      "zip": "97702",
+      "coordinates": {
+        "lat": 44.027073,
+        "lng": -121.316275
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-bend-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19662",
+      "title": "Goodwill - Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "63435 N Hwy 97, Bend, OR 97701, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.10429,
+        "lng": -121.300904
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-bend-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19739",
+      "title": "Goodwill - Brookings",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "890 Chetco Ave, Brookings, OR 97415, USA",
+      "street": "890 Chetco Avenue",
+      "zip": "97415",
+      "coordinates": {
+        "lat": 42.054506,
+        "lng": -124.287021
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-brookings/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19829",
+      "title": "Goodwill - Central Point",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1249 Plaza Blvd, Central Point, OR 97502, USA",
+      "street": "1249 Plaza Boulevard",
+      "zip": "97502",
+      "coordinates": {
+        "lat": 42.377492,
+        "lng": -122.905588
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-central-point/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19988",
+      "title": "Goodwill - Cottage Grove",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1205 OR-99, Cottage Grove, OR 97424, USA",
+      "street": "1205 Highway 99",
+      "zip": "97424",
+      "coordinates": {
+        "lat": 43.804748,
+        "lng": -123.056517
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-cottage-grove-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20016",
+      "title": "Goodwill - Damascus",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "19858 SE Hwy 212, Damascus, OR 97089, USA",
+      "street": "19858 Southeast Highway 212",
+      "zip": "97089",
+      "coordinates": {
+        "lat": 45.416589,
+        "lng": -122.457233
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-damascus/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20127",
+      "title": "Goodwill - Eugene",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "1010 Green Acres Rd, Eugene, OR 97408, USA",
+      "street": "1010 Green Acres Road",
+      "zip": "97408",
+      "coordinates": {
+        "lat": 44.093378,
+        "lng": -123.097274
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-eugene/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20128",
+      "title": "Goodwill - Eugene",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "1643 Coburg Rd, Eugene, OR 97401, USA",
+      "street": "1643 Coburg Road",
+      "zip": "97401",
+      "coordinates": {
+        "lat": 44.080451,
+        "lng": -123.06678
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-eugene-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20129",
+      "title": "Goodwill - Eugene",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "1717 W 18th Ave, Eugene, OR 97402, USA",
+      "street": "1717 West 18th Avenue",
+      "zip": "97402",
+      "coordinates": {
+        "lat": 44.04071,
+        "lng": -123.118178
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-eugene-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20130",
+      "title": "Goodwill - Eugene",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "2909 Portland St, Eugene, OR 97405, USA",
+      "street": "2909 Portland Street",
+      "zip": "97405",
+      "coordinates": {
+        "lat": 44.025946,
+        "lng": -123.091805
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-eugene-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20131",
+      "title": "Goodwill - Eugene",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "685 E Broadway, Eugene, OR 97401, USA",
+      "street": "685 East Broadway",
+      "zip": "97401",
+      "coordinates": {
+        "lat": 44.050283,
+        "lng": -123.082551
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-eugene-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20132",
+      "title": "Goodwill - Eugene",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "75 Division Ave, Eugene, OR 97404, USA",
+      "street": "75 Division Avenue",
+      "zip": "97404",
+      "coordinates": {
+        "lat": 44.099771,
+        "lng": -123.127877
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-eugene-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20133",
+      "title": "Goodwill - Eugene",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "855 Seneca Rd, Eugene, OR 97402, USA",
+      "street": "855 Seneca Road",
+      "zip": "97402",
+      "coordinates": {
+        "lat": 44.049024,
+        "lng": -123.14019
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-eugene-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20134",
+      "title": "Goodwill - Springfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "4925 Barger Dr, Eugene, OR 97402, USA",
+      "street": "4925 Barger Drive",
+      "zip": "97402",
+      "coordinates": {
+        "lat": 44.085146,
+        "lng": -123.183386
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-springfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20173",
+      "title": "Goodwill - Florence",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1310 US-101, Florence, OR 97439, USA",
+      "street": "Oregon Coast Highway",
+      "zip": "97439",
+      "coordinates": {
+        "lat": 43.978385,
+        "lng": -124.100608
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-florence/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20273",
+      "title": "Goodwill - Grants Pass",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1642 Williams Hwy, Grants Pass, OR 97527, USA",
+      "street": "1642 Williams Highway",
+      "zip": "97527",
+      "coordinates": {
+        "lat": 42.420617,
+        "lng": -123.335876
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-grants-pass/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20274",
+      "title": "Goodwill - Grants Pass",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "346 NE Beacon Dr, Grants Pass, OR 97526, USA",
+      "street": "346 Northeast Beacon Drive",
+      "zip": "97526",
+      "coordinates": {
+        "lat": 42.438896,
+        "lng": -123.308303
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-grants-pass-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20303",
+      "title": "Goodwill - Gresham",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Gresham",
+      "address": "413 NE Burnside Rd, Gresham, OR 97030, USA",
+      "street": "413 Northeast Burnside Road",
+      "zip": "97030",
+      "coordinates": {
+        "lat": 45.50848,
+        "lng": -122.427516
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-gresham/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20304",
+      "title": "Goodwill - Gresham",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Gresham",
+      "address": "4241 SE 182nd Ave, Gresham, OR 97030, USA",
+      "street": "4241 Southeast 182nd Avenue",
+      "zip": "97030",
+      "coordinates": {
+        "lat": 45.491718,
+        "lng": -122.476182
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-gresham-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20381",
+      "title": "Goodwill - Aloha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Hillsboro",
+      "address": "775 SW 185th Ave, Hillsboro, OR 97006, USA",
+      "street": "775 Southwest 185th Avenue",
+      "zip": "97006",
+      "coordinates": {
+        "lat": 45.514264,
+        "lng": -122.867949
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-aloha-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20382",
+      "title": "Goodwill - Hillsboro",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Hillsboro",
+      "address": "2920 SE Century Blvd, Hillsboro, OR 97123, USA",
+      "street": "2920 Southeast Century Boulevard",
+      "zip": "97123",
+      "coordinates": {
+        "lat": 45.497824,
+        "lng": -122.9162
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-hillsboro-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20530",
+      "title": "Goodwill - Junction City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1495 Pacific Hwy W, Junction City, OR 97448, USA",
+      "street": "Highway 99N",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.226649,
+        "lng": -123.20534
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-junction-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20574",
+      "title": "Goodwill - Klamath Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Klamath Falls",
+      "address": "3401 Washburn Way, Klamath Falls, OR 97603, USA",
+      "street": "3401 Washburn Way",
+      "zip": "97603",
+      "coordinates": {
+        "lat": 42.195312,
+        "lng": -121.756284
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-klamath-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20598",
+      "title": "Goodwill - Oswego",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "17162 Lower Boones Ferry Rd, Lake Oswego, OR 97035, USA",
+      "street": "17162 Boones Ferry Road",
+      "zip": "97035",
+      "coordinates": {
+        "lat": 45.401405,
+        "lng": -122.734336
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-oswego/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20599",
+      "title": "Goodwill - Oswego",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "401 S State St, Lake Oswego, OR 97034, USA",
+      "street": "401 South State Street",
+      "zip": "97034",
+      "coordinates": {
+        "lat": 45.412789,
+        "lng": -122.66401
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-oswego-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20819",
+      "title": "Goodwill - Medford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Medford",
+      "address": "11 W Jackson St, Medford, OR 97501, USA",
+      "street": "11 West Jackson Street",
+      "zip": "97501",
+      "coordinates": {
+        "lat": 42.330668,
+        "lng": -122.878662
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-medford-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20820",
+      "title": "Goodwill - Medford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Medford",
+      "address": "1241 S Riverside Ave, Medford, OR 97501, USA",
+      "street": "1241 South Riverside Avenue",
+      "zip": "97501",
+      "coordinates": {
+        "lat": 42.314383,
+        "lng": -122.860954
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-medford-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20821",
+      "title": "Goodwill - Medford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Medford",
+      "address": "2424 Crater Lake Hwy, Medford, OR 97504, USA",
+      "street": "2424 Crater Lake Highway",
+      "zip": "97504",
+      "coordinates": {
+        "lat": 42.351921,
+        "lng": -122.870753
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-medford-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20911",
+      "title": "Goodwill - Milwaukie",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1740 SE Ochoco St, Milwaukie, OR 97222, USA",
+      "street": "1740 Southeast Ochoco Street",
+      "zip": "97222",
+      "coordinates": {
+        "lat": 45.457503,
+        "lng": -122.645595
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-milwaukie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21085",
+      "title": "Goodwill - North Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "3698 Broadway Ave, North Bend, OR 97459, USA",
+      "street": "3698 Broadway Avenue",
+      "zip": "97459",
+      "coordinates": {
+        "lat": 43.387768,
+        "lng": -124.239716
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-north-bend/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21118",
+      "title": "Goodwill - Milwaukie",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "16255 SE McLoughlin Blvd, Oak Grove, OR 97267, USA",
+      "street": "16255 Southeast McLoughlin Boulevard",
+      "zip": "97267",
+      "coordinates": {
+        "lat": 45.405315,
+        "lng": -122.624319
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-milwaukie-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21165",
+      "title": "Goodwill - City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1809 Molalla Ave, Oregon City, OR 97045, USA",
+      "street": "1809 Molalla Avenue",
+      "zip": "97045",
+      "coordinates": {
+        "lat": 45.331779,
+        "lng": -122.586244
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21296",
+      "title": "Goodwill - Clackamas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "9999 SE 82nd Ave, Portland, OR 97222, USA",
+      "street": "Southeast 82nd Avenue",
+      "zip": "97806",
+      "coordinates": {
+        "lat": 45.450837,
+        "lng": -122.580539
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-clackamas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21297",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "10075 SW Barbur Blvd #5, Portland, OR 97219, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.453072,
+        "lng": -122.724045
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21298",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "12250 NE Halsey St, Portland, OR 97230, USA",
+      "street": "12250 Northeast Halsey Street",
+      "zip": "97230",
+      "coordinates": {
+        "lat": 45.533099,
+        "lng": -122.536243
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21299",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "1231 NE Broadway, Portland, OR 97232, USA",
+      "street": "1231 Northeast Broadway",
+      "zip": "97232",
+      "coordinates": {
+        "lat": 45.535221,
+        "lng": -122.653044
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21300",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "12595 NW Cornell Rd, Portland, OR 97229, USA",
+      "street": "12595 Northwest Cornell Road",
+      "zip": "97229",
+      "coordinates": {
+        "lat": 45.525615,
+        "lng": -122.80697
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21301",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "14864 SE Webster Rd, Portland, OR 97267, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.415052,
+        "lng": -122.59179
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21302",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "1731 SE 122nd Ave, Portland, OR 97233, USA",
+      "street": "1731 Southeast 122nd Avenue",
+      "zip": "97233",
+      "coordinates": {
+        "lat": 45.51095,
+        "lng": -122.538179
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21303",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "2215 W Burnside St, Portland, OR 97210, USA",
+      "street": "2215 West Burnside Street",
+      "zip": "97210",
+      "coordinates": {
+        "lat": 45.523575,
+        "lng": -122.696886
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21304",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "2311 NE Sandy Blvd, Portland, OR 97232, USA",
+      "street": "2311 Northeast Sandy Boulevard",
+      "zip": "97232",
+      "coordinates": {
+        "lat": 45.527418,
+        "lng": -122.642268
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21305",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "3134 N Lombard St, Portland, OR 97217, USA",
+      "street": "3134 North Lombard Street",
+      "zip": "97217",
+      "coordinates": {
+        "lat": 45.576715,
+        "lng": -122.69894
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21306",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "5431 SW Beaverton Hillsdale Hwy, Portland, OR 97221, USA",
+      "street": "5431 Southwest Beaverton Hillsdale Highway",
+      "zip": "97221",
+      "coordinates": {
+        "lat": 45.487951,
+        "lng": -122.733212
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21307",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "5625 NE Fremont St, Portland, OR 97213, USA",
+      "street": "5625 Northeast Fremont Street",
+      "zip": "97213",
+      "coordinates": {
+        "lat": 45.548481,
+        "lng": -122.605084
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21308",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "5950 NE 122nd Ave, Portland, OR 97230, USA",
+      "street": "5950 Northeast 122nd Avenue",
+      "zip": "97230",
+      "coordinates": {
+        "lat": 45.566375,
+        "lng": -122.532012
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21309",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "6125 SE 52nd Ave, Portland, OR 97206, USA",
+      "street": "6125 Southeast 52nd Avenue",
+      "zip": "97206",
+      "coordinates": {
+        "lat": 45.477945,
+        "lng": -122.609056
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21310",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "6440 NE Sandy Blvd, Portland, OR 97213, USA",
+      "street": "6440 Northeast Sandy Boulevard",
+      "zip": "97213",
+      "coordinates": {
+        "lat": 45.545068,
+        "lng": -122.596607
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21311",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "7611 N Exeter Ave, Portland, OR 97203, USA",
+      "street": "7611 North Exeter Avenue",
+      "zip": "97203",
+      "coordinates": {
+        "lat": 45.583529,
+        "lng": -122.724896
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21312",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "7635 SW Barbur Blvd, Portland, OR 97219, USA",
+      "street": "7635 Southwest Barbur Boulevard",
+      "zip": "97219",
+      "coordinates": {
+        "lat": 45.46953,
+        "lng": -122.691642
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-16/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21313",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Portland",
+      "address": "9015 SE Powell Blvd, Portland, OR 97266, USA",
+      "street": "9015 Southeast Powell Boulevard",
+      "zip": "97266",
+      "coordinates": {
+        "lat": 45.497822,
+        "lng": -122.569591
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-17/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21314",
+      "title": "Goodwill - Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "Goodwill in Portland, OR, USA, 1943 SE 6th Ave, Portland, OR 97214, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.508899,
+        "lng": -122.660252
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-portland-18/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21338",
+      "title": "Goodwill - Redmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "2067 NW 6th St, Redmond, OR 97756, USA",
+      "street": "2067 Northwest 6th Street",
+      "zip": "97756",
+      "coordinates": {
+        "lat": 44.29583,
+        "lng": -121.175268
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-redmond/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21402",
+      "title": "Goodwill - Roseburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "2455 NW Stewart Pkwy, Roseburg, OR 97471, USA",
+      "street": "2455 Northwest Stewart Parkway",
+      "zip": "97471",
+      "coordinates": {
+        "lat": 43.236858,
+        "lng": -123.369873
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-roseburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21479",
+      "title": "Goodwill - Sherwood",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "16280 SW Langer Dr Box 6, Sherwood, OR 97140, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.367216,
+        "lng": -122.846143
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-sherwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21552",
+      "title": "Goodwill - Springfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Springfield",
+      "address": "102 30th St, Springfield, OR 97478, USA",
+      "street": "102 30th Street",
+      "zip": "97478",
+      "coordinates": {
+        "lat": 44.046473,
+        "lng": -122.983587
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-springfield-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21553",
+      "title": "Goodwill - Springfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Springfield",
+      "address": "514 Q St, Springfield, OR 97477, USA",
+      "street": "514 Q Street",
+      "zip": "97477",
+      "coordinates": {
+        "lat": 44.062399,
+        "lng": -123.018929
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-springfield-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21554",
+      "title": "Goodwill - Springfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Springfield",
+      "address": "528 Harlow Rd, Springfield, OR 97477, USA",
+      "street": "528 Harlow Road",
+      "zip": "97477",
+      "coordinates": {
+        "lat": 44.0711,
+        "lng": -123.03473
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-springfield-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21555",
+      "title": "Goodwill - Springfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Springfield",
+      "address": "5810 Main St, Springfield, OR 97478, USA",
+      "street": "5810 Main Street",
+      "zip": "97478",
+      "coordinates": {
+        "lat": 44.046017,
+        "lng": -122.926253
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-springfield-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21603",
+      "title": "Goodwill - Sutherlin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "145 Myrtle St STE 104, Sutherlin, OR 97479, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.387043,
+        "lng": -123.335935
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-sutherlin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21605",
+      "title": "Goodwill - Sweet Home",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1762 Main St, Sweet Home, OR 97386, USA",
+      "street": "1762 Main Street",
+      "zip": "97386",
+      "coordinates": {
+        "lat": 44.399074,
+        "lng": -122.723377
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-sweet-home/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21622",
+      "title": "Goodwill - Tigard",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Tigard",
+      "address": "13920 SW Pacific Hwy, Tigard, OR 97223, USA",
+      "street": "13920 Southwest Pacific Highway",
+      "zip": "97223",
+      "coordinates": {
+        "lat": 45.41941,
+        "lng": -122.785442
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-tigard/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21655",
+      "title": "Goodwill - Vancouver",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Vancouver",
+      "address": "6425 NE Fourth Plain Blvd, Vancouver, WA 98661, USA",
+      "street": "6425 Northeast Fourth Plain Boulevard",
+      "zip": "98661",
+      "coordinates": {
+        "lat": 45.64324,
+        "lng": -122.605523
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-vancouver/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21728",
+      "title": "Goodwill - Linn",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "19149 Willamette Dr, West Linn, OR 97068, USA",
+      "street": "19149 Willamette Drive",
+      "zip": "97068",
+      "coordinates": {
+        "lat": 45.385961,
+        "lng": -122.641333
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-linn/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21729",
+      "title": "Goodwill - Linn",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "3153 S Brandywine Dr, West Linn, OR 97068, USA",
+      "street": "3153 South Brandywine Drive",
+      "zip": "97068",
+      "coordinates": {
+        "lat": 45.3653,
+        "lng": -122.648977
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-linn-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21750",
+      "title": "Goodwill - White City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "8080 OR-62, White City, OR 97503, USA",
+      "street": "8080 Crater Lake Highway",
+      "zip": "97503",
+      "coordinates": {
+        "lat": 42.434185,
+        "lng": -122.842559
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-white-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21781",
+      "title": "Goodwill - Wilsonville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "8275 SW Wilsonville Rd, Wilsonville, OR 97070, USA",
+      "street": "8275 Southwest Wilsonville Road",
+      "zip": "97070",
+      "coordinates": {
+        "lat": 45.305356,
+        "lng": -122.762888
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/goodwill-wilsonville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21872",
+      "title": "St Vincent De Paul - Albany",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Albany",
+      "address": "2200 Pacific Blvd SE, Albany, OR 97321, USA",
+      "street": "2200 Pacific Boulevard Southeast",
+      "zip": "97321",
+      "coordinates": {
+        "lat": 44.635663,
+        "lng": -123.078165
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-albany/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21991",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "100 E 11th Ave, Eugene, OR 97401, USA",
+      "street": "100 East 11th Avenue",
+      "zip": "97401",
+      "coordinates": {
+        "lat": 44.047555,
+        "lng": -123.090624
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21992",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1175 State Hwy 99 N, Eugene, OR 97402, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.073829,
+        "lng": -123.145361
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21993",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "1870 W 11th Ave 11th Store, Eugene, OR 97402, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.047511,
+        "lng": -123.121235
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21994",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "201 Division Ave, Eugene, OR 97404, USA",
+      "street": "201 Division Avenue",
+      "zip": "97404",
+      "coordinates": {
+        "lat": 44.099609,
+        "lng": -123.124209
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21995",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "2167 W 11th Ave, Eugene, OR 97402, USA",
+      "street": "2167 West 11th Avenue",
+      "zip": "97402",
+      "coordinates": {
+        "lat": 44.048743,
+        "lng": -123.125523
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21996",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "2890 Chad Dr, Eugene, OR 97408, USA",
+      "street": "2890 Chad Drive",
+      "zip": "97408",
+      "coordinates": {
+        "lat": 44.089117,
+        "lng": -123.061326
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21997",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "5 S Seneca Rd, Eugene, OR 97402, USA",
+      "street": "5 South Seneca Road",
+      "zip": "97402",
+      "coordinates": {
+        "lat": 44.060605,
+        "lng": -123.140211
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21998",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Eugene",
+      "address": "555 High St, Eugene, OR 97401, USA",
+      "street": "555 High Street",
+      "zip": "97401",
+      "coordinates": {
+        "lat": 44.053567,
+        "lng": -123.087833
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21999",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "NE Lancaster Dr, Oregon 97741, USA",
+      "street": "Northeast Lancaster Drive",
+      "zip": "97741",
+      "coordinates": {
+        "lat": 44.648659,
+        "lng": -121.100164
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22000",
+      "title": "St Vincent De Paul - Eugene",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "OR-99, Oregon, USA",
+      "street": "North Main Street",
+      "zip": "97520",
+      "coordinates": {
+        "lat": 43.214808,
+        "lng": -123.342598
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-eugene-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22136",
+      "title": "St Vincent De Paul - Oakridge",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "47663 OR-58, Oakridge, OR 97463, USA",
+      "street": "47663 Highway 58",
+      "zip": "97463",
+      "coordinates": {
+        "lat": 43.746641,
+        "lng": -122.482029
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-oakridge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22173",
+      "title": "St Vincent De Paul - Florence",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "231515 US-101, Sequim, WA 98382, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 48.084191,
+        "lng": -123.201675
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-florence-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22182",
+      "title": "St Vincent De Paul - Springfield",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Springfield",
+      "address": "199 Q St, Springfield, OR 97477, USA",
+      "street": "199 Q Street",
+      "zip": "97477",
+      "coordinates": {
+        "lat": 44.061661,
+        "lng": -123.023105
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-springfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22183",
+      "title": "St Vincent De Paul - Springfield",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Springfield",
+      "address": "4555 Main St, Springfield, OR 97478, USA",
+      "street": "4555 Main Street",
+      "zip": "97478",
+      "coordinates": {
+        "lat": 44.045029,
+        "lng": -122.955479
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-springfield-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22195",
+      "title": "St Vincent De Paul - The Dalles",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Oregon",
+      "stateSlug": "oregon",
+      "city": "Unknown",
+      "address": "E 9th St & W 9th St, The Dalles, OR 97058, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.597933,
+        "lng": -121.188492
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/oregon/st-vincent-de-paul-the-dalles/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

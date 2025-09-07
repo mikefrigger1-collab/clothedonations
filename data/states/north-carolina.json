@@ -1,0 +1,3608 @@
+{
+  "name": "North Carolina",
+  "slug": "north-carolina",
+  "locations": [
+    {
+      "id": "17808",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "1011 Central Ave, Charlotte, NC 28204, USA",
+      "street": "1011 Central Avenue",
+      "zip": "28204",
+      "coordinates": {
+        "lat": 35.222167,
+        "lng": -80.82091
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17809",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "1023 Central Ave, Charlotte, NC 28204, USA",
+      "street": "1023 Central Avenue",
+      "zip": "28204",
+      "coordinates": {
+        "lat": 35.222415,
+        "lng": -80.819699
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17810",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "11015 Education Way, Charlotte, NC 28262, USA",
+      "street": "11015 Education Way",
+      "zip": "28262",
+      "coordinates": {
+        "lat": 35.318355,
+        "lng": -80.727153
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17811",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "1201 Campus Pointe Ct, Charlotte, NC 28262, USA",
+      "street": "1201 Campus Pointe Court",
+      "zip": "28262",
+      "coordinates": {
+        "lat": 35.311171,
+        "lng": -80.720619
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17812",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "1937 N Sharon Amity Rd, Charlotte, NC 28205, USA",
+      "street": "1937 North Sharon Amity Road",
+      "zip": "28205",
+      "coordinates": {
+        "lat": 35.188061,
+        "lng": -80.773961
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17813",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "2516 Sardis Rd N, Charlotte, NC 28227, USA",
+      "street": "2516 Sardis Road North",
+      "zip": "28227",
+      "coordinates": {
+        "lat": 35.144079,
+        "lng": -80.723001
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17814",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "3106 Eastway Dr, Charlotte, NC 28205, USA",
+      "street": "3106 Eastway Drive",
+      "zip": "28205",
+      "coordinates": {
+        "lat": 35.21384,
+        "lng": -80.782618
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17815",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "3715 Rea Rd, Charlotte, NC 28226, USA",
+      "street": "3715 Rea Road",
+      "zip": "28226",
+      "coordinates": {
+        "lat": 35.109105,
+        "lng": -80.797677
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17816",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "4020 Freedom Dr, Charlotte, NC 28208, USA",
+      "street": "4020 Freedom Drive",
+      "zip": "28208",
+      "coordinates": {
+        "lat": 35.254053,
+        "lng": -80.903015
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17817",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "406 N College St, Charlotte, NC 28202, USA",
+      "street": "406 North College Street",
+      "zip": "28202",
+      "coordinates": {
+        "lat": 35.228605,
+        "lng": -80.8383
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17818",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "4400 Sharon Rd, Charlotte, NC 28211, USA",
+      "street": "4400 Sharon Road",
+      "zip": "28211",
+      "coordinates": {
+        "lat": 35.152231,
+        "lng": -80.831897
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17819",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "5527 Ballantyne Commons Pkwy, Charlotte, NC 28277, USA",
+      "street": "5527 Ballantyne Commons Parkway",
+      "zip": "28277",
+      "coordinates": {
+        "lat": 35.061997,
+        "lng": -80.776429
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17820",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "5811 Prosperity Church Rd, Charlotte, NC 28269, USA",
+      "street": "5811 Prosperity Church Road",
+      "zip": "28269",
+      "coordinates": {
+        "lat": 35.372516,
+        "lng": -80.785084
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17821",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "8500 Pineville-Matthews Rd, Charlotte, NC 28226, USA",
+      "street": "8500 Pineville-Matthews Road",
+      "zip": "28226",
+      "coordinates": {
+        "lat": 35.088449,
+        "lng": -80.863032
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17822",
+      "title": "Salvation Army - Charlotte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "940 Marsh Rd, Charlotte, NC 28209, USA",
+      "street": "940 Marsh Road",
+      "zip": "28209",
+      "coordinates": {
+        "lat": 35.186623,
+        "lng": -80.857412
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-charlotte-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17823",
+      "title": "Salvation Army - Matthews",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "1128 E Independence Blvd, Charlotte, NC 28205, USA",
+      "street": "East Independence Boulevard",
+      "zip": "28205",
+      "coordinates": {
+        "lat": 35.21863,
+        "lng": -80.81518
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-matthews/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17903",
+      "title": "Salvation Army - Concord",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Concord",
+      "address": "3600 US-601, Concord, NC 28025, USA",
+      "street": "Warren C. Coleman Boulevard",
+      "zip": "28025",
+      "coordinates": {
+        "lat": 35.36659,
+        "lng": -80.547187
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-concord/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17904",
+      "title": "Salvation Army - Concord",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Concord",
+      "address": "7900 Lyles Ln NW, Concord, NC 28027, USA",
+      "street": "7900 Lyles Lane Northwest",
+      "zip": "28027",
+      "coordinates": {
+        "lat": 35.365759,
+        "lng": -80.715421
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-concord-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17905",
+      "title": "Salvation Army - Concord",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Concord",
+      "address": "8111 Concord Mills Boulevard, Concord, NC 28027, USA",
+      "street": "8111 Concord Mills Boulevard",
+      "zip": "28027",
+      "coordinates": {
+        "lat": 35.370069,
+        "lng": -80.72393
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-concord-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17906",
+      "title": "Salvation Army - Concord",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Concord",
+      "address": "8670 Concord Mills Boulevard, Concord, NC 28027, USA",
+      "street": "8670 Concord Mills Boulevard",
+      "zip": "28027",
+      "coordinates": {
+        "lat": 35.376277,
+        "lng": -80.728696
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-concord-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17907",
+      "title": "Salvation Army - Concord",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Concord",
+      "address": "8675 Concord Mills Boulevard, Concord, NC 28027, USA",
+      "street": "8675 Concord Mills Boulevard",
+      "zip": "28027",
+      "coordinates": {
+        "lat": 35.372979,
+        "lng": -80.730277
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-concord-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17910",
+      "title": "Salvation Army - Cornelius",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "19320 Liverpool Pkwy, Cornelius, NC 28031, USA",
+      "street": "19320 Liverpool Parkway",
+      "zip": "28031",
+      "coordinates": {
+        "lat": 35.476755,
+        "lng": -80.879482
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-cornelius/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18034",
+      "title": "Salvation Army - Fort Mill",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "2012 SC-160, Fort Mill, SC 29708, USA",
+      "street": "SC 160",
+      "zip": "29708",
+      "coordinates": {
+        "lat": 35.040009,
+        "lng": -80.978991
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-fort-mill/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18085",
+      "title": "Salvation Army - Gastonia",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Gastonia",
+      "address": "2226 Shaw Ave, Gastonia, NC 28054, USA",
+      "street": "2226 Shaw Avenue",
+      "zip": "28054",
+      "coordinates": {
+        "lat": 35.245864,
+        "lng": -81.119737
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-gastonia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18126",
+      "title": "Salvation Army - Harrisburg",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "112 Robinson Ave, Harrisburg, NC 28075, USA",
+      "street": "112 Robinson Avenue",
+      "zip": "28075",
+      "coordinates": {
+        "lat": 35.320908,
+        "lng": -80.652735
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-harrisburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18418",
+      "title": "Salvation Army - Mt. Holly",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "14514 Lucia Riverbend Hwy, Mt Holly, NC 28120, USA",
+      "street": "Lucia Riverbend Highway",
+      "zip": "28164",
+      "coordinates": {
+        "lat": 35.381895,
+        "lng": -81.00604
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/salvation-army-mt-holly/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19494",
+      "title": "Goodwill - Arden",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "415 Long Shoals Rd, Arden, NC 28704, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.480674,
+        "lng": -82.559942
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-arden/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19509",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "1118 Brevard Rd, Asheville, NC 28806, USA",
+      "street": "1118 Brevard Road",
+      "zip": "28806",
+      "coordinates": {
+        "lat": 35.522315,
+        "lng": -82.606427
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19510",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "1120 Hendersonville Rd, Asheville, NC 28803, USA",
+      "street": "Hendersonville Road",
+      "zip": "28803",
+      "coordinates": {
+        "lat": 35.533475,
+        "lng": -82.527599
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19511",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "134 Charlotte Hwy, Asheville, NC 28803, USA",
+      "street": "Charlotte Highway",
+      "zip": "28815",
+      "coordinates": {
+        "lat": 35.556296,
+        "lng": -82.482171
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19512",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "1616 Patton Ave, Asheville, NC 28806, USA",
+      "street": "1616 Patton Avenue",
+      "zip": "28806",
+      "coordinates": {
+        "lat": 35.570288,
+        "lng": -82.61694
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19513",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "339 New Leicester Hwy, Asheville, NC 28806, USA",
+      "street": "339 New Leicester Highway",
+      "zip": "28806",
+      "coordinates": {
+        "lat": 35.601444,
+        "lng": -82.621741
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19514",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "51 Mills Gap Rd, Asheville, NC 28803, USA",
+      "street": "51 Mills Gap Road",
+      "zip": "28803",
+      "coordinates": {
+        "lat": 35.49855,
+        "lng": -82.519849
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19515",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "850 Merrimon Ave, Asheville, NC 28804, USA",
+      "street": "850 Merrimon Avenue",
+      "zip": "28804",
+      "coordinates": {
+        "lat": 35.627789,
+        "lng": -82.55311
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19516",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "86 S Tunnel Rd, Asheville, NC 28805, USA",
+      "street": "South Tunnel Road",
+      "zip": "28805",
+      "coordinates": {
+        "lat": 35.57891,
+        "lng": -82.520402
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19517",
+      "title": "Goodwill - Asheville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Asheville",
+      "address": "910 Swannanoa River Rd, Asheville, NC 28805, USA",
+      "street": "Swannanoa River Road",
+      "zip": "28805",
+      "coordinates": {
+        "lat": 35.582652,
+        "lng": -82.494679
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-asheville-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19669",
+      "title": "Goodwill - Bermuda Run",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "5356 US-158, Bermuda Run, NC 27006, USA",
+      "street": "US 158",
+      "zip": "27006",
+      "coordinates": {
+        "lat": 36.005349,
+        "lng": -80.437194
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-bermuda-run/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19698",
+      "title": "Goodwill - Boone",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Boone",
+      "address": "128 Crossing Way, Boone, NC 28607, USA",
+      "street": "128 Crossing Way",
+      "zip": "28607",
+      "coordinates": {
+        "lat": 36.201428,
+        "lng": -81.680697
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-boone/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19699",
+      "title": "Goodwill - Boone",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Boone",
+      "address": "1620 Blowing Rock Rd, Boone, NC 28607, USA",
+      "street": "1620 Blowing Rock Road",
+      "zip": "28607",
+      "coordinates": {
+        "lat": 36.199096,
+        "lng": -81.661466
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-boone-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19700",
+      "title": "Goodwill - Boone",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Boone",
+      "address": "237 Boone Heights Dr, Boone, NC 28607, USA",
+      "street": "237 Boone Heights Drive",
+      "zip": "28607",
+      "coordinates": {
+        "lat": 36.20167,
+        "lng": -81.657914
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-boone-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19727",
+      "title": "Goodwill - Brevard",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1266 Asheville Hwy, Brevard, NC 28712, USA",
+      "street": "1266 Asheville Highway",
+      "zip": "28712",
+      "coordinates": {
+        "lat": 35.258323,
+        "lng": -82.713842
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-brevard/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19781",
+      "title": "Goodwill - Candler",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1459 Sand Hill Rd, Candler, NC 28715, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.54333,
+        "lng": -82.657573
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-candler/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19787",
+      "title": "Goodwill - Canton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "75 Plaza Loop, Canton, NC 28716, USA",
+      "street": "75 Plaza Loop",
+      "zip": "28716",
+      "coordinates": {
+        "lat": 35.533175,
+        "lng": -82.863473
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-canton-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19844",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "10124 Johnston Rd, Charlotte, NC 28210, USA",
+      "street": "10124 Johnston Road",
+      "zip": "28210",
+      "coordinates": {
+        "lat": 35.091655,
+        "lng": -80.857816
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19845",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "12716 S Tryon St, Charlotte, NC 28273, USA",
+      "street": "12716 South Tryon Street",
+      "zip": "28273",
+      "coordinates": {
+        "lat": 35.105822,
+        "lng": -80.985856
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19846",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "16025 Lancaster Hwy, Charlotte, NC 28277, USA",
+      "street": "16025 Lancaster Highway",
+      "zip": "28277",
+      "coordinates": {
+        "lat": 35.031281,
+        "lng": -80.851807
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19847",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "1725 Harris Houston Rd, Charlotte, NC 28262, USA",
+      "street": "1725 Harris Houston Road",
+      "zip": "28262",
+      "coordinates": {
+        "lat": 35.31507,
+        "lng": -80.701733
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19848",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "1909 Sardis Rd N, Charlotte, NC 28270, USA",
+      "street": "1909 Sardis Road North",
+      "zip": "28227",
+      "coordinates": {
+        "lat": 35.141936,
+        "lng": -80.734477
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19849",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "2905 Mt Holly-Huntersville Rd, Charlotte, NC 28214, USA",
+      "street": "2905 Mount Holly-Huntersville Road",
+      "zip": "28214",
+      "coordinates": {
+        "lat": 35.320371,
+        "lng": -80.953861
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19850",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "3609 South Blvd, Charlotte, NC 28209, USA",
+      "street": "3609 South Boulevard",
+      "zip": "28209",
+      "coordinates": {
+        "lat": 35.192256,
+        "lng": -80.873322
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19851",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "3710 W W.T.Harris Blvd, Charlotte, NC 28269, USA",
+      "street": "3710 West W T Harris Boulevard",
+      "zip": "28269",
+      "coordinates": {
+        "lat": 35.334499,
+        "lng": -80.79312
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19852",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "5301 Wilkinson Blvd, Charlotte, NC 28208, USA",
+      "street": "5301 Wilkinson Boulevard",
+      "zip": "28208",
+      "coordinates": {
+        "lat": 35.231486,
+        "lng": -80.927168
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19853",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "5301 Wilkinson Blvd, Charlotte, NC 28208, USA",
+      "street": "5301 Wilkinson Boulevard",
+      "zip": "28208",
+      "coordinates": {
+        "lat": 35.231486,
+        "lng": -80.927168
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19854",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "5808 University Pointe Blvd, Charlotte, NC 28262, USA",
+      "street": "5808 University Pointe Boulevard",
+      "zip": "28262",
+      "coordinates": {
+        "lat": 35.297222,
+        "lng": -80.758333
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19855",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "6607 South Blvd, Charlotte, NC 28217, USA",
+      "street": "6607 South Boulevard",
+      "zip": "28217",
+      "coordinates": {
+        "lat": 35.143926,
+        "lng": -80.875786
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19856",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "9305 Albemarle Rd, Charlotte, NC 28227, USA",
+      "street": "9305 Albemarle Road",
+      "zip": "28227",
+      "coordinates": {
+        "lat": 35.211872,
+        "lng": -80.686135
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19857",
+      "title": "Goodwill - Charlotte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Charlotte",
+      "address": "9605 N Tryon St, Charlotte, NC 28262, USA",
+      "street": "9605 North Tryon Street",
+      "zip": "28262",
+      "coordinates": {
+        "lat": 35.317383,
+        "lng": -80.739858
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-charlotte-16/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19882",
+      "title": "Goodwill - China Grove",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1460 S Main St, China Grove, NC 28023, USA",
+      "street": "1460 South Main Street",
+      "zip": "28023",
+      "coordinates": {
+        "lat": 35.558793,
+        "lng": -80.595829
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-china-grove/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19904",
+      "title": "Goodwill - Clemmons",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "2635 Lewisville Clemmons Rd, Clemmons, NC 27012, USA",
+      "street": "Lewisville Clemmons Road",
+      "zip": "27012",
+      "coordinates": {
+        "lat": 36.025294,
+        "lng": -80.380912
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-clemmons/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19915",
+      "title": "Goodwill - Waynesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "229 Paragon Pkwy, Clyde, NC 28721, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.526912,
+        "lng": -82.955057
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-waynesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19949",
+      "title": "Goodwill - Concord",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Concord",
+      "address": "5511 Poplar Tent Rd, Concord, NC 28027, USA",
+      "street": "5511 Poplar Tent Road",
+      "zip": "28027",
+      "coordinates": {
+        "lat": 35.410722,
+        "lng": -80.668628
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-concord-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19950",
+      "title": "Goodwill - East Hildebran",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "511 U.S. Hwy 70 SW, Connelly Springs, NC 28612, USA",
+      "street": "",
+      "zip": "28612",
+      "coordinates": {
+        "lat": 35.71449,
+        "lng": -81.420387
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-east-hildebran/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19952",
+      "title": "Goodwill - Conover",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "835 Conover Blvd W, Conover, NC 28613, USA",
+      "street": "Conover Boulevard West",
+      "zip": "28613",
+      "coordinates": {
+        "lat": 35.693607,
+        "lng": -81.239127
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-conover/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19969",
+      "title": "Goodwill - Cornelius",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "19710 Kunkleman Dr, Cornelius, NC 28031, USA",
+      "street": "19710 Kunkleman Drive",
+      "zip": "28031",
+      "coordinates": {
+        "lat": 35.481614,
+        "lng": -80.885641
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-cornelius/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20051",
+      "title": "Goodwill - Denver",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "6113 NC-16 S, Denver, NC 28037, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.55697,
+        "lng": -81.064736
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-denver-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20065",
+      "title": "Goodwill - Dobson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "600 E Atkins St, Dobson, NC 27017, USA",
+      "street": "600 East Atkins Street",
+      "zip": "27017",
+      "coordinates": {
+        "lat": 36.394067,
+        "lng": -80.715811
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-dobson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20113",
+      "title": "Goodwill - Elkin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "477 CC Camp Rd, Elkin, NC 28621, USA",
+      "street": "477 CC Camp Road",
+      "zip": "28621",
+      "coordinates": {
+        "lat": 36.274928,
+        "lng": -80.844439
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-elkin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20170",
+      "title": "Goodwill - Fletcher",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "3530 Hendersonville Rd, Fletcher, NC 28732, USA",
+      "street": "3530 Hendersonville Road",
+      "zip": "28732",
+      "coordinates": {
+        "lat": 35.433763,
+        "lng": -82.50112
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-fletcher/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20207",
+      "title": "Goodwill - Franklin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "295 Westgate Plaza, Franklin, NC 28734, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.164194,
+        "lng": -83.398803
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-franklin-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20236",
+      "title": "Goodwill - Gastonia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Gastonia",
+      "address": "2549 W Franklin Blvd, Gastonia, NC 28052, USA",
+      "street": "2549 West Franklin Boulevard",
+      "zip": "28052",
+      "coordinates": {
+        "lat": 35.256955,
+        "lng": -81.227056
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-gastonia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20237",
+      "title": "Goodwill - Lowell",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Gastonia",
+      "address": "1004 S Church St, Gastonia, NC 28054, USA",
+      "street": "1004 South Church Street",
+      "zip": "28054",
+      "coordinates": {
+        "lat": 35.258824,
+        "lng": -81.111893
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-lowell/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20260",
+      "title": "Goodwill - Black Mountain",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "2978 US Hwy 70 W #5, Goldsboro, NC 27530, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.432921,
+        "lng": -78.067008
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-black-mountain/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20272",
+      "title": "Goodwill - Granite Quarry",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "900 N Salisbury GQ Ave, Granite Quarry, NC 28146, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.627419,
+        "lng": -80.446137
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-granite-quarry/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20355",
+      "title": "Goodwill - Hendersonville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1717 4 Seasons Blvd, Hendersonville, NC 28792, USA",
+      "street": "Four Seasons Boulevard",
+      "zip": "28792",
+      "coordinates": {
+        "lat": 35.335784,
+        "lng": -82.447814
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-hendersonville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20356",
+      "title": "Goodwill - Hendersonville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1731 Brevard Rd, Hendersonville, NC 28791, USA",
+      "street": "Brevard Road",
+      "zip": "28791",
+      "coordinates": {
+        "lat": 35.321309,
+        "lng": -82.491654
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-hendersonville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20357",
+      "title": "Goodwill - Highway Hendersonville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "2111 Asheville Hwy, Hendersonville, NC 28791, USA",
+      "street": "2111 Asheville Highway",
+      "zip": "28791",
+      "coordinates": {
+        "lat": 35.340119,
+        "lng": -82.475407
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-highway-hendersonville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20372",
+      "title": "Goodwill - Bethlehem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Hickory",
+      "address": "9441 NC-127, Hickory, NC 28601, USA",
+      "street": "2nd Street Northeast",
+      "zip": "28601",
+      "coordinates": {
+        "lat": 35.816585,
+        "lng": -81.303578
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-bethlehem-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20373",
+      "title": "Goodwill - Hickory",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Hickory",
+      "address": "1172 Old Lenoir Rd, Hickory, NC 28601, USA",
+      "street": "1172 Old Lenoir Road",
+      "zip": "28601",
+      "coordinates": {
+        "lat": 35.747125,
+        "lng": -81.363546
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-hickory/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20374",
+      "title": "Goodwill - Hickory",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Hickory",
+      "address": "1877 N Center St, Hickory, NC 28601, USA",
+      "street": "1877 North Center Street",
+      "zip": "28601",
+      "coordinates": {
+        "lat": 35.757821,
+        "lng": -81.33573
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-hickory-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20375",
+      "title": "Goodwill - Hickory",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Hickory",
+      "address": "2515 Springs Rd NE, Hickory, NC 28601, USA",
+      "street": "2515 Springs Road Northeast",
+      "zip": "28601",
+      "coordinates": {
+        "lat": 35.754669,
+        "lng": -81.284057
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-hickory-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20376",
+      "title": "Goodwill - South Hickory",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Hickory",
+      "address": "3206 NC-127, Hickory, NC 28602, USA",
+      "street": "3206 NC 127",
+      "zip": "28602",
+      "coordinates": {
+        "lat": 35.682395,
+        "lng": -81.374117
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-south-hickory/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20462",
+      "title": "Goodwill - Hudson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "3076 Hickory Blvd, Hudson, NC 28638, USA",
+      "street": "3076 Hickory Boulevard",
+      "zip": "28638",
+      "coordinates": {
+        "lat": 35.845925,
+        "lng": -81.473334
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-hudson-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20466",
+      "title": "Goodwill - Huntersville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "14420 Statesville Rd, Huntersville, NC 28078, USA",
+      "street": "14420 South Old Statesville Road",
+      "zip": "28078",
+      "coordinates": {
+        "lat": 35.413651,
+        "lng": -80.855558
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-huntersville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20534",
+      "title": "Goodwill - Kannapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Kannapolis",
+      "address": "1806 S Cannon Blvd, Kannapolis, NC 28083, USA",
+      "street": "1806 South Cannon Boulevard",
+      "zip": "28083",
+      "coordinates": {
+        "lat": 35.469012,
+        "lng": -80.610619
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-kannapolis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20535",
+      "title": "Goodwill - Kannapolis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Kannapolis",
+      "address": "2303 Coldwater Ridge Dr, Kannapolis, NC 28083, USA",
+      "street": "2303 Coldwater Ridge Drive",
+      "zip": "28083",
+      "coordinates": {
+        "lat": 35.468666,
+        "lng": -80.591013
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-kannapolis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20555",
+      "title": "Goodwill - Kernersville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "344 N Main St, Kernersville, NC 27284, USA",
+      "street": "344 North Main Street",
+      "zip": "27284",
+      "coordinates": {
+        "lat": 36.124719,
+        "lng": -80.069514
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-kernersville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20556",
+      "title": "Goodwill - Kernersville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "811 S Main St, Kernersville, NC 27284, USA",
+      "street": "811 South Main Street",
+      "zip": "27284",
+      "coordinates": {
+        "lat": 36.110866,
+        "lng": -80.085554
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-kernersville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20561",
+      "title": "Goodwill - St. King",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "King",
+      "address": "601 S Main St, King, NC 27021, USA",
+      "street": "601 South Main Street",
+      "zip": "27021",
+      "coordinates": {
+        "lat": 36.267379,
+        "lng": -80.360232
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-st-king/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20562",
+      "title": "Goodwill - St. King",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "King",
+      "address": "705f S Main St, King, NC 27021, USA",
+      "street": "South Main Street",
+      "zip": "27021",
+      "coordinates": {
+        "lat": 36.26361,
+        "lng": -80.360814
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-st-king-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20619",
+      "title": "Goodwill - Lansing",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "9309 NC-194, Lansing, NC 28643, USA",
+      "street": "9309 NC 194",
+      "zip": "28643",
+      "coordinates": {
+        "lat": 36.49855,
+        "lng": -81.511137
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-lansing-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20662",
+      "title": "Goodwill - NE Lenoir",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Lenoir",
+      "address": "960 Blowing Rock Blvd, Lenoir, NC 28645, USA",
+      "street": "960 Blowing Rock Boulevard",
+      "zip": "27104",
+      "coordinates": {
+        "lat": 35.928891,
+        "lng": -81.526428
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-ne-lenoir/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20667",
+      "title": "Goodwill - Lewisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "6750 Shallowford Rd, Lewisville, NC 27023, USA",
+      "street": "6750 Shallowford Road",
+      "zip": "27023",
+      "coordinates": {
+        "lat": 36.093636,
+        "lng": -80.428716
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-lewisville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20680",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "251 Lowes Blvd, Lexington, NC 27292, USA",
+      "street": "Lowes Boulevard",
+      "zip": "27292",
+      "coordinates": {
+        "lat": 35.791098,
+        "lng": -80.261317
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-lexington-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20681",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "719 W Center St, Lexington, NC 27292, USA",
+      "street": "719 West Center Street",
+      "zip": "27292",
+      "coordinates": {
+        "lat": 35.830891,
+        "lng": -80.26271
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-lexington-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20687",
+      "title": "Goodwill - Lincolnton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "510 Vaughn Way, Lincolnton, NC 28092, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.491781,
+        "lng": -81.244889
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-lincolnton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20787",
+      "title": "Goodwill - Marion",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "535 N Main St, Marion, NC 28752, USA",
+      "street": "535 North Main Street",
+      "zip": "28752",
+      "coordinates": {
+        "lat": 35.688493,
+        "lng": -82.015971
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-marion-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20790",
+      "title": "Goodwill - Marshall",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "4646 US-25 #70, Marshall, NC 28753, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.804642,
+        "lng": -82.660146
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-marshall-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20799",
+      "title": "Goodwill - Matthews",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "2515 Plantation Center Dr, Matthews, NC 28105, USA",
+      "street": "2515 Plantation Center Drive",
+      "zip": "28105",
+      "coordinates": {
+        "lat": 35.084336,
+        "lng": -80.733525
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-matthews/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20899",
+      "title": "Goodwill - Mill's River",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "4180 Haywood Rd, Mills River, NC 28759, USA",
+      "street": "Haywood Road",
+      "zip": "28742",
+      "coordinates": {
+        "lat": 35.386802,
+        "lng": -82.565688
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-mills-river/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20924",
+      "title": "Goodwill - Mocksville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1355 Yadkinville Rd, Mocksville, NC 27028, USA",
+      "street": "1355 Yadkinville Road",
+      "zip": "27028",
+      "coordinates": {
+        "lat": 35.917195,
+        "lng": -80.584246
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-mocksville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20936",
+      "title": "Goodwill - Monroe",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "4109 W Hwy 74, Monroe, NC 28110, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.038025,
+        "lng": -80.603159
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-monroe-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20954",
+      "title": "Goodwill - Mooresville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1086 River Hwy, Mooresville, NC 28117, USA",
+      "street": "1086 River Highway",
+      "zip": "28117",
+      "coordinates": {
+        "lat": 35.605087,
+        "lng": -80.904571
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-mooresville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20955",
+      "title": "Goodwill - Mooresville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "214 Williamson Rd, Mooresville, NC 28117, USA",
+      "street": "214 Williamson Road",
+      "zip": "28117",
+      "coordinates": {
+        "lat": 35.590502,
+        "lng": -80.874316
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-mooresville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20959",
+      "title": "Goodwill - Morganton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "112 Bost Rd #110, Morganton, NC 28655, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.754963,
+        "lng": -81.715122
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-morganton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20960",
+      "title": "Goodwill - Morganton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "118 Bost Rd, Morganton, NC 28655, USA",
+      "street": "118 Bost Road",
+      "zip": "28655",
+      "coordinates": {
+        "lat": 35.754558,
+        "lng": -81.714678
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-morganton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20966",
+      "title": "Goodwill - Mt Airy",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1986 Rockford St, Mt Airy, NC 27030, USA",
+      "street": "1986 Rockford Street",
+      "zip": "27030",
+      "coordinates": {
+        "lat": 36.482088,
+        "lng": -80.615216
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-mt-airy/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21067",
+      "title": "Goodwill - Conover",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "833 Conover Blvd W, Newton, NC 28658, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.695229,
+        "lng": -81.238387
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-conover-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21068",
+      "title": "Goodwill - Newton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "2725 Northwest Blvd, Newton, NC 28658, USA",
+      "street": "2725 Northwest Boulevard",
+      "zip": "28658",
+      "coordinates": {
+        "lat": 35.693456,
+        "lng": -81.227917
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-newton-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21105",
+      "title": "Goodwill - Wilkesboro",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "21 Sparta Rd, North Wilkesboro, NC 28659, USA",
+      "street": "21 Sparta Road",
+      "zip": "28659",
+      "coordinates": {
+        "lat": 36.180783,
+        "lng": -81.147464
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-wilkesboro/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21264",
+      "title": "Goodwill - Pilot Mountain",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "647 S Key St, Pilot Mountain, NC 27041, USA",
+      "street": "647 South Key Street",
+      "zip": "27041",
+      "coordinates": {
+        "lat": 36.380242,
+        "lng": -80.479493
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-pilot-mountain/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21272",
+      "title": "Goodwill - Pisgah Forest",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "210 Forest Gate Ctr Bi-lo, Pisgah Forest, NC 28768, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.275237,
+        "lng": -82.703964
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-pisgah-forest/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21327",
+      "title": "Goodwill - Promenade Mooresville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "Brawley School Rd & Mayhew Rd, North Carolina 28117, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.502355,
+        "lng": -80.940408
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-promenade-mooresville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21416",
+      "title": "Goodwill - Rural Hall",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "180 Northstar Dr, Rural Hall, NC 27045, USA",
+      "street": "Northstar Drive",
+      "zip": "27045",
+      "coordinates": {
+        "lat": 36.206981,
+        "lng": -80.288712
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-rural-hall/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21437",
+      "title": "Goodwill - Salisbury",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Salisbury",
+      "address": "123 Mahaley Ave, Salisbury, NC 28144, USA",
+      "street": "Mahaley Avenue",
+      "zip": "28144",
+      "coordinates": {
+        "lat": 35.684086,
+        "lng": -80.480796
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-salisbury-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21438",
+      "title": "Goodwill - Salisbury",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Salisbury",
+      "address": "836 Jake Alexander Blvd W, Salisbury, NC 28147, USA",
+      "street": "836 Jake Alexander Boulevard West",
+      "zip": "28147",
+      "coordinates": {
+        "lat": 35.667531,
+        "lng": -80.498734
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-salisbury-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21470",
+      "title": "Goodwill - Shelby",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "445 Earl Rd, Shelby, NC 28150, USA",
+      "street": "445 Earl Road",
+      "zip": "28150",
+      "coordinates": {
+        "lat": 35.277939,
+        "lng": -81.532601
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-shelby/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21519",
+      "title": "Goodwill - Southmont",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "131 Ave K, Southmont, NC 27351, USA",
+      "street": "131 Avenue K",
+      "zip": "27292",
+      "coordinates": {
+        "lat": 35.663239,
+        "lng": -80.264683
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-southmont/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21573",
+      "title": "Goodwill - Statesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Statesville",
+      "address": "103 Northcross Ln, Statesville, NC 28625, USA",
+      "street": "103 Northcross Lane",
+      "zip": "28625",
+      "coordinates": {
+        "lat": 35.81799,
+        "lng": -80.876953
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-statesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21574",
+      "title": "Goodwill - Statesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Statesville",
+      "address": "141 Wilkesboro Hwy, Statesville, NC 28625, USA",
+      "street": "Wilkesboro Highway",
+      "zip": "28689",
+      "coordinates": {
+        "lat": 35.920639,
+        "lng": -80.954968
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-statesville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21607",
+      "title": "Goodwill - Sylva",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "182 Walmart Plaza, Sylva, NC 28779, USA",
+      "street": "Walmart Plaza",
+      "zip": "28779",
+      "coordinates": {
+        "lat": 35.362206,
+        "lng": -83.204204
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-sylva/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21608",
+      "title": "Goodwill - Sylva",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "601 E Main St, Sylva, NC 28779, USA",
+      "street": "601 East Main Street",
+      "zip": "28779",
+      "coordinates": {
+        "lat": 35.370487,
+        "lng": -83.203737
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-sylva-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21616",
+      "title": "Goodwill - Thomasville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1585 Liberty Dr, Thomasville, NC 27360, USA",
+      "street": "1585 Liberty Drive",
+      "zip": "27360",
+      "coordinates": {
+        "lat": 35.855756,
+        "lng": -80.065412
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-thomasville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21617",
+      "title": "Goodwill - Thomasville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "903 Randolph St, Thomasville, NC 27360, USA",
+      "street": "903 Randolph Street",
+      "zip": "27360",
+      "coordinates": {
+        "lat": 35.870301,
+        "lng": -80.073136
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-thomasville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21630",
+      "title": "Goodwill - Taylorsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "781 NC-16, Taylorsville, NC 28681, USA",
+      "street": "781 NC 16",
+      "zip": "28681",
+      "coordinates": {
+        "lat": 35.910694,
+        "lng": -81.176445
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-taylorsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21636",
+      "title": "Goodwill - Troutman",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "522 N Main St, Troutman, NC 28166, USA",
+      "street": "522 North Main Street",
+      "zip": "28166",
+      "coordinates": {
+        "lat": 35.711668,
+        "lng": -80.894196
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-troutman/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21683",
+      "title": "Goodwill - Walkertown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "5208 Neal Trail Dr, Walkertown, NC 27051, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.164705,
+        "lng": -80.134964
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-walkertown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21685",
+      "title": "Goodwill - Walnut Cove",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1033 N Main St, Walnut Cove, NC 27052, USA",
+      "street": "1033 North Main Street",
+      "zip": "27052",
+      "coordinates": {
+        "lat": 36.310206,
+        "lng": -80.141332
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-walnut-cove/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21708",
+      "title": "Goodwill - Waynesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1209 Russ Ave, Waynesville, NC 28786, USA",
+      "street": "Russ Avenue",
+      "zip": "28786",
+      "coordinates": {
+        "lat": 35.509956,
+        "lng": -82.994336
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-waynesville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21710",
+      "title": "Goodwill - Weaverville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "160 Weaver Blvd, Weaverville, NC 28787, USA",
+      "street": "160 Weaver Boulevard",
+      "zip": "28787",
+      "coordinates": {
+        "lat": 35.703383,
+        "lng": -82.569005
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-weaverville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21711",
+      "title": "Goodwill - Weaverville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "50 Weaver Blvd, Weaverville, NC 28787, USA",
+      "street": "50 Weaver Boulevard",
+      "zip": "28787",
+      "coordinates": {
+        "lat": 35.702546,
+        "lng": -82.562329
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-weaverville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21725",
+      "title": "Goodwill - West Jefferson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1291 Mt Jefferson Rd, West Jefferson, NC 28694, USA",
+      "street": "1291 Mount Jefferson Road",
+      "zip": "28694",
+      "coordinates": {
+        "lat": 36.39426,
+        "lng": -81.480718
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-west-jefferson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21726",
+      "title": "Goodwill - West Jefferson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "247 Mt Jefferson Rd, West Jefferson, NC 28694, USA",
+      "street": "247 Mount Jefferson Road",
+      "zip": "28694",
+      "coordinates": {
+        "lat": 36.408808,
+        "lng": -81.482449
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-west-jefferson-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21770",
+      "title": "Goodwill - Wilkesboro",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "1001 Gateway Ave, Wilkesboro, NC 28697, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.152418,
+        "lng": -81.199314
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-wilkesboro-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21789",
+      "title": "Goodwill - Midway",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "185 Hickory Tree Rd, Winston-Salem, NC 27107, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.967452,
+        "lng": -80.22442
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-midway/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21790",
+      "title": "Goodwill - Wallburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "4348 Thomasville Rd, Winston-Salem, NC 27107, USA",
+      "street": "Thomasville Road",
+      "zip": "27107",
+      "coordinates": {
+        "lat": 36.031824,
+        "lng": -80.169547
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-wallburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21791",
+      "title": "Goodwill - Winston Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "2760 Peters Creek Pkwy, Winston-Salem, NC 27127, USA",
+      "street": "Peters Creek Parkway",
+      "zip": "27127",
+      "coordinates": {
+        "lat": 36.051379,
+        "lng": -80.26062
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21792",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "1000 Hanes Mall Blvd, Winston-Salem, NC 27103, USA",
+      "street": "1000 Hanes Mall Boulevard",
+      "zip": "27103",
+      "coordinates": {
+        "lat": 36.066865,
+        "lng": -80.315392
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21793",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "1415 S Hawthorne Rd, Winston-Salem, NC 27103, USA",
+      "street": "1415 South Hawthorne Road",
+      "zip": "27103",
+      "coordinates": {
+        "lat": 36.076928,
+        "lng": -80.285494
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21794",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "208 Jonestown Rd, Winston-Salem, NC 27104, USA",
+      "street": "208 Jonestown Road",
+      "zip": "27104",
+      "coordinates": {
+        "lat": 36.077648,
+        "lng": -80.33591
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21795",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "2701 University Pkwy, Winston-Salem, NC 27105, USA",
+      "street": "2701 University Parkway",
+      "zip": "27105",
+      "coordinates": {
+        "lat": 36.124989,
+        "lng": -80.257502
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21796",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "320 E Hanes Mill Rd, Winston-Salem, NC 27105, USA",
+      "street": "320 East Hanes Mill Road",
+      "zip": "27105",
+      "coordinates": {
+        "lat": 36.192512,
+        "lng": -80.274459
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21797",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "3500 Old Salisbury Rd, Winston-Salem, NC 27127, USA",
+      "street": "3500 Old Salisbury Road",
+      "zip": "27127",
+      "coordinates": {
+        "lat": 35.995281,
+        "lng": -80.269194
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21798",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "3500 Yadkinville Rd, Winston-Salem, NC 27106, USA",
+      "street": "3500 Yadkinville Road",
+      "zip": "27106",
+      "coordinates": {
+        "lat": 36.15422,
+        "lng": -80.313004
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21799",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "3510 Polo Rd NW, Winston-Salem, NC 27106, USA",
+      "street": "3510 Polo Road Northwest",
+      "zip": "27106",
+      "coordinates": {
+        "lat": 36.119186,
+        "lng": -80.317494
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21800",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "4550 Kester Mill Rd, Winston-Salem, NC 27103, USA",
+      "street": "4550 Kester Mill Road",
+      "zip": "27103",
+      "coordinates": {
+        "lat": 36.067246,
+        "lng": -80.33758
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21801",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "5000 Old Walkertown Rd, Winston-Salem, NC 27105, USA",
+      "street": "5000 Old Walkertown Road",
+      "zip": "27105",
+      "coordinates": {
+        "lat": 36.157934,
+        "lng": -80.20464
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21802",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "514 Waughtown St, Winston-Salem, NC 27127, USA",
+      "street": "514 Waughtown Street",
+      "zip": "27127",
+      "coordinates": {
+        "lat": 36.072564,
+        "lng": -80.229915
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21803",
+      "title": "Goodwill - Winston-Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Winston-Salem",
+      "address": "5175 Brookberry Park Ave, Winston-Salem, NC 27104, USA",
+      "street": "5175 Brookberry Park Avenue",
+      "zip": "27104",
+      "coordinates": {
+        "lat": 36.094046,
+        "lng": -80.367344
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-winston-salem-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21821",
+      "title": "Goodwill - Yadkinville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "North Carolina",
+      "stateSlug": "north-carolina",
+      "city": "Unknown",
+      "address": "917 S State St, Yadkinville, NC 27055, USA",
+      "street": "917 South State Street",
+      "zip": "27055",
+      "coordinates": {
+        "lat": 36.117383,
+        "lng": -80.659093
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/north-carolina/goodwill-yadkinville/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

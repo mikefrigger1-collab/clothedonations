@@ -1,0 +1,4395 @@
+{
+  "name": "Illinois",
+  "slug": "illinois",
+  "locations": [
+    {
+      "id": "16293",
+      "title": "America's Thrift Stores - Champaign",
+      "company": "America's Thrift Stores",
+      "description": "America’s Thrift Stores adds over 10,000 new items of donated goods to their stores – every day. All thanks to the generous donations from the thousands of Americans that give to them.\n\nThey have more than 2,500 donations bins around the country, accepting donations such as shoes, accessories, linen, appliances, electronics, toys, books, and furniture.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Champaign",
+      "address": "101 W Anthony Dr, Champaign, IL 61820, USA",
+      "street": "101 West Anthony Drive",
+      "zip": "61822",
+      "coordinates": {
+        "lat": 40.137028,
+        "lng": -88.243777
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Toys"
+      ],
+      "logo": "americas-thrift-stores.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/americas-thrift-stores-champaign/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17210",
+      "title": "Savers - Arlington Heights",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "115 W Rand Rd, Arlington Heights, IL 60004, USA",
+      "street": "115 West Rand Road",
+      "zip": "60004",
+      "coordinates": {
+        "lat": 42.114178,
+        "lng": -87.983585
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-arlington-heights/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17211",
+      "title": "Savers - Arlington Heights",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "960 W Dundee Rd, Arlington Heights, IL 60004, USA",
+      "street": "960 West Dundee Road",
+      "zip": "60004",
+      "coordinates": {
+        "lat": 42.140878,
+        "lng": -87.994244
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-arlington-heights-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17244",
+      "title": "Savers - Carol Stream",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1231 N Gary Ave, Carol Stream, IL 60188, USA",
+      "street": "1231 North Gary Avenue",
+      "zip": "60188",
+      "coordinates": {
+        "lat": 41.935428,
+        "lng": -88.117698
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-carol-stream/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17251",
+      "title": "Savers - Chicago",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "3000 S Halsted St, Chicago, IL 60608, USA",
+      "street": "3000 South Halsted Street",
+      "zip": "60608",
+      "coordinates": {
+        "lat": 41.839512,
+        "lng": -87.647132
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-chicago/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17252",
+      "title": "Savers - Chicago",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "3748 N Elston Ave, Chicago, IL 60618, USA",
+      "street": "3748 North Elston Avenue",
+      "zip": "60618",
+      "coordinates": {
+        "lat": 41.949573,
+        "lng": -87.713644
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-chicago-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17253",
+      "title": "Savers - Chicago",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "6560 W Fullerton Ave, Chicago, IL 60707, USA",
+      "street": "6560 West Fullerton Avenue",
+      "zip": "60707",
+      "coordinates": {
+        "lat": 41.92578,
+        "lng": -87.789967
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-chicago-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17272",
+      "title": "Savers - Crestwood",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "13200 S Cicero Ave, Crestwood, IL 60445, USA",
+      "street": "Cicero Avenue",
+      "zip": "60445",
+      "coordinates": {
+        "lat": 41.653997,
+        "lng": -87.743653
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-crestwood/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17273",
+      "title": "Savers - Crystal Lake",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "230 W Virginia St, Crystal Lake, IL 60014, USA",
+      "street": "230 West Virginia Street",
+      "zip": "60014",
+      "coordinates": {
+        "lat": 42.229812,
+        "lng": -88.328638
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-crystal-lake/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17296",
+      "title": "Savers - Fairview Heights",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "10899 Lincoln Trail, Fairview Heights, IL 62208, USA",
+      "street": "10899 Lincoln Trail",
+      "zip": "62208",
+      "coordinates": {
+        "lat": 38.593802,
+        "lng": -89.988789
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-fairview-heights/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17309",
+      "title": "Savers - Frankfort Square",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "7713 W Saint Francis Rd, Frankfort, IL 60423, USA",
+      "street": "7713 West Saint Francis Road",
+      "zip": "60423",
+      "coordinates": {
+        "lat": 41.520432,
+        "lng": -87.802898
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-frankfort-square/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17324",
+      "title": "Savers - Hoffman Estates",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "26 Golf Center, Hoffman Estates, IL 60169, USA",
+      "street": "26 Golf Center",
+      "zip": "60169",
+      "coordinates": {
+        "lat": 42.046979,
+        "lng": -88.081908
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-hoffman-estates/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17327",
+      "title": "Savers - Homer Glen",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "14801 S Bell Rd, Homer Glen, IL 60491, USA",
+      "street": "14801 South Bell Road",
+      "zip": "60491",
+      "coordinates": {
+        "lat": 41.622324,
+        "lng": -87.930766
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-homer-glen/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17378",
+      "title": "Savers - Markham",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "16640 Kedzie Ave, Markham, IL 60428, USA",
+      "street": "16640 Kedzie Avenue",
+      "zip": "60429",
+      "coordinates": {
+        "lat": 41.586652,
+        "lng": -87.694859
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-markham/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17382",
+      "title": "Savers - Midlothian",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "4740 147th St, Midlothian, IL 60445, USA",
+      "street": "4740 147th Street",
+      "zip": "60445",
+      "coordinates": {
+        "lat": 41.625486,
+        "lng": -87.735893
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-midlothian/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17390",
+      "title": "Savers - Naperville",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Naperville",
+      "address": "510 Illinois Rte 59, Naperville, IL 60540, USA",
+      "street": "510 Illinois Route 59",
+      "zip": "60563",
+      "coordinates": {
+        "lat": 41.761528,
+        "lng": -88.202269
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-naperville/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17411",
+      "title": "Savers - Orland Park",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "15625 94th Ave, Orland Park, IL 60462, USA",
+      "street": "15625 South 94th Avenue",
+      "zip": "60462",
+      "coordinates": {
+        "lat": 41.606915,
+        "lng": -87.847952
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-orland-park/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17421",
+      "title": "Savers - Posen",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "Sacramento St & 147th St, Posen, IL 60469, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.625953,
+        "lng": -87.693459
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-posen/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17469",
+      "title": "Savers - Tinley Park",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "16199 S Harlem Ave, Tinley Park, IL 60477, USA",
+      "street": "South Harlem Avenue",
+      "zip": "60487",
+      "coordinates": {
+        "lat": 41.596358,
+        "lng": -87.792351
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-tinley-park/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17470",
+      "title": "Savers - Tinley Park",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "7212 W 191st St, Tinley Park, IL 60487, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.545272,
+        "lng": -87.79387
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/savers-tinley-park-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17642",
+      "title": "Salvation Army - Arlington Heights",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1035 E Rand Rd, Arlington Heights, IL 60004, USA",
+      "street": "East Rand Road",
+      "zip": "60004",
+      "coordinates": {
+        "lat": 42.105341,
+        "lng": -87.970615
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-arlington-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17706",
+      "title": "Salvation Army - Belvidere",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "112 S State St, Belvidere, IL 61008, USA",
+      "street": "112 South State Street",
+      "zip": "61008",
+      "coordinates": {
+        "lat": 42.25953,
+        "lng": -88.841035
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-belvidere/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17716",
+      "title": "Salvation Army - Bloomington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "No Handicap Access Door, 611 W Washington St, Bloomington, IL 61701, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.479735,
+        "lng": -88.999296
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-bloomington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17719",
+      "title": "Salvation Army - Blue Mound",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "300 W Mound St, Blue Mound, IL 62513, USA",
+      "street": "300 West Mound Street",
+      "zip": "62513",
+      "coordinates": {
+        "lat": 39.701234,
+        "lng": -89.124118
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-blue-mound/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17741",
+      "title": "Salvation Army - Bridgeview",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "9000 S Harlem Ave, Bridgeview, IL 60455, USA",
+      "street": "Harlem Avenue",
+      "zip": "60455",
+      "coordinates": {
+        "lat": 41.727723,
+        "lng": -87.800354
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-bridgeview/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17788",
+      "title": "Salvation Army - Cambridge",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "118 W Court St, Cambridge, IL 61238, USA",
+      "street": "118 West Court Street",
+      "zip": "61238",
+      "coordinates": {
+        "lat": 41.301749,
+        "lng": -90.19403
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-cambridge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17827",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "1 N Ogden Ave, Chicago, IL 60607, USA",
+      "street": "1 North Ogden Avenue",
+      "zip": "60607",
+      "coordinates": {
+        "lat": 41.88169,
+        "lng": -87.665239
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17828",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "2151 W Devon Ave, Chicago, IL 60659, USA",
+      "street": "2151 West Devon Avenue",
+      "zip": "60659",
+      "coordinates": {
+        "lat": 41.997607,
+        "lng": -87.684693
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17829",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "2270 N Clybourn Ave, Chicago, IL 60614, USA",
+      "street": "2270 North Clybourn Avenue",
+      "zip": "60614",
+      "coordinates": {
+        "lat": 41.923141,
+        "lng": -87.66672
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17830",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "2941 N Central Ave, Chicago, IL 60634, USA",
+      "street": "2941-2949 North Central Avenue",
+      "zip": "60639",
+      "coordinates": {
+        "lat": 41.934492,
+        "lng": -87.766109
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17831",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "3301 W Montrose Ave, Chicago, IL 60618, USA",
+      "street": "3301-3309 West Montrose Avenue",
+      "zip": "60625",
+      "coordinates": {
+        "lat": 41.960981,
+        "lng": -87.711027
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17832",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "3401 W 47th St, Chicago, IL 60632, USA",
+      "street": "3401-3405 West 47th Street",
+      "zip": "60638",
+      "coordinates": {
+        "lat": 41.807347,
+        "lng": -87.709103
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17833",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "3621 W 24th St, Chicago, IL 60623, USA",
+      "street": "3621 West 24th Street",
+      "zip": "60623",
+      "coordinates": {
+        "lat": 41.8478,
+        "lng": -87.715755
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17834",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "4052 W Grand Ave, Chicago, IL 60651, USA",
+      "street": "4052 West Grand Avenue",
+      "zip": "60651",
+      "coordinates": {
+        "lat": 41.907718,
+        "lng": -87.728267
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17835",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "4077 S Pulaski Rd, Chicago, IL 60632, USA",
+      "street": "4077 South Pulaski Road",
+      "zip": "60632",
+      "coordinates": {
+        "lat": 41.818824,
+        "lng": -87.723881
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17836",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "4315 N Broadway, Chicago, IL 60613, USA",
+      "street": "4315 North Broadway",
+      "zip": "60613",
+      "coordinates": {
+        "lat": 41.960564,
+        "lng": -87.653913
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17837",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "5020 N Pulaski Rd, Chicago, IL 60630, USA",
+      "street": "5020-5040 North Pulaski Road",
+      "zip": "60659",
+      "coordinates": {
+        "lat": 41.972982,
+        "lng": -87.730736
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17838",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "509 N Union Ave, Chicago, IL 60654, USA",
+      "street": "509 North Union Avenue",
+      "zip": "60654",
+      "coordinates": {
+        "lat": 41.89164,
+        "lng": -87.645549
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17839",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "525 N Western Ave, Chicago, IL 60612, USA",
+      "street": "525 North Western Avenue",
+      "zip": "60612",
+      "coordinates": {
+        "lat": 41.891452,
+        "lng": -87.686345
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17840",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "5713 W Chicago Ave, Chicago, IL 60651, USA",
+      "street": "West Chicago Avenue",
+      "zip": "60651",
+      "coordinates": {
+        "lat": 41.894512,
+        "lng": -87.768454
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17841",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "5950 S Spaulding Ave, Chicago, IL 60629, USA",
+      "street": "5950 South Spaulding Avenue",
+      "zip": "60629",
+      "coordinates": {
+        "lat": 41.784685,
+        "lng": -87.705946
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17842",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "945 W 69th St, Chicago, IL 60621, USA",
+      "street": "945 West 69th Street",
+      "zip": "60621",
+      "coordinates": {
+        "lat": 41.768465,
+        "lng": -87.648941
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-16/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17843",
+      "title": "Salvation Army - Oak Park",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "6536 W Roosevelt Rd, Chicago, IL 60608, USA",
+      "street": "West Roosevelt Road",
+      "zip": "60608",
+      "coordinates": {
+        "lat": 41.865513,
+        "lng": -87.788287
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-oak-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17852",
+      "title": "Salvation Army - Chicago",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2337 S Laramie Ave, Cicero, IL 60804, USA",
+      "street": "2337 South Laramie Avenue",
+      "zip": "60804",
+      "coordinates": {
+        "lat": 41.84808,
+        "lng": -87.753532
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-chicago-17/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17953",
+      "title": "Salvation Army - Decatur",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Decatur",
+      "address": "229 W Main St, Decatur, IL 62523, USA",
+      "street": "229 West Main Street",
+      "zip": "62523",
+      "coordinates": {
+        "lat": 39.841114,
+        "lng": -88.958068
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-decatur-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17954",
+      "title": "Salvation Army - Decatur",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Decatur",
+      "address": "2901 N Water St, Decatur, IL 62526, USA",
+      "street": "2901 North Water Street",
+      "zip": "62526",
+      "coordinates": {
+        "lat": 39.874927,
+        "lng": -88.955899
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-decatur-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17956",
+      "title": "Salvation Army - Dekalb",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1814 Sycamore Rd, DeKalb, IL 60115, USA",
+      "street": "1814 Sycamore Road",
+      "zip": "60115",
+      "coordinates": {
+        "lat": 41.94591,
+        "lng": -88.731281
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-dekalb/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17964",
+      "title": "Salvation Army - Des Plaines",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "609 W Dempster St, Des Plaines, IL 60016, USA",
+      "street": "609 West Dempster Street",
+      "zip": "60016",
+      "coordinates": {
+        "lat": 42.037023,
+        "lng": -87.935395
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-des-plaines/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17965",
+      "title": "Salvation Army - Glenview",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "9840 N Milwaukee Ave, Des Plaines, IL 60016, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.058686,
+        "lng": -87.843541
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-glenview/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18062",
+      "title": "Salvation Army - Franklin Park",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "10205 W Grand Ave, Franklin Park, IL 60131, USA",
+      "street": "10205 West Grand Avenue",
+      "zip": "60131",
+      "coordinates": {
+        "lat": 41.927287,
+        "lng": -87.880903
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-franklin-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18064",
+      "title": "Salvation Army - Freeport",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "605 N West Ave, Freeport, IL 61032, USA",
+      "street": "605 North West Avenue",
+      "zip": "61032",
+      "coordinates": {
+        "lat": 42.302921,
+        "lng": -89.631656
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-freeport/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18077",
+      "title": "Salvation Army - Galesburg",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Galesburg",
+      "address": "520 Home Blvd, Galesburg, IL 61401, USA",
+      "street": "520 Home Boulevard",
+      "zip": "61401",
+      "coordinates": {
+        "lat": 40.97124,
+        "lng": -90.378587
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-galesburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18219",
+      "title": "Salvation Army - Janesville",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Janesville",
+      "address": "1819 Center Ave, Janesville, WI 53546, USA",
+      "street": "1819 Center Avenue",
+      "zip": "53546",
+      "coordinates": {
+        "lat": 42.652251,
+        "lng": -89.030553
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-janesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18220",
+      "title": "Salvation Army - Janesville",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Janesville",
+      "address": "2717 Milton Ave, Janesville, WI 53545, USA",
+      "street": "2717 Milton Avenue",
+      "zip": "53545",
+      "coordinates": {
+        "lat": 42.716334,
+        "lng": -89.001724
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-janesville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18296",
+      "title": "Salvation Army - Litchfield",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1a Litchfield Plaza, Litchfield, IL 62056, USA",
+      "street": "Litchfield Plaza",
+      "zip": "62056",
+      "coordinates": {
+        "lat": 39.180036,
+        "lng": -89.669027
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-litchfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18326",
+      "title": "Salvation Army - Loves Park",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "5550 N 2nd St, Loves Park, IL 61111, USA",
+      "street": "5550 North 2nd Street",
+      "zip": "61111",
+      "coordinates": {
+        "lat": 42.312092,
+        "lng": -89.058168
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-loves-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18327",
+      "title": "Salvation Army - Loves Park",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "6545 N Alpine Rd, Loves Park, IL 61111, USA",
+      "street": "North Alpine Road",
+      "zip": "61111",
+      "coordinates": {
+        "lat": 42.319818,
+        "lng": -89.027373
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-loves-park-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18343",
+      "title": "Salvation Army - Mchenry",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "4400 W Elm St, McHenry, IL 60050, USA",
+      "street": "4400 West Elm Street",
+      "zip": "60050",
+      "coordinates": {
+        "lat": 42.347965,
+        "lng": -88.282154
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-mchenry/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18417",
+      "title": "Salvation Army - Morton Grove",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "6715 W Dempster St, Morton Grove, IL 60053, USA",
+      "street": "6715 West Dempster Street",
+      "zip": "60053",
+      "coordinates": {
+        "lat": 42.040803,
+        "lng": -87.794329
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-morton-grove/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18420",
+      "title": "Salvation Army - Mount Prospect",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "900 N Wolf Rd, Mt Prospect, IL 60056, USA",
+      "street": "North Wolf Road",
+      "zip": "60016",
+      "coordinates": {
+        "lat": 42.081487,
+        "lng": -87.908231
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-mount-prospect/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18422",
+      "title": "Salvation Army - Mount Zion",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "400 W Main St, Mt Zion, IL 62549, USA",
+      "street": "400 West Main Street",
+      "zip": "62549",
+      "coordinates": {
+        "lat": 39.772124,
+        "lng": -88.874758
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-mount-zion/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18479",
+      "title": "Salvation Army - Norridge",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "8354 W Foster Ave, Norridge, IL 60706, USA",
+      "street": "8354 West Foster Avenue",
+      "zip": "60706",
+      "coordinates": {
+        "lat": 41.974384,
+        "lng": -87.835712
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-norridge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18496",
+      "title": "Salvation Army - Oakbrook Terrace",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1S337 Summit Ave, Oakbrook Terrace, IL 60181, USA",
+      "street": "Summit Avenue",
+      "zip": "60181",
+      "coordinates": {
+        "lat": 41.854262,
+        "lng": -87.972005
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-oakbrook-terrace/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18540",
+      "title": "Salvation Army - Ottawa",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "700 Chestnut St, Ottawa, IL 61350, USA",
+      "street": "700 Chestnut Street",
+      "zip": "61350",
+      "coordinates": {
+        "lat": 41.347096,
+        "lng": -88.848587
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-ottawa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18561",
+      "title": "Salvation Army - Pekin",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "234 Derby St, Pekin, IL 61554, USA",
+      "street": "234 Derby Street",
+      "zip": "61554",
+      "coordinates": {
+        "lat": 40.556273,
+        "lng": -89.657275
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-pekin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18566",
+      "title": "Salvation Army - Peoria",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Peoria",
+      "address": "2800 W Townline Rd, Peoria, IL 61615, USA",
+      "street": "2800 West Townline Road",
+      "zip": "61615",
+      "coordinates": {
+        "lat": 40.796961,
+        "lng": -89.635892
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-peoria-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18567",
+      "title": "Salvation Army - Peoria",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Peoria",
+      "address": "2903 W Nebraska Ave, Peoria, IL 61604, USA",
+      "street": "2903 West Nebraska Avenue",
+      "zip": "61604",
+      "coordinates": {
+        "lat": 40.711572,
+        "lng": -89.639066
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-peoria-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18569",
+      "title": "Salvation Army - Peru",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1608 36th St, Peru, IL 61354, USA",
+      "street": "1608 36th Street",
+      "zip": "61354",
+      "coordinates": {
+        "lat": 41.351628,
+        "lng": -89.127199
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-peru/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18613",
+      "title": "Salvation Army - Pontiac",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "112 N Division St, Pontiac, IL 61764, USA",
+      "street": "112 North Division Street",
+      "zip": "61764",
+      "coordinates": {
+        "lat": 40.879187,
+        "lng": -88.632955
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-pontiac/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18683",
+      "title": "Salvation Army - Cherry Valley",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "7150 N Cherryvale Mall Dr, Rockford, IL 61112, USA",
+      "street": "7150 North Cherryvale Mall Drive",
+      "zip": "61112",
+      "coordinates": {
+        "lat": 42.248251,
+        "lng": -88.976297
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-cherry-valley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18684",
+      "title": "Salvation Army - Rockford",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Rockford",
+      "address": "1720 18th Ave, Rockford, IL 61104, USA",
+      "street": "1720 18th Avenue",
+      "zip": "61104",
+      "coordinates": {
+        "lat": 42.248244,
+        "lng": -89.069431
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-rockford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18685",
+      "title": "Salvation Army - Rockford",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Rockford",
+      "address": "4042 E State St, Rockford, IL 61108, USA",
+      "street": "4042 East State Street",
+      "zip": "61108",
+      "coordinates": {
+        "lat": 42.266177,
+        "lng": -89.034744
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-rockford-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18686",
+      "title": "Salvation Army - Rockford",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Rockford",
+      "address": "4401 Charles St, Rockford, IL 61108, USA",
+      "street": "4401 Charles Street",
+      "zip": "61108",
+      "coordinates": {
+        "lat": 42.253049,
+        "lng": -89.031449
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-rockford-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18810",
+      "title": "Salvation Army - Skokie",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "4335 Oakton St, Skokie, IL 60076, USA",
+      "street": "4335 Oakton Street",
+      "zip": "60076",
+      "coordinates": {
+        "lat": 42.026025,
+        "lng": -87.736883
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-skokie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18829",
+      "title": "Salvation Army - Springfield",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Springfield",
+      "address": "1762 Wabash Ave, Springfield, IL 62704, USA",
+      "street": "1762 Wabash Avenue",
+      "zip": "62704",
+      "coordinates": {
+        "lat": 39.762828,
+        "lng": -89.685073
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-springfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18830",
+      "title": "Salvation Army - Springfield",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Springfield",
+      "address": "229 N 11th St, Springfield, IL 62703, USA",
+      "street": "229 North 11th Street",
+      "zip": "62703",
+      "coordinates": {
+        "lat": 39.803575,
+        "lng": -89.641308
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-springfield-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18859",
+      "title": "Salvation Army - Stonington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "498 N Main St, Stonington, IL 62567, USA",
+      "street": "N Main St",
+      "zip": "62567",
+      "coordinates": {
+        "lat": 39.6397,
+        "lng": -89.189928
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-stonington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18872",
+      "title": "Salvation Army - Taylorville",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "502 N Webster St, Taylorville, IL 62568, USA",
+      "street": "North Webster Street",
+      "zip": "62568",
+      "coordinates": {
+        "lat": 39.554079,
+        "lng": -89.296092
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/salvation-army-taylorville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19306",
+      "title": "Out of the Closet - Chicago",
+      "company": "Out of the Closet",
+      "description": "Out of the Closet is a unique chain of thrift stores operated by the AIDS Healthcare Foundation (AHF) that accepts and sells donated clothes and other items to support HIV/AIDS prevention, treatment, and advocacy efforts. Donated clothes are collected at their store locations and are either sold at affordable prices or distributed to those in need. The proceeds from sales directly fund AHF’s mission to provide cutting-edge medicine and advocacy, regardless of a person’s ability to pay.\n\nOut of the Closet thrift stores serve multiple purposes: they offer an accessible way for people to contribute to a charitable cause, they promote sustainability by giving secondhand clothes a new life, and they provide resources for those affected by HIV/AIDS. Additionally, many store locations offer free HIV testing, making these stores a vital hub for both community engagement and public health. Out of the Closet blends charity, healthcare, and sustainability.\n\n\n\n\n\n",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "3311 N Halsted St, Chicago, IL 60657, USA",
+      "street": "3311-3319 North Halsted Street",
+      "zip": "60657",
+      "coordinates": {
+        "lat": 41.947311,
+        "lng": -87.649054
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "out-of-the-closet.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/out-of-the-closet-chicago/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19435",
+      "title": "Goodwill - Addison",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1020 N Rohlwing Rd, Addison, IL 60101, USA",
+      "street": "1020 North Rohlwing Road",
+      "zip": "60101",
+      "coordinates": {
+        "lat": 41.948236,
+        "lng": -88.035774
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-addison/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19456",
+      "title": "Goodwill - Algonquin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1430 E Algonquin Rd, Algonquin, IL 60102, USA",
+      "street": "1430 East Algonquin Road",
+      "zip": "60102",
+      "coordinates": {
+        "lat": 42.161521,
+        "lng": -88.272654
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-algonquin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19504",
+      "title": "Goodwill - Arlington Heights",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1551 N Dryden Ave, Arlington Heights, IL 60004, USA",
+      "street": "1551 North Dryden Avenue",
+      "zip": "60004",
+      "coordinates": {
+        "lat": 42.104235,
+        "lng": -87.969237
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-arlington-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19505",
+      "title": "Goodwill - Arlington Heights",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "900 W Algonquin Rd, Arlington Heights, IL 60005, USA",
+      "street": "West Algonquin Road",
+      "zip": "60005",
+      "coordinates": {
+        "lat": 42.052508,
+        "lng": -87.994303
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-arlington-heights-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19543",
+      "title": "Goodwill - Aurora",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Aurora",
+      "address": "1543 Mesa Ln, Aurora, IL 60502, USA",
+      "street": "1543 Mesa Lane",
+      "zip": "60502",
+      "coordinates": {
+        "lat": 41.816702,
+        "lng": -88.277671
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-aurora-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19606",
+      "title": "Goodwill - Bartlett",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1420 Illinois Rte 59, Bartlett, IL 60103, USA",
+      "street": "Illinois Route 59",
+      "zip": "60103",
+      "coordinates": {
+        "lat": 41.954271,
+        "lng": -88.206322
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-bartlett/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19608",
+      "title": "Goodwill - Batavia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "450 N Randall Rd, Batavia, IL 60510, USA",
+      "street": "450 North Randall Road",
+      "zip": "60510",
+      "coordinates": {
+        "lat": 41.857648,
+        "lng": -88.338581
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-batavia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19625",
+      "title": "Goodwill - Beaver Dam",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "130 Frances Ln, Beaver Dam, WI 53916, USA",
+      "street": "Frances Lane",
+      "zip": "53916",
+      "coordinates": {
+        "lat": 43.490698,
+        "lng": -88.810054
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-beaver-dam/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19654",
+      "title": "Goodwill - Beloit",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2543 Prairie Ave, Beloit, WI 53511, USA",
+      "street": "2543 Prairie Avenue",
+      "zip": "53511",
+      "coordinates": {
+        "lat": 42.54081,
+        "lng": -89.011137
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-beloit/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19684",
+      "title": "Goodwill - Bloomingdale",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "420 W Army Trail Rd, Bloomingdale, IL 60108, USA",
+      "street": "420 West Army Trail Road",
+      "zip": "60108",
+      "coordinates": {
+        "lat": 41.938859,
+        "lng": -88.117259
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-bloomingdale/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19694",
+      "title": "Goodwill - Bolingbrook",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "123 S Weber Rd, Bolingbrook, IL 60490, USA",
+      "street": "Weber Road",
+      "zip": "60490",
+      "coordinates": {
+        "lat": 41.695251,
+        "lng": -88.124796
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-bolingbrook/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19713",
+      "title": "Goodwill - Bourbonnais",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "455 Main St NW, Bourbonnais, IL 60914, USA",
+      "street": "455 Main Street Northwest",
+      "zip": "60914",
+      "coordinates": {
+        "lat": 41.159663,
+        "lng": -87.885047
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-bourbonnais/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19737",
+      "title": "Goodwill - Brookfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "18605 W Bluemound Rd, Brookfield, WI 53045, USA",
+      "street": "18605 West Bluemound Road",
+      "zip": "53045",
+      "coordinates": {
+        "lat": 43.035511,
+        "lng": -88.143021
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-brookfield-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19744",
+      "title": "Goodwill - Brown Deer",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "9305 N Green Bay Rd, Brown Deer, WI 53209, USA",
+      "street": "9305 North Green Bay Road",
+      "zip": "53223",
+      "coordinates": {
+        "lat": 43.187226,
+        "lng": -87.966157
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-brown-deer/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19785",
+      "title": "Goodwill - Canton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "109 N Main St, Canton, IL 61520, USA",
+      "street": "109 North Main Street",
+      "zip": "61520",
+      "coordinates": {
+        "lat": 40.557128,
+        "lng": -90.034914
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-canton-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19806",
+      "title": "Goodwill - Carol Stream",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "520 S Schmale Rd, Carol Stream, IL 60188, USA",
+      "street": "520 South Schmale Road",
+      "zip": "60188",
+      "coordinates": {
+        "lat": 41.889124,
+        "lng": -88.110985
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-carol-stream/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19807",
+      "title": "Goodwill - Carpentersville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "7777 Miller Rd, Carpentersville, IL 60110, USA",
+      "street": "7777 Miller Road",
+      "zip": "60110",
+      "coordinates": {
+        "lat": 42.121359,
+        "lng": -88.338961
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-carpentersville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19875",
+      "title": "Goodwill - Chicago",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "1201 W Washington Blvd, Chicago, IL 60607, USA",
+      "street": "1201 West Washington Boulevard",
+      "zip": "60607",
+      "coordinates": {
+        "lat": 41.882816,
+        "lng": -87.657012
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-chicago/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19876",
+      "title": "Goodwill - Chicago",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Chicago",
+      "address": "9321 S Western Ave, Chicago, IL 60643, USA",
+      "street": "9321 South Western Avenue",
+      "zip": "60643",
+      "coordinates": {
+        "lat": 41.723732,
+        "lng": -87.681612
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-chicago-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20001",
+      "title": "Goodwill - Crystal Lake",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1016 Central Park Dr, Crystal Lake, IL 60014, USA",
+      "street": "Central Park Drive",
+      "zip": "60014",
+      "coordinates": {
+        "lat": 42.211345,
+        "lng": -88.283446
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-crystal-lake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20033",
+      "title": "Goodwill - DeKalb",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1037 S Annie Glidden Rd, DeKalb, IL 60115, USA",
+      "street": "1037 South Annie Glidden Road",
+      "zip": "60115",
+      "coordinates": {
+        "lat": 41.918649,
+        "lng": -88.775775
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-dekalb-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20035",
+      "title": "Goodwill - Delavan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1402 Geneva St, Delavan, WI 53115, USA",
+      "street": "1402 East Geneva Street",
+      "zip": "53115",
+      "coordinates": {
+        "lat": 42.624559,
+        "lng": -88.624512
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-delavan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20062",
+      "title": "Goodwill - Des",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1521 Lee St, Des Plaines, IL 60018, USA",
+      "street": "Lee Street",
+      "zip": "60018",
+      "coordinates": {
+        "lat": 42.02491,
+        "lng": -87.891427
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-des/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20070",
+      "title": "Goodwill - Downers",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "110 Ogden Ave, Downers Grove, IL 60515, USA",
+      "street": "110 Ogden Avenue",
+      "zip": "60515",
+      "coordinates": {
+        "lat": 41.811085,
+        "lng": -87.988367
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-downers/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20084",
+      "title": "Goodwill - East Peoria",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "210 S Main St, East Peoria, IL 61611, USA",
+      "street": "210 South Main Street",
+      "zip": "61611",
+      "coordinates": {
+        "lat": 40.666525,
+        "lng": -89.582106
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-east-peoria/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20106",
+      "title": "Goodwill - South Elgin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Elgin",
+      "address": "260 N Randall Rd, Elgin, IL 60123, USA",
+      "street": "North Randall Road",
+      "zip": "60123",
+      "coordinates": {
+        "lat": 41.989851,
+        "lng": -88.340918
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-south-elgin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20120",
+      "title": "Goodwill - Elmhurst",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "675 W North Ave, Elmhurst, IL 60126, USA",
+      "street": "675 West North Avenue",
+      "zip": "60126",
+      "coordinates": {
+        "lat": 41.906485,
+        "lng": -87.966431
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-elmhurst/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20135",
+      "title": "Goodwill - Evanston",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Evanston",
+      "address": "1916b Dempster St, Evanston, IL 60202, USA",
+      "street": "Dempster Street",
+      "zip": "60202",
+      "coordinates": {
+        "lat": 42.038755,
+        "lng": -87.70112
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-evanston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20177",
+      "title": "Goodwill - Fond du Lac",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Fond du Lac",
+      "address": "904 S Main St, Fond du Lac, WI 54935, USA",
+      "street": "904 South Main Street",
+      "zip": "54935",
+      "coordinates": {
+        "lat": 43.754424,
+        "lng": -88.4497
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-fond-du-lac/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20202",
+      "title": "Goodwill - Frankfort",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "19917 South La Grange Road, Frankfort, IL 60423, USA",
+      "street": "19917 South La Grange Road",
+      "zip": "60423",
+      "coordinates": {
+        "lat": 41.527937,
+        "lng": -87.847924
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-frankfort/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20205",
+      "title": "Goodwill - Franklin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "6941 S Riverwood Blvd, Franklin, WI 53132, USA",
+      "street": "6941 South Riverwood Boulevard",
+      "zip": "53132",
+      "coordinates": {
+        "lat": 42.919585,
+        "lng": -87.954131
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-franklin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20214",
+      "title": "Goodwill - Freeport",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2030 W Galena Ave, Freeport, IL 61032, USA",
+      "street": "2030 West Galena Avenue",
+      "zip": "61032",
+      "coordinates": {
+        "lat": 42.304522,
+        "lng": -89.651807
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-freeport/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20226",
+      "title": "Goodwill - Galesburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Galesburg",
+      "address": "1338 N Henderson St, Galesburg, IL 61401, USA",
+      "street": "1338 North Henderson Street",
+      "zip": "61401",
+      "coordinates": {
+        "lat": 40.963999,
+        "lng": -90.386129
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-galesburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20258",
+      "title": "Goodwill - Glendale Heights",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "543 E North Ave., Glendale Heights, IL 60139, USA",
+      "street": "East North Avenue",
+      "zip": "60139",
+      "coordinates": {
+        "lat": 41.902923,
+        "lng": -88.064218
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-glendale-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20387",
+      "title": "Goodwill - Hoffman Estates",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2535 W Golf Rd, Hoffman Estates, IL 60169, USA",
+      "street": "West Golf Road",
+      "zip": "60169",
+      "coordinates": {
+        "lat": 42.046454,
+        "lng": -88.143041
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-hoffman-estates/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20468",
+      "title": "Goodwill - Huntley",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "11900 Kreutzer Rd, Huntley, IL 60142, USA",
+      "street": "11900 Kreutzer Road",
+      "zip": "60142",
+      "coordinates": {
+        "lat": 42.154339,
+        "lng": -88.428348
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-huntley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20513",
+      "title": "Goodwill - Janesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Janesville",
+      "address": "2003 Holiday Dr, Janesville, WI 53545, USA",
+      "street": "2003 Holiday Drive",
+      "zip": "53545",
+      "coordinates": {
+        "lat": 42.715271,
+        "lng": -88.997803
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-janesville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20514",
+      "title": "Goodwill - Janesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Janesville",
+      "address": "Janesville, WI, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.682789,
+        "lng": -89.018722
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-janesville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20525",
+      "title": "Goodwill - Joliet",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Joliet",
+      "address": "3084 Hennepin Dr, Joliet, IL 60431, USA",
+      "street": "3084 Hennepin Drive",
+      "zip": "60431",
+      "coordinates": {
+        "lat": 41.572808,
+        "lng": -88.156508
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-joliet/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20552",
+      "title": "Goodwill - Kenosha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Kenosha",
+      "address": "6100 75th St, Kenosha, WI 53142, USA",
+      "street": "75th Street",
+      "zip": "53142",
+      "coordinates": {
+        "lat": 42.567675,
+        "lng": -87.882054
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-kenosha/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20557",
+      "title": "Goodwill - Kewanee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "137 W South St, Kewanee, IL 61443, USA",
+      "street": "137 West South Street",
+      "zip": "61443",
+      "coordinates": {
+        "lat": 41.221074,
+        "lng": -89.927689
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-kewanee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20601",
+      "title": "Goodwill - Round Lake Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2051 N Illinois 83, Lake Villa, IL 60046, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.385343,
+        "lng": -88.06152
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-round-lake-beach/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20603",
+      "title": "Goodwill - Lake Zurich",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "746 S Rand Rd, Lake Zurich, IL 60047, USA",
+      "street": "746 Rand Road",
+      "zip": "60047",
+      "coordinates": {
+        "lat": 42.186026,
+        "lng": -88.090534
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-lake-zurich/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20660",
+      "title": "Goodwill - Lemont",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1146 State St, Lemont, IL 60439, USA",
+      "street": "1146 State Street",
+      "zip": "60439",
+      "coordinates": {
+        "lat": 41.659068,
+        "lng": -88.001677
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-lemont/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20707",
+      "title": "Goodwill - Lombard",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "351 E Roosevelt Rd, Lombard, IL 60148, USA",
+      "street": "351 East Roosevelt Road",
+      "zip": "60148",
+      "coordinates": {
+        "lat": 41.859556,
+        "lng": -88.008376
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-lombard/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20749",
+      "title": "Goodwill - Machesney Park",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "8010 N 2nd St, Machesney Park, IL 61115, USA",
+      "street": "8010 North 2nd Street",
+      "zip": "61115",
+      "coordinates": {
+        "lat": 42.339906,
+        "lng": -89.053989
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-machesney-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20750",
+      "title": "Goodwill - Macomb",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1522 E Carroll St, Macomb, IL 61455, USA",
+      "street": "1522 East Carroll Street",
+      "zip": "61455",
+      "coordinates": {
+        "lat": 40.460399,
+        "lng": -90.649369
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-macomb/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20812",
+      "title": "Goodwill - McHenry",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2006 N Richmond Rd, McHenry, IL 60051, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.3567,
+        "lng": -88.2649
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-mchenry/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20843",
+      "title": "Goodwill - Menomonee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "Water Tower Pl, Menomonee Falls, WI 53051, USA",
+      "street": "Water Tower Place",
+      "zip": "53022",
+      "coordinates": {
+        "lat": 43.187362,
+        "lng": -88.131542
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-menomonee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20901",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Milwaukee",
+      "address": "153 W Oklahoma Ave, Milwaukee, WI 53207, USA",
+      "street": "153 West Oklahoma Avenue",
+      "zip": "53207",
+      "coordinates": {
+        "lat": 42.9863,
+        "lng": -87.911338
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-milwaukee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20902",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Milwaukee",
+      "address": "2830 N Oakland Ave, Milwaukee, WI 53211, USA",
+      "street": "2830 North Oakland Avenue",
+      "zip": "53211",
+      "coordinates": {
+        "lat": 43.070227,
+        "lng": -87.887575
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-milwaukee-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20903",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Milwaukee",
+      "address": "3900 N Palmer St, Milwaukee, WI 53212, USA",
+      "street": "3900 North Palmer Street",
+      "zip": "53212",
+      "coordinates": {
+        "lat": 43.088054,
+        "lng": -87.909192
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-milwaukee-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20904",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Milwaukee",
+      "address": "6055 N 91st St, Milwaukee, WI 53225, USA",
+      "street": "6055 North 91st Street",
+      "zip": "53225",
+      "coordinates": {
+        "lat": 43.127172,
+        "lng": -88.027615
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-milwaukee-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20905",
+      "title": "Goodwill - Retique",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "190 N Broadway St, Milwaukee, WI 53202, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.03254,
+        "lng": -87.906749
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-retique/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20914",
+      "title": "Goodwill - Minooka",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "426 W Mondamin St, Minooka, IL 60447, USA",
+      "street": "Mondamin Street",
+      "zip": "60447",
+      "coordinates": {
+        "lat": 41.454872,
+        "lng": -88.270248
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-minooka/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20944",
+      "title": "Goodwill - Montgomery",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1901 Hill Ave, Montgomery, IL 60538, USA",
+      "street": "1901 Hill Avenue",
+      "zip": "60538",
+      "coordinates": {
+        "lat": 41.7209,
+        "lng": -88.284358
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-montgomery-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20962",
+      "title": "Goodwill - Morris",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "414 Arthur Ave, Morris, IL 60450, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.38617,
+        "lng": -88.416632
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-morris/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20965",
+      "title": "Goodwill - Morton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "888 N Main St, Morton, IL 61550, USA",
+      "street": "888 North Main Street",
+      "zip": "61550",
+      "coordinates": {
+        "lat": 40.619543,
+        "lng": -89.451208
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-morton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20969",
+      "title": "Goodwill - Mt. Pleasant",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "3131 S Oakes Rd, Mt Pleasant, WI 53406, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.694398,
+        "lng": -87.871771
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-mt-pleasant/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20981",
+      "title": "Goodwill - Mundelein",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "761 S Midlothian Rd, Mundelein, IL 60060, USA",
+      "street": "761 South Midlothian Road",
+      "zip": "60060",
+      "coordinates": {
+        "lat": 42.252279,
+        "lng": -88.020945
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-mundelein/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21003",
+      "title": "Goodwill - Naperville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Naperville",
+      "address": "539 Fort Hill Dr, Naperville, IL 60540, USA",
+      "street": "539 Fort Hill Drive",
+      "zip": "60540",
+      "coordinates": {
+        "lat": 41.76478,
+        "lng": -88.196996
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-naperville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21031",
+      "title": "Goodwill - New Berlin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "3540 S Moorland Rd, New Berlin, WI 53151, USA",
+      "street": "3540 South Moorland Road",
+      "zip": "53151",
+      "coordinates": {
+        "lat": 42.980336,
+        "lng": -88.106511
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-new-berlin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21035",
+      "title": "Goodwill - New Lenox",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "441 E Lincoln Hwy, New Lenox, IL 60451, USA",
+      "street": "441 East Lincoln Highway",
+      "zip": "60451",
+      "coordinates": {
+        "lat": 41.513873,
+        "lng": -87.956737
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-new-lenox/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21099",
+      "title": "Goodwill - North Riverside",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1900 S Harlem Ave, North Riverside, IL 60546, USA",
+      "street": "1900 South Harlem Avenue",
+      "zip": "60546",
+      "coordinates": {
+        "lat": 41.853071,
+        "lng": -87.805303
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-north-riverside/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21107",
+      "title": "Goodwill - Glenview",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2740 Old Willow Rd, Northbrook, IL 60062, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.104087,
+        "lng": -87.815633
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-glenview/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21108",
+      "title": "Goodwill - Northbrook",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "4131 Dundee Rd, Northbrook, IL 60062, USA",
+      "street": "4131 Dundee Road",
+      "zip": "60062",
+      "coordinates": {
+        "lat": 42.13692,
+        "lng": -87.882625
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-northbrook/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21112",
+      "title": "Goodwill - Oak Creek",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "8241 S Howell Ave Ste 100, Oak Creek, WI 53154, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.895021,
+        "lng": -87.91253
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-oak-creek/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21126",
+      "title": "Goodwill - Oconomowoc",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1408 Summit Ave, Oconomowoc, WI 53066, USA",
+      "street": "1408 Summit Avenue",
+      "zip": "53066",
+      "coordinates": {
+        "lat": 43.085935,
+        "lng": -88.473483
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-oconomowoc/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21166",
+      "title": "Goodwill - Orland Park",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "7400 W 159th St, Orland Park, IL 60462, USA",
+      "street": "7400 West 159th Street",
+      "zip": "60462",
+      "coordinates": {
+        "lat": 41.603491,
+        "lng": -87.798696
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-orland-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21189",
+      "title": "Goodwill - Ottawa",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "501 W Stevenson Rd, Ottawa, IL 61350, USA",
+      "street": "West Stevenson Road",
+      "zip": "61350",
+      "coordinates": {
+        "lat": 41.377135,
+        "lng": -88.840179
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-ottawa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21191",
+      "title": "Goodwill - Outlet Store",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "Illinois, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.633125,
+        "lng": -89.398528
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-outlet-store/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21205",
+      "title": "Goodwill - Palatine",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1381 N Rand Rd, Palatine, IL 60074, USA",
+      "street": "North Rand Road",
+      "zip": "60074",
+      "coordinates": {
+        "lat": 42.138196,
+        "lng": -88.01525
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-palatine/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21228",
+      "title": "Goodwill - Pekin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "3245 Court St, Pekin, IL 61554, USA",
+      "street": "Court Street",
+      "zip": "61554",
+      "coordinates": {
+        "lat": 40.547859,
+        "lng": -89.603209
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-pekin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21237",
+      "title": "Goodwill - Peoria",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Peoria",
+      "address": "1409 W Pioneer Pkwy, Peoria, IL 61615, USA",
+      "street": "1409 West Pioneer Parkway",
+      "zip": "61615",
+      "coordinates": {
+        "lat": 40.784174,
+        "lng": -89.61377
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-peoria-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21238",
+      "title": "Goodwill - Peoria",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Peoria",
+      "address": "3905 N University St, Peoria, IL 61614, USA",
+      "street": "3905 North University Street",
+      "zip": "61614",
+      "coordinates": {
+        "lat": 40.734419,
+        "lng": -89.613503
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-peoria-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21239",
+      "title": "Goodwill - Peoria",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Peoria",
+      "address": "7720 North Grand Prairie Drive, Peoria, IL 61615, USA",
+      "street": "7720 North Grand Prairie Drive",
+      "zip": "61615",
+      "coordinates": {
+        "lat": 40.781438,
+        "lng": -89.675216
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-peoria-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21240",
+      "title": "Goodwill - Peoria",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "Prairie Lake Crossing, 9915 Knoxville Ave, Peoria, IL 61615, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.809005,
+        "lng": -89.613761
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-peoria-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21243",
+      "title": "Goodwill - Peru",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1307 38th St, Peru, IL 61354, USA",
+      "street": "1307 38th Street",
+      "zip": "61354",
+      "coordinates": {
+        "lat": 41.359062,
+        "lng": -89.122726
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-peru/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21246",
+      "title": "Goodwill - Pewaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2015 Meadow Ln, Pewaukee, WI 53072, USA",
+      "street": "2015 Meadow Lane",
+      "zip": "53072",
+      "coordinates": {
+        "lat": 43.041248,
+        "lng": -88.259613
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-pewaukee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21282",
+      "title": "Goodwill - Plainfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "13665 Illinois Rte 59, Plainfield, IL 60544, USA",
+      "street": "Illinois Route 59",
+      "zip": "60544",
+      "coordinates": {
+        "lat": 41.632825,
+        "lng": -88.200613
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-plainfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21383",
+      "title": "Goodwill - Rockford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Rockford",
+      "address": "3065 N Perryville Rd, Rockford, IL 61114, USA",
+      "street": "3065 North Perryville Road",
+      "zip": "61114",
+      "coordinates": {
+        "lat": 42.304938,
+        "lng": -88.97736
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-rockford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21384",
+      "title": "Goodwill - Rockford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Rockford",
+      "address": "4618 E State St, Rockford, IL 61108, USA",
+      "street": "4618 East State Street",
+      "zip": "61108",
+      "coordinates": {
+        "lat": 42.263939,
+        "lng": -89.025774
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-rockford-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21385",
+      "title": "Goodwill - Rockford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Rockford",
+      "address": "740 W Riverside Blvd, Rockford, IL 61103, USA",
+      "street": "740 West Riverside Boulevard",
+      "zip": "61103",
+      "coordinates": {
+        "lat": 42.313938,
+        "lng": -89.073605
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-rockford-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21386",
+      "title": "Goodwill - Rockford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Rockford",
+      "address": "850 N Church St, Rockford, IL 61103, USA",
+      "street": "850 North Church Street",
+      "zip": "61103",
+      "coordinates": {
+        "lat": 42.279744,
+        "lng": -89.089157
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-rockford-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21401",
+      "title": "Goodwill - Romeoville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1360 Airport Rd, Romeoville, IL 60446, USA",
+      "street": "Airport Road",
+      "zip": "60434",
+      "coordinates": {
+        "lat": 41.6102,
+        "lng": -88.125554
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-romeoville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21468",
+      "title": "Goodwill - Sheboygan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Sheboygan",
+      "address": "3657 Greenwing Dr, Sheboygan, WI 53081, USA",
+      "street": "3657 Greenwing Drive",
+      "zip": "53081",
+      "coordinates": {
+        "lat": 43.715843,
+        "lng": -87.751807
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-sheboygan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21496",
+      "title": "Goodwill - Skokie",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "5518 W Touhy Ave, Skokie, IL 60077, USA",
+      "street": "5518 West Touhy Avenue",
+      "zip": "60077",
+      "coordinates": {
+        "lat": 42.012968,
+        "lng": -87.76534
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-skokie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21558",
+      "title": "Goodwill - St. Charles",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2750 E Main St, St. Charles, IL 60174, USA",
+      "street": "2750 East Main Street",
+      "zip": "60174",
+      "coordinates": {
+        "lat": 41.922989,
+        "lng": -88.278583
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-st-charles-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21576",
+      "title": "Goodwill - Sterling",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "2216 E 4th St, Sterling, IL 61081, USA",
+      "street": "2216 East 4th Street",
+      "zip": "61081",
+      "coordinates": {
+        "lat": 41.800386,
+        "lng": -89.671215
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-sterling/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21689",
+      "title": "Goodwill - Washington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "301 N Cummings Ln, Washington, IL 61571, USA",
+      "street": "301 North Cummings Lane",
+      "zip": "61571",
+      "coordinates": {
+        "lat": 40.708428,
+        "lng": -89.445038
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-washington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21700",
+      "title": "Goodwill - Waukesha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Waukesha",
+      "address": "1400 Nike Dr, Waukesha, WI 53186, USA",
+      "street": "1400 Nike Drive",
+      "zip": "53186",
+      "coordinates": {
+        "lat": 43.021009,
+        "lng": -88.197808
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-waukesha/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21704",
+      "title": "Goodwill - Wauwatosa",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "12121 W Feerick St, Wauwatosa, WI 53222, USA",
+      "street": "12121 West Feerick Street",
+      "zip": "53222",
+      "coordinates": {
+        "lat": 43.08562,
+        "lng": -88.062499
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-wauwatosa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21717",
+      "title": "Goodwill - West Allis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "10909 W Oklahoma Ave, West Allis, WI 53227, USA",
+      "street": "10909 West Oklahoma Avenue",
+      "zip": "53227",
+      "coordinates": {
+        "lat": 42.98758,
+        "lng": -88.048667
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-west-allis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21719",
+      "title": "Goodwill - West Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1717 Clarence Ct, West Bend, WI 53095, USA",
+      "street": "1717 Clarence Court",
+      "zip": "53095",
+      "coordinates": {
+        "lat": 43.399452,
+        "lng": -88.194417
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-west-bend/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21732",
+      "title": "Goodwill - West Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "1716 Miller Park Way, West Milwaukee, WI 53214, USA",
+      "street": "1716 Miller Park Way",
+      "zip": "53215",
+      "coordinates": {
+        "lat": 43.011832,
+        "lng": -87.966858
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-west-milwaukee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21742",
+      "title": "Goodwill - Westchester",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "3054 S Wolf Rd, Westchester, IL 60154, USA",
+      "street": "South Wolf Road",
+      "zip": "60154",
+      "coordinates": {
+        "lat": 41.835391,
+        "lng": -87.898184
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-westchester-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21780",
+      "title": "Goodwill - Willowbrook",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "6300 Kingery Hwy, Willowbrook, IL 60527, USA",
+      "street": "6300 Kingery Highway",
+      "zip": "60527",
+      "coordinates": {
+        "lat": 41.77169,
+        "lng": -87.947955
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-willowbrook/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21816",
+      "title": "Goodwill - Woodridge",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "8615 Woodward Ave, Woodridge, IL 60517, USA",
+      "street": "8615 Woodward Avenue",
+      "zip": "60517",
+      "coordinates": {
+        "lat": 41.729623,
+        "lng": -88.027543
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-woodridge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21826",
+      "title": "Goodwill - Yorkville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Illinois",
+      "stateSlug": "illinois",
+      "city": "Unknown",
+      "address": "481 E Countryside Pkwy, Yorkville, IL 60560, USA",
+      "street": "481 East Countryside Parkway",
+      "zip": "60560",
+      "coordinates": {
+        "lat": 41.662484,
+        "lng": -88.434406
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/illinois/goodwill-yorkville/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "name": "Montana",
+  "slug": "montana",
+  "locations": [
+    {
+      "id": "17714",
+      "title": "Salvation Army - Billings",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "2910 S 30th St W, Billings, MT 59102, USA",
+      "street": "South 30th Street West",
+      "zip": "59102",
+      "coordinates": {
+        "lat": 45.741178,
+        "lng": -108.591345
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/montana/salvation-army-billings/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17732",
+      "title": "Salvation Army - Bozeman",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Bozeman",
+      "address": "425 E Babcock St, Bozeman, MT 59715, USA",
+      "street": "425 East Babcock Street",
+      "zip": "59715",
+      "coordinates": {
+        "lat": 45.678694,
+        "lng": -111.031302
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/montana/salvation-army-bozeman/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17783",
+      "title": "Salvation Army - Butte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Butte",
+      "address": "1229 Harrison Ave, Butte, MT 59701, USA",
+      "street": "1229 Harrison Avenue",
+      "zip": "59701",
+      "coordinates": {
+        "lat": 46.002047,
+        "lng": -112.521944
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/montana/salvation-army-butte/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18111",
+      "title": "Salvation Army - Great Falls",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Great Falls",
+      "address": "4910 10th Ave S, Great Falls, MT 59405, USA",
+      "street": "4910 10th Avenue South",
+      "zip": "59405",
+      "coordinates": {
+        "lat": 47.492716,
+        "lng": -111.225107
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/montana/salvation-army-great-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18112",
+      "title": "Salvation Army - Great Falls",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Great Falls",
+      "address": "616 1st Ave NW, Great Falls, MT 59404, USA",
+      "street": "616 1st Avenue Northwest",
+      "zip": "59404",
+      "coordinates": {
+        "lat": 47.508565,
+        "lng": -111.322872
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/montana/salvation-army-great-falls-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18234",
+      "title": "Salvation Army - Kalispell",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Kalispell",
+      "address": "1500 US-93, Kalispell, MT 59901, USA",
+      "street": "1500 US 93",
+      "zip": "59901",
+      "coordinates": {
+        "lat": 48.215742,
+        "lng": -114.329564
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/montana/salvation-army-kalispell/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19262",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19263",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19264",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19265",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19266",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19267",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19268",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19269",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19270",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19271",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19272",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19273",
+      "title": "Dress for Success - Billings",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "333 N 31st St, Billings, MT 59101, USA",
+      "street": "333 North 31st Street",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.787561,
+        "lng": -108.511462
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/montana/dress-for-success-billings-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19645",
+      "title": "Goodwill - Belgrage",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Unknown",
+      "address": "6161 Jackrabbit Ln, Belgrade, MT 59714, USA",
+      "street": "6161 Jackrabbit Lane",
+      "zip": "59714",
+      "coordinates": {
+        "lat": 45.760659,
+        "lng": -111.187833
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-belgrage/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19676",
+      "title": "Goodwill - Billings",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "1636 Main St, Billings, MT 59105, USA",
+      "street": "1636 Main Street",
+      "zip": "59105",
+      "coordinates": {
+        "lat": 45.829345,
+        "lng": -108.471655
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-billings/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19677",
+      "title": "Goodwill - Billings",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "951 S 29th St W, Billings, MT 59102, USA",
+      "street": "South 29th Street West",
+      "zip": "59102",
+      "coordinates": {
+        "lat": 45.752677,
+        "lng": -108.586162
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-billings-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19718",
+      "title": "Goodwill - Bozeman",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Bozeman",
+      "address": "2130 Simmental Way, Bozeman, MT 59715, USA",
+      "street": "Simmental Way",
+      "zip": "59715",
+      "coordinates": {
+        "lat": 45.700687,
+        "lng": -111.061537
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-bozeman/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19767",
+      "title": "Goodwill - Butte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Butte",
+      "address": "3703 Harrison Ave, Butte, MT 59701, USA",
+      "street": "3703 Harrison Avenue",
+      "zip": "59701",
+      "coordinates": {
+        "lat": 45.969536,
+        "lng": -112.509201
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-butte/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19996",
+      "title": "Goodwill - Kalispell",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Unknown",
+      "address": "Hwy 2 E, Creston, MT 59901, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 48.365092,
+        "lng": -114.146607
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-kalispell/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20276",
+      "title": "Goodwill - Great Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Great Falls",
+      "address": "1201 7th St S, Great Falls, MT 59405, USA",
+      "street": "1201 7th Street South",
+      "zip": "59405",
+      "coordinates": {
+        "lat": 47.492027,
+        "lng": -111.294657
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-great-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20315",
+      "title": "Goodwill - Great Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Unknown",
+      "address": "2124 N 1st St, Hamilton, MT 59840, USA",
+      "street": "2124 North 1st Street",
+      "zip": "59840",
+      "coordinates": {
+        "lat": 46.27388,
+        "lng": -114.15749
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-great-falls-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20352",
+      "title": "Goodwill - Helena",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Helena",
+      "address": "3575 Ptarmigan Ln, Helena, MT 59602, USA",
+      "street": "3575 Ptarmigan Lane",
+      "zip": "59601",
+      "coordinates": {
+        "lat": 46.622895,
+        "lng": -112.022269
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-helena/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20918",
+      "title": "Goodwill - Missoula",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Missoula",
+      "address": "2501 S Reserve St, Missoula, MT 59801, USA",
+      "street": "2501 South Reserve Street",
+      "zip": "59801",
+      "coordinates": {
+        "lat": 46.847418,
+        "lng": -114.040304
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/goodwill-missoula/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20919",
+      "title": "YWCA Montana - Missoula",
+      "company": "YWCA Montana",
+      "description": "Since the 1850s, the Young Women’s Christian Association (YWCA) USA has been advocating for the empowerment, leadership, and rights of women and girls in the United States.\n\nTo help fund their causes, they welcome financial donations, and some other items. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Missoula",
+      "address": "1136 W Broadway St, Missoula, MT 59802, USA",
+      "street": "West Broadway Street",
+      "zip": "59807",
+      "coordinates": {
+        "lat": 46.87724,
+        "lng": -114.010009
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/ywca-montana-missoula/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20920",
+      "title": "YWCA Montana - Missoula",
+      "company": "YWCA Montana",
+      "description": "Since the 1850s, the Young Women’s Christian Association (YWCA) USA has been advocating for the empowerment, leadership, and rights of women and girls in the United States.\n\nTo help fund their causes, they welcome financial donations, and some other items. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Missoula",
+      "address": "920 Kensington Ave, Missoula, MT 59801, USA",
+      "street": "920 Kensington Avenue",
+      "zip": "59801",
+      "coordinates": {
+        "lat": 46.853614,
+        "lng": -114.012627
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/ywca-montana-missoula-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21900",
+      "title": "St Vincent De Paul - Billings",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Billings",
+      "address": "3005 1st Ave S, Billings, MT 59101, USA",
+      "street": "3005 1st Avenue South",
+      "zip": "59101",
+      "coordinates": {
+        "lat": 45.778459,
+        "lng": -108.506177
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/st-vincent-de-paul-billings/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22025",
+      "title": "St Vincent De Paul - Great Falls",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Montana",
+      "stateSlug": "montana",
+      "city": "Great Falls",
+      "address": "426 Central Ave W, Great Falls, MT 59404, USA",
+      "street": "426 Central Avenue West",
+      "zip": "59404",
+      "coordinates": {
+        "lat": 47.507579,
+        "lng": -111.319685
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/montana/st-vincent-de-paul-great-falls/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

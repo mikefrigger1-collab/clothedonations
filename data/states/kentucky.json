@@ -1,0 +1,2438 @@
+{
+  "name": "Kentucky",
+  "slug": "kentucky",
+  "locations": [
+    {
+      "id": "17916",
+      "title": "Salvation Army - Covington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "The Molloy Building, 1100 W Pike St, Covington, KY 41011, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.075452,
+        "lng": -84.523412
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-covington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17926",
+      "title": "Salvation Army - Cynthiana",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "202 W Pleasant St, Cynthiana, KY 41031, USA",
+      "street": "202 West Pleasant Street",
+      "zip": "41031",
+      "coordinates": {
+        "lat": 38.390949,
+        "lng": -84.29916
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-cynthiana/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18006",
+      "title": "Salvation Army - Erlanger",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "525 Graves Ave, Erlanger, KY 41018, USA",
+      "street": "525 Graves Avenue",
+      "zip": "41018",
+      "coordinates": {
+        "lat": 39.022934,
+        "lng": -84.610339
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-erlanger/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18087",
+      "title": "Salvation Army - Georgetown",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "100 Washington Square, Georgetown, KY 40324, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.190675,
+        "lng": -84.559522
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-georgetown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18088",
+      "title": "Salvation Army - Georgetown",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "319 E Main St, Georgetown, KY 40324, USA",
+      "street": "319 East Main Street",
+      "zip": "40324",
+      "coordinates": {
+        "lat": 38.209964,
+        "lng": -84.556472
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-georgetown-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18131",
+      "title": "Salvation Army - Hebron",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "825 Lindbergh Ct, Hebron, KY 41048, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.079338,
+        "lng": -84.660205
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-hebron/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18287",
+      "title": "Salvation Army - Lexington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "2285 Versailles Rd, Lexington, KY 40504, USA",
+      "street": "2285 Versailles Road",
+      "zip": "40504",
+      "coordinates": {
+        "lat": 38.047565,
+        "lng": -84.551457
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-lexington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18288",
+      "title": "Salvation Army - Lexington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "2520 Nicholasville Rd, Lexington, KY 40503, USA",
+      "street": "2520 Nicholasville Road",
+      "zip": "40503",
+      "coordinates": {
+        "lat": 37.998283,
+        "lng": -84.518428
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-lexington-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18289",
+      "title": "Salvation Army - Lexington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "3090 Helmsdale Pl, Lexington, KY 40509, USA",
+      "street": "3090 Helmsdale Place",
+      "zip": "40509",
+      "coordinates": {
+        "lat": 38.010728,
+        "lng": -84.421534
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-lexington-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18290",
+      "title": "Salvation Army - Lexington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "3160 Beaumont Centre Cir, Lexington, KY 40513, USA",
+      "street": "3160 Beaumont Centre Circle",
+      "zip": "40513",
+      "coordinates": {
+        "lat": 38.020031,
+        "lng": -84.557276
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-lexington-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18291",
+      "title": "Salvation Army - Lexington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "3330 Partner Pl, Lexington, KY 40503, USA",
+      "street": "3330 Partner Place",
+      "zip": "40503",
+      "coordinates": {
+        "lat": 37.995294,
+        "lng": -84.545417
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-lexington-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18292",
+      "title": "Salvation Army - Lexington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "736 W Main St, Lexington, KY 40508, USA",
+      "street": "736 West Main Street",
+      "zip": "40508",
+      "coordinates": {
+        "lat": 38.052835,
+        "lng": -84.505259
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-lexington-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18467",
+      "title": "Salvation Army - Newport",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "340 W 10th St, Newport, KY 41071, USA",
+      "street": "340 West 10th Street",
+      "zip": "41071",
+      "coordinates": {
+        "lat": 39.083231,
+        "lng": -84.495568
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-newport/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18470",
+      "title": "Salvation Army - Nicholasville",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "205 S 1st St, Nicholasville, KY 40356, USA",
+      "street": "205 South 1st Street",
+      "zip": "40356",
+      "coordinates": {
+        "lat": 37.879142,
+        "lng": -84.574686
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-nicholasville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19601",
+      "title": "Goodwill - Barbourville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1803 US-25E Scenic, Barbourville, KY 40906, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.852243,
+        "lng": -83.856953
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-barbourville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19602",
+      "title": "Goodwill - Barbourville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1803 US-25E Scenic, Barbourville, KY 40906, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.852243,
+        "lng": -83.856953
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-barbourville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19603",
+      "title": "Goodwill - Bardstown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "219 Padgett St, Bardstown, KY 40004, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.829018,
+        "lng": -85.462092
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-bardstown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19667",
+      "title": "Goodwill - Berea",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "112 Prince Royal Dr, Berea, KY 40403, USA",
+      "street": "112 Prince Royal Drive",
+      "zip": "40403",
+      "coordinates": {
+        "lat": 37.571042,
+        "lng": -84.309907
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-berea/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19668",
+      "title": "Goodwill - Berea",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "112 Prince Royal Dr, Berea, KY 40403, USA",
+      "street": "112 Prince Royal Drive",
+      "zip": "40403",
+      "coordinates": {
+        "lat": 37.571042,
+        "lng": -84.309907
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-berea-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19714",
+      "title": "Goodwill - Bowling Green",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1806 U.S. 31 W Bypass, Bowling Green, KY 42101, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.978787,
+        "lng": -86.453803
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-bowling-green/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19715",
+      "title": "Goodwill - Bowling Green",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Bowling Green",
+      "address": "5395 Scottsville Rd, Bowling Green, KY 42104, USA",
+      "street": "5395 Scottsville Road",
+      "zip": "42104",
+      "coordinates": {
+        "lat": 36.922004,
+        "lng": -86.410324
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-bowling-green-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19716",
+      "title": "Goodwill - Bowling Green",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "740 U.S. 31 W Bypass, Bowling Green, KY 42101, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.985342,
+        "lng": -86.430712
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-bowling-green-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19717",
+      "title": "Goodwill - Bowling Green",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Bowling Green",
+      "address": "808 Campbell Ln, Bowling Green, KY 42101, USA",
+      "street": "808 Campbell Lane",
+      "zip": "42104",
+      "coordinates": {
+        "lat": 36.962022,
+        "lng": -86.461145
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-bowling-green-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19778",
+      "title": "Goodwill - Campbellsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "550 Campbellsville Bypass, Campbellsville, KY 42718, USA",
+      "street": "550 Campbellsville Bypass",
+      "zip": "42718",
+      "coordinates": {
+        "lat": 37.3457,
+        "lng": -85.369371
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-campbellsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19828",
+      "title": "Goodwill - Central City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "220 S 2nd St, Central City, KY 42330, USA",
+      "street": "South 2nd Street",
+      "zip": "42330",
+      "coordinates": {
+        "lat": 37.29114,
+        "lng": -87.120855
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-central-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19925",
+      "title": "Goodwill - Columbia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "212 Dohoney Trce, Columbia, KY 42728, USA",
+      "street": "212 Dohoney Trace",
+      "zip": "42728",
+      "coordinates": {
+        "lat": 37.077842,
+        "lng": -85.334257
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-columbia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19997",
+      "title": "Goodwill - Crestwood",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "6438 KY-146, Crestwood, KY 40014, USA",
+      "street": "Lagrange Road",
+      "zip": "40014",
+      "coordinates": {
+        "lat": 38.327639,
+        "lng": -85.466443
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-crestwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20020",
+      "title": "Goodwill - Danville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "252 Skywatch Dr, Danville, KY 40422, USA",
+      "street": "Skywatch Drive",
+      "zip": "40422",
+      "coordinates": {
+        "lat": 37.617702,
+        "lng": -84.785321
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-danville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20109",
+      "title": "Goodwill - Elizabethtown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "2003 N Dixie Hwy, Elizabethtown, KY 42701, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.739242,
+        "lng": -85.888796
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-elizabethtown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20110",
+      "title": "Goodwill - Elizabethtown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Elizabethtown",
+      "address": "3032 Ring Rd, Elizabethtown, KY 42701, USA",
+      "street": "3032 Ring Road",
+      "zip": "42701",
+      "coordinates": {
+        "lat": 37.710994,
+        "lng": -85.839135
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-elizabethtown-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20204",
+      "title": "Goodwill - Frankfort",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Frankfort",
+      "address": "121 Arrowhead Ct, Frankfort, KY 40601, USA",
+      "street": "Arrowhead Court",
+      "zip": "40601",
+      "coordinates": {
+        "lat": 38.183997,
+        "lng": -84.818673
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-frankfort-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20240",
+      "title": "Goodwill - Georgetown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1002 Lexington Rd #8, Georgetown, KY 40324, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.189925,
+        "lng": -84.560498
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-georgetown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20247",
+      "title": "Goodwill - Glasgow",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "212 S L Rogers Wells Blvd, Glasgow, KY 42141, USA",
+      "street": "212 South L Rogers Wells Boulevard",
+      "zip": "42141",
+      "coordinates": {
+        "lat": 36.997922,
+        "lng": -85.929616
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-glasgow/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20325",
+      "title": "Goodwill - Harlan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "108 Village Center Rd, Harlan, KY 40831, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.816301,
+        "lng": -83.316348
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-harlan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20326",
+      "title": "Goodwill - Harlan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "108 Village Center Rd, Harlan, KY 40831, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.816301,
+        "lng": -83.316348
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-harlan-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20335",
+      "title": "Goodwill - Harrodsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "908 S College St, Harrodsburg, KY 40330, USA",
+      "street": "908 South College Street",
+      "zip": "40330",
+      "coordinates": {
+        "lat": 37.744736,
+        "lng": -84.843027
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-harrodsburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20336",
+      "title": "Goodwill - Harrodsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "908 S College St, Harrodsburg, KY 40330, USA",
+      "street": "908 South College Street",
+      "zip": "40330",
+      "coordinates": {
+        "lat": 37.744736,
+        "lng": -84.843027
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-harrodsburg-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20349",
+      "title": "Goodwill - Hazard",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "154 Commerce Drive, Hazard, KY 41701, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.294488,
+        "lng": -83.217932
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-hazard/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20350",
+      "title": "Goodwill - Hazard",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "154 Commerce Drive, Hazard, KY 41701, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.294488,
+        "lng": -83.217932
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-hazard-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20404",
+      "title": "Goodwill - Hopkinsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Hopkinsville",
+      "address": "2624 Fort Campbell Blvd, Hopkinsville, KY 42240, USA",
+      "street": "2624 Fort Campbell Boulevard",
+      "zip": "42240",
+      "coordinates": {
+        "lat": 36.842968,
+        "lng": -87.483069
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-hopkinsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20639",
+      "title": "Goodwill - Lawrenceburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1240 Anderson Crossing Dr, Lawrenceburg, KY 40342, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.018128,
+        "lng": -84.908921
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lawrenceburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20653",
+      "title": "Goodwill - Lebanon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "730 W Main St, Lebanon, KY 40033, USA",
+      "street": "730 West Main Street",
+      "zip": "40033",
+      "coordinates": {
+        "lat": 37.560967,
+        "lng": -85.269054
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lebanon-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20670",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "130 W New Cir Rd #115, Lexington, KY 40505, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.065897,
+        "lng": -84.472718
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20671",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "130 W New Cir Rd STE 110, Lexington, KY 40505, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.065097,
+        "lng": -84.472235
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20672",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "130 W New Cir Rd STE 110, Lexington, KY 40505, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.065097,
+        "lng": -84.472235
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20673",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "1441 Leestown Rd, Lexington, KY 40511, USA",
+      "street": "1441 Leestown Road",
+      "zip": "40511",
+      "coordinates": {
+        "lat": 38.064956,
+        "lng": -84.521318
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20674",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "3101 Clays Mill Rd #102A, Lexington, KY 40503, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.002681,
+        "lng": -84.54548
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20675",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "3130 Mapleleaf Dr, Lexington, KY 40509, USA",
+      "street": "3130 Mapleleaf Drive",
+      "zip": "40509",
+      "coordinates": {
+        "lat": 38.006154,
+        "lng": -84.427688
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20676",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "3640 Boston Rd, Lexington, KY 40514, USA",
+      "street": "3640 Boston Road",
+      "zip": "40514",
+      "coordinates": {
+        "lat": 37.980524,
+        "lng": -84.550679
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20677",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Lexington",
+      "address": "4740 Hartland Pkwy, Lexington, KY 40515, USA",
+      "street": "4740 Hartland Parkway",
+      "zip": "40517",
+      "coordinates": {
+        "lat": 37.961242,
+        "lng": -84.480384
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-lexington-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20708",
+      "title": "Goodwill - London",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "829 S Main St, London, KY 40741, USA",
+      "street": "829 South Main Street",
+      "zip": "40741",
+      "coordinates": {
+        "lat": 37.122308,
+        "lng": -84.080262
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-london/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20726",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "100 Huntington Ridge Dr, Louisville, KY 40223, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.241315,
+        "lng": -85.507037
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20727",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "12616 Taylorsville Rd, Louisville, KY 40299, USA",
+      "street": "12616 Taylorsville Road",
+      "zip": "40299",
+      "coordinates": {
+        "lat": 38.187377,
+        "lng": -85.517167
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20728",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "133 S Hurstbourne Pkwy, Louisville, KY 40222, USA",
+      "street": "133 South Hurstbourne Parkway",
+      "zip": "40222",
+      "coordinates": {
+        "lat": 38.244173,
+        "lng": -85.576044
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20729",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "4000 McCollum Ct, Louisville, KY 40218, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.193838,
+        "lng": -85.664467
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20730",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "4109 Taylorsville Rd, Louisville, KY 40220, USA",
+      "street": "4109 Taylorsville Road",
+      "zip": "40220",
+      "coordinates": {
+        "lat": 38.220327,
+        "lng": -85.619588
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20731",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "4224 Shelbyville Rd, Louisville, KY 40207, USA",
+      "street": "Shelbyville Road",
+      "zip": "40207",
+      "coordinates": {
+        "lat": 38.251191,
+        "lng": -85.638389
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20732",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "4840 Dixie Hwy, Louisville, KY 40216, USA",
+      "street": "4840 Dixie Highway",
+      "zip": "40216",
+      "coordinates": {
+        "lat": 38.171579,
+        "lng": -85.826586
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20733",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "4950 US-42, Louisville, KY 40222, USA",
+      "street": "US 42",
+      "zip": "40059",
+      "coordinates": {
+        "lat": 38.285578,
+        "lng": -85.630881
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20734",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "5117 Antle Dr, Louisville, KY 40229, USA",
+      "street": "5117 Antle Drive",
+      "zip": "40229",
+      "coordinates": {
+        "lat": 38.087922,
+        "lng": -85.669061
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20735",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "5230 Bardstown Rd, Louisville, KY 40291, USA",
+      "street": "5230 Bardstown Road",
+      "zip": "40291",
+      "coordinates": {
+        "lat": 38.169527,
+        "lng": -85.607166
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20736",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "5601 Outer Loop, Louisville, KY 40219, USA",
+      "street": "5601 Outer Loop",
+      "zip": "40219",
+      "coordinates": {
+        "lat": 38.139588,
+        "lng": -85.656998
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20737",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "909 E Broadway, Louisville, KY 40204, USA",
+      "street": "909 East Broadway",
+      "zip": "40204",
+      "coordinates": {
+        "lat": 38.24489,
+        "lng": -85.736939
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20738",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "909 E Broadway, Louisville, KY 40204, USA",
+      "street": "909 East Broadway",
+      "zip": "40204",
+      "coordinates": {
+        "lat": 38.24489,
+        "lng": -85.736939
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20739",
+      "title": "Goodwill - Louisville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "962 E Chestnut St, Louisville, KY 40204, USA",
+      "street": "962 East Chestnut Street",
+      "zip": "40204",
+      "coordinates": {
+        "lat": 38.247093,
+        "lng": -85.734233
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-louisville-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20801",
+      "title": "Goodwill - Mayfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1235 Paris Rd, Mayfield, KY 42066, USA",
+      "street": "1235 Paris Road",
+      "zip": "42066",
+      "coordinates": {
+        "lat": 36.720562,
+        "lng": -88.626887
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-mayfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20805",
+      "title": "Goodwill - Maysville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "505 Market Place Drive, Maysville, KY 41056, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.628977,
+        "lng": -83.79327
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-maysville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20884",
+      "title": "Goodwill - Middlesboro",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "710 N 12th St, Middlesboro, KY 40965, USA",
+      "street": "North 12th Street",
+      "zip": "40864",
+      "coordinates": {
+        "lat": 36.61303,
+        "lng": -83.70203
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-middlesboro/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20956",
+      "title": "Goodwill - Morehead",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "206 Kroger Center Dr, Morehead, KY 40351, USA",
+      "street": "Kroger Center Drive",
+      "zip": "40351",
+      "coordinates": {
+        "lat": 38.194252,
+        "lng": -83.483144
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-morehead/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20957",
+      "title": "Goodwill - Morehead",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "206 Kroger Center Dr, Morehead, KY 40351, USA",
+      "street": "Kroger Center Drive",
+      "zip": "40351",
+      "coordinates": {
+        "lat": 38.194252,
+        "lng": -83.483144
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-morehead-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20973",
+      "title": "Goodwill - Mt Sterling",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "900 Indian Mound Dr, Mt Sterling, KY 40353, USA",
+      "street": "Indian Mound Drive",
+      "zip": "40353",
+      "coordinates": {
+        "lat": 38.05881,
+        "lng": -83.955159
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-mt-sterling/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20975",
+      "title": "Goodwill - Mt Washington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "337 Oakbrooke Dr #700, Mt Washington, KY 40047, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.054127,
+        "lng": -85.539377
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-mt-washington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20990",
+      "title": "Goodwill - Murray",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1208 N 12th St, Murray, KY 42071, USA",
+      "street": "1208 North 12th Street",
+      "zip": "42071",
+      "coordinates": {
+        "lat": 36.628571,
+        "lng": -88.312579
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-murray/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21070",
+      "title": "Goodwill - Nicholasville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1051 N Main St, Nicholasville, KY 40356, USA",
+      "street": "1051 North Main Street",
+      "zip": "40356",
+      "coordinates": {
+        "lat": 37.901622,
+        "lng": -84.564556
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-nicholasville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21071",
+      "title": "Goodwill - Nicholasville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "112 Bellerive Blvd #3, Nicholasville, KY 40356, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.98495,
+        "lng": -84.591196
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-nicholasville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21073",
+      "title": "Goodwill - Nicholasville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "301 E Brannon Rd, Nicholasville, KY 40356, USA",
+      "street": "East Brannon Road",
+      "zip": "40514",
+      "coordinates": {
+        "lat": 37.956338,
+        "lng": -84.533605
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-nicholasville-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21200",
+      "title": "Goodwill - Paducah",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Paducah",
+      "address": "2560 Lone Oak Rd, Paducah, KY 42003, USA",
+      "street": "2560 Lone Oak Road",
+      "zip": "42003",
+      "coordinates": {
+        "lat": 37.041747,
+        "lng": -88.658386
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-paducah/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21201",
+      "title": "Goodwill - Paducah",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Paducah",
+      "address": "2560 Lone Oak Rd, Paducah, KY 42003, USA",
+      "street": "2560 Lone Oak Road",
+      "zip": "42003",
+      "coordinates": {
+        "lat": 37.041747,
+        "lng": -88.658386
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-paducah-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21204",
+      "title": "Goodwill - Paintsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "343 S Mayo Trail, Paintsville, KY 41240, USA",
+      "street": "South Mayo Trail",
+      "zip": "41240",
+      "coordinates": {
+        "lat": 37.810414,
+        "lng": -82.803991
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-paintsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21215",
+      "title": "Goodwill - Paris",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "118 Matlack St, Paris, KY 40361, USA",
+      "street": "118 Matlack Street",
+      "zip": "40361",
+      "coordinates": {
+        "lat": 38.191428,
+        "lng": -84.279191
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-paris/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21261",
+      "title": "Goodwill - Pikeville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "4493 N Mayo Trail, Pikeville, KY 41501, USA",
+      "street": "4493 North Mayo Trail",
+      "zip": "41501",
+      "coordinates": {
+        "lat": 37.527082,
+        "lng": -82.575532
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-pikeville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21269",
+      "title": "Goodwill - Corbin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "15007 US-25E Scenic, Pineville, KY 40977, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.774754,
+        "lng": -83.734777
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-corbin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21324",
+      "title": "Goodwill - Prestonsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "355 Village Dr, Prestonsburg, KY 41653, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.65647,
+        "lng": -82.781567
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-prestonsburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21325",
+      "title": "Goodwill - Prestonsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "355 Village Dr, Prestonsburg, KY 41653, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.65647,
+        "lng": -82.781567
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-prestonsburg-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21329",
+      "title": "Goodwill - Radcliff",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "175 W Lincoln Trail Blvd, Radcliff, KY 40160, USA",
+      "street": "175 West Lincoln Trail Boulevard",
+      "zip": "40160",
+      "coordinates": {
+        "lat": 37.839247,
+        "lng": -85.941832
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-radcliff/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21345",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "670 University Shopping Ctr, Richmond, KY 40475, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.73506,
+        "lng": -84.307998
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-richmond-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21472",
+      "title": "Goodwill - Shelbyville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "450 Boone Station Rd, Shelbyville, KY 40065, USA",
+      "street": "Boone Station Road",
+      "zip": "40065",
+      "coordinates": {
+        "lat": 38.217253,
+        "lng": -85.203085
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-shelbyville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21475",
+      "title": "Goodwill - Shepherdsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "513 Adam Shepherd Pkwy, Shepherdsville, KY 40165, USA",
+      "street": "Adam Shepherd Parkway",
+      "zip": "40165",
+      "coordinates": {
+        "lat": 37.995145,
+        "lng": -85.711585
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-shepherdsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21506",
+      "title": "Goodwill - Burnside",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "5828 S Hwy 27, Somerset, KY 42501, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.020158,
+        "lng": -84.626501
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-burnside/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21507",
+      "title": "Goodwill - Somerset",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "370 S Hwy 27 #9A, Somerset, KY 42501, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.09004,
+        "lng": -84.615569
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-somerset/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21508",
+      "title": "Goodwill - Somerset",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "5830 S Hwy 27, Somerset, KY 42501, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.020246,
+        "lng": -84.627166
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-somerset-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21572",
+      "title": "Goodwill - Stanford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "101 US-150 #101, Stanford, KY 40484, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.539986,
+        "lng": -84.653785
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-stanford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21659",
+      "title": "Goodwill - Versailles",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "399 Kroger Way, Versailles, KY 40383, USA",
+      "street": "Kroger Way",
+      "zip": "40383",
+      "coordinates": {
+        "lat": 38.051749,
+        "lng": -84.713332
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-versailles/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21771",
+      "title": "Goodwill - Williamsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "729 KY-92, Williamsburg, KY 40769, USA",
+      "street": "US 25W;KY 92",
+      "zip": "40769",
+      "coordinates": {
+        "lat": 36.722002,
+        "lng": -84.173476
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-williamsburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21783",
+      "title": "Goodwill - Winchester",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "1509 Bypass Rd, Winchester, KY 40391, USA",
+      "street": "1509 Bypass Road",
+      "zip": "40391",
+      "coordinates": {
+        "lat": 37.995929,
+        "lng": -84.216558
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-winchester-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21901",
+      "title": "St Vincent De Paul - Louisville",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "10280 Shelbyville Rd, Blue Ridge Manor, KY 40223, USA",
+      "street": "10280 Shelbyville Road",
+      "zip": "40223",
+      "coordinates": {
+        "lat": 38.244843,
+        "lng": -85.563782
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/st-vincent-de-paul-louisville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21958",
+      "title": "St Vincent De Paul - Covington",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "2655 Crescent Springs Pike, Covington, KY 41017, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.046348,
+        "lng": -84.583709
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/st-vincent-de-paul-covington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22002",
+      "title": "St Vincent De Paul - Falmouth",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "518 Barkley St, Falmouth, KY 41040, USA",
+      "street": "518 Barkley Street",
+      "zip": "41040",
+      "coordinates": {
+        "lat": 38.676294,
+        "lng": -84.340257
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/st-vincent-de-paul-falmouth/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22005",
+      "title": "St Vincent De Paul - Florence",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Unknown",
+      "address": "7110 Turfway Rd, Florence, KY 41042, USA",
+      "street": "7110 Turfway Road",
+      "zip": "41042",
+      "coordinates": {
+        "lat": 39.005864,
+        "lng": -84.620992
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/st-vincent-de-paul-florence/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22090",
+      "title": "St Vincent De Paul - Louisville",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "2217 Hikes Ln, Louisville, KY 40218, USA",
+      "street": "2217 Hikes Lane",
+      "zip": "40218",
+      "coordinates": {
+        "lat": 38.200518,
+        "lng": -85.660247
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/st-vincent-de-paul-louisville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22091",
+      "title": "St Vincent De Paul - Louisville",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Kentucky",
+      "stateSlug": "kentucky",
+      "city": "Louisville",
+      "address": "248 E Market St, Louisville, KY 40202, USA",
+      "street": "248 East Market Street",
+      "zip": "40202",
+      "coordinates": {
+        "lat": 38.254077,
+        "lng": -85.748679
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/kentucky/st-vincent-de-paul-louisville-3/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

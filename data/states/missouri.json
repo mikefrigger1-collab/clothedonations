@@ -1,0 +1,3700 @@
+{
+  "name": "Missouri",
+  "slug": "missouri",
+  "locations": [
+    {
+      "id": "17292",
+      "title": "Savers - Ellisville",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "15892 Clayton Rd, Ellisville, MO 63011, USA",
+      "street": "15892 Clayton Road",
+      "zip": "63011",
+      "coordinates": {
+        "lat": 38.603833,
+        "lng": -90.584754
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers-ellisville/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17331",
+      "title": "Savers - Kansas City",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2251 NW Barry Rd, Kansas City, MO 64154, USA",
+      "street": "2251 Northwest Barry Road",
+      "zip": "64154",
+      "coordinates": {
+        "lat": 39.245808,
+        "lng": -94.606788
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers-kansas-city/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17358",
+      "title": "Savers - Liberty",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "300 S Rte 291, Liberty, MO 64068, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.242542,
+        "lng": -94.442839
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers-liberty/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17449",
+      "title": "Savers - Crestwood",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Shrewsbury",
+      "address": "9618 Watson Rd, St. Louis, MO 63126, USA",
+      "street": "Watson Road",
+      "zip": "63109",
+      "coordinates": {
+        "lat": 38.556513,
+        "lng": -90.382435
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers-crestwood-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17643",
+      "title": "Salvation Army - Arnold",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2110 Tenbrook Rd, Arnold, MO 63010, USA",
+      "street": "2110 Tenbrook Road",
+      "zip": "63010",
+      "coordinates": {
+        "lat": 38.448501,
+        "lng": -90.36737
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-arnold/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17705",
+      "title": "Salvation Army - Belton",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "112 Cedar Tree Sq, Belton, MO 64012, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.814151,
+        "lng": -94.508835
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-belton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17721",
+      "title": "Salvation Army - Blue Springs",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Blue Springs",
+      "address": "1833 MO-7, Blue Springs, MO 64015, USA",
+      "street": "1833 MO 7",
+      "zip": "64015",
+      "coordinates": {
+        "lat": 38.99811,
+        "lng": -94.27385
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-blue-springs/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17723",
+      "title": "Salvation Army - Bonner Springs",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "616 S 130 St, Bonner Springs, KS 66012, USA",
+      "street": "South 130 Street",
+      "zip": "66012",
+      "coordinates": {
+        "lat": 39.086432,
+        "lng": -94.884289
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-bonner-springs/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18092",
+      "title": "Salvation Army - Gladstone",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Gladstone",
+      "address": "6469 N Prospect Ave, Gladstone, MO 64119, USA",
+      "street": "6469 North Prospect Avenue",
+      "zip": "64119",
+      "coordinates": {
+        "lat": 39.211563,
+        "lng": -94.546165
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-gladstone/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18199",
+      "title": "Salvation Army - Independence",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "1535 East 23rd St S, Independence, MO 64055, USA",
+      "street": "1535 East 23rd Street South",
+      "zip": "64055",
+      "coordinates": {
+        "lat": 39.077336,
+        "lng": -94.391931
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-independence/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18235",
+      "title": "Salvation Army - Kansas City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1301 E 10th St, Kansas City, MO 64106, USA",
+      "street": "1301 East 10th Street",
+      "zip": "64106",
+      "coordinates": {
+        "lat": 39.101065,
+        "lng": -94.566567
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-kansas-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18236",
+      "title": "Salvation Army - Kansas City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "8330 N Broadway, Kansas City, MO 64118, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.244208,
+        "lng": -94.585965
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-kansas-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18687",
+      "title": "Salvation Army - Rolla",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Rolla",
+      "address": "102 E 4th St, Rolla, MO 65401, USA",
+      "street": "102 East 4th Street",
+      "zip": "65401",
+      "coordinates": {
+        "lat": 37.946738,
+        "lng": -91.770237
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-rolla/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18838",
+      "title": "Salvation Army - Springfield",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Springfield",
+      "address": "2944 W Chestnut Expy, Springfield, MO 65802, USA",
+      "street": "2944 West Chestnut Expressway",
+      "zip": "65802",
+      "coordinates": {
+        "lat": 37.211802,
+        "lng": -93.336491
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-springfield-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18840",
+      "title": "Salvation Army - Saint Louis",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "10740 Page Ave, St. Louis, MO 63132, USA",
+      "street": "10740 Page Avenue",
+      "zip": "63132",
+      "coordinates": {
+        "lat": 38.692037,
+        "lng": -90.39893
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-saint-louis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18844",
+      "title": "Salvation Army - Saint Peters",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "30 Harvester Square, St Peters, MO 63303, USA",
+      "street": "Harvester Square",
+      "zip": "63303",
+      "coordinates": {
+        "lat": 38.746364,
+        "lng": -90.576768
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-saint-peters/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18938",
+      "title": "Salvation Army - Warrensburg",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Warrensburg",
+      "address": "125 N Holden St, Warrensburg, MO 64093, USA",
+      "street": "125 North Holden Street",
+      "zip": "64093",
+      "coordinates": {
+        "lat": 38.763981,
+        "lng": -93.740038
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-warrensburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19222",
+      "title": "Red Cross - Ashland",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "109 Eastside Dr, Ashland, MO 65010, USA",
+      "street": "109 Eastside Drive",
+      "zip": "65010",
+      "coordinates": {
+        "lat": 38.776392,
+        "lng": -92.251039
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-ashland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19300",
+      "title": "Red Cross - Carlyle",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Carlyle",
+      "address": "Carlyle, IL 62231, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.610326,
+        "lng": -89.37258
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-carlyle/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19301",
+      "title": "Red Cross - Catawissa",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "Catawissa, MO 63015, USA",
+      "street": "",
+      "zip": "63015",
+      "coordinates": {
+        "lat": 38.424775,
+        "lng": -90.782632
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-catawissa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19303",
+      "title": "Red Cross - Chesterfield",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "101 Chesterfield Towne Center, Chesterfield, MO 63005, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.661477,
+        "lng": -90.618363
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-chesterfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19304",
+      "title": "Red Cross - Chesterfield",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "18000 Chesterfield Airport Rd, Chesterfield, MO 63005, USA",
+      "street": "18000 Chesterfield Airport Road",
+      "zip": "63005",
+      "coordinates": {
+        "lat": 38.668818,
+        "lng": -90.634724
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-chesterfield-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19305",
+      "title": "Red Cross - Chesterfield",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "909 Chesterfield Pkwy E, Chesterfield, MO 63017, USA",
+      "street": "909 Chesterfield Parkway East",
+      "zip": "63017",
+      "coordinates": {
+        "lat": 38.656353,
+        "lng": -90.553571
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-chesterfield-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19307",
+      "title": "Red Cross - Richmond Heghts",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "6600 Clayton Rd, Clayton, MO 63117, USA",
+      "street": "6600 Clayton Road",
+      "zip": "63117",
+      "coordinates": {
+        "lat": 38.63328,
+        "lng": -90.314858
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-richmond-heghts/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19308",
+      "title": "Red Cross - Columbia",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Columbia",
+      "address": "111 S Providence Rd, Columbia, MO 65203, USA",
+      "street": "111 South Providence Road",
+      "zip": "65203",
+      "coordinates": {
+        "lat": 38.95021,
+        "lng": -92.335568
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-columbia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19309",
+      "title": "Red Cross - Columbia",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Columbia",
+      "address": "1805 W Worley St, Columbia, MO 65203, USA",
+      "street": "1805 West Worley Street",
+      "zip": "65203",
+      "coordinates": {
+        "lat": 38.961023,
+        "lng": -92.366343
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-columbia-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19310",
+      "title": "Red Cross - Columbia",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "431 N Main St, Columbia, IL 62236, USA",
+      "street": "431 North Main Street",
+      "zip": "62236",
+      "coordinates": {
+        "lat": 38.446312,
+        "lng": -90.20382
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-columbia-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19311",
+      "title": "Red Cross - Columbia",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Columbia",
+      "address": "4840 Rangeline St, Columbia, MO 65202, USA",
+      "street": "Rangeline Street",
+      "zip": "65216",
+      "coordinates": {
+        "lat": 39.002704,
+        "lng": -92.321931
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-columbia-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19312",
+      "title": "Red Cross - Columbia",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Columbia",
+      "address": "705 Business Loop 70 W, Columbia, MO 65203, USA",
+      "street": "705 Business Loop 70 West",
+      "zip": "65202",
+      "coordinates": {
+        "lat": 38.967301,
+        "lng": -92.347966
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-columbia-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19313",
+      "title": "Red Cross - Columbia",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Columbia",
+      "address": "808 Richmond Ave, Columbia, MO 65201, USA",
+      "street": "808 Richmond Avenue",
+      "zip": "65201",
+      "coordinates": {
+        "lat": 38.941522,
+        "lng": -92.330849
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-columbia-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19316",
+      "title": "Red Cross - Festus",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "3201 Papin Rd, De Soto, MO 63020, USA",
+      "street": "3201 Papin Road",
+      "zip": "63020",
+      "coordinates": {
+        "lat": 38.066834,
+        "lng": -90.487431
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-festus/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19317",
+      "title": "Red Cross - Eureka",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "25 Truitt Dr, Eureka, MO 63025, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.500208,
+        "lng": -90.624759
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-eureka/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19318",
+      "title": "Red Cross - Eureka",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Eureka",
+      "address": "Eureka, MO, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.502554,
+        "lng": -90.627904
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-eureka-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19323",
+      "title": "Red Cross - Fenton",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "721 Gravois Rd, Fenton, MO 63026, USA",
+      "street": "721 Gravois Road",
+      "zip": "63026",
+      "coordinates": {
+        "lat": 38.511813,
+        "lng": -90.447657
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-fenton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19324",
+      "title": "Red Cross - Fenton",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "Maritz Tower, 1375 N Hwy Dr, Fenton, MO 63026, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.542221,
+        "lng": -90.479361
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-fenton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19325",
+      "title": "Red Cross - Florissant",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "11501 New Halls Ferry Road, Florissant, MO 63033, USA",
+      "street": "New Halls Ferry Road",
+      "zip": "63033",
+      "coordinates": {
+        "lat": 38.775856,
+        "lng": -90.273798
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-florissant/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19326",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "12815 New Halls Ferry Road, Florissant, MO 63033, USA",
+      "street": "12815 New Halls Ferry Road",
+      "zip": "63033",
+      "coordinates": {
+        "lat": 38.791795,
+        "lng": -90.286319
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19328",
+      "title": "Red Cross - Fulton",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2020 N Bluff St, Fulton, MO 65251, USA",
+      "street": "2020 North Bluff Street",
+      "zip": "65251",
+      "coordinates": {
+        "lat": 38.868562,
+        "lng": -91.942681
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-fulton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19331",
+      "title": "Red Cross - Highland",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "12641 IL-143, Highland, IL 62249, USA",
+      "street": "12641 IL 143",
+      "zip": "62249",
+      "coordinates": {
+        "lat": 38.754554,
+        "lng": -89.680791
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-highland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19332",
+      "title": "Red Cross - Holt'S Summit",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "252 W Simon Blvd, Holts Summit, MO 65043, USA",
+      "street": "252 West Simon Boulevard",
+      "zip": "65043",
+      "coordinates": {
+        "lat": 38.655712,
+        "lng": -92.120247
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-holts-summit/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19334",
+      "title": "Red Cross - Jeffe City Rson",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Jefferson City",
+      "address": "115 Lafayette St, Jefferson City, MO 65101, USA",
+      "street": "Lafayette Street",
+      "zip": "65101",
+      "coordinates": {
+        "lat": 38.573699,
+        "lng": -92.161831
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-jeffe-city-rson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19335",
+      "title": "Red Cross - Jefferson City",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Jefferson City",
+      "address": "1801 Missouri Blvd, Jefferson City, MO 65109, USA",
+      "street": "1801 Missouri Boulevard",
+      "zip": "65109",
+      "coordinates": {
+        "lat": 38.579452,
+        "lng": -92.199537
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-jefferson-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19336",
+      "title": "Red Cross - Jefferson City",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Jefferson City",
+      "address": "3732 W Truman Blvd, Jefferson City, MO 65109, USA",
+      "street": "3732 West Truman Boulevard",
+      "zip": "65101",
+      "coordinates": {
+        "lat": 38.586793,
+        "lng": -92.256558
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-jefferson-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19337",
+      "title": "Red Cross - Jefferson\nCity",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Jefferson City",
+      "address": "1601 Christy Dr, Jefferson City, MO 65101, USA",
+      "street": "1601 Christy Drive",
+      "zip": "65101",
+      "coordinates": {
+        "lat": 38.559223,
+        "lng": -92.189628
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-jeffersoncity/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19338",
+      "title": "Red Cross - Jefferson\nCity",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Jefferson City",
+      "address": "2511 W Edgewood Dr, Jefferson City, MO 65109, USA",
+      "street": "2511 West Edgewood Drive",
+      "zip": "65109",
+      "coordinates": {
+        "lat": 38.570139,
+        "lng": -92.219593
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-jeffersoncity-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19339",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "9102 Halls Ferry Road, Jennings, MO 63136, USA",
+      "street": "9102 Halls Ferry Road",
+      "zip": "63136",
+      "coordinates": {
+        "lat": 38.723439,
+        "lng": -90.240415
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19341",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1 E 45 St, Kansas City, MO 64111, USA",
+      "street": "East 45 Street",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 39.045081,
+        "lng": -94.586389
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19342",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "114 W Gregory Blvd, Kansas City, MO 64114, USA",
+      "street": "114 West Gregory Boulevard",
+      "zip": "64114",
+      "coordinates": {
+        "lat": 38.999675,
+        "lng": -94.591258
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19343",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2800 E 18th St, Kansas City, MO 64127, USA",
+      "street": "2800 East 18th Street",
+      "zip": "64127",
+      "coordinates": {
+        "lat": 39.090933,
+        "lng": -94.549186
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19344",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "311 W 72nd St, Kansas City, MO 64114, USA",
+      "street": "311 West 72nd Street",
+      "zip": "64114",
+      "coordinates": {
+        "lat": 38.99702,
+        "lng": -94.593239
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19345",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "414 E 63rd St, Kansas City, MO 64110, USA",
+      "street": "414 East 63rd Street",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 39.013973,
+        "lng": -94.582877
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19346",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4200 Main St, Kansas City, MO 64111, USA",
+      "street": "4200 Main Street",
+      "zip": "64111",
+      "coordinates": {
+        "lat": 39.050391,
+        "lng": -94.586828
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19347",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "515 Liberty St, Kansas City, MO 64105, USA",
+      "street": "515 Liberty Street",
+      "zip": "64105",
+      "coordinates": {
+        "lat": 39.108171,
+        "lng": -94.603508
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19348",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5401 NW 64th St, Kansas City, MO 64151, USA",
+      "street": "5401 Tom Watson Parkway",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 39.209978,
+        "lng": -94.64342
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19349",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6341 Wornall Rd, Kansas City, MO 64113, USA",
+      "street": "6341 Wornall Road",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 39.012983,
+        "lng": -94.592659
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19350",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "717 W 101st Terrace, Kansas City, MO 64114, USA",
+      "street": "West 101st Terrace",
+      "zip": "64114",
+      "coordinates": {
+        "lat": 38.944301,
+        "lng": -94.600622
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19351",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "815 E Meyer Blvd, Kansas City, MO 64131, USA",
+      "street": "815 East Meyer Boulevard",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 39.011095,
+        "lng": -94.577476
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19352",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8200 Wornall Rd, Kansas City, MO 64114, USA",
+      "street": "8200 Wornall Road",
+      "zip": "64114",
+      "coordinates": {
+        "lat": 38.978628,
+        "lng": -94.595577
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19353",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "9215 Ward Pkwy, Kansas City, MO 64114, USA",
+      "street": "9215 Ward Parkway",
+      "zip": "64114",
+      "coordinates": {
+        "lat": 38.9627,
+        "lng": -94.602392
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19354",
+      "title": "Big Brothers Big Sisters - Kansas City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "9700 Holmes Rd, Kansas City, MO 64131, USA",
+      "street": "9700 Holmes Road",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 38.951141,
+        "lng": -94.582837
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-kansas-city-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19355",
+      "title": "Red Cross - Kirkwood",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "10854 Manchester Rd, Kirkwood, MO 63122, USA",
+      "street": "10854 Manchester Road",
+      "zip": "63122",
+      "coordinates": {
+        "lat": 38.599455,
+        "lng": -90.408554
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-kirkwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19356",
+      "title": "Red Cross - Kirkwood",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "401 N Kirkwood Rd, Kirkwood, MO 63122, USA",
+      "street": "401 North Kirkwood Road",
+      "zip": "63122",
+      "coordinates": {
+        "lat": 38.58464,
+        "lng": -90.406536
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-kirkwood-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19363",
+      "title": "Red Cross - Manchester",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "14205 Manchester Rd, Manchester, MO 63011, USA",
+      "street": "14205 Manchester Road",
+      "zip": "63011",
+      "coordinates": {
+        "lat": 38.594049,
+        "lng": -90.50259
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-manchester/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19364",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "Lafayette Ctr, Manchester, MO 63011, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.594995,
+        "lng": -90.520848
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19365",
+      "title": "Red Cross - Florissant",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2855 N Lindbergh Blvd, Maryland Heights, MO 63043, USA",
+      "street": "2855 North Lindbergh Boulevard",
+      "zip": "63043",
+      "coordinates": {
+        "lat": 38.712308,
+        "lng": -90.408505
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-florissant-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19366",
+      "title": "Red Cross - Maryland\nHeights",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2458 Old Dorsett Rd, Maryland Heights, MO 63043, USA",
+      "street": "2458 Old Dorsett Road",
+      "zip": "63043",
+      "coordinates": {
+        "lat": 38.717152,
+        "lng": -90.445667
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-marylandheights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19367",
+      "title": "Red Cross - Mascoutah",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "806 W Main St, Mascoutah, IL 62258, USA",
+      "street": "806 West Main Street",
+      "zip": "62258",
+      "coordinates": {
+        "lat": 38.490826,
+        "lng": -89.80935
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-mascoutah/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19374",
+      "title": "Red Cross - Newberg",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "90 Truman St, Newburg, MO 65550, USA",
+      "street": "Truman Street",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.943731,
+        "lng": -91.88173
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-newberg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19375",
+      "title": "Big Brothers Big Sisters - North Kansas Cit",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2125 Fayette St, North Kansas City, MO 64116, USA",
+      "street": "2125 Fayette Street",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 39.144973,
+        "lng": -94.574574
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-north-kansas-cit/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19377",
+      "title": "Red Cross - Ofallon",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "900 TR Hughes Blvd, O'Fallon, MO 63366, USA",
+      "street": "900 TR Hughes Boulevard",
+      "zip": "63366",
+      "coordinates": {
+        "lat": 38.8202,
+        "lng": -90.681131
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-ofallon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19378",
+      "title": "Red Cross - O'Fallon",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "6841 Hwy N, O'Fallon, MO 63368, USA",
+      "street": "6841 MO N",
+      "zip": "63368",
+      "coordinates": {
+        "lat": 38.756709,
+        "lng": -90.704508
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-ofallon-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19391",
+      "title": "Red Cross - Rolla",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Rolla",
+      "address": "1001 Kingshighway, Rolla, MO 65401, USA",
+      "street": "1001 Kingshighway",
+      "zip": "65401",
+      "coordinates": {
+        "lat": 37.946603,
+        "lng": -91.777827
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-rolla/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19392",
+      "title": "Red Cross - Rolla",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Rolla",
+      "address": "1050 S Bishop Ave, Rolla, MO 65401, USA",
+      "street": "1050 South Bishop Avenue",
+      "zip": "65401",
+      "coordinates": {
+        "lat": 37.928446,
+        "lng": -91.781119
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-rolla-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19393",
+      "title": "Red Cross - Rolla",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Rolla",
+      "address": "1304 MO-72, Rolla, MO 65401, USA",
+      "street": "1304 I 44 Bus;MO 72;HR 66",
+      "zip": "65401",
+      "coordinates": {
+        "lat": 37.937277,
+        "lng": -91.752475
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-rolla-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19394",
+      "title": "Red Cross - Rolla",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Rolla",
+      "address": "605 W 4th St, Rolla, MO 65401, USA",
+      "street": "605 West 4th Street",
+      "zip": "65401",
+      "coordinates": {
+        "lat": 37.94673,
+        "lng": -91.776248
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-rolla-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19395",
+      "title": "Red Cross - St Charles",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Saint Charles",
+      "address": "3585 Veterans Memorial Pkwy, St Charles, MO 63303, USA",
+      "street": "3585 Veterans Memorial Parkway",
+      "zip": "63303",
+      "coordinates": {
+        "lat": 38.789198,
+        "lng": -90.552588
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-charles/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19396",
+      "title": "Red Cross - St Charles",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "900 San Miguel Dr, St Charles, MO 63303, USA",
+      "street": "900 San Miguel Drive",
+      "zip": "63303",
+      "coordinates": {
+        "lat": 38.78671,
+        "lng": -90.545967
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-charles-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19397",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Saint Charles",
+      "address": "2021 Zumbehl Rd, St Charles, MO 63303, USA",
+      "street": "2021 Zumbehl Road",
+      "zip": "63303",
+      "coordinates": {
+        "lat": 38.782901,
+        "lng": -90.534842
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19402",
+      "title": "Red Cross - Sparta",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "291 Stevenson Dr, Sparta, IL 62286, USA",
+      "street": "291 Stevenson Drive",
+      "zip": "62286",
+      "coordinates": {
+        "lat": 38.14678,
+        "lng": -89.704373
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-sparta/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19404",
+      "title": "Red Cross - Crestwood",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Shrewsbury",
+      "address": "9540 Watson Rd, St. Louis, MO 63126, USA",
+      "street": "Watson Road",
+      "zip": "63109",
+      "coordinates": {
+        "lat": 38.557111,
+        "lng": -90.378808
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-crestwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19405",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "10195 Corporate Square Dr, St. Louis, MO 63132, USA",
+      "street": "10195 Corporate Square Drive",
+      "zip": "63132",
+      "coordinates": {
+        "lat": 38.680319,
+        "lng": -90.402957
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19406",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "10633 New Halls Ferry Road, St. Louis, MO 63136, USA",
+      "street": "10633 New Halls Ferry Road",
+      "zip": "63136",
+      "coordinates": {
+        "lat": 38.765893,
+        "lng": -90.261491
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19407",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "12095 Benham Rd, St. Louis, MO 63138, USA",
+      "street": "12095 Benham Road",
+      "zip": "63138",
+      "coordinates": {
+        "lat": 38.795554,
+        "lng": -90.231135
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19408",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1212 Fee Fee Rd, St. Louis, MO 63146, USA",
+      "street": "Fee Fee Road",
+      "zip": "63146",
+      "coordinates": {
+        "lat": 38.68142,
+        "lng": -90.476706
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19409",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2037 Chablis Dr, St. Louis, MO 63146, USA",
+      "street": "2037 Chablis Drive",
+      "zip": "63146",
+      "coordinates": {
+        "lat": 38.697922,
+        "lng": -90.46557
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19410",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2930 Telegraph Rd, St. Louis, MO 63125, USA",
+      "street": "2930 Telegraph Road",
+      "zip": "63125",
+      "coordinates": {
+        "lat": 38.503436,
+        "lng": -90.296504
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19411",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "3717 Tree Ct Dr, St. Louis, MO 63122, USA",
+      "street": "Tree Court Drive",
+      "zip": "63029",
+      "coordinates": {
+        "lat": 38.566255,
+        "lng": -90.462533
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19412",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "4305 Butler Hill Rd, St. Louis, MO 63128, USA",
+      "street": "4305 Butler Hill Road",
+      "zip": "63128",
+      "coordinates": {
+        "lat": 38.486835,
+        "lng": -90.356228
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19413",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "4646 S Lindbergh Blvd, St. Louis, MO 63126, USA",
+      "street": "4646 South Lindbergh Boulevard",
+      "zip": "63127",
+      "coordinates": {
+        "lat": 38.529991,
+        "lng": -90.380916
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19414",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "4660 Chippewa St, St. Louis, MO 63116, USA",
+      "street": "4660 Chippewa Street",
+      "zip": "63116",
+      "coordinates": {
+        "lat": 38.589922,
+        "lng": -90.272316
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19415",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "5630 Telegraph Rd, St. Louis, MO 63129, USA",
+      "street": "5630 Telegraph Road",
+      "zip": "63129",
+      "coordinates": {
+        "lat": 38.467717,
+        "lng": -90.305049
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19416",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "981 S Skinker Blvd, St. Louis, MO 63117, USA",
+      "street": "981 South Skinker Boulevard",
+      "zip": "63117",
+      "coordinates": {
+        "lat": 38.633089,
+        "lng": -90.304718
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-16/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19417",
+      "title": "Red Cross - St Louis",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "MacKenzie Rd, St. Louis, MO, USA",
+      "street": "Mackenzie Road",
+      "zip": "63123",
+      "coordinates": {
+        "lat": 38.574427,
+        "lng": -90.319491
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-st-louis-17/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19420",
+      "title": "Red Cross - Troy",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "710 Edwardsville Rd, Troy, IL 62294, USA",
+      "street": "710 Edwardsville Road",
+      "zip": "62294",
+      "coordinates": {
+        "lat": 38.731912,
+        "lng": -89.90455
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-troy/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19421",
+      "title": "Red Cross - Union",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Union",
+      "address": "Union, MO 63084, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.450052,
+        "lng": -91.008476
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-union/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19422",
+      "title": "Red Cross - West Alton",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "14010 US-67, West Alton, MO 63386, USA",
+      "street": "14010 US 67",
+      "zip": "63386",
+      "coordinates": {
+        "lat": 38.861729,
+        "lng": -90.22225
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-west-alton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19423",
+      "title": "Red Cross - Westphalia",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1927 US Hwy 63, Westphalia, MO 65085, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.440557,
+        "lng": -92.001321
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-westphalia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19424",
+      "title": "Red Cross - Chesterfield",
+      "company": "Red Cross",
+      "description": "The American Red Cross is part of The International Federation of Red Cross and Red Crescent Societies, the largest volunteer network in the world, with operations in almost 200 countries.\n\nDonations of clothing and items of value are welcome at some of their locations. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "300 MO-109, Wildwood, MO 63005, USA",
+      "street": "300 MO 109",
+      "zip": "63005",
+      "coordinates": {
+        "lat": 38.642917,
+        "lng": -90.670745
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "red-cross.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-cross-chesterfield-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19466",
+      "title": "Goodwill - Alton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1719 Homer M Adams Pkwy, Alton, IL 62002, USA",
+      "street": "1719 Homer M Adams Parkway",
+      "zip": "62002",
+      "coordinates": {
+        "lat": 38.916716,
+        "lng": -90.16524
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-alton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19506",
+      "title": "Goodwill - Arnold",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "3616 Richardson Square Way, Arnold, MO 63010, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.409839,
+        "lng": -90.383769
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-arnold/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19594",
+      "title": "Goodwill - Manchester",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "14373 Manchester Rd, Ballwin, MO 63011, USA",
+      "street": "Manchester Road",
+      "zip": "63011",
+      "coordinates": {
+        "lat": 38.594244,
+        "lng": -90.513895
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-manchester/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19649",
+      "title": "Goodwill - Belleville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Belleville",
+      "address": "5720 N Belt W, Belleville, IL 62226, USA",
+      "street": "5720 North Belt West",
+      "zip": "62226",
+      "coordinates": {
+        "lat": 38.540877,
+        "lng": -90.035041
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-belleville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19722",
+      "title": "Goodwill - Brentwood",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "9116 Manchester Rd, Brentwood, MO 63144, USA",
+      "street": "9116 Manchester Road",
+      "zip": "63144",
+      "coordinates": {
+        "lat": 38.611937,
+        "lng": -90.355718
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-brentwood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19731",
+      "title": "Goodwill - Bridgeton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "5665 St.Louis Mills Blvd, Bridgeton, MO 63044, USA",
+      "street": "5665 St Louis Mills Boulevard",
+      "zip": "63044",
+      "coordinates": {
+        "lat": 38.78134,
+        "lng": -90.422175
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-bridgeton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19797",
+      "title": "Goodwill - Cape Girardeau",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Cape Girardeau",
+      "address": "250 S Silver Springs Rd, Cape Girardeau, MO 63703, USA",
+      "street": "250 South Silver Springs Road",
+      "zip": "63703",
+      "coordinates": {
+        "lat": 37.298374,
+        "lng": -89.565496
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-cape-girardeau/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19798",
+      "title": "Goodwill - Carbondale",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Carbondale",
+      "address": "1145 E Main St, Carbondale, IL 62901, USA",
+      "street": "1145 East Main Street",
+      "zip": "62901",
+      "coordinates": {
+        "lat": 37.728147,
+        "lng": -89.197265
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-carbondale/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19830",
+      "title": "Goodwill - Centralia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1305 W Broadway, Centralia, IL 62801, USA",
+      "street": "1305 West Broadway",
+      "zip": "62801",
+      "coordinates": {
+        "lat": 38.530087,
+        "lng": -89.157651
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-centralia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19868",
+      "title": "Goodwill - Chesterfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "11 Forum Shopping Center, Chesterfield, MO 63017, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.680827,
+        "lng": -90.499394
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-chesterfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19869",
+      "title": "Goodwill - Chesterfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "14808 Clayton Rd, Chesterfield, MO 63017, USA",
+      "street": "14808 Clayton Road",
+      "zip": "63017",
+      "coordinates": {
+        "lat": 38.616786,
+        "lng": -90.537212
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-chesterfield-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19870",
+      "title": "Goodwill - Chesterfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "17355 Edison Ave, Chesterfield, MO 63005, USA",
+      "street": "17355 Edison Avenue",
+      "zip": "63005",
+      "coordinates": {
+        "lat": 38.664585,
+        "lng": -90.603973
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-chesterfield-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20000",
+      "title": "Goodwill - Festus",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1255 N Truman Blvd, Crystal City, MO 63019, USA",
+      "street": "1255 North Truman Boulevard",
+      "zip": "63019",
+      "coordinates": {
+        "lat": 38.233163,
+        "lng": -90.393795
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-festus/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20002",
+      "title": "Goodwill - Cuba",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "103 W Washington St, Cuba, MO 65453, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.062831,
+        "lng": -91.404014
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-cuba/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20147",
+      "title": "Goodwill - Fairview Heights",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "125 Commerce Ln, Fairview Heights, IL 62208, USA",
+      "street": "125 Commerce Lane",
+      "zip": "62208",
+      "coordinates": {
+        "lat": 38.598712,
+        "lng": -89.990791
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-fairview-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20153",
+      "title": "Goodwill - Farmington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "695 Potosi St, Farmington, MO 63640, USA",
+      "street": "695 Potosi Street",
+      "zip": "63640",
+      "coordinates": {
+        "lat": 37.790978,
+        "lng": -90.431793
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-farmington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20162",
+      "title": "Goodwill - Fenton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "99 Old Sugar Creek Rd, Fenton, MO 63026, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.489882,
+        "lng": -90.485709
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-fenton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20163",
+      "title": "Goodwill - Ferguson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "10764 W Florissant Ave, Ferguson, MO 63135, USA",
+      "street": "10764 West Florissant Avenue",
+      "zip": "63136",
+      "coordinates": {
+        "lat": 38.765662,
+        "lng": -90.283638
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-ferguson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20174",
+      "title": "Goodwill - Florissant",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "445 N Hwy 67, Florissant, MO 63031, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.797911,
+        "lng": -90.339256
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-florissant/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20221",
+      "title": "Goodwill - Fulton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2055 N Bluff St, Fulton, MO 65251, USA",
+      "street": "2055 North Bluff Street",
+      "zip": "65251",
+      "coordinates": {
+        "lat": 38.869147,
+        "lng": -91.944323
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-fulton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20222",
+      "title": "Goodwill - Fulton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2101 N Bluff St, Fulton, MO 65251, USA",
+      "street": "2101 North Bluff Street",
+      "zip": "65251",
+      "coordinates": {
+        "lat": 38.869721,
+        "lng": -91.94417
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-fulton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20253",
+      "title": "Goodwill - Glen Carbon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "210 Jct Dr W, Glen Carbon, IL 62034, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.776699,
+        "lng": -89.951922
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-glen-carbon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20271",
+      "title": "Goodwill - Granite City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "3675 Nameoki Rd, Granite City, IL 62040, USA",
+      "street": "3675 Nameoki Road",
+      "zip": "62040",
+      "coordinates": {
+        "lat": 38.727292,
+        "lng": -90.124036
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-granite-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20321",
+      "title": "Goodwill - Hannibal",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Hannibal",
+      "address": "3503 Stardust Dr, Hannibal, MO 63401, USA",
+      "street": "Stardust Drive",
+      "zip": "63401",
+      "coordinates": {
+        "lat": 39.722092,
+        "lng": -91.39679
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-hannibal/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20600",
+      "title": "Goodwill - St Louis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "913 Robert Raymond Dr, Lake St Louis, MO 63367, USA",
+      "street": "913 Robert Raymond Drive",
+      "zip": "63367",
+      "coordinates": {
+        "lat": 38.766605,
+        "lng": -90.784503
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-louis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20786",
+      "title": "Goodwill - Marion",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "Marion, IL, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.730605,
+        "lng": -88.933126
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-marion-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20852",
+      "title": "Goodwill - Mexico",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1101 W Monroe St, Mexico, MO 65265, USA",
+      "street": "1101 West Monroe Street",
+      "zip": "65265",
+      "coordinates": {
+        "lat": 39.174604,
+        "lng": -91.895724
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-mexico/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20853",
+      "title": "Goodwill - Mexico",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "US-54, Mexico, MO, USA",
+      "street": "US 54",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.163325,
+        "lng": -91.843234
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-mexico-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21036",
+      "title": "Goodwill - New London",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "403 1st St, New London, MO 63459, USA",
+      "street": "403 1st Street",
+      "zip": "63459",
+      "coordinates": {
+        "lat": 39.588168,
+        "lng": -91.405492
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-new-london/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21130",
+      "title": "Goodwill - O'Fallon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1210 State Hwy K, O'Fallon, MO 63366, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.795624,
+        "lng": -90.698547
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-ofallon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21263",
+      "title": "Goodwill - Vandalia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1811 North Hwy, Pilot Grove, MO 65276, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.861109,
+        "lng": -92.940043
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-vandalia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21399",
+      "title": "Goodwill - Rolla",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Rolla",
+      "address": "1304 Forum Dr, Rolla, MO 65401, USA",
+      "street": "1304 Forum Drive",
+      "zip": "65401",
+      "coordinates": {
+        "lat": 37.953359,
+        "lng": -91.750802
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-rolla/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21423",
+      "title": "Goodwill - St Charles",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Saint Charles",
+      "address": "2420 W Clay St, St Charles, MO 63301, USA",
+      "street": "2420 West Clay Street",
+      "zip": "63303",
+      "coordinates": {
+        "lat": 38.784819,
+        "lng": -90.510482
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-charles/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21424",
+      "title": "Goodwill - St James",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1111 W James Blvd, St James, MO 65559, USA",
+      "street": "West James Boulevard",
+      "zip": "65559",
+      "coordinates": {
+        "lat": 37.9954,
+        "lng": -91.631527
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-james/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21425",
+      "title": "Goodwill - St James",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "319 N Jefferson St, St James, MO 65559, USA",
+      "street": "319 North Jefferson Street",
+      "zip": "65559",
+      "coordinates": {
+        "lat": 37.99956,
+        "lng": -91.617725
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-james-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21561",
+      "title": "Goodwill - St Louis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "10125 Watson Rd, St. Louis, MO 63127, USA",
+      "street": "10125 Watson Road",
+      "zip": "63127",
+      "coordinates": {
+        "lat": 38.556423,
+        "lng": -90.399026
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-louis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21562",
+      "title": "Goodwill - St Louis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "10570 Baptist Church Rd, St. Louis, MO 63123, USA",
+      "street": "10570 Baptist Church Road",
+      "zip": "63128",
+      "coordinates": {
+        "lat": 38.524015,
+        "lng": -90.360567
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-louis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21563",
+      "title": "Goodwill - St Louis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "1727 Locust St, St. Louis, MO 63103, USA",
+      "street": "1727 Locust Street",
+      "zip": "63103",
+      "coordinates": {
+        "lat": 38.632527,
+        "lng": -90.204868
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-louis-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21564",
+      "title": "Goodwill - St Louis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "18 S County Center Way, St. Louis, MO 63129, USA",
+      "street": "18 South County Center Way",
+      "zip": "63129",
+      "coordinates": {
+        "lat": 38.506204,
+        "lng": -90.331509
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-louis-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21565",
+      "title": "Goodwill - St Louis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "4200 Forest Park Ave, St. Louis, MO 63108, USA",
+      "street": "4200 Forest Park Avenue",
+      "zip": "63108",
+      "coordinates": {
+        "lat": 38.635763,
+        "lng": -90.249621
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-louis-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21566",
+      "title": "Goodwill - St Louis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "4271 Bayless Ave, St. Louis, MO 63123, USA",
+      "street": "4271 Bayless Avenue",
+      "zip": "63123",
+      "coordinates": {
+        "lat": 38.548652,
+        "lng": -90.292085
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-louis-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21568",
+      "title": "Goodwill - St Peters",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "3551 Harvester Rd, St Peters, MO 63303, USA",
+      "street": "3551 Harvester Road",
+      "zip": "63303",
+      "coordinates": {
+        "lat": 38.747601,
+        "lng": -90.578961
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-peters/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21569",
+      "title": "Goodwill - St Peters",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "620 Mid Rivers Mall Dr, St Peters, MO 63376, USA",
+      "street": "620 Mid Rivers Mall Drive",
+      "zip": "63376",
+      "coordinates": {
+        "lat": 38.785943,
+        "lng": -90.624932
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-st-peters-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21575",
+      "title": "Goodwill - Steelville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "47 MO-8, Steelville, MO 65565, USA",
+      "street": "47 MO 8",
+      "zip": "65565",
+      "coordinates": {
+        "lat": 37.96955,
+        "lng": -91.345795
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-steelville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21651",
+      "title": "Goodwill - University City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "7531 Olive Blvd, University City, MO 63130, USA",
+      "street": "7531 Olive Boulevard",
+      "zip": "63130",
+      "coordinates": {
+        "lat": 38.672266,
+        "lng": -90.333027
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-university-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21656",
+      "title": "Goodwill - Vandalia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "1295 US-54, Vandalia, MO 63382, USA",
+      "street": "1295 US 54",
+      "zip": "63382",
+      "coordinates": {
+        "lat": 39.317649,
+        "lng": -91.469396
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-vandalia-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21657",
+      "title": "Goodwill - Vandalia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "295 US-54, Vandalia, MO 63382, USA",
+      "street": "295 US 54",
+      "zip": "63382",
+      "coordinates": {
+        "lat": 39.309998,
+        "lng": -91.490167
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-vandalia-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21691",
+      "title": "Goodwill - Washington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2030 Phoenix Center Dr, Washington, MO 63090, USA",
+      "street": "2030 Phoenix Center Drive",
+      "zip": "63090",
+      "coordinates": {
+        "lat": 38.537355,
+        "lng": -90.984978
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-washington-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21879",
+      "title": "St Vincent De Paul - St. Louis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "13986 Manchester Rd, Ballwin, MO 63021, USA",
+      "street": "13986 Manchester Road",
+      "zip": "63011",
+      "coordinates": {
+        "lat": 38.595002,
+        "lng": -90.489736
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-st-louis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22003",
+      "title": "St Vincent De Paul - Fenton",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "625 Gravois Rd, Fenton, MO 63026, USA",
+      "street": "625 Gravois Road",
+      "zip": "63026",
+      "coordinates": {
+        "lat": 38.514297,
+        "lng": -90.442056
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-fenton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22006",
+      "title": "St Vincent De Paul - Florissant",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2200 N Hwy 67, Florissant, MO 63033, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.801516,
+        "lng": -90.311104
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-florissant/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22168",
+      "title": "St Vincent De Paul - St. Ann",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Ann",
+      "address": "10585 St Charles Rock Rd, St Ann, MO 63074, USA",
+      "street": "10585 Saint Charles Rock Road",
+      "zip": "63074",
+      "coordinates": {
+        "lat": 38.731353,
+        "lng": -90.386869
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-st-ann/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22169",
+      "title": "St Vincent De Paul - St. Charles",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Saint Charles",
+      "address": "1069 Regency Pkwy, St Charles, MO 63303, USA",
+      "street": "1069 Regency Parkway",
+      "zip": "63303",
+      "coordinates": {
+        "lat": 38.784081,
+        "lng": -90.529881
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-st-charles/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22185",
+      "title": "St Vincent De Paul - Creve Coeur",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "11015 Olive Blvd, St. Louis, MO 63141, USA",
+      "street": "11015 Olive Boulevard",
+      "zip": "63141",
+      "coordinates": {
+        "lat": 38.674034,
+        "lng": -90.423172
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-creve-coeur/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22186",
+      "title": "St Vincent De Paul - St Louis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "10052 W Florissant Ave, St. Louis, MO 63136, USA",
+      "street": "West Florissant Avenue",
+      "zip": "63136",
+      "coordinates": {
+        "lat": 38.750369,
+        "lng": -90.279893
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-st-louis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22187",
+      "title": "St Vincent De Paul - St. Louis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "3924 Lemay Ferry Rd, St. Louis, MO 63125, USA",
+      "street": "3924 Lemay Ferry Road",
+      "zip": "63125",
+      "coordinates": {
+        "lat": 38.505578,
+        "lng": -90.324563
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-st-louis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22188",
+      "title": "St Vincent De Paul - St. Louis",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "St. Louis",
+      "address": "4928 Christy Blvd, St. Louis, MO 63116, USA",
+      "street": "4928 Christy Boulevard",
+      "zip": "63116",
+      "coordinates": {
+        "lat": 38.585372,
+        "lng": -90.273816
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/st-vincent-de-paul-st-louis-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23409",
+      "title": "Planet Aid - Cenex Discount Liquor",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "7444 Holmes Rd, Kansas City, MO 64131, USA",
+      "street": "7444 Holmes Road",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 38.991981,
+        "lng": -94.58062
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-cenex-discount-liquor/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23410",
+      "title": "Planet Aid - Country Hill Plaza",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "8700 Lackman Rd, Kansas City, MO 64112, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.035705,
+        "lng": -94.594981
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-country-hill-plaza/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23411",
+      "title": "Planet Aid - Phillips 66 75th Street",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "705 E 75th St, Kansas City, MO 64131, USA",
+      "street": "705 East 75th Street",
+      "zip": "64114",
+      "coordinates": {
+        "lat": 38.991405,
+        "lng": -94.57972
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-phillips-66-75th-street/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23412",
+      "title": "Planet Aid - T+T Smoke Shop",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1401 E 63rd St, Kansas City, MO 64110, USA",
+      "street": "1401 East 63rd Street",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 39.012939,
+        "lng": -94.570453
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-tt-smoke-shop/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24329",
+      "title": "Planet Aid - Smokes 4 Less - Riverside",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Unknown",
+      "address": "2705 NW Platte Dr, Riverside, MO 64150, USA",
+      "street": "Northwest Platte Road",
+      "zip": "64150",
+      "coordinates": {
+        "lat": 39.171461,
+        "lng": -94.611647
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-smokes-4-less-riverside/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

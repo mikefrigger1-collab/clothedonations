@@ -1,0 +1,953 @@
+{
+  "name": "Nebraska",
+  "slug": "nebraska",
+  "locations": [
+    {
+      "id": "17691",
+      "title": "Salvation Army - Beatrice",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Beatrice",
+      "address": "624 Market St, Beatrice, NE 68310, USA",
+      "street": "624 Market Street",
+      "zip": "68310",
+      "coordinates": {
+        "lat": 40.265105,
+        "lng": -96.745761
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-beatrice/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17701",
+      "title": "Salvation Army - Bellevue",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Bellevue",
+      "address": "1502 Harlan Dr, Bellevue, NE 68005, USA",
+      "street": "1502 Harlan Drive",
+      "zip": "68005",
+      "coordinates": {
+        "lat": 41.141722,
+        "lng": -95.912368
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-bellevue/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18238",
+      "title": "Salvation Army - Kearney",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Kearney",
+      "address": "15 E 18th St, Kearney, NE 68847, USA",
+      "street": "15 East 18th Street",
+      "zip": "68847",
+      "coordinates": {
+        "lat": 40.692249,
+        "lng": -99.08147
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-kearney/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18294",
+      "title": "Salvation Army - Lincoln",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Lincoln",
+      "address": "4690 Leighton Ave, Lincoln, NE 68504, USA",
+      "street": "4690 Leighton Avenue",
+      "zip": "68504",
+      "coordinates": {
+        "lat": 40.836325,
+        "lng": -96.656379
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-lincoln/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18474",
+      "title": "Salvation Army - Norfolk",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Norfolk",
+      "address": "610 W Norfolk Ave, Norfolk, NE 68701, USA",
+      "street": "610 West Norfolk Avenue",
+      "zip": "68701",
+      "coordinates": {
+        "lat": 42.033536,
+        "lng": -97.415809
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-norfolk/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18483",
+      "title": "Salvation Army - North Platte",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "North Platte",
+      "address": "410 E Leota St, North Platte, NE 69101, USA",
+      "street": "410 East Leota Street",
+      "zip": "69101",
+      "coordinates": {
+        "lat": 41.119437,
+        "lng": -100.76026
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-north-platte/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18515",
+      "title": "Salvation Army - Omaha",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "16960 Evans Plaza, Omaha, NE 68116, USA",
+      "street": "16960 Evans Plaza",
+      "zip": "68116",
+      "coordinates": {
+        "lat": 41.29158,
+        "lng": -96.180008
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-omaha/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18516",
+      "title": "Salvation Army - Omaha",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "18280 Wright St, Omaha, NE 68130, USA",
+      "street": "18280 Wright Street",
+      "zip": "68130",
+      "coordinates": {
+        "lat": 41.233419,
+        "lng": -96.200272
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-omaha-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18517",
+      "title": "Salvation Army - Omaha",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "2011 N 156th St, Omaha, NE 68116, USA",
+      "street": "2011 North 156th Street",
+      "zip": "68116",
+      "coordinates": {
+        "lat": 41.278365,
+        "lng": -96.155184
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-omaha-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18518",
+      "title": "Salvation Army - Omaha",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "250 N 168th Cir, Omaha, NE 68118, USA",
+      "street": "250 North 168th Circle",
+      "zip": "68118",
+      "coordinates": {
+        "lat": 41.260799,
+        "lng": -96.177434
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-omaha-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18519",
+      "title": "Salvation Army - Omaha",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "2525 Dodge St, Omaha, NE 68131, USA",
+      "street": "2525 Dodge Street",
+      "zip": "68131",
+      "coordinates": {
+        "lat": 41.259196,
+        "lng": -95.948729
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/salvation-army-omaha-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19650",
+      "title": "Goodwill - Bellevue",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Unknown",
+      "address": "2303 Towne Centre Dr, Bellevue, NE 68123, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.116843,
+        "lng": -95.945469
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-bellevue/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19682",
+      "title": "Goodwill - Blair",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Unknown",
+      "address": "1364 Washington St, Blair, NE 68008, USA",
+      "street": "1364 Washington Street",
+      "zip": "68008",
+      "coordinates": {
+        "lat": 41.544244,
+        "lng": -96.131866
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-blair/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19936",
+      "title": "Goodwill - Columbus",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Columbus",
+      "address": "4330 23rd St, Columbus, NE 68601, USA",
+      "street": "4330 23rd Street",
+      "zip": "68601",
+      "coordinates": {
+        "lat": 41.439739,
+        "lng": -97.380198
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-columbus-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20216",
+      "title": "Goodwill - Fremont",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Fremont",
+      "address": "3175 Elk Ln, Fremont, NE 68025, USA",
+      "street": "Elk Lane",
+      "zip": "68025",
+      "coordinates": {
+        "lat": 41.449773,
+        "lng": -96.456587
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-fremont-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20268",
+      "title": "Goodwill - Grand Island",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Grand Island",
+      "address": "1808 S Locust St, Grand Island, NE 68801, USA",
+      "street": "1808 South Locust Street",
+      "zip": "68801",
+      "coordinates": {
+        "lat": 40.9032,
+        "lng": -98.340545
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-grand-island/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20269",
+      "title": "Goodwill - Grand Island",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Grand Island",
+      "address": "2223 N Webb Rd, Grand Island, NE 68803, USA",
+      "street": "2223 North Webb Road",
+      "zip": "68803",
+      "coordinates": {
+        "lat": 40.942663,
+        "lng": -98.377689
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-grand-island-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20305",
+      "title": "Goodwill - Gretna",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Unknown",
+      "address": "11722 Standing Stone Dr, Gretna, NE 68028, USA",
+      "street": "11722 Standing Stone Drive",
+      "zip": "68028",
+      "coordinates": {
+        "lat": 41.133797,
+        "lng": -96.246306
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-gretna/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20343",
+      "title": "Goodwill - Hastings",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Hastings",
+      "address": "2416 W 2nd St, Hastings, NE 68901, USA",
+      "street": "2416 West 2nd Street",
+      "zip": "68901",
+      "coordinates": {
+        "lat": 40.585815,
+        "lng": -98.416966
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-hastings-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20545",
+      "title": "Goodwill - Kearney",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Kearney",
+      "address": "3906 4th Ave, Kearney, NE 68845, USA",
+      "street": "3906 4th Avenue",
+      "zip": "68845",
+      "coordinates": {
+        "lat": 40.714552,
+        "lng": -99.087219
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-kearney/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20679",
+      "title": "Goodwill - Lexington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Lexington",
+      "address": "2401 Plum Creek Pkwy, Lexington, NE 68850, USA",
+      "street": "2401 Plum Creek Parkway",
+      "zip": "68850",
+      "coordinates": {
+        "lat": 40.751563,
+        "lng": -99.7409
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-lexington-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20810",
+      "title": "Goodwill - McCook",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Unknown",
+      "address": "206 Westview Plaza, McCook, NE 69001, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.200857,
+        "lng": -100.646316
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-mccook/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21098",
+      "title": "Goodwill - North Platte",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "North Platte",
+      "address": "102 E William Ave, North Platte, NE 69101, USA",
+      "street": "102 East William Avenue",
+      "zip": "69101",
+      "coordinates": {
+        "lat": 41.123683,
+        "lng": -100.763476
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-north-platte/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21148",
+      "title": "Goodwill - Elkhorn",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "1056 N 204th Ave, Elkhorn, NE 68022, USA",
+      "street": "North 204th Avenue",
+      "zip": "68022",
+      "coordinates": {
+        "lat": 41.268423,
+        "lng": -96.235142
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-elkhorn/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21149",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "14227 Hillsdale Cir, Omaha, NE 68137, USA",
+      "street": "14227 Hillsdale Circle",
+      "zip": "68137",
+      "coordinates": {
+        "lat": 41.214569,
+        "lng": -96.136724
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21150",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "15455 Ruggles St, Omaha, NE 68116, USA",
+      "street": "15455 Ruggles Street",
+      "zip": "68116",
+      "coordinates": {
+        "lat": 41.294949,
+        "lng": -96.156261
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21151",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "18125 R Plaza, Omaha, NE 68135, USA",
+      "street": "R Plaza",
+      "zip": "68137",
+      "coordinates": {
+        "lat": 41.204053,
+        "lng": -96.200138
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21152",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "201 N 78th St, Omaha, NE 68114, USA",
+      "street": "201 North 78th Street",
+      "zip": "68114",
+      "coordinates": {
+        "lat": 41.261179,
+        "lng": -96.035413
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21153",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "2221 N 109th St, Omaha, NE 68164, USA",
+      "street": "2221 North 109th Street",
+      "zip": "68164",
+      "coordinates": {
+        "lat": 41.280033,
+        "lng": -96.081934
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21154",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "4115 S 72nd St, Omaha, NE 68127, USA",
+      "street": "4115 South 72nd Street",
+      "zip": "68127",
+      "coordinates": {
+        "lat": 41.218852,
+        "lng": -96.023004
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21155",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "4115 S 72nd St, Omaha, NE 68127, USA",
+      "street": "4115 South 72nd Street",
+      "zip": "68127",
+      "coordinates": {
+        "lat": 41.218852,
+        "lng": -96.023004
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21156",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "4115 S 72nd St, Omaha, NE 68127, USA",
+      "street": "4115 South 72nd Street",
+      "zip": "68127",
+      "coordinates": {
+        "lat": 41.218852,
+        "lng": -96.023004
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21157",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "4805 N 72nd St, Omaha, NE 68134, USA",
+      "street": "4805 North 72nd Street",
+      "zip": "68134",
+      "coordinates": {
+        "lat": 41.302261,
+        "lng": -96.021395
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21158",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "5018 Grover St, Omaha, NE 68106, USA",
+      "street": "5018 Grover Street",
+      "zip": "68106",
+      "coordinates": {
+        "lat": 41.227393,
+        "lng": -95.99088
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21159",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "5411 S 96th St, Omaha, NE 68127, USA",
+      "street": "5411 South 96th Street",
+      "zip": "68127",
+      "coordinates": {
+        "lat": 41.2039,
+        "lng": -96.061436
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21160",
+      "title": "Goodwill - Omaha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Omaha",
+      "address": "8310 Spring St, Omaha, NE 68124, USA",
+      "street": "8310 Spring Street",
+      "zip": "68124",
+      "coordinates": {
+        "lat": 41.231612,
+        "lng": -96.042391
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-omaha-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21212",
+      "title": "Goodwill - Papillion",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Unknown",
+      "address": "704 Gold Coast Dr, Papillion, NE 68046, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.139104,
+        "lng": -96.050454
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-papillion/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21213",
+      "title": "Goodwill - Papillion",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Unknown",
+      "address": "8507 Giles Rd, Papillion, NE 68046, USA",
+      "street": "Giles Road",
+      "zip": "68128",
+      "coordinates": {
+        "lat": 41.175741,
+        "lng": -96.046619
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-papillion-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21456",
+      "title": "Goodwill - Scottsbluff",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Nebraska",
+      "stateSlug": "nebraska",
+      "city": "Scottsbluff",
+      "address": "1508 E 20th St, Scottsbluff, NE 69361, USA",
+      "street": "1508 East 20th Street",
+      "zip": "69361",
+      "coordinates": {
+        "lat": 41.865936,
+        "lng": -103.643236
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/nebraska/goodwill-scottsbluff/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

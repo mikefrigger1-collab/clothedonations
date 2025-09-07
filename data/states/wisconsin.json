@@ -1,0 +1,2666 @@
+{
+  "name": "Wisconsin",
+  "slug": "wisconsin",
+  "locations": [
+    {
+      "id": "17289",
+      "title": "Savers - Eau Claire",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Eau Claire",
+      "address": "2833 Mall Dr, Eau Claire, WI 54701, USA",
+      "street": "2833 Mall Drive",
+      "zip": "54701",
+      "coordinates": {
+        "lat": 44.789976,
+        "lng": -91.460462
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/savers-eau-claire/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17779",
+      "title": "Salvation Army - Burlington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "248 S Pine St, Burlington, WI 53105, USA",
+      "street": "248 South Pine Street",
+      "zip": "53105",
+      "coordinates": {
+        "lat": 42.674515,
+        "lng": -88.27083
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-burlington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17923",
+      "title": "Salvation Army - Cudahy",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "5656 S Packard Ave, Cudahy, WI 53110, USA",
+      "street": "5656 South Packard Avenue",
+      "zip": "53110",
+      "coordinates": {
+        "lat": 42.942191,
+        "lng": -87.859042
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-cudahy/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18061",
+      "title": "Salvation Army - Franklin",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "6341 S 27th St, Franklin, WI 53132, USA",
+      "street": "6341 South 27th Street",
+      "zip": "53132",
+      "coordinates": {
+        "lat": 42.929417,
+        "lng": -87.950096
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-franklin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18113",
+      "title": "Salvation Army - Green Bay",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Green Bay",
+      "address": "1125 W Mason St, Green Bay, WI 54304, USA",
+      "street": "1125 West Mason Street",
+      "zip": "54303",
+      "coordinates": {
+        "lat": 44.516464,
+        "lng": -88.045152
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-green-bay/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18221",
+      "title": "Salvation Army - Janesville",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Janesville",
+      "address": "2717 Milton Ave, Janesville, WI 53545, USA",
+      "street": "2717 Milton Avenue",
+      "zip": "53545",
+      "coordinates": {
+        "lat": 42.716334,
+        "lng": -89.001724
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-janesville-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18397",
+      "title": "Salvation Army - Milwaukee",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Milwaukee",
+      "address": "324 N Jackson St, Milwaukee, WI 53202, USA",
+      "street": "324 North Jackson Street",
+      "zip": "53202",
+      "coordinates": {
+        "lat": 43.034723,
+        "lng": -87.903214
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-milwaukee/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18494",
+      "title": "Salvation Army - Oak Creek",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "841 E Centennial Dr, Oak Creek, WI 53154, USA",
+      "street": "East Centennial Drive",
+      "zip": "53154",
+      "coordinates": {
+        "lat": 42.88096,
+        "lng": -87.904459
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-oak-creek/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18632",
+      "title": "Salvation Army - Racine",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Racine",
+      "address": "4901 Washington Ave, Racine, WI 53406, USA",
+      "street": "4901 Washington Avenue",
+      "zip": "53406",
+      "coordinates": {
+        "lat": 42.716968,
+        "lng": -87.838748
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-racine/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18944",
+      "title": "Salvation Army - Wauwatosa",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "11315 W Watertown Plank Rd, Wauwatosa, WI 53226, USA",
+      "street": "11315 West Watertown Plank Road",
+      "zip": "53226",
+      "coordinates": {
+        "lat": 43.045125,
+        "lng": -88.054695
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-wauwatosa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18945",
+      "title": "Salvation Army - West Allis",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "7713 W Greenfield Ave, West Allis, WI 53214, USA",
+      "street": "7713 West Greenfield Avenue",
+      "zip": "53214",
+      "coordinates": {
+        "lat": 43.016383,
+        "lng": -88.008827
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/salvation-army-west-allis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19482",
+      "title": "Goodwill - Antigo",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "405 WI-64, Antigo, WI 54409, USA",
+      "street": "State Highway 64",
+      "zip": "54409",
+      "coordinates": {
+        "lat": 45.160837,
+        "lng": -89.144588
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-antigo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19485",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Appleton",
+      "address": "1033 W Northland Ave, Appleton, WI 54914, USA",
+      "street": "1033 West Northland Avenue",
+      "zip": "54914",
+      "coordinates": {
+        "lat": 44.286842,
+        "lng": -88.422137
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19486",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Appleton",
+      "address": "1341 W Spencer St, Appleton, WI 54914, USA",
+      "street": "1341 West Spencer Street",
+      "zip": "54914",
+      "coordinates": {
+        "lat": 44.25795,
+        "lng": -88.426924
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19487",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Appleton",
+      "address": "1341 W Spencer St, Appleton, WI 54914, USA",
+      "street": "1341 West Spencer Street",
+      "zip": "54914",
+      "coordinates": {
+        "lat": 44.25795,
+        "lng": -88.426924
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19488",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1835 E Edgewood Dr, Appleton, WI 54913, USA",
+      "street": "1835 East Edgewood Drive",
+      "zip": "54913",
+      "coordinates": {
+        "lat": 44.31607,
+        "lng": -88.376209
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19489",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Appleton",
+      "address": "2411 S Kensington Dr, Appleton, WI 54915, USA",
+      "street": "2411 South Kensington Drive",
+      "zip": "54915",
+      "coordinates": {
+        "lat": 44.240687,
+        "lng": -88.361944
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19490",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Appleton",
+      "address": "2701 N Ballard Rd, Appleton, WI 54911, USA",
+      "street": "2701 North Ballard Road",
+      "zip": "54911",
+      "coordinates": {
+        "lat": 44.286079,
+        "lng": -88.375488
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19491",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Appleton",
+      "address": "2851 E Apple Creek Rd, Appleton, WI 54913, USA",
+      "street": "2851 East Apple Creek Road",
+      "zip": "54913",
+      "coordinates": {
+        "lat": 44.333279,
+        "lng": -88.359978
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19492",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "4759 W Michaels Dr, Appleton, WI 54913, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.266894,
+        "lng": -88.478759
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19493",
+      "title": "Goodwill - Appleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Appleton",
+      "address": "N189 Stoney Brook Rd, Appleton, WI 54915, USA",
+      "street": "N189 Stoney Brook Road",
+      "zip": "54915",
+      "coordinates": {
+        "lat": 44.247094,
+        "lng": -88.352695
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-appleton-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19520",
+      "title": "Goodwill - Green Bay",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2814 S Oneida St, Ashwaubenon, WI 54304, USA",
+      "street": "2814 South Oneida Street",
+      "zip": "54304",
+      "coordinates": {
+        "lat": 44.473015,
+        "lng": -88.075953
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-green-bay/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19626",
+      "title": "Goodwill - Beaver Dam",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "130 Frances Ln, Beaver Dam, WI 53916, USA",
+      "street": "Frances Lane",
+      "zip": "53916",
+      "coordinates": {
+        "lat": 43.490728,
+        "lng": -88.810016
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-beaver-dam-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19738",
+      "title": "Goodwill - Brookfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "18605 W Bluemound Rd, Brookfield, WI 53045, USA",
+      "street": "18605 West Bluemound Road",
+      "zip": "53045",
+      "coordinates": {
+        "lat": 43.035512,
+        "lng": -88.14294
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-brookfield-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19745",
+      "title": "Goodwill - Brown Deer",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "9305 N Green Bay Rd, Brown Deer, WI 53209, USA",
+      "street": "9305 North Green Bay Road",
+      "zip": "53223",
+      "coordinates": {
+        "lat": 43.187189,
+        "lng": -87.966176
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-brown-deer-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19883",
+      "title": "Goodwill - Chippewa Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2759 S Prairie View Rd, Chippewa Falls, WI 54729, USA",
+      "street": "2759 South Prairie View Road",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.883053,
+        "lng": -91.423992
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-chippewa-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20026",
+      "title": "Goodwill - De Pere",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "575 Swan Rd, De Pere, WI 54115, USA",
+      "street": "575 Swan Road",
+      "zip": "54115",
+      "coordinates": {
+        "lat": 44.436869,
+        "lng": -88.034627
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-de-pere/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20036",
+      "title": "Goodwill - Delavan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1402 Geneva St, Delavan, WI 53115, USA",
+      "street": "1402 East Geneva Street",
+      "zip": "53115",
+      "coordinates": {
+        "lat": 42.624557,
+        "lng": -88.624361
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-delavan-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20088",
+      "title": "Goodwill - Eau Claire",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Eau Claire",
+      "address": "3605 Gateway Dr, Eau Claire, WI 54701, USA",
+      "street": "3605 Gateway Drive",
+      "zip": "54701",
+      "coordinates": {
+        "lat": 44.779959,
+        "lng": -91.43071
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-eau-claire/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20169",
+      "title": "Goodwill - Fitchburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "6291 McKee Rd, Fitchburg, WI 53719, USA",
+      "street": "6291 McKee Road",
+      "zip": "53719",
+      "coordinates": {
+        "lat": 43.015049,
+        "lng": -89.480199
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-fitchburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20178",
+      "title": "Goodwill - Fond du Lac",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Fond du Lac",
+      "address": "904 S Main St, Fond du Lac, WI 54935, USA",
+      "street": "904 South Main Street",
+      "zip": "54935",
+      "coordinates": {
+        "lat": 43.754424,
+        "lng": -88.4497
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-fond-du-lac-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20183",
+      "title": "Goodwill - Fort Atkinson",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1530 Madison Ave, Fort Atkinson, WI 53538, USA",
+      "street": "Madison Avenue",
+      "zip": "53538",
+      "coordinates": {
+        "lat": 42.941903,
+        "lng": -88.860725
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-fort-atkinson/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20213",
+      "title": "Goodwill - Franklin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "6941 S Riverwood Blvd, Franklin, WI 53132, USA",
+      "street": "6941 South Riverwood Boulevard",
+      "zip": "53132",
+      "coordinates": {
+        "lat": 42.919603,
+        "lng": -87.954075
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-franklin-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20264",
+      "title": "Goodwill - Grafton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1715 Wisconsin Ave, Grafton, WI 53024, USA",
+      "street": "1715 Wisconsin Avenue",
+      "zip": "53024",
+      "coordinates": {
+        "lat": 43.311977,
+        "lng": -87.957908
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-grafton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20278",
+      "title": "Goodwill - Green Bay",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Green Bay",
+      "address": "1301 Brosig St, Green Bay, WI 54311, USA",
+      "street": "1301 Brosig Street",
+      "zip": "54311",
+      "coordinates": {
+        "lat": 44.476869,
+        "lng": -87.966482
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-green-bay-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20279",
+      "title": "Goodwill - Green Bay",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Green Bay",
+      "address": "1660 W Mason St, Green Bay, WI 54303, USA",
+      "street": "1660 West Mason Street",
+      "zip": "54303",
+      "coordinates": {
+        "lat": 44.526395,
+        "lng": -88.06763
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-green-bay-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20280",
+      "title": "Goodwill - Green Bay",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2465 Lineville Rd, Green Bay, WI 54313, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.589351,
+        "lng": -88.079898
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-green-bay-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20293",
+      "title": "Goodwill - Greenville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "N1230 County Rd CB, Greenville, WI 54942, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.28511,
+        "lng": -88.505417
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-greenville-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20294",
+      "title": "Goodwill - Greenville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "N1858 Greenville Dr, Greenville, WI 54942, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.308977,
+        "lng": -88.550074
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-greenville-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20295",
+      "title": "Goodwill - Greenville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "W6931 School Rd, Greenville, WI 54942, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.285554,
+        "lng": -88.539725
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-greenville-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20407",
+      "title": "Goodwill - Hortonville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "213 E Towne Dr, Hortonville, WI 54944, USA",
+      "street": "213 East Towne Drive",
+      "zip": "54944",
+      "coordinates": {
+        "lat": 44.336378,
+        "lng": -88.634652
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-hortonville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20515",
+      "title": "Goodwill - Janesville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Janesville",
+      "address": "2003 Holiday Dr, Janesville, WI 53545, USA",
+      "street": "2003 Holiday Drive",
+      "zip": "53545",
+      "coordinates": {
+        "lat": 42.715231,
+        "lng": -88.997839
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-janesville-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20543",
+      "title": "Goodwill - Kaukauna",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "211 E Ann St, Kaukauna, WI 54130, USA",
+      "street": "211 East Ann Street",
+      "zip": "54130",
+      "coordinates": {
+        "lat": 44.259358,
+        "lng": -88.2733
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-kaukauna/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20544",
+      "title": "Goodwill - Little Chute",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1901 E Main St, Kaukauna, WI 54130, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.284076,
+        "lng": -88.291197
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-little-chute/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20553",
+      "title": "Goodwill - Kenosha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Kenosha",
+      "address": "6100 75th St, Kenosha, WI 53142, USA",
+      "street": "75th Street",
+      "zip": "53142",
+      "coordinates": {
+        "lat": 42.567675,
+        "lng": -87.882054
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-kenosha-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20587",
+      "title": "Goodwill - La Crosse",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "La Crosse",
+      "address": "3954 Mormon Coulee Rd, La Crosse, WI 54601, USA",
+      "street": "3954 Mormon Coulee Road",
+      "zip": "54601",
+      "coordinates": {
+        "lat": 43.77403,
+        "lng": -91.220995
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-la-crosse/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20754",
+      "title": "Goodwill - Madison",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "1302 Mendota St, Madison, WI 53714, USA",
+      "street": "1302 Mendota Street",
+      "zip": "53714",
+      "coordinates": {
+        "lat": 43.116511,
+        "lng": -89.316898
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-madison-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20755",
+      "title": "Goodwill - Madison",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "2127 E Springs Dr, Madison, WI 53704, USA",
+      "street": "2127 East Springs Drive",
+      "zip": "53704",
+      "coordinates": {
+        "lat": 43.127185,
+        "lng": -89.292515
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-madison-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20756",
+      "title": "Goodwill - Madison",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "2901 N Sherman Ave, Madison, WI 53704, USA",
+      "street": "2901 North Sherman Avenue",
+      "zip": "53704",
+      "coordinates": {
+        "lat": 43.128583,
+        "lng": -89.363109
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-madison-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20757",
+      "title": "Goodwill - Madison",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "4530 Verona Rd, Madison, WI 53711, USA",
+      "street": "4530 Verona Road",
+      "zip": "53711",
+      "coordinates": {
+        "lat": 43.038016,
+        "lng": -89.457304
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-madison-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20768",
+      "title": "Goodwill - Manitowoc",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "4335 Calumet Ave, Manitowoc, WI 54220, USA",
+      "street": "Calumet Avenue",
+      "zip": "54220",
+      "coordinates": {
+        "lat": 44.071901,
+        "lng": -87.703021
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-manitowoc/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20792",
+      "title": "Goodwill - Marshfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2220 N Central Ave, Marshfield, WI 54449, USA",
+      "street": "2220 North Central Avenue",
+      "zip": "54449",
+      "coordinates": {
+        "lat": 44.691928,
+        "lng": -90.155716
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-marshfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20842",
+      "title": "Goodwill - Menasha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1800 Appleton Rd, Menasha, WI 54952, USA",
+      "street": "1800 Appleton Road",
+      "zip": "54952",
+      "coordinates": {
+        "lat": 44.235469,
+        "lng": -88.426303
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-menasha/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20844",
+      "title": "Goodwill - Menomonee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "Water Tower Pl, Menomonee Falls, WI 53051, USA",
+      "street": "Water Tower Place",
+      "zip": "53022",
+      "coordinates": {
+        "lat": 43.187362,
+        "lng": -88.131542
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-menomonee-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20845",
+      "title": "Goodwill - Menomonie",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2500 Hils Ct, Menomonie, WI 54751, USA",
+      "street": "2500 Hils Court",
+      "zip": "54751",
+      "coordinates": {
+        "lat": 44.912924,
+        "lng": -91.931377
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-menomonie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20885",
+      "title": "Goodwill - Middleton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "6280 Century Ave, Middleton, WI 53562, USA",
+      "street": "6280 Century Avenue",
+      "zip": "53562",
+      "coordinates": {
+        "lat": 43.104665,
+        "lng": -89.488836
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-middleton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20906",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Milwaukee",
+      "address": "153 W Oklahoma Ave, Milwaukee, WI 53207, USA",
+      "street": "153 West Oklahoma Avenue",
+      "zip": "53207",
+      "coordinates": {
+        "lat": 42.9863,
+        "lng": -87.911338
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-milwaukee-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20907",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Milwaukee",
+      "address": "2830 N Oakland Ave, Milwaukee, WI 53211, USA",
+      "street": "2830 North Oakland Avenue",
+      "zip": "53211",
+      "coordinates": {
+        "lat": 43.070227,
+        "lng": -87.887575
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-milwaukee-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20908",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Milwaukee",
+      "address": "3900 N Palmer St, Milwaukee, WI 53212, USA",
+      "street": "3900 North Palmer Street",
+      "zip": "53212",
+      "coordinates": {
+        "lat": 43.088054,
+        "lng": -87.909192
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-milwaukee-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20909",
+      "title": "Goodwill - Milwaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Milwaukee",
+      "address": "6055 N 91st St, Milwaukee, WI 53225, USA",
+      "street": "6055 North 91st Street",
+      "zip": "53225",
+      "coordinates": {
+        "lat": 43.127172,
+        "lng": -88.027615
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-milwaukee-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20910",
+      "title": "Goodwill - Retique",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "190 N Broadway St, Milwaukee, WI 53202, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.03254,
+        "lng": -87.906749
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-retique-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20931",
+      "title": "Goodwill - Monona",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "2501 Royal Ave, Monona, WI 53713, USA",
+      "street": "2501 Royal Avenue",
+      "zip": "53713",
+      "coordinates": {
+        "lat": 43.041728,
+        "lng": -89.353446
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-monona/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20972",
+      "title": "Goodwill - Mt. Pleasa",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "3131 S Oakes Rd, Mt Pleasant, WI 53406, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 42.694398,
+        "lng": -87.871771
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-mt-pleasa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21025",
+      "title": "Goodwill - Neenah",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1350 W American Dr, Neenah, WI 54956, USA",
+      "street": "1350 West American Drive",
+      "zip": "54956",
+      "coordinates": {
+        "lat": 44.222885,
+        "lng": -88.492752
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-neenah/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21026",
+      "title": "Goodwill - Neenah",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "907 S Green Bay Rd, Neenah, WI 54956, USA",
+      "street": "907 South Green Bay Road",
+      "zip": "54956",
+      "coordinates": {
+        "lat": 44.17501,
+        "lng": -88.486475
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-neenah-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21032",
+      "title": "Goodwill - New Berlin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "3540 S Moorland Rd, New Berlin, WI 53151, USA",
+      "street": "3540 South Moorland Road",
+      "zip": "53151",
+      "coordinates": {
+        "lat": 42.980268,
+        "lng": -88.106484
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-new-berlin-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21116",
+      "title": "Goodwill - Oak Creek",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "8201 S Howell Ave, Oak Creek, WI 53154, USA",
+      "street": "8201 South Howell Avenue",
+      "zip": "53154",
+      "coordinates": {
+        "lat": 42.895299,
+        "lng": -87.913637
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-oak-creek-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21127",
+      "title": "Goodwill - Oconomowoc",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1408 Summit Ave, Oconomowoc, WI 53066, USA",
+      "street": "1408 Summit Avenue",
+      "zip": "53066",
+      "coordinates": {
+        "lat": 43.085984,
+        "lng": -88.47382
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-oconomowoc-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21161",
+      "title": "Goodwill - Onalaska",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "200 Theater Rd, Onalaska, WI 54650, USA",
+      "street": "200 Theater Road",
+      "zip": "54650",
+      "coordinates": {
+        "lat": 43.879029,
+        "lng": -91.199593
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-onalaska/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21186",
+      "title": "Goodwill - Oshkosh",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Oshkosh",
+      "address": "1600 W 20th Ave, Oshkosh, WI 54902, USA",
+      "street": "1600 West 20th Avenue",
+      "zip": "54902",
+      "coordinates": {
+        "lat": 43.996702,
+        "lng": -88.575178
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-oshkosh/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21187",
+      "title": "Goodwill - Oshkosh",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Oshkosh",
+      "address": "2303 Westowne Ave, Oshkosh, WI 54904, USA",
+      "street": "2303 Westowne Avenue",
+      "zip": "54904",
+      "coordinates": {
+        "lat": 44.028427,
+        "lng": -88.587765
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-oshkosh-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21247",
+      "title": "Goodwill - Pewaukee",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2015 Meadow Ln, Pewaukee, WI 53072, USA",
+      "street": "2015 Meadow Lane",
+      "zip": "53072",
+      "coordinates": {
+        "lat": 43.041133,
+        "lng": -88.259578
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-pewaukee-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21287",
+      "title": "Goodwill - Platteville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2001 Progressive Pkwy, Platteville, WI 53818, USA",
+      "street": "2001 Progressive Parkway",
+      "zip": "53818",
+      "coordinates": {
+        "lat": 42.736032,
+        "lng": -90.434541
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-platteville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21288",
+      "title": "Goodwill - Plover",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1017 Commons Cir, Plover, WI 54467, USA",
+      "street": "1017 Commons Circle",
+      "zip": "54467",
+      "coordinates": {
+        "lat": 44.490723,
+        "lng": -89.511511
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-plover/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21294",
+      "title": "Goodwill - Portage",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2902 American Legion Dr, Portage, WI 53901, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.568376,
+        "lng": -89.473156
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-portage/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21341",
+      "title": "Goodwill - Rice Lake",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2181 Lincoln St, Rhinelander, WI 54501, USA",
+      "street": "2181 Lincoln Street",
+      "zip": "54501",
+      "coordinates": {
+        "lat": 45.63501,
+        "lng": -89.380453
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-rice-lake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21342",
+      "title": "Goodwill - Lake",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2850 College Dr, Rice Lake, WI 54868, USA",
+      "street": "2850 College Drive",
+      "zip": "54868",
+      "coordinates": {
+        "lat": 45.47354,
+        "lng": -91.744874
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-lake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21343",
+      "title": "Goodwill - Richland Center",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2496 US-14, Richland Center, WI 53581, USA",
+      "street": "2496 US Highway 14",
+      "zip": "53581",
+      "coordinates": {
+        "lat": 43.314114,
+        "lng": -90.345958
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-richland-center/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21454",
+      "title": "Goodwill - Schofield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2713 Schofield Ave, Schofield, WI 54476, USA",
+      "street": "Schofield Avenue",
+      "zip": "54476",
+      "coordinates": {
+        "lat": 44.906153,
+        "lng": -89.590262
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-schofield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21466",
+      "title": "Goodwill - Shawano",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "300 Lakeland Rd, Shawano, WI 54166, USA",
+      "street": "300 Lakeland Road",
+      "zip": "54166",
+      "coordinates": {
+        "lat": 44.780132,
+        "lng": -88.583178
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-shawano/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21469",
+      "title": "Goodwill - Sheboygan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Sheboygan",
+      "address": "3657 Greenwing Dr, Sheboygan, WI 53081, USA",
+      "street": "3657 Greenwing Drive",
+      "zip": "53081",
+      "coordinates": {
+        "lat": 43.715786,
+        "lng": -87.751806
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-sheboygan-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21578",
+      "title": "Goodwill - Stevens Point",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "5373 US-10 A, Stevens Point, WI 54482, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.522623,
+        "lng": -89.519754
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-stevens-point/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21584",
+      "title": "Goodwill - Stoughton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1780 US-51, Stoughton, WI 53589, USA",
+      "street": "1780 US Highway 51",
+      "zip": "53589",
+      "coordinates": {
+        "lat": 42.919576,
+        "lng": -89.242642
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-stoughton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21587",
+      "title": "Goodwill - Outlet Sto",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1630 Enterprise Dr, Sturtevant, WI 53177, USA",
+      "street": "1630 Enterprise Drive",
+      "zip": "53177",
+      "coordinates": {
+        "lat": 42.714736,
+        "lng": -87.907507
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-outlet-sto/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21600",
+      "title": "Goodwill - Sun Prairie",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2111 McCoy Rd, Sun Prairie, WI 53590, USA",
+      "street": "2111 McCoy Road",
+      "zip": "53590",
+      "coordinates": {
+        "lat": 43.174305,
+        "lng": -89.24917
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-sun-prairie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21623",
+      "title": "Goodwill - Tomah",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1516 N Superior Ave, Tomah, WI 54660, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.01013,
+        "lng": -90.506403
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-tomah/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21701",
+      "title": "Goodwill - Waukesha",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Waukesha",
+      "address": "1400 Nike Dr, Waukesha, WI 53186, USA",
+      "street": "1400 Nike Drive",
+      "zip": "53186",
+      "coordinates": {
+        "lat": 43.02099,
+        "lng": -88.198176
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-waukesha-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21702",
+      "title": "Goodwill - Waupaca",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "805 W Fulton St, Waupaca, WI 54981, USA",
+      "street": "805 West Fulton Street",
+      "zip": "54981",
+      "coordinates": {
+        "lat": 44.356765,
+        "lng": -89.10061
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-waupaca/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21703",
+      "title": "Goodwill - Wausau",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1100 Morning Glory Ln, Wausau, WI 54401, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.916576,
+        "lng": -89.647112
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-wausau/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21705",
+      "title": "Goodwill - Wauwatosa",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "12121 W Feerick St, Wauwatosa, WI 53222, USA",
+      "street": "12121 West Feerick Street",
+      "zip": "53222",
+      "coordinates": {
+        "lat": 43.085516,
+        "lng": -88.062382
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-wauwatosa-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21718",
+      "title": "Goodwill - West Allis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "10909 W Oklahoma Ave, West Allis, WI 53227, USA",
+      "street": "10909 West Oklahoma Avenue",
+      "zip": "53227",
+      "coordinates": {
+        "lat": 42.98758,
+        "lng": -88.048667
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-west-allis-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21720",
+      "title": "Goodwill - West Bend",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1717 Clarence Ct, West Bend, WI 53095, USA",
+      "street": "1717 Clarence Court",
+      "zip": "53095",
+      "coordinates": {
+        "lat": 43.399461,
+        "lng": -88.194451
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-west-bend-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21733",
+      "title": "Goodwill - West Milwa",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1716 Miller Park Way, West Milwaukee, WI 53214, USA",
+      "street": "1716 Miller Park Way",
+      "zip": "53215",
+      "coordinates": {
+        "lat": 43.011832,
+        "lng": -87.966858
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-west-milwa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21811",
+      "title": "Goodwill - Wisconsin Rapids",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2561 8th St S, Wisconsin Rapids, WI 54494, USA",
+      "street": "2561 8th Street South",
+      "zip": "54494",
+      "coordinates": {
+        "lat": 44.371014,
+        "lng": -89.815891
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/goodwill-wisconsin-rapids/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21957",
+      "title": "St Vincent De Paul - Cottage Grove",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "434 N Main St, Cottage Grove, WI 53527, USA",
+      "street": "434 North Main Street",
+      "zip": "53527",
+      "coordinates": {
+        "lat": 43.08343,
+        "lng": -89.199054
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-cottage-grove/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21960",
+      "title": "St Vincent De Paul - Cross Plains",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "2947 Thinnes St, Cross Plains, WI 53528, USA",
+      "street": "2947 Thinnes Street",
+      "zip": "53528",
+      "coordinates": {
+        "lat": 43.119837,
+        "lng": -89.632659
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-cross-plains/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21961",
+      "title": "St Vincent De Paul - Cross Plains",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "3673 County Rd P, Cross Plains, WI 53528, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.05559,
+        "lng": -89.656453
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-cross-plains-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22027",
+      "title": "St Vincent De Paul - Greenfield",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "4476 S 108th St, Greenfield, WI 53228, USA",
+      "street": "4476 South 108th Street",
+      "zip": "53228",
+      "coordinates": {
+        "lat": 42.96199,
+        "lng": -88.045788
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-greenfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22096",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "1128 St James Ct, Madison, WI 53715, USA",
+      "street": "1128 St James Court",
+      "zip": "53715",
+      "coordinates": {
+        "lat": 43.066092,
+        "lng": -89.405297
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22097",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "1309 Williamson St, Madison, WI 53703, USA",
+      "street": "1309 Williamson Street",
+      "zip": "53703",
+      "coordinates": {
+        "lat": 43.084588,
+        "lng": -89.361926
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22098",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "1501 W Badger Rd, Madison, WI 53713, USA",
+      "street": "1501 West Badger Road",
+      "zip": "53713",
+      "coordinates": {
+        "lat": 43.038159,
+        "lng": -89.409329
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22099",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "1900 S Park St, Madison, WI 53713, USA",
+      "street": "1900 South Park Street",
+      "zip": "53713",
+      "coordinates": {
+        "lat": 43.044725,
+        "lng": -89.395236
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22100",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "313 Dempsey Rd, Madison, WI 53714, USA",
+      "street": "313 Dempsey Road",
+      "zip": "53714",
+      "coordinates": {
+        "lat": 43.091233,
+        "lng": -89.316069
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22101",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "405 S Owen Dr, Madison, WI 53711, USA",
+      "street": "405 South Owen Drive",
+      "zip": "53711",
+      "coordinates": {
+        "lat": 43.060067,
+        "lng": -89.44659
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22102",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "602 Everglade Dr, Madison, WI 53717, USA",
+      "street": "602 Everglade Drive",
+      "zip": "53717",
+      "coordinates": {
+        "lat": 43.074462,
+        "lng": -89.499824
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22103",
+      "title": "St Vincent De Paul - Madison",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Madison",
+      "address": "6301 Odana Rd, Madison, WI 53719, USA",
+      "street": "6301 Odana Road",
+      "zip": "53719",
+      "coordinates": {
+        "lat": 43.053333,
+        "lng": -89.488467
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-madison-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22117",
+      "title": "St Vincent De Paul - Lincoln",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Milwaukee",
+      "address": "2320 W Lincoln Ave, Milwaukee, WI 53215, USA",
+      "street": "2320,2326 West Lincoln Avenue",
+      "zip": "53215",
+      "coordinates": {
+        "lat": 43.003196,
+        "lng": -87.943132
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-lincoln/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22190",
+      "title": "St Vincent De Paul - Stoughton",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1509 US-51, Stoughton, WI 53589, USA",
+      "street": "1509 US Highway 51",
+      "zip": "53589",
+      "coordinates": {
+        "lat": 42.917808,
+        "lng": -89.238772
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-stoughton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22192",
+      "title": "St Vincent De Paul - Sun Prairie",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "1110 W Main St, Sun Prairie, WI 53590, USA",
+      "street": "1110 West Main Street",
+      "zip": "53590",
+      "coordinates": {
+        "lat": 43.181337,
+        "lng": -89.231184
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-sun-prairie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22203",
+      "title": "St Vincent De Paul - Verona",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "513 W Verona Ave, Verona, WI 53593, USA",
+      "street": "513 West Verona Avenue",
+      "zip": "53593",
+      "coordinates": {
+        "lat": 42.987833,
+        "lng": -89.544382
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-verona/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22208",
+      "title": "St Vincent De Paul - Waunakee",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wisconsin",
+      "stateSlug": "wisconsin",
+      "city": "Unknown",
+      "address": "213 S Klein Dr, Waunakee, WI 53597, USA",
+      "street": "South Klein Drive",
+      "zip": "53597",
+      "coordinates": {
+        "lat": 43.190187,
+        "lng": -89.463952
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wisconsin/st-vincent-de-paul-waunakee/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "name": "Hawaii",
+  "slug": "hawaii",
+  "locations": [
+    {
+      "id": "17328",
+      "title": "National Kidney Foundation - Honolulu",
+      "company": "National Kidney Foundation",
+      "description": "The National Kidney Foundation is the largest, most active non-profit organization in the United States that is dedicated to the treatment, prevention, and awareness of kidney disease.\n\nSome chapters that accept donations partner with local thrift shops for fundraising purposes. The National Kidney Foundation of Florida, for example, partners with Sunshine Thrift Store. Please contact your local NKF before donating.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "1314 S King St STE 1555, Honolulu, HI 96814, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 21.299071,
+        "lng": -157.8415
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "national-kidney-foundation.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/national-kidney-foundation-honolulu/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "18122",
+      "title": "Salvation Army - Hanapepe",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "4465 Puolo Rd, Hanapepe, HI 96716, USA",
+      "street": "4465 Puolo Road",
+      "zip": "96716",
+      "coordinates": {
+        "lat": 21.907133,
+        "lng": -159.593109
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-hanapepe/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18144",
+      "title": "Salvation Army - Hilo",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Hilo",
+      "address": "188 Kamehameha Ave, Hilo, HI 96720, USA",
+      "street": "188 Kamehameha Avenue",
+      "zip": "96720",
+      "coordinates": {
+        "lat": 19.725289,
+        "lng": -155.086258
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-hilo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18159",
+      "title": "Salvation Army - Honokaa",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "45 Rickard Pl, Honokaa, HI 96727, USA",
+      "street": "Rickard Place",
+      "zip": "96727",
+      "coordinates": {
+        "lat": 20.077326,
+        "lng": -155.464831
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-honokaa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18160",
+      "title": "Salvation Army - Honolulu",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Honolulu",
+      "address": "322 Sumner St, Honolulu, HI 96817, USA",
+      "street": "322 Sumner Street",
+      "zip": "96817",
+      "coordinates": {
+        "lat": 21.315289,
+        "lng": -157.866899
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-honolulu/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18231",
+      "title": "Salvation Army - Kailua",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Kailua",
+      "address": "45 Kailua Rd, Kailua, HI 96734, USA",
+      "street": "45 Kailua Road",
+      "zip": "96734",
+      "coordinates": {
+        "lat": 21.39816,
+        "lng": -157.729418
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-kailua/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18232",
+      "title": "Salvation Army - Kailua-Kona",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "74-5555 Kaiwi St, Kailua-Kona, HI 96740, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 19.642919,
+        "lng": -156.000672
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-kailua-kona/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18241",
+      "title": "Salvation Army - Kihei",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "105 Hale Kai St, Kihei, HI 96753, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 20.78003,
+        "lng": -156.446944
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-kihei/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18249",
+      "title": "Salvation Army - Lahaina",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "131 Shaw St, Lahaina, HI 96761, USA",
+      "street": "131 Shaw Street",
+      "zip": "96761",
+      "coordinates": {
+        "lat": 20.86839,
+        "lng": -156.674466
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-lahaina/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18293",
+      "title": "Salvation Army - Lihue",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "4291 Rice St, Lihue, HI 96766, USA",
+      "street": "4291 Rice Street",
+      "zip": "96766",
+      "coordinates": {
+        "lat": 21.972425,
+        "lng": -159.365649
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-lihue/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18932",
+      "title": "Salvation Army - Wahiawa",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "435 Kilani Ave, Wahiawa, HI 96786, USA",
+      "street": "435 Kilani Avenue",
+      "zip": "96786",
+      "coordinates": {
+        "lat": 21.497468,
+        "lng": -158.030471
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-wahiawa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18933",
+      "title": "Salvation Army - Waipahu",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Waipahu",
+      "address": "94-925 Waipahu St, Waipahu, HI 96797, USA",
+      "street": "94-925 Waipahu Street",
+      "zip": "96797",
+      "coordinates": {
+        "lat": 21.386503,
+        "lng": -158.005972
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/salvation-army-waipahu/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19439",
+      "title": "Goodwill - Aiea",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Aiea",
+      "address": "98-019 Kamehameha Hwy, Aiea, HI 96701, USA",
+      "street": "98-019 Kamehameha Highway",
+      "zip": "96701",
+      "coordinates": {
+        "lat": 21.384937,
+        "lng": -157.950593
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-aiea/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20383",
+      "title": "Goodwill - Hilo",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Hilo",
+      "address": "266 Kanoelehua Ave, Hilo, HI 96720, USA",
+      "street": "266 Kanoelehua Avenue",
+      "zip": "96720",
+      "coordinates": {
+        "lat": 19.718916,
+        "lng": -155.064768
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-hilo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20398",
+      "title": "Goodwill - Honolulu",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Honolulu",
+      "address": "1069 S Beretania St, Honolulu, HI 96814, USA",
+      "street": "1069 South Beretania Street",
+      "zip": "96814",
+      "coordinates": {
+        "lat": 21.302382,
+        "lng": -157.846127
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-honolulu/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20399",
+      "title": "Goodwill - Honolulu",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Honolulu",
+      "address": "1075 S Beretania St, Honolulu, HI 96814, USA",
+      "street": "1075 South Beretania Street",
+      "zip": "96814",
+      "coordinates": {
+        "lat": 21.302356,
+        "lng": -157.845941
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-honolulu-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20400",
+      "title": "Goodwill - Honolulu",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "East Honolulu",
+      "address": "3638 Waialae Ave, Honolulu, HI 96816, USA",
+      "street": "3638 Waialae Avenue",
+      "zip": "96816",
+      "coordinates": {
+        "lat": 21.282538,
+        "lng": -157.798068
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-honolulu-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20401",
+      "title": "Goodwill - Honolulu",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "614 Cooke St #100, Honolulu, HI 96813, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 21.300173,
+        "lng": -157.857203
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-honolulu-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20531",
+      "title": "Goodwill - Kahului",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "250 Alamaha St N9, Kahului, HI 96732, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 20.886455,
+        "lng": -156.459478
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-kahului/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20532",
+      "title": "Goodwill - Kailua",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Kailua",
+      "address": "105 Oneawa St, Kailua, HI 96734, USA",
+      "street": "105 Oneawa Street",
+      "zip": "96734",
+      "coordinates": {
+        "lat": 21.395892,
+        "lng": -157.745252
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-kailua/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20533",
+      "title": "Goodwill - Kailua Kona",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "73-4786 Kanalani St, Kailua-Kona, HI 96740, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 19.689115,
+        "lng": -156.021587
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-kailua-kona/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20536",
+      "title": "Goodwill - Kapolei",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Kapolei",
+      "address": "2140 Lauwiliwili St, Kapolei, HI 96707, USA",
+      "street": "2140 Lauwiliwili Street",
+      "zip": "96707",
+      "coordinates": {
+        "lat": 21.318578,
+        "lng": -158.091114
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-kapolei/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21678",
+      "title": "Goodwill - Wahiawa",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "823 California Ave, Wahiawa, HI 96786, USA",
+      "street": "823 California Avenue",
+      "zip": "96786",
+      "coordinates": {
+        "lat": 21.496297,
+        "lng": -158.025487
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-wahiawa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21679",
+      "title": "Goodwill - Waipahu",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Hawaii",
+      "stateSlug": "hawaii",
+      "city": "Unknown",
+      "address": "94-050 Farrington Hwy, Waipahu, HI 96797, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 21.377963,
+        "lng": -158.02542
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/hawaii/goodwill-waipahu/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

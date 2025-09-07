@@ -1,0 +1,696 @@
+{
+  "name": "Delaware",
+  "slug": "delaware",
+  "locations": [
+    {
+      "id": "17689",
+      "title": "Salvation Army - Bear",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "100 E Scotland Dr, Bear, DE 19701, USA",
+      "street": "100 East Scotland Drive",
+      "zip": "19701",
+      "coordinates": {
+        "lat": 39.610851,
+        "lng": -75.703502
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-bear/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17690",
+      "title": "Salvation Army - Bear",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "841 Pulaski Hwy, Bear, DE 19701, USA",
+      "street": "841 Pulaski Highway",
+      "zip": "19701",
+      "coordinates": {
+        "lat": 39.639934,
+        "lng": -75.648948
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-bear-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18146",
+      "title": "Salvation Army - HOCKESSIN",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "128 Lantana Dr, Hockessin, DE 19707, USA",
+      "street": "128 Lantana Drive",
+      "zip": "19707",
+      "coordinates": {
+        "lat": 39.773786,
+        "lng": -75.708618
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-hockessin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18147",
+      "title": "Salvation Army - Hockessin",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "7491 Lancaster Pike, Hockessin, DE 19707, USA",
+      "street": "7491 Lancaster Pike",
+      "zip": "19707",
+      "coordinates": {
+        "lat": 39.790264,
+        "lng": -75.69945
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-hockessin-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18380",
+      "title": "Salvation Army - Middletown",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "4434 Summit Bridge Rd, Middletown, DE 19709, USA",
+      "street": "Summit Bridge Road",
+      "zip": "19709",
+      "coordinates": {
+        "lat": 39.513461,
+        "lng": -75.712389
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-middletown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18381",
+      "title": "Salvation Army - Middletown",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "5234 Summit Bridge Rd, Middletown, DE 19709, USA",
+      "street": "5234 Summit Bridge Road",
+      "zip": "19709",
+      "coordinates": {
+        "lat": 39.466266,
+        "lng": -75.721442
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-middletown-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18435",
+      "title": "Salvation Army - Bear",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "950 Red Lion Rd, New Castle, DE 19720, USA",
+      "street": "950 Red Lion Road",
+      "zip": "19720",
+      "coordinates": {
+        "lat": 39.613475,
+        "lng": -75.64913
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-bear-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18456",
+      "title": "Salvation Army - Newark",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "101 Executive Dr, Newark, DE 19702, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.618797,
+        "lng": -75.747359
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-newark-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18457",
+      "title": "Salvation Army - Newark",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "2090 Stafford Way, Newark, DE 19711, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.685462,
+        "lng": -75.721249
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-newark-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18811",
+      "title": "Salvation Army - Smyrna",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "16 W Mt Vernon St, Smyrna, DE 19977, USA",
+      "street": "16 West Mount Vernon Street",
+      "zip": "19977",
+      "coordinates": {
+        "lat": 39.301292,
+        "lng": -75.608139
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-smyrna/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18967",
+      "title": "Salvation Army - WILMINGTON",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "101 Western Ave, Wilmington, DE 19805, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.738453,
+        "lng": -75.59216
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-wilmington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18968",
+      "title": "Salvation Army - Wilmington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Wilmington",
+      "address": "107 S Market St, Wilmington, DE 19801, USA",
+      "street": "107 South Market Street",
+      "zip": "19801",
+      "coordinates": {
+        "lat": 39.735302,
+        "lng": -75.555873
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-wilmington-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18969",
+      "title": "Salvation Army - Wilmington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Wilmington",
+      "address": "1215 Centerville Rd, Wilmington, DE 19808, USA",
+      "street": "1215 Centerville Road",
+      "zip": "19808",
+      "coordinates": {
+        "lat": 39.731417,
+        "lng": -75.618331
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-wilmington-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18970",
+      "title": "Salvation Army - Wilmington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "3000 Newport Gap Pike, Wilmington, DE 19808, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.75077,
+        "lng": -75.652391
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-wilmington-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18971",
+      "title": "Salvation Army - Wilmington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "714 Greenbank Rd, Wilmington, DE 19808, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.73525,
+        "lng": -75.635129
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-wilmington-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18974",
+      "title": "Salvation Army - New Castle",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "2 Bellecor Dr, Wilmington Manor, DE 19720, USA",
+      "street": "2 Bellecor Drive",
+      "zip": "19720",
+      "coordinates": {
+        "lat": 39.692245,
+        "lng": -75.597348
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/salvation-army-new-castle-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19051",
+      "title": "Greendrop - Wilmington",
+      "company": "Greendrop",
+      "description": "Greendrop is a charitable organization that collects donated items and distributes them to various other charitable organisations.\n\nAccepted donations include clothing, shoes, household items, kitchenware, toys, appliances, electronics, sporting goods, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Wilmington",
+      "address": "2308 Concord Pike, Wilmington, DE 19803, USA",
+      "street": "2308 Concord Pike",
+      "zip": "19803",
+      "coordinates": {
+        "lat": 39.793505,
+        "lng": -75.547549
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Homewares",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "greendrop.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/greendrop-wilmington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19624",
+      "title": "Goodwill - Bear",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "334 Fox Hunt Dr, Bear, DE 19701, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.606555,
+        "lng": -75.710213
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-bear/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19732",
+      "title": "Goodwill - Bridgeville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "18178 Sussex Hwy, Bridgeville, DE 19933, USA",
+      "street": "18178 Sussex Highway",
+      "zip": "19933",
+      "coordinates": {
+        "lat": 38.736409,
+        "lng": -75.593619
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-bridgeville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19832",
+      "title": "Goodwill - Chadds Ford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Concord Township",
+      "address": "255 Wilmington West Chester Pike, Chadds Ford, PA 19317, USA",
+      "street": "255 Wilmington West Chester Pike",
+      "zip": "19317",
+      "coordinates": {
+        "lat": 39.852641,
+        "lng": -75.537974
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-chadds-ford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19902",
+      "title": "Goodwill - Wilmington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "2701 Philadelphia Pike, Claymont, DE 19703, USA",
+      "street": "2701 Philadelphia Pike",
+      "zip": "19703",
+      "coordinates": {
+        "lat": 39.794665,
+        "lng": -75.468018
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-wilmington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20068",
+      "title": "Goodwill - Dover",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "1030 Forrest Ave #113, Dover, DE 19904, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.157628,
+        "lng": -75.544046
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-dover/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20069",
+      "title": "Goodwill - Dover",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "1678 S Governors Ave, Dover, DE 19904, USA",
+      "street": "1678 South Governors Avenue",
+      "zip": "19904",
+      "coordinates": {
+        "lat": 39.126534,
+        "lng": -75.533038
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-dover-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20347",
+      "title": "Goodwill - Havertown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "401 West Chester Pike, Havertown, PA 19083, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.9707,
+        "lng": -75.303636
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-havertown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20386",
+      "title": "Goodwill - Hockessin",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "7270 Lancaster Pike, Hockessin, DE 19707, USA",
+      "street": "7270 Lancaster Pike",
+      "zip": "19707",
+      "coordinates": {
+        "lat": 39.787047,
+        "lng": -75.692032
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-hockessin/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20394",
+      "title": "Goodwill - Holmes",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Ridley Township",
+      "address": "2137 MacDade Boulevard, Holmes, PA 19043, USA",
+      "street": "2137 Macdade Boulevard",
+      "zip": "19043",
+      "coordinates": {
+        "lat": 39.898217,
+        "lng": -75.311311
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/goodwill-holmes/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24856",
+      "title": "Planet Aid - Speedy Gas",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Unknown",
+      "address": "1607 Philadelphia Pike, Wilmington, DE 19809, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.786222,
+        "lng": -75.477126
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/planet-aid-speedy-gas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24857",
+      "title": "Planet Aid - The Tatnall School",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Delaware",
+      "stateSlug": "delaware",
+      "city": "Wilmington",
+      "address": "1501 Barley Mill Rd, Wilmington, DE 19807, USA",
+      "street": "1501 Barley Mill Road",
+      "zip": "19807",
+      "coordinates": {
+        "lat": 39.767442,
+        "lng": -75.615412
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/delaware/planet-aid-the-tatnall-school/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

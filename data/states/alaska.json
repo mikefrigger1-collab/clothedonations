@@ -1,0 +1,285 @@
+{
+  "name": "Alaska",
+  "slug": "alaska",
+  "locations": [
+    {
+      "id": "17631",
+      "title": "Salvation Army - Anchorage",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "1712 A St, Anchorage, AK 99501, USA",
+      "street": "1712 A Street",
+      "zip": "99501",
+      "coordinates": {
+        "lat": 61.204565,
+        "lng": -149.884523
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/salvation-army-anchorage/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17632",
+      "title": "Salvation Army - Anchorage",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "300 W Northern Lights Blvd, Anchorage, AK 99503, USA",
+      "street": "300 West Northern Lights Boulevard",
+      "zip": "99503",
+      "coordinates": {
+        "lat": 61.195018,
+        "lng": -149.889561
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/salvation-army-anchorage-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17633",
+      "title": "Salvation Army - Anchorage",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "501 E Dimond Blvd, Anchorage, AK 99515, USA",
+      "street": "501 East Dimond Boulevard",
+      "zip": "99515",
+      "coordinates": {
+        "lat": 61.145502,
+        "lng": -149.872169
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/salvation-army-anchorage-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17634",
+      "title": "Salvation Army - Anchorage",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "660 E 48th Ave, Anchorage, AK 99503, USA",
+      "street": "660 East 48th Avenue",
+      "zip": "99503",
+      "coordinates": {
+        "lat": 61.176949,
+        "lng": -149.870908
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/salvation-army-anchorage-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18942",
+      "title": "Salvation Army - Wasilla",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Wasilla",
+      "address": "2281 Sun Mountain Ave, Wasilla, AK 99654, USA",
+      "street": "2281 East Sun Mountain Avenue",
+      "zip": "99654",
+      "coordinates": {
+        "lat": 61.57307,
+        "lng": -149.392586
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/salvation-army-wasilla/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19212",
+      "title": "The Arc of Anchorage - Anchorage",
+      "company": "The Arc of Anchorage",
+      "description": "The Arc of Anchorage is a non-profit organisation that helps with various charitable causes and people in need around the state.\n\nThey accept a range of donations, but clothing is one of their largest. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "2200 Gambell St, Anchorage, AK 99503, USA",
+      "street": "2200 Gambell Street",
+      "zip": "99503",
+      "coordinates": {
+        "lat": 61.199997,
+        "lng": -149.871018
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "the-arc-of-anchorage.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/the-arc-of-anchorage-anchorage/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19213",
+      "title": "The Arc of Anchorage - Anchorage",
+      "company": "The Arc of Anchorage",
+      "description": "The Arc of Anchorage is a non-profit organisation that helps with various charitable causes and people in need around the state.\n\nThey accept a range of donations, but clothing is one of their largest. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "2211 Arca Dr, Anchorage, AK 99508, USA",
+      "street": "2211 Arca Drive",
+      "zip": "99508",
+      "coordinates": {
+        "lat": 61.200596,
+        "lng": -149.82004
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "the-arc-of-anchorage.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/the-arc-of-anchorage-anchorage-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19214",
+      "title": "The Arc of Anchorage - Anchorage",
+      "company": "The Arc of Anchorage",
+      "description": "The Arc of Anchorage is a non-profit organisation that helps with various charitable causes and people in need around the state.\n\nThey accept a range of donations, but clothing is one of their largest. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "2300 Abbott Rd, Anchorage, AK 99507, USA",
+      "street": "2300 Abbott Road",
+      "zip": "99507",
+      "coordinates": {
+        "lat": 61.136305,
+        "lng": -149.83727
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "the-arc-of-anchorage.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/the-arc-of-anchorage-anchorage-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19215",
+      "title": "The Arc of Anchorage - Anchorage",
+      "company": "The Arc of Anchorage",
+      "description": "The Arc of Anchorage is a non-profit organisation that helps with various charitable causes and people in need around the state.\n\nThey accept a range of donations, but clothing is one of their largest. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "3521 E Tudor Rd, Anchorage, AK 99507, USA",
+      "street": "3521 East Tudor Road",
+      "zip": "99507",
+      "coordinates": {
+        "lat": 61.182035,
+        "lng": -149.814203
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "the-arc-of-anchorage.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/the-arc-of-anchorage-anchorage-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19216",
+      "title": "The Arc of Anchorage - Anchorage",
+      "company": "The Arc of Anchorage",
+      "description": "The Arc of Anchorage is a non-profit organisation that helps with various charitable causes and people in need around the state.\n\nThey accept a range of donations, but clothing is one of their largest. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "7701 Debarr Road, Anchorage, AK 99504, USA",
+      "street": "7701 DeBarr Road",
+      "zip": "99504",
+      "coordinates": {
+        "lat": 61.211136,
+        "lng": -149.736598
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "the-arc-of-anchorage.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/the-arc-of-anchorage-anchorage-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19217",
+      "title": "The Arc of Anchorage - Eagle River",
+      "company": "The Arc of Anchorage",
+      "description": "The Arc of Anchorage is a non-profit organisation that helps with various charitable causes and people in need around the state.\n\nThey accept a range of donations, but clothing is one of their largest. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "13401 Old Glenn Hwy, Eagle River, AK 99577, USA",
+      "street": "Old Glenn Highway",
+      "zip": "99577",
+      "coordinates": {
+        "lat": 61.341522,
+        "lng": -149.556259
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "the-arc-of-anchorage.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/the-arc-of-anchorage-eagle-river/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19218",
+      "title": "The Arc of Anchorage - Eagle River",
+      "company": "The Arc of Anchorage",
+      "description": "The Arc of Anchorage is a non-profit organisation that helps with various charitable causes and people in need around the state.\n\nThey accept a range of donations, but clothing is one of their largest. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Alaska",
+      "stateSlug": "alaska",
+      "city": "Anchorage",
+      "address": "17108 Hanson Dr, Eagle River, AK 99577, USA",
+      "street": "17108 Hanson Drive",
+      "zip": "99577",
+      "coordinates": {
+        "lat": 61.327445,
+        "lng": -149.562998
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "the-arc-of-anchorage.jpg",
+      "permalink": "https://www.clothedonations.com/alaska/the-arc-of-anchorage-eagle-river-2/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

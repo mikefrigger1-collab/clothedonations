@@ -1,0 +1,2881 @@
+{
+  "name": "Utah",
+  "slug": "utah",
+  "locations": [
+    {
+      "id": "17286",
+      "title": "Savers - Draper",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1166 Draper Pkwy, Draper, UT 84020, USA",
+      "street": "1166 Draper Parkway",
+      "zip": "84020",
+      "coordinates": {
+        "lat": 40.527251,
+        "lng": -111.857697
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-draper/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17356",
+      "title": "Savers - Layton",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "957 N Main St A, Layton, UT 84041, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.073427,
+        "lng": -111.981034
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-layton/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17383",
+      "title": "Savers - Midvale",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "39 W 7200 S, Midvale, UT 84047, USA",
+      "street": "39 W 7200 South",
+      "zip": "84047",
+      "coordinates": {
+        "lat": 40.619765,
+        "lng": -111.892343
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-midvale/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17407",
+      "title": "Savers - Ogden",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "3833 Washington Blvd, Ogden, UT 84403, USA",
+      "street": "3833 Washington Boulevard",
+      "zip": "84403",
+      "coordinates": {
+        "lat": 41.193112,
+        "lng": -111.972929
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-ogden/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17410",
+      "title": "Savers - Orem",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "81 N State St, Orem, UT 84057, USA",
+      "street": "State Street",
+      "zip": "84057",
+      "coordinates": {
+        "lat": 40.298769,
+        "lng": -111.697467
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-orem/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17435",
+      "title": "Savers - Salt Lake City",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "3171 E 3300 S, Salt Lake City, UT 84109, USA",
+      "street": "3171 E 3300 South",
+      "zip": "84109",
+      "coordinates": {
+        "lat": 40.701402,
+        "lng": -111.803541
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-salt-lake-city/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17445",
+      "title": "Savers - South Jorgan",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "10551 S Redwood Rd #1, South Jordan, UT 84095, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.55948,
+        "lng": -111.936506
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-south-jorgan/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17465",
+      "title": "Savers - Taylorsville",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "4145 S Redwood Rd, Taylorsville, UT 84123, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.680806,
+        "lng": -111.937252
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/utah/savers-taylorsville/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "18713",
+      "title": "Salvation Army - Salt Lake City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "252 S 500 E, Salt Lake City, UT 84102, USA",
+      "street": "500 East",
+      "zip": "84111",
+      "coordinates": {
+        "lat": 40.763647,
+        "lng": -111.877553
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/utah/salvation-army-salt-lake-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19106",
+      "title": "Big Brothers Big Sisters - American Fork",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "135 E Main St, American Fork, UT 84003, USA",
+      "street": "135 East Main Street",
+      "zip": "84003",
+      "coordinates": {
+        "lat": 40.377184,
+        "lng": -111.794607
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-american-fork/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19107",
+      "title": "Big Brothers Big Sisters - American Fork",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "288 NW State St, American Fork, UT 84003, USA",
+      "street": "State Street",
+      "zip": "84003",
+      "coordinates": {
+        "lat": 40.382957,
+        "lng": -111.812501
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-american-fork-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19108",
+      "title": "Big Brothers Big Sisters - American Fork",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "702 E State St, American Fork, UT 84003, USA",
+      "street": "State Street",
+      "zip": "84003",
+      "coordinates": {
+        "lat": 40.371366,
+        "lng": -111.77989
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-american-fork-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19109",
+      "title": "Big Brothers Big Sisters - Cedar Hills",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "4353 Harvey Blvd, Cedar Hills, UT 84062, USA",
+      "street": "4353 West Harvey Boulevard",
+      "zip": "84062",
+      "coordinates": {
+        "lat": 40.405699,
+        "lng": -111.762648
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-cedar-hills/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19110",
+      "title": "Big Brothers Big Sisters - Clearfield",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1360 E 1450 S, Clearfield, UT 84015, USA",
+      "street": "1450 South",
+      "zip": "84041",
+      "coordinates": {
+        "lat": 41.092628,
+        "lng": -111.9985
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-clearfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19111",
+      "title": "Big Brothers Big Sisters - Clearfield",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "270 Center St, Clearfield, UT 84015, USA",
+      "street": "270 Center Street",
+      "zip": "84015",
+      "coordinates": {
+        "lat": 41.11325,
+        "lng": -112.022185
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-clearfield-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19112",
+      "title": "Big Brothers Big Sisters - Clearfield",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "389 S 1000 E, Clearfield, UT 84015, USA",
+      "street": "389 South 1000 East",
+      "zip": "84015",
+      "coordinates": {
+        "lat": 41.10815,
+        "lng": -112.005439
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-clearfield-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19113",
+      "title": "Big Brothers Big Sisters - Cottonwood Heights",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1800 7200 S, Cottonwood Heights, UT 84121, USA",
+      "street": "1800 7200 South",
+      "zip": "84121",
+      "coordinates": {
+        "lat": 40.619251,
+        "lng": -111.840556
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-cottonwood-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19114",
+      "title": "Big Brothers Big Sisters - Cottonwood Heights",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "2131 Fort Union Blvd, Cottonwood Heights, UT 84121, USA",
+      "street": "2131 Fort Union Boulevard",
+      "zip": "84121",
+      "coordinates": {
+        "lat": 40.624949,
+        "lng": -111.830123
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-cottonwood-heights-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19115",
+      "title": "Big Brothers Big Sisters - Kaysville",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "200 N Main St, Kaysville, UT 84037, USA",
+      "street": "Main Street",
+      "zip": "84037",
+      "coordinates": {
+        "lat": 41.038582,
+        "lng": -111.93771
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-kaysville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19116",
+      "title": "Big Brothers Big Sisters - West Kearns",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "5670 S 4800 W, Kearns, UT 84118, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.648266,
+        "lng": -112.006234
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-kearns/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19117",
+      "title": "Big Brothers Big Sisters - Layton",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Layton",
+      "address": "875 UT-193, Layton, UT 84041, USA",
+      "street": "875 West Highway 193",
+      "zip": "84041",
+      "coordinates": {
+        "lat": 41.103269,
+        "lng": -111.949677
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-layton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19118",
+      "title": "Big Brothers Big Sisters - North Layton",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Layton",
+      "address": "1997 E 3500 N, Layton, UT 84040, USA",
+      "street": "East 3500 North",
+      "zip": "84040",
+      "coordinates": {
+        "lat": 41.11113,
+        "lng": -111.923047
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-north-layton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19119",
+      "title": "Big Brothers Big Sisters - North Layton",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Layton",
+      "address": "2025 E 3100 N, Layton, UT 84040, USA",
+      "street": "2025 East 3100 North",
+      "zip": "84040",
+      "coordinates": {
+        "lat": 41.104849,
+        "lng": -111.928122
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-north-layton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19120",
+      "title": "Big Brothers Big Sisters - Lehi",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Lehi",
+      "address": "785 E Main St, Lehi, UT 84043, USA",
+      "street": "East Main Street",
+      "zip": "84003",
+      "coordinates": {
+        "lat": 40.388454,
+        "lng": -111.836178
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-lehi/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19121",
+      "title": "Big Brothers Big Sisters - Midvale",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1006 Fort Union Blvd, Midvale, UT 84047, USA",
+      "street": "1006 Fort Union Boulevard",
+      "zip": "84047",
+      "coordinates": {
+        "lat": 40.622459,
+        "lng": -111.862748
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-midvale/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19122",
+      "title": "Big Brothers Big Sisters - Midvale",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "8446 Harrison St, Midvale, UT 84047, USA",
+      "street": "8446 Harrison Street",
+      "zip": "84047",
+      "coordinates": {
+        "lat": 40.598008,
+        "lng": -111.901107
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-midvale-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19123",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "895 3300 S, Millcreek, UT 84106, USA",
+      "street": "895 3300 South",
+      "zip": "84106",
+      "coordinates": {
+        "lat": 40.69988,
+        "lng": -111.865607
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19124",
+      "title": "Big Brothers Big Sisters - East Murray",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "5715 S 1300 E, Murray, UT 84121, USA",
+      "street": "5715 1300 East",
+      "zip": "84117",
+      "coordinates": {
+        "lat": 40.646908,
+        "lng": -111.853238
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-east-murray/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19125",
+      "title": "Big Brothers Big Sisters - Ogden",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Ogden",
+      "address": "1080 E 700 S, Ogden, UT 84404, USA",
+      "street": "7th Street",
+      "zip": "84404",
+      "coordinates": {
+        "lat": 41.251743,
+        "lng": -111.950742
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-ogden/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19126",
+      "title": "Big Brothers Big Sisters - Ogden",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1258 N Washington Blvd, Ogden, UT 84404, USA",
+      "street": "North Washington Boulevard",
+      "zip": "84414",
+      "coordinates": {
+        "lat": 41.280441,
+        "lng": -111.968598
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-ogden-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19127",
+      "title": "Big Brothers Big Sisters - Ogden",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Ogden",
+      "address": "2261 Grant Ave, Ogden, UT 84401, USA",
+      "street": "2261 Grant Avenue",
+      "zip": "84401",
+      "coordinates": {
+        "lat": 41.225918,
+        "lng": -111.975168
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-ogden-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19128",
+      "title": "Big Brothers Big Sisters - Ogden",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Ogden",
+      "address": "2504 F Ave, Ogden, UT 84401, USA",
+      "street": "2504 F Avenue",
+      "zip": "84401",
+      "coordinates": {
+        "lat": 41.220325,
+        "lng": -111.996683
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-ogden-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19129",
+      "title": "Big Brothers Big Sisters - Ogden",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Ogden",
+      "address": "3111 Wall Ave, Ogden, UT 84401, USA",
+      "street": "3111 S Wall Avenue",
+      "zip": "84401",
+      "coordinates": {
+        "lat": 41.207514,
+        "lng": -111.980187
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-ogden-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19130",
+      "title": "Big Brothers Big Sisters - Ogden",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Ogden",
+      "address": "5691 S Harrison Blvd, Ogden, UT 84405, USA",
+      "street": "Harrison Boulevard",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.149924,
+        "lng": -111.939662
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-ogden-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19131",
+      "title": "Big Brothers Big Sisters - Orem",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1450 W 800 N, Orem, UT 84057, USA",
+      "street": "West 800 North",
+      "zip": "84057",
+      "coordinates": {
+        "lat": 40.311847,
+        "lng": -111.729959
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-orem/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19132",
+      "title": "Big Brothers Big Sisters - Orem",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1550 N State St, Orem, UT 84057, USA",
+      "street": "1550 North State Street",
+      "zip": "84042",
+      "coordinates": {
+        "lat": 40.325569,
+        "lng": -111.706562
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-orem-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19133",
+      "title": "Big Brothers Big Sisters - Orem",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "774 S State St, Orem, UT 84058, USA",
+      "street": "State Street",
+      "zip": "84097",
+      "coordinates": {
+        "lat": 40.283219,
+        "lng": -111.689272
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-orem-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19134",
+      "title": "Big Brothers Big Sisters - Pleasant Grove",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "200 E 1100 N, Pleasant Grove, UT 84062, USA",
+      "street": "1100 North",
+      "zip": "84062",
+      "coordinates": {
+        "lat": 40.371474,
+        "lng": -111.738658
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-pleasant-grove/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19135",
+      "title": "Big Brothers Big Sisters - East Provo",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Provo",
+      "address": "255 S 700 E St, Provo, UT 84606, USA",
+      "street": "North 700 East Street",
+      "zip": "84604",
+      "coordinates": {
+        "lat": 40.23056,
+        "lng": -111.64609
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-east-provo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19136",
+      "title": "Big Brothers Big Sisters - North Provo",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Provo",
+      "address": "1720 W 1460 N, Provo, UT 84604, USA",
+      "street": "1720 West 1460 North",
+      "zip": "84604",
+      "coordinates": {
+        "lat": 40.254699,
+        "lng": -111.68837
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-north-provo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19137",
+      "title": "Big Brothers Big Sisters - Provo",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Provo",
+      "address": "1125 N University Ave, Provo, UT 84604, USA",
+      "street": "North University Avenue",
+      "zip": "84603",
+      "coordinates": {
+        "lat": 40.249354,
+        "lng": -111.660856
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-provo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19138",
+      "title": "Big Brothers Big Sisters - Provo",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Provo",
+      "address": "560 W Center St, Provo, UT 84601, USA",
+      "street": "West Center Street",
+      "zip": "84601",
+      "coordinates": {
+        "lat": 40.234161,
+        "lng": -111.668774
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-provo-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19139",
+      "title": "Big Brothers Big Sisters - Provo",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Provo",
+      "address": "815 S Freedom Blvd, Provo, UT 84601, USA",
+      "street": "815 South Freedom Boulevard",
+      "zip": "84601",
+      "coordinates": {
+        "lat": 40.223351,
+        "lng": -111.661694
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-provo-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19140",
+      "title": "Big Brothers Big Sisters - Herriman",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "11901 Park Haven Ln, Riverton, UT 84096, USA",
+      "street": "11901 Park Haven Lane",
+      "zip": "84065",
+      "coordinates": {
+        "lat": 40.535017,
+        "lng": -111.997335
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-herriman/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19141",
+      "title": "Big Brothers Big Sisters - Riverton",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1605 W 12600 S, Riverton, UT 84065, USA",
+      "street": "12600 South",
+      "zip": "84065",
+      "coordinates": {
+        "lat": 40.522053,
+        "lng": -111.936366
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-riverton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19142",
+      "title": "Big Brothers Big Sisters - East Murray",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "5445 S 900 E, Salt Lake City, UT 84117, USA",
+      "street": "900 East",
+      "zip": "84106",
+      "coordinates": {
+        "lat": 40.652668,
+        "lng": -111.865935
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-east-murray-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19143",
+      "title": "Big Brothers Big Sisters - Murray",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "West Valley City",
+      "address": "4974 S Redwood Rd, Salt Lake City, UT 84123, USA",
+      "street": "Redwood Road",
+      "zip": "84199",
+      "coordinates": {
+        "lat": 40.660834,
+        "lng": -111.938853
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-murray/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19144",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "1017 Harrison Ave S, Salt Lake City, UT 84105, USA",
+      "street": "1017 Harrison Avenue",
+      "zip": "84105",
+      "coordinates": {
+        "lat": 40.740523,
+        "lng": -111.861796
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19145",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1269 Colorado St W, Salt Lake City, UT 84116, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.795715,
+        "lng": -111.931781
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19146",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "151 S Connor St, Salt Lake City, UT 84112, USA",
+      "street": "Connor Street",
+      "zip": "84148",
+      "coordinates": {
+        "lat": 40.766082,
+        "lng": -111.831486
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19147",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "1945 E Sunnyside Ave, Salt Lake City, UT 84108, USA",
+      "street": "Sunnyside Avenue",
+      "zip": "84108",
+      "coordinates": {
+        "lat": 40.752658,
+        "lng": -111.835246
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19148",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "2425 Heritage Way, Salt Lake City, UT 84109, USA",
+      "street": "Heritage Way",
+      "zip": "84109",
+      "coordinates": {
+        "lat": 40.711825,
+        "lng": -111.821366
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19149",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "325 E 8th Ave, Salt Lake City, UT 84103, USA",
+      "street": "8th Avenue",
+      "zip": "84103",
+      "coordinates": {
+        "lat": 40.778506,
+        "lng": -111.879799
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19150",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "3865 S 2300 E, Salt Lake City, UT 84109, USA",
+      "street": "2300 East",
+      "zip": "84109",
+      "coordinates": {
+        "lat": 40.687517,
+        "lng": -111.823136
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19151",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "699 E 600 S, Salt Lake City, UT 84102, USA",
+      "street": "600 South",
+      "zip": "84111",
+      "coordinates": {
+        "lat": 40.756312,
+        "lng": -111.871297
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19152",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "830 Arapeen Dr, Salt Lake City, UT 84108, USA",
+      "street": "Arapeen Drive",
+      "zip": "84148",
+      "coordinates": {
+        "lat": 40.75161,
+        "lng": -111.82673
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19153",
+      "title": "Big Brothers Big Sisters - Taylorsville",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "4948 S 2700 W, Salt Lake City, UT 84129, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.661655,
+        "lng": -111.958084
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-taylorsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19154",
+      "title": "Big Brothers Big Sisters - West Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "1276 500 W, Salt Lake City, UT 84101, USA",
+      "street": "500 West",
+      "zip": "84101",
+      "coordinates": {
+        "lat": 40.742135,
+        "lng": -111.906138
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-salt-lake-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19155",
+      "title": "Big Brothers Big Sisters - West Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "1450 400 W, Salt Lake City, UT 84115, USA",
+      "street": "1450 400 West",
+      "zip": "84115",
+      "coordinates": {
+        "lat": 40.738245,
+        "lng": -111.90311
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-salt-lake-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19156",
+      "title": "Big Brothers Big Sisters - West Valley",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "3461 W 4850 S, Salt Lake City, UT 84118, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.663179,
+        "lng": -111.973395
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-valley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19157",
+      "title": "Big Brothers Big Sisters - West Valley",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "3490 W 1820 S, Salt Lake City, UT 84104, USA",
+      "street": "1820 South",
+      "zip": "84199",
+      "coordinates": {
+        "lat": 40.731054,
+        "lng": -111.974438
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-valley-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19158",
+      "title": "Big Brothers Big Sisters - West Valley",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "3873 W 5400 S, Salt Lake City, UT 84118, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.652923,
+        "lng": -111.982428
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-valley-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19159",
+      "title": "Big Brothers Big Sisters - Santa Clara",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1871 Canyon View Dr, Santa Clara, UT 84765, USA",
+      "street": "1871 Canyon View Drive",
+      "zip": "84765",
+      "coordinates": {
+        "lat": 37.134866,
+        "lng": -113.641875
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-santa-clara/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19160",
+      "title": "Big Brothers Big Sisters - Santa Clara",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Santa Clara",
+      "address": "3735 El Camino Real, Santa Clara, CA 95051, USA",
+      "street": "3735 El Camino Real",
+      "zip": "95051",
+      "coordinates": {
+        "lat": 37.35365,
+        "lng": -121.998675
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-santa-clara-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19161",
+      "title": "Big Brothers Big Sisters - South Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "11205 Black Cherry Way, South Jordan, UT 84095, USA",
+      "street": "11205 Black Cherry Way",
+      "zip": "84095",
+      "coordinates": {
+        "lat": 40.547576,
+        "lng": -111.932433
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-jordan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19162",
+      "title": "Big Brothers Big Sisters - South Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "11221 Copper Rock Dr, South Jordan, UT 84095, USA",
+      "street": "Copper Rock Drive",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.547682,
+        "lng": -112.005393
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-jordan-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19163",
+      "title": "Big Brothers Big Sisters - South Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1604 S Jordan Pkwy, South Jordan, UT 84095, USA",
+      "street": "South Jordan Parkway",
+      "zip": "84095",
+      "coordinates": {
+        "lat": 40.563793,
+        "lng": -111.936507
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-jordan-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19164",
+      "title": "Big Brothers Big Sisters - South Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "3448 Shields Ln, South Jordan, UT 84095, USA",
+      "street": "Shields Lane",
+      "zip": "84095",
+      "coordinates": {
+        "lat": 40.574181,
+        "lng": -111.973302
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-jordan-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19165",
+      "title": "Big Brothers Big Sisters - South Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "3706 Shields Ln, South Jordan, UT 84095, USA",
+      "street": "Shields Lane",
+      "zip": "84095",
+      "coordinates": {
+        "lat": 40.57333,
+        "lng": -111.976955
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-jordan-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19166",
+      "title": "Big Brothers Big Sisters - South Jorgan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "11205 Black Cherry Way, South Jordan, UT 84095, USA",
+      "street": "11205 Black Cherry Way",
+      "zip": "84095",
+      "coordinates": {
+        "lat": 40.547576,
+        "lng": -111.932433
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-jorgan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19167",
+      "title": "Big Brothers Big Sisters - Ogden",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "3945 Washington Blvd, South Ogden, UT 84405, USA",
+      "street": "3945 Washington Boulevard",
+      "zip": "84403",
+      "coordinates": {
+        "lat": 41.191303,
+        "lng": -111.972535
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-ogden-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19168",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "450 E 3700 S, South Salt Lake, UT 84115, USA",
+      "street": "3700 South",
+      "zip": "84190",
+      "coordinates": {
+        "lat": 40.690968,
+        "lng": -111.879309
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19169",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "1532 1450 S St, St. George, UT 84790, USA",
+      "street": "1450 South",
+      "zip": "84790",
+      "coordinates": {
+        "lat": 37.083604,
+        "lng": -113.551181
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19170",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "157 N 200 W, St. George, UT 84770, USA",
+      "street": "157 North 200 West",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.110849,
+        "lng": -113.587963
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19171",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "160 500 W St, St. George, UT 84770, USA",
+      "street": "160 West 500 South",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.111012,
+        "lng": -113.593277
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19172",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "2410 E Riverside Dr, St. George, UT 84790, USA",
+      "street": "East Riverside Drive",
+      "zip": "84790",
+      "coordinates": {
+        "lat": 37.10258,
+        "lng": -113.531882
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19173",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "2410 E Riverside Dr, St. George, UT 84790, USA",
+      "street": "East Riverside Drive",
+      "zip": "84790",
+      "coordinates": {
+        "lat": 37.10258,
+        "lng": -113.531882
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19174",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "267 E 1400 S, St. George, UT 84790, USA",
+      "street": "267 East 1400 South",
+      "zip": "84790",
+      "coordinates": {
+        "lat": 37.084919,
+        "lng": -113.578895
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19175",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "28 E Tabernacle St, St. George, UT 84770, USA",
+      "street": "28 East Tabernacle Street",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.107989,
+        "lng": -113.582638
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19176",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "285 E Tabernacle St, St. George, UT 84770, USA",
+      "street": "285 East Tabernacle Street",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.108531,
+        "lng": -113.577393
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19177",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "390 N Mall Dr, St. George, UT 84790, USA",
+      "street": "Mall Drive",
+      "zip": "84690",
+      "coordinates": {
+        "lat": 37.115036,
+        "lng": -113.541415
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19178",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "391 E 500 S, St. George, UT 84770, USA",
+      "street": "391 East 500 South",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.099891,
+        "lng": -113.575198
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19179",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "405 E St George Blvd, St. George, UT 84770, USA",
+      "street": "405 East Saint George Boulevard",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.110085,
+        "lng": -113.574498
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19180",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "435 N 1680 E, St. George, UT 84790, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.115423,
+        "lng": -113.548065
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19181",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "46 S 1000 E, St. George, UT 84770, USA",
+      "street": "46 South 1000 East",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.107344,
+        "lng": -113.562956
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19182",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "530 E Tabernacle St, St. George, UT 84770, USA",
+      "street": "530 East Tabernacle Street",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.107815,
+        "lng": -113.571874
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-14/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19183",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "650 Man O War Rd, St. George, UT 84790, USA",
+      "street": "650 Man O War Road",
+      "zip": "84790",
+      "coordinates": {
+        "lat": 37.053394,
+        "lng": -113.598531
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-15/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19184",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "745 N Dixie Dr, St. George, UT 84770, USA",
+      "street": "745 North Dixie Drive",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.120906,
+        "lng": -113.624649
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-16/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19185",
+      "title": "Big Brothers Big Sisters - St. George",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Saint George",
+      "address": "75 E Tabernacle St, St. George, UT 84770, USA",
+      "street": "75 East Tabernacle Street",
+      "zip": "84770",
+      "coordinates": {
+        "lat": 37.108426,
+        "lng": -113.581765
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-st-george-17/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19186",
+      "title": "Big Brothers Big Sisters - Stansbury Park",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "200 Stansbury Pkwy, Stansbury Park, UT 84074, USA",
+      "street": "200 Stansbury Parkway",
+      "zip": "84074",
+      "coordinates": {
+        "lat": 40.646172,
+        "lng": -112.28978
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-stansbury-park/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19187",
+      "title": "Big Brothers Big Sisters - South Syracuse",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "2228 W 1700 S, Syracuse, UT 84075, USA",
+      "street": "2228 West 1700 South",
+      "zip": "84075",
+      "coordinates": {
+        "lat": 41.090256,
+        "lng": -112.069621
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-syracuse/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19188",
+      "title": "Big Brothers Big Sisters - Syracuse",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "2680 S 775 W, Syracuse, UT 84075, USA",
+      "street": "West 775 South",
+      "zip": "84075",
+      "coordinates": {
+        "lat": 41.075726,
+        "lng": -112.04127
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-syracuse/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19189",
+      "title": "Big Brothers Big Sisters - West Syracuse",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1792 S 1000 W, Syracuse, UT 84075, USA",
+      "street": "1792 South 1000 West",
+      "zip": "84075",
+      "coordinates": {
+        "lat": 41.087938,
+        "lng": -112.046704
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-syracuse/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19190",
+      "title": "Big Brothers Big Sisters - South Taylorsville",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "2650 W 4700 S, Taylorsville, UT 84129, USA",
+      "street": "Kamas Circle",
+      "zip": "84129",
+      "coordinates": {
+        "lat": 40.668095,
+        "lng": -111.956957
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-south-taylorsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19191",
+      "title": "Big Brothers Big Sisters - Taylorsville",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1065 W Levoy Dr, Taylorsville, UT 84123, USA",
+      "street": "1065 W Levoy Drive",
+      "zip": "84123",
+      "coordinates": {
+        "lat": 40.672628,
+        "lng": -111.92216
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-taylorsville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19192",
+      "title": "Big Brothers Big Sisters - West Taylorsville",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "5220 S 1470 W, Taylorsville, UT 84123, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.656453,
+        "lng": -111.932035
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-taylorsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19193",
+      "title": "Big Brothers Big Sisters - Washington",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "350 Community Center Drive, Washington, UT 84780, USA",
+      "street": "350 Community Center Drive",
+      "zip": "84780",
+      "coordinates": {
+        "lat": 37.136597,
+        "lng": -113.500443
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-washington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19194",
+      "title": "Big Brothers Big Sisters - West Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1335 W 7800 S, West Jordan, UT 84088, USA",
+      "street": "West 7800 South",
+      "zip": "84084",
+      "coordinates": {
+        "lat": 40.609016,
+        "lng": -111.930223
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-jordan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19195",
+      "title": "Big Brothers Big Sisters - West Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "1653 W 9000 S, West Jordan, UT 84088, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.587371,
+        "lng": -111.937609
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-jordan-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19196",
+      "title": "Big Brothers Big Sisters - West Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "2640 W 9000 S, West Jordan, UT 84088, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.588015,
+        "lng": -111.956697
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-jordan-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19197",
+      "title": "Big Brothers Big Sisters - West Jordan",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "7046 S Redwood Rd, West Jordan, UT 84084, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.623117,
+        "lng": -111.93958
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-jordan-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19198",
+      "title": "Big Brothers Big Sisters - Salt Lake City",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "West Valley City",
+      "address": "3060 S Lester St, West Valley City, UT 84119, USA",
+      "street": "Lester Street",
+      "zip": "84119",
+      "coordinates": {
+        "lat": 40.705402,
+        "lng": -111.937545
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-salt-lake-city-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19199",
+      "title": "Big Brothers Big Sisters - West Taylorsville",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "3751 S 4225 W, West Valley City, UT 84120, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.690453,
+        "lng": -111.990815
+      },
+      "acceptedMaterials": [
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/utah/big-brothers-big-sisters-west-taylorsville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20646",
+      "title": "Goodwill - Layton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Layton",
+      "address": "1010 W Hill Field Rd, Layton, UT 84041, USA",
+      "street": "1010 West Hill Field Road",
+      "zip": "84041",
+      "coordinates": {
+        "lat": 41.073095,
+        "lng": -111.984946
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/utah/goodwill-layton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20991",
+      "title": "Goodwill - Murray",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Unknown",
+      "address": "6042 S State St, Murray, UT 84107, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 40.629427,
+        "lng": -111.890274
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/utah/goodwill-murray-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21439",
+      "title": "Goodwill - Salt Lake City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "1850 W 1500 S, Salt Lake City, UT 84104, USA",
+      "street": "1500 South",
+      "zip": "84104",
+      "coordinates": {
+        "lat": 40.738285,
+        "lng": -111.942046
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/utah/goodwill-salt-lake-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21440",
+      "title": "Goodwill - Salt Lake City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Utah",
+      "stateSlug": "utah",
+      "city": "Salt Lake City",
+      "address": "4545 S 900 E, Salt Lake City, UT 84117, USA",
+      "street": "900 East",
+      "zip": "84106",
+      "coordinates": {
+        "lat": 40.673143,
+        "lng": -111.864777
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/utah/goodwill-salt-lake-city-2/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

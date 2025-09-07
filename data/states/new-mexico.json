@@ -1,0 +1,4511 @@
+{
+  "name": "New Mexico",
+  "slug": "new-mexico",
+  "locations": [
+    {
+      "id": "14501",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "126 Valencia Dr NE, Albuquerque, NM 87108, USA",
+      "street": "126 Valencia Drive Northeast",
+      "zip": "87108",
+      "coordinates": {
+        "lat": 35.078312,
+        "lng": -106.580621
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14502",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2001 Girard Blvd SE, Albuquerque, NM 87106, USA",
+      "street": "2001 Girard Boulevard Southeast",
+      "zip": "87106",
+      "coordinates": {
+        "lat": 35.059661,
+        "lng": -106.615684
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14503",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2620 Carlisle Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "2620 Carlisle Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.110121,
+        "lng": -106.601686
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14504",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3201 Aztec Rd NE, Albuquerque, NM 87107, USA",
+      "street": "3201 Aztec Road Northeast",
+      "zip": "87107",
+      "coordinates": {
+        "lat": 35.120752,
+        "lng": -106.608132
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14505",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3308 Coors Blvd NW, Albuquerque, NM 87120, USA",
+      "street": "3308 Coors Boulevard Northwest",
+      "zip": "87120",
+      "coordinates": {
+        "lat": 35.120409,
+        "lng": -106.700685
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14506",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4950 San Mateo Blvd NE, Albuquerque, NM 87109, USA",
+      "street": "4950 San Mateo Boulevard Northeast",
+      "zip": "87109",
+      "coordinates": {
+        "lat": 35.13662,
+        "lng": -106.585974
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-6/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14507",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "5801 Coors Blvd NW, Albuquerque, NM 87120, USA",
+      "street": "5801 Coors Boulevard Northwest",
+      "zip": "87120",
+      "coordinates": {
+        "lat": 35.149695,
+        "lng": -106.688637
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-7/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14508",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "7900 Central Ave SE, Albuquerque, NM 87108, USA",
+      "street": "7900 Central Avenue Southeast",
+      "zip": "87108",
+      "coordinates": {
+        "lat": 35.074508,
+        "lng": -106.558798
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-8/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14509",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "8010 Academy Rd NE, Albuquerque, NM 87111, USA",
+      "street": "8010 Academy Road Northeast",
+      "zip": "87111",
+      "coordinates": {
+        "lat": 35.146231,
+        "lng": -106.552464
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-9/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14510",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "9600 Menaul Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "9600 Menaul Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.108897,
+        "lng": -106.534577
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-10/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14511",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "9800 Central Ave SE, Albuquerque, NM 87123, USA",
+      "street": "9800 Central Avenue Southeast",
+      "zip": "87116",
+      "coordinates": {
+        "lat": 35.07232,
+        "lng": -106.539142
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-11/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14512",
+      "title": "Clothes Helping Kids - Albuquerque",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "Northwest, 3622 NM-528, Albuquerque, NM 87114, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.207314,
+        "lng": -106.652365
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-albuquerque-12/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14513",
+      "title": "Clothes Helping Kids - Los Lunas",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "103 Vallejos Ln, Los Lunas, NM 87031, USA",
+      "street": "103 Vallejos Lane",
+      "zip": "87031",
+      "coordinates": {
+        "lat": 34.807046,
+        "lng": -106.735235
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-los-lunas/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14514",
+      "title": "Clothes Helping Kids - Los Lunas",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "108 Carson Dr, Los Lunas, NM 87031, USA",
+      "street": "108 Carson Drive",
+      "zip": "87031",
+      "coordinates": {
+        "lat": 34.803852,
+        "lng": -106.722635
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-los-lunas-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14515",
+      "title": "Clothes Helping Kids - Corrales",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Rio Rancho",
+      "address": "1475 NM-528, Rio Rancho, NM 87124, USA",
+      "street": "1475 Pat D'Arco Highway",
+      "zip": "87124",
+      "coordinates": {
+        "lat": 35.231776,
+        "lng": -106.659138
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-corrales/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14516",
+      "title": "Clothes Helping Kids - Rio Rancho",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "1690 Rio Rancho Blvd SE, Rio Rancho, NM 87124, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.231999,
+        "lng": -106.657408
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-rio-rancho/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14517",
+      "title": "Clothes Helping Kids - Sante Fe",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "1932 Cerrillos Rd, Santa Fe, NM 87505, USA",
+      "street": "1932 Cerrillos Road",
+      "zip": "87505",
+      "coordinates": {
+        "lat": 35.663343,
+        "lng": -105.975152
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-sante-fe/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "14518",
+      "title": "Clothes Helping Kids - Tijeras",
+      "company": "Clothes Helping Kids",
+      "description": "Clothes Helping Kids has been providing financial assistance to disadvantaged children in central and northern New Mexico since 2000. The organization schedules daily pickups of donated items in certain New Mexico communities and distributes them.\n\nClothes Helping Kids accepts clothes, homewares, and other misc items. If you're not sure whether they'll accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "4 Kuhn Dr, Tijeras, NM 87059, USA",
+      "street": "4 Kuhn Drive",
+      "zip": "87196",
+      "coordinates": {
+        "lat": 34.978677,
+        "lng": -106.323179
+      },
+      "acceptedMaterials": [
+        "Accessories",
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Homewares",
+        "Linen"
+      ],
+      "logo": "clothes-helping-kids.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/clothes-helping-kids-tijeras/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15626",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1100 Yale Blvd SE, Albuquerque, NM 87106, USA",
+      "street": "1100 Yale Boulevard Southeast",
+      "zip": "87106",
+      "coordinates": {
+        "lat": 35.068403,
+        "lng": -106.621624
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15627",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1100 Yale Blvd SE, Albuquerque, NM 87106, USA",
+      "street": "1100 Yale Boulevard Southeast",
+      "zip": "87106",
+      "coordinates": {
+        "lat": 35.068403,
+        "lng": -106.621624
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15628",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "11200 Menaul Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "11200 Menaul Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.108364,
+        "lng": -106.516536
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15629",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "11928 Candelaria Rd NE, Albuquerque, NM 87112, USA",
+      "street": "11928 Candelaria Road Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.116035,
+        "lng": -106.506923
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15630",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1200 Wyoming Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "1200 Wyoming Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.091697,
+        "lng": -106.550259
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15631",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1200 Wyoming Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "1200 Wyoming Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.091697,
+        "lng": -106.550259
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-6/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15632",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "12901 Lomas Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "12901 Lomas Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.08676,
+        "lng": -106.503835
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-7/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15633",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "12901 Lomas Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "12901 Lomas Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.08676,
+        "lng": -106.503835
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-8/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15634",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "13025 Lomas Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "13025 Lomas Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.086642,
+        "lng": -106.502055
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-9/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15635",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "13025 Lomas Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "13025 Lomas Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.086642,
+        "lng": -106.502055
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-10/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15636",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1329 Eubank Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "1329 Eubank Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.094266,
+        "lng": -106.533152
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-11/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15637",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1329 Eubank Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "1329 Eubank Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.094266,
+        "lng": -106.533152
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-12/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15638",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1619 San Mateo Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "1619 San Mateo Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.093462,
+        "lng": -106.58679
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-13/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15639",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1619 San Mateo Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "1619 San Mateo Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.093462,
+        "lng": -106.58679
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-14/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15640",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1660 University Blvd NE, Albuquerque, NM 87102, USA",
+      "street": "1660 University Boulevard Northeast",
+      "zip": "87102",
+      "coordinates": {
+        "lat": 35.103253,
+        "lng": -106.626563
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-15/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15641",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1722 Bridge Blvd SW, Albuquerque, NM 87105, USA",
+      "street": "1722 Bridge Boulevard Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.064508,
+        "lng": -106.683099
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-16/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15642",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1722 Bridge Blvd SW, Albuquerque, NM 87105, USA",
+      "street": "1722 Bridge Boulevard Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.064508,
+        "lng": -106.683099
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-17/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15643",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1801 Montaño Rd NW, Albuquerque, NM 87107, USA",
+      "street": "1801 Montaño Road Northwest",
+      "zip": "87107",
+      "coordinates": {
+        "lat": 35.142125,
+        "lng": -106.660862
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-18/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15644",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1820 Unser Blvd NW, Albuquerque, NM 87120, USA",
+      "street": "1820 Unser Boulevard Northwest",
+      "zip": "87120",
+      "coordinates": {
+        "lat": 35.111203,
+        "lng": -106.728653
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-19/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15645",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2100 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "2100 Louisiana Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.099706,
+        "lng": -106.565036
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-20/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15646",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2100 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "2100 Louisiana Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.099706,
+        "lng": -106.565036
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-21/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15647",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "2500 Isleta Blvd SW, Albuquerque, NM 87105, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.038375,
+        "lng": -106.678895
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-22/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15648",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "2500 Isleta Blvd SW, Albuquerque, NM 87105, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.038375,
+        "lng": -106.678895
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-23/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15649",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2500 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "2500 Louisiana Boulevard Northeast",
+      "zip": "87192",
+      "coordinates": {
+        "lat": 35.108327,
+        "lng": -106.568314
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-24/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15650",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2502 Rio Grande Blvd NW, Albuquerque, NM 87104, USA",
+      "street": "2502 Rio Grande Boulevard Northwest",
+      "zip": "87104",
+      "coordinates": {
+        "lat": 35.118653,
+        "lng": -106.675048
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-25/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15651",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2620 Carlisle Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "2620 Carlisle Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.110121,
+        "lng": -106.601686
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-26/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15652",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2801 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "2801 Louisiana Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.113275,
+        "lng": -106.56964
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-27/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15653",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2917 Juan Tabo Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "2917 Juan Tabo Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.115723,
+        "lng": -106.516081
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-28/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15654",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "301 San Mateo Blvd SE, Albuquerque, NM 87108, USA",
+      "street": "301 San Mateo Boulevard Southeast",
+      "zip": "87108",
+      "coordinates": {
+        "lat": 35.076237,
+        "lng": -106.587876
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-29/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15655",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "301 San Mateo Blvd SE, Albuquerque, NM 87108, USA",
+      "street": "301 San Mateo Boulevard Southeast",
+      "zip": "87108",
+      "coordinates": {
+        "lat": 35.076237,
+        "lng": -106.587876
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-30/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15656",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3010 Eubank Blvd NE, Albuquerque, NM 87111, USA",
+      "street": "3010 Eubank Boulevard Northeast",
+      "zip": "87111",
+      "coordinates": {
+        "lat": 35.117085,
+        "lng": -106.532598
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-31/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15657",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3109 Coors Blvd SW, Albuquerque, NM 87121, USA",
+      "street": "3109 Coors Boulevard Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.029887,
+        "lng": -106.714181
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-32/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15658",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3109 Coors Blvd SW, Albuquerque, NM 87121, USA",
+      "street": "3109 Coors Boulevard Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.029887,
+        "lng": -106.714181
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-33/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15659",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3301 Coors Blvd NW, Albuquerque, NM 87120, USA",
+      "street": "3301 Coors Boulevard Northwest",
+      "zip": "87120",
+      "coordinates": {
+        "lat": 35.120805,
+        "lng": -106.70218
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-34/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15660",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3301 Coors Blvd NW, Albuquerque, NM 87120, USA",
+      "street": "3301 Coors Boulevard Northwest",
+      "zip": "87120",
+      "coordinates": {
+        "lat": 35.120805,
+        "lng": -106.70218
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-35/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15661",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3333 Truman St NE, Albuquerque, NM 87110, USA",
+      "street": "3333 Truman Street Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.121351,
+        "lng": -106.588204
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-36/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15662",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3609 Comanche Rd NE, Albuquerque, NM 87110, USA",
+      "street": "3609 Comanche Road Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.123876,
+        "lng": -106.603466
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-37/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15663",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3701 Constitution Ave NE, Albuquerque, NM 87110, USA",
+      "street": "3701 Constitution Avenue Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.095349,
+        "lng": -106.602699
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-38/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15664",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3701 Constitution Ave NE, Albuquerque, NM 87110, USA",
+      "street": "3701 Constitution Avenue Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.095349,
+        "lng": -106.602699
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-39/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15665",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4016 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "4016 Louisiana Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.129356,
+        "lng": -106.567382
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-40/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15666",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "417 Tramway Blvd NE, Albuquerque, NM 87123, USA",
+      "street": "417 Tramway Boulevard Northeast",
+      "zip": "87123",
+      "coordinates": {
+        "lat": 35.073549,
+        "lng": -106.497045
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-41/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15667",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "417 Tramway Blvd NE, Albuquerque, NM 87123, USA",
+      "street": "417 Tramway Boulevard Northeast",
+      "zip": "87123",
+      "coordinates": {
+        "lat": 35.073549,
+        "lng": -106.497045
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-42/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15668",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4201 Central Ave NW, Albuquerque, NM 87105, USA",
+      "street": "4201 Central Avenue Northwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.087014,
+        "lng": -106.687531
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-43/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15669",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4201 San Mateo Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "4201 San Mateo Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.127664,
+        "lng": -106.586836
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-44/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15670",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4257 Isleta Blvd SW, Albuquerque, NM 87105, USA",
+      "street": "4257 Isleta Boulevard Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.014648,
+        "lng": -106.686403
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-45/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15671",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4257 Isleta Blvd SW, Albuquerque, NM 87105, USA",
+      "street": "4257 Isleta Boulevard Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.014648,
+        "lng": -106.686403
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-46/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15672",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4300 Eubank Blvd NE, Albuquerque, NM 87111, USA",
+      "street": "4300 Eubank Boulevard Northeast",
+      "zip": "87111",
+      "coordinates": {
+        "lat": 35.129403,
+        "lng": -106.533066
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-47/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15673",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4420 Wyoming Blvd NE, Albuquerque, NM 87111, USA",
+      "street": "4420 Wyoming Boulevard Northeast",
+      "zip": "87111",
+      "coordinates": {
+        "lat": 35.130115,
+        "lng": -106.549101
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-48/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15674",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4700 Tramway Blvd NE, Albuquerque, NM 87111, USA",
+      "street": "4700 Tramway Boulevard Northeast",
+      "zip": "87111",
+      "coordinates": {
+        "lat": 35.132894,
+        "lng": -106.49682
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-49/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15675",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4720 4th St NW, Albuquerque, NM 87107, USA",
+      "street": "4720 4th Street Northwest",
+      "zip": "87107",
+      "coordinates": {
+        "lat": 35.131106,
+        "lng": -106.64214
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-50/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15676",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4900 Kachina St NW, Albuquerque, NM 87120, USA",
+      "street": "4900 Kachina Street Northwest",
+      "zip": "87120",
+      "coordinates": {
+        "lat": 35.154873,
+        "lng": -106.694856
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-51/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15677",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "5527 Edith Blvd NE, Albuquerque, NM 87107, USA",
+      "street": "Edith Boulevard Northeast",
+      "zip": "87107",
+      "coordinates": {
+        "lat": 35.136509,
+        "lng": -106.629468
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-52/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15678",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "5565 4th St NW, Albuquerque, NM 87107, USA",
+      "street": "5565 4th Street Northwest",
+      "zip": "87107",
+      "coordinates": {
+        "lat": 35.138393,
+        "lng": -106.641818
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-53/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15679",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "6001 Lomas Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "6001 Lomas Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.088189,
+        "lng": -106.579217
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-54/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15680",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "6001 Lomas Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "6001 Lomas Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.088189,
+        "lng": -106.579217
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-55/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15681",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "6125 4th St NW, Albuquerque, NM 87107, USA",
+      "street": "6125 4th Street Northwest",
+      "zip": "87107",
+      "coordinates": {
+        "lat": 35.146754,
+        "lng": -106.640736
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-56/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15682",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "6901 San Antonio Dr NE, Albuquerque, NM 87109, USA",
+      "street": "6901 San Antonio Drive Northeast",
+      "zip": "87133",
+      "coordinates": {
+        "lat": 35.160184,
+        "lng": -106.571008
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-57/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15683",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "800 Juan Tabo Blvd NE, Albuquerque, NM 87123, USA",
+      "street": "800 Juan Tabo Boulevard Northeast",
+      "zip": "87123",
+      "coordinates": {
+        "lat": 35.085511,
+        "lng": -106.513964
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-58/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15684",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "800 Juan Tabo Blvd NE, Albuquerque, NM 87123, USA",
+      "street": "800 Juan Tabo Boulevard Northeast",
+      "zip": "87123",
+      "coordinates": {
+        "lat": 35.085511,
+        "lng": -106.513964
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-59/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15685",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "8100- Wyoming Blvd NE, Albuquerque, NM 87113, USA",
+      "street": "8100 Wyoming Boulevard Northeast",
+      "zip": "87113",
+      "coordinates": {
+        "lat": 35.176751,
+        "lng": -106.559403
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-60/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15686",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "9311 4th St NW, Albuquerque, NM 87114, USA",
+      "street": "9311 4th Street Northwest",
+      "zip": "87114",
+      "coordinates": {
+        "lat": 35.187299,
+        "lng": -106.619414
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-61/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15687",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "933 Sunset Rd SW, Albuquerque, NM 87105, USA",
+      "street": "933 Sunset Road Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.067589,
+        "lng": -106.675279
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-62/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15688",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "933 Sunset Rd SW, Albuquerque, NM 87105, USA",
+      "street": "933 Sunset Road Southwest",
+      "zip": "87105",
+      "coordinates": {
+        "lat": 35.067589,
+        "lng": -106.675279
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-63/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15689",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "9601 Sage Rd SW, Albuquerque, NM 87121, USA",
+      "street": "9601 Sage Road Southwest",
+      "zip": "87121",
+      "coordinates": {
+        "lat": 35.056348,
+        "lng": -106.73982
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-64/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15690",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "9601 Sage Rd SW, Albuquerque, NM 87121, USA",
+      "street": "9601 Sage Road Southwest",
+      "zip": "87121",
+      "coordinates": {
+        "lat": 35.056348,
+        "lng": -106.73982
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-65/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15691",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "961 Buena Vista Dr SE, Albuquerque, NM 87106, USA",
+      "street": "961 Buena Vista Drive Southeast",
+      "zip": "87106",
+      "coordinates": {
+        "lat": 35.071452,
+        "lng": -106.625815
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-66/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15692",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "961 Buena Vista Dr SE, Albuquerque, NM 87106, USA",
+      "street": "961 Buena Vista Drive Southeast",
+      "zip": "87106",
+      "coordinates": {
+        "lat": 35.071452,
+        "lng": -106.625815
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-67/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15693",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "9722 Central Ave SW, Albuquerque, NM 87121, USA",
+      "street": "Central Avenue Southwest",
+      "zip": "87121",
+      "coordinates": {
+        "lat": 35.072306,
+        "lng": -106.742101
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-68/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15694",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "9800 4th St NW, Albuquerque, NM 87114, USA",
+      "street": "4th Street Northwest",
+      "zip": "87107",
+      "coordinates": {
+        "lat": 35.193259,
+        "lng": -106.615477
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-69/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15697",
+      "title": "Big Brothers Big Sisters - Albuquerque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "19482 NM-314, Belen, NM 87002, USA",
+      "street": "North Main Street",
+      "zip": "87002",
+      "coordinates": {
+        "lat": 34.69979,
+        "lng": -106.764794
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-albuquerque-70/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15698",
+      "title": "Big Brothers Big Sisters - Belen",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "19720 NM-314, Belen, NM 87002, USA",
+      "street": "North Main Street",
+      "zip": "87002",
+      "coordinates": {
+        "lat": 34.734101,
+        "lng": -106.754196
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-belen/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15699",
+      "title": "Big Brothers Big Sisters - Belen",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "610 N Main St, Belen, NM 87002, USA",
+      "street": "610 North Main Street",
+      "zip": "87002",
+      "coordinates": {
+        "lat": 34.666343,
+        "lng": -106.774467
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-belen-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15700",
+      "title": "Big Brothers Big Sisters - Belen",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "E, 325 S Main St, Belen, NM 87002, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 34.658485,
+        "lng": -106.778419
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-belen-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15714",
+      "title": "Big Brothers Big Sisters - Bosque Farms",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "1075 Bosque Farms Blvd, Bosque Farms, NM 87068, USA",
+      "street": "1075 Bosque Farms Boulevard",
+      "zip": "87068",
+      "coordinates": {
+        "lat": 34.858204,
+        "lng": -106.69117
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-bosque-farms/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15715",
+      "title": "Big Brothers Big Sisters - Bosque Farms",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "3513 NM-47, Bosque Farms, NM 87068, USA",
+      "street": "Bosque Farms Boulevard",
+      "zip": "87068",
+      "coordinates": {
+        "lat": 34.875243,
+        "lng": -106.689788
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-bosque-farms-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15747",
+      "title": "Big Brothers Big Sisters - Espanola",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "1610 N Riverside Dr, Española, NM 87532, USA",
+      "street": "1610 North Riverside Drive",
+      "zip": "87532",
+      "coordinates": {
+        "lat": 36.015444,
+        "lng": -106.067692
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-espanola/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15748",
+      "title": "Big Brothers Big Sisters - Espanola",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "205 Los Alamos Hwy, Española, NM 87532, USA",
+      "street": "205 Los Alamos Highway",
+      "zip": "87532",
+      "coordinates": {
+        "lat": 35.988196,
+        "lng": -106.079938
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-espanola-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15749",
+      "title": "Big Brothers Big Sisters - Espanola",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "520 S Riverside Dr, Española, NM 87532, USA",
+      "street": "520 South Riverside Drive",
+      "zip": "87532",
+      "coordinates": {
+        "lat": 35.987583,
+        "lng": -106.063465
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-espanola-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15809",
+      "title": "Big Brothers Big Sisters - Santa Fe",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "2007 NM-502, Jaconita, NM 87506, USA",
+      "street": "NM 502",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.891372,
+        "lng": -106.024206
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santa-fe/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15823",
+      "title": "Big Brothers Big Sisters - Las Comas",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "2020 N Valley Dr, Las Cruces, NM 88007, USA",
+      "street": "2020 North Valley Drive",
+      "zip": "88013",
+      "coordinates": {
+        "lat": 32.327757,
+        "lng": -106.803637
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-comas/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15824",
+      "title": "Big Brothers Big Sisters - Las Cromas",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "1980 Spruce Ave, Las Cruces, NM 88001, USA",
+      "street": "1980 Spruce Avenue",
+      "zip": "88011",
+      "coordinates": {
+        "lat": 32.326961,
+        "lng": -106.756131
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cromas/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15825",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "1274 Golf Club Rd, Las Cruces, NM 88011, USA",
+      "street": "1274 Golf Club Road",
+      "zip": "88011",
+      "coordinates": {
+        "lat": 32.340395,
+        "lng": -106.737055
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15826",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "150 Sonoma Ranch Blvd, Las Cruces, NM 88011, USA",
+      "street": "Sonoma Ranch Boulevard",
+      "zip": "88011",
+      "coordinates": {
+        "lat": 32.328067,
+        "lng": -106.722358
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15827",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "2340 N Main St, Las Cruces, NM 88001, USA",
+      "street": "North Main Street",
+      "zip": "88005",
+      "coordinates": {
+        "lat": 32.329456,
+        "lng": -106.782351
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15828",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "2711 N Telshor Blvd, Las Cruces, NM 88011, USA",
+      "street": "2711 North Telshor Boulevard",
+      "zip": "88011",
+      "coordinates": {
+        "lat": 32.347121,
+        "lng": -106.766959
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15829",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "3000 Elks Dr, Las Cruces, NM 88005, USA",
+      "street": "3000 Elks Drive",
+      "zip": "88005",
+      "coordinates": {
+        "lat": 32.345634,
+        "lng": -106.776694
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15830",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "3299 Del Rey Blvd, Las Cruces, NM 88012, USA",
+      "street": "3299 Del Rey Boulevard",
+      "zip": "88012",
+      "coordinates": {
+        "lat": 32.352674,
+        "lng": -106.767236
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces-6/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15831",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "3331 Rinconada Blvd, Las Cruces, NM 88011, USA",
+      "street": "3331 Rinconada Boulevard",
+      "zip": "88011",
+      "coordinates": {
+        "lat": 32.360105,
+        "lng": -106.746132
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces-7/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15832",
+      "title": "Big Brothers Big Sisters - Las Cruces",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "3901 Bataan Memorial, Las Cruces, NM 88012, USA",
+      "street": "3901 Bataan Memorial West",
+      "zip": "88012",
+      "coordinates": {
+        "lat": 32.371043,
+        "lng": -106.7427
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-las-cruces-8/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15833",
+      "title": "Big Brothers Big Sisters - Los Alamomos",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Los Alamos",
+      "address": "95 Entrada Dr, Los Alamos, NM 87544, USA",
+      "street": "95 Entrada Drive",
+      "zip": "87544",
+      "coordinates": {
+        "lat": 35.876751,
+        "lng": -106.260903
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-alamomos/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15834",
+      "title": "Big Brothers Big Sisters - Los Alomos",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Los Alamos",
+      "address": "2591 Trinity Dr, Los Alamos, NM 87544, USA",
+      "street": "Trinity Drive",
+      "zip": "87544",
+      "coordinates": {
+        "lat": 35.880955,
+        "lng": -106.305751
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-alomos/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15835",
+      "title": "Big Brothers Big Sisters - Los Alomos",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "3701 E Jemez Rd, Los Alamos, NM 87544, USA",
+      "street": "3701 East Jemez Road",
+      "zip": "87544",
+      "coordinates": {
+        "lat": 35.877548,
+        "lng": -106.314764
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-alomos-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15836",
+      "title": "Big Brothers Big Sisters - Los Lunas",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "105 Sun Ranch Village Rd, Los Lunas, NM 87031, USA",
+      "street": "Sun Ranch Village Road",
+      "zip": "",
+      "coordinates": {
+        "lat": 34.814935,
+        "lng": -106.766251
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-lunas/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15837",
+      "title": "Big Brothers Big Sisters - Los Lunas",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "2580 Main St NE, Los Lunas, NM 87031, USA",
+      "street": "Main Street Northeast",
+      "zip": "87031",
+      "coordinates": {
+        "lat": 34.808885,
+        "lng": -106.702364
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-lunas-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15838",
+      "title": "Big Brothers Big Sisters - Los Lunas",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "544 Main St SW, Los Lunas, NM 87031, USA",
+      "street": "544 Main Street Southwest",
+      "zip": "87031",
+      "coordinates": {
+        "lat": 34.810687,
+        "lng": -106.740416
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-lunas-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15839",
+      "title": "Big Brothers Big Sisters - Los Lunas",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "604 Main St NE, Los Lunas, NM 87031, USA",
+      "street": "604 Main Street Northeast",
+      "zip": "87031",
+      "coordinates": {
+        "lat": 34.806119,
+        "lng": -106.729339
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-lunas-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15886",
+      "title": "Big Brothers Big Sisters - Peralta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "3636 NM-47, Peralta, NM 87042, USA",
+      "street": "3636 NM 47",
+      "zip": "87042",
+      "coordinates": {
+        "lat": 34.831073,
+        "lng": -106.690615
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-peralta/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15963",
+      "title": "Big Brothers Big Sisters - Belen",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "360 Rio Communities Blvd, Rio Communities, NM 87002, USA",
+      "street": "360 Rio Communities Boulevard",
+      "zip": "87002",
+      "coordinates": {
+        "lat": 34.645578,
+        "lng": -106.732033
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-belen-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15970",
+      "title": "Big Brothers Big Sisters - Pojoaque",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "70 Valle Romero, Santa Fe, NM 87506, USA",
+      "street": "70 Valle Romero",
+      "zip": "87506",
+      "coordinates": {
+        "lat": 35.882637,
+        "lng": -106.010739
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-pojoaque/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15971",
+      "title": "Big Brothers Big Sisters - Santa Fe",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "1010 S St Francis Dr, Santa Fe, NM 87505, USA",
+      "street": "South Saint Francis Drive",
+      "zip": "87505",
+      "coordinates": {
+        "lat": 35.676439,
+        "lng": -105.954038
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santa-fe-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15972",
+      "title": "Big Brothers Big Sisters - Santa Fe",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "3294 Cerrillos Rd, Santa Fe, NM 87507, USA",
+      "street": "3294 Cerrillos Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.648989,
+        "lng": -105.998908
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santa-fe-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15973",
+      "title": "Big Brothers Big Sisters - Santa Fe",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "800 St Michaels Dr, Santa Fe, NM 87505, USA",
+      "street": "800 Saint Michaels Drive",
+      "zip": "87505",
+      "coordinates": {
+        "lat": 35.658862,
+        "lng": -105.96324
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santa-fe-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15974",
+      "title": "Big Brothers Big Sisters - Santa Feomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "1710 Llano St, Santa Fe, NM 87505, USA",
+      "street": "1710 Llano Street",
+      "zip": "87505",
+      "coordinates": {
+        "lat": 35.658172,
+        "lng": -105.973086
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santa-feomanta/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15975",
+      "title": "Big Brothers Big Sisters - Santa Fomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "11 College Ave, Santa Fe, NM 87508, USA",
+      "street": "11 College Avenue",
+      "zip": "87508",
+      "coordinates": {
+        "lat": 35.607942,
+        "lng": -106.001687
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santa-fomanta/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15976",
+      "title": "Big Brothers Big Sisters - Santa omanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "5984 Airport Rd, Santa Fe, NM 87505, USA",
+      "street": "5984 Airport Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.635514,
+        "lng": -106.037269
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santa-omanta/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15977",
+      "title": "Big Brothers Big Sisters - Santaomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "757 W Alameda St, Santa Fe, NM 87501, USA",
+      "street": "757 West Alameda Street",
+      "zip": "87501",
+      "coordinates": {
+        "lat": 35.688787,
+        "lng": -105.953124
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santaomanta/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15978",
+      "title": "Big Brothers Big Sisters - Santomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "2308 Cerrillos Rd, Santa Fe, NM 87505, USA",
+      "street": "2308 Cerrillos Road",
+      "zip": "87505",
+      "coordinates": {
+        "lat": 35.659948,
+        "lng": -105.980086
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santomanta/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15979",
+      "title": "Big Brothers Big Sisters - Santomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "3294 Cerrillos Rd, Santa Fe, NM 87507, USA",
+      "street": "3294 Cerrillos Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.648989,
+        "lng": -105.998908
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santomanta-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15980",
+      "title": "Big Brothers Big Sisters - Santomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "4061 Cerrillos Rd, Santa Fe, NM 87507, USA",
+      "street": "Cerrillos Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.640579,
+        "lng": -106.0164
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santomanta-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15981",
+      "title": "Big Brothers Big Sisters - Santomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "4250 Cerrillos Rd, Santa Fe, NM 87507, USA",
+      "street": "4250 Cerrillos Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.637916,
+        "lng": -106.0164
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santomanta-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15982",
+      "title": "Big Brothers Big Sisters - Santomanta",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "7501 Cerrillos Rd, Santa Fe, NM 87507, USA",
+      "street": "7501 Cerrillos Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.622604,
+        "lng": -106.028774
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-santomanta-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16051",
+      "title": "Big Brothers Big Sisters - Los Alomos",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "500 Overlook Rd, White Rock, NM 87544, USA",
+      "street": "500 Overlook Road",
+      "zip": "87547",
+      "coordinates": {
+        "lat": 35.825412,
+        "lng": -106.192168
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-los-alomos-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "16052",
+      "title": "Big Brothers Big Sisters - White Rock",
+      "company": "Big Brothers Big Sisters",
+      "description": "Founded in 1904, Big Brothers Big Sisters' mission is to provide children with adult mentors, helping guide them through the many obstacles of life.\n\nDonations accepted include financial contributions, as well as other items through many of their locations you see below. If you're not sure whether your donation will be accepted, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "66 NM-4, White Rock, NM 87544, USA",
+      "street": "66 NM 4",
+      "zip": "87544",
+      "coordinates": {
+        "lat": 35.824119,
+        "lng": -106.2182
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Linen",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "big-brothers-big-sisters.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/big-brothers-big-sisters-white-rock/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17203",
+      "title": "Savers - Albuquerque",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "2620 Carlisle Blvd NE, Albuquerque, NM 87110, USA",
+      "street": "2620 Carlisle Boulevard Northeast",
+      "zip": "87110",
+      "coordinates": {
+        "lat": 35.110121,
+        "lng": -106.601686
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/savers-albuquerque/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17204",
+      "title": "Savers - Albuquerque",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "3400 Calle Cuervo NW #2, Albuquerque, NM 87114, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.206746,
+        "lng": -106.648841
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/savers-albuquerque-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17346",
+      "title": "Savers - Las Cruces",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "2340 N Main St, Las Cruces, NM 88001, USA",
+      "street": "North Main Street",
+      "zip": "88005",
+      "coordinates": {
+        "lat": 32.329456,
+        "lng": -106.782351
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/savers-las-cruces/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17437",
+      "title": "Savers - Santa Fe",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "3294 Cerrillos Rd, Santa Fe, NM 87507, USA",
+      "street": "3294 Cerrillos Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.648989,
+        "lng": -105.998908
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/savers-santa-fe/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17609",
+      "title": "Salvation Army - Alamogordo",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Alamogordo",
+      "address": "901 N New York Ave, Alamogordo, NM 88310, USA",
+      "street": "901 North New York Avenue",
+      "zip": "88310",
+      "coordinates": {
+        "lat": 32.898879,
+        "lng": -105.959594
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-alamogordo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17611",
+      "title": "Salvation Army - Albuquerque",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "12601 Central Ave NE, Albuquerque, NM 87123, USA",
+      "street": "Central Avenue Northeast",
+      "zip": "87123",
+      "coordinates": {
+        "lat": 35.069948,
+        "lng": -106.509141
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-albuquerque/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17612",
+      "title": "Salvation Army - Albuquerque",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "411 Broadway Blvd SE, Albuquerque, NM 87102, USA",
+      "street": "411 Broadway Boulevard Southeast",
+      "zip": "87102",
+      "coordinates": {
+        "lat": 35.080173,
+        "lng": -106.645571
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-albuquerque-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17613",
+      "title": "Salvation Army - Albuquerque",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4501 Silver Ave SE, Albuquerque, NM 87108, USA",
+      "street": "4501 Silver Avenue Southeast",
+      "zip": "87108",
+      "coordinates": {
+        "lat": 35.07755,
+        "lng": -106.593674
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-albuquerque-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17888",
+      "title": "Salvation Army - Clovis",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Clovis",
+      "address": "317 E 2nd St, Clovis, NM 88101, USA",
+      "street": "317 East 2nd Street",
+      "zip": "88101",
+      "coordinates": {
+        "lat": 34.399364,
+        "lng": -103.202019
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-clovis-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17986",
+      "title": "Salvation Army - Edgewood",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "150 NM-344, Edgewood, NM 87015, USA",
+      "street": "150 NM-344",
+      "zip": "87015",
+      "coordinates": {
+        "lat": 35.083553,
+        "lng": -106.189799
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-edgewood/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18018",
+      "title": "Salvation Army - Farmington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Farmington",
+      "address": "316 W Animas St, Farmington, NM 87401, USA",
+      "street": "West Animas Street",
+      "zip": "87401",
+      "coordinates": {
+        "lat": 36.727431,
+        "lng": -108.208908
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-farmington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18263",
+      "title": "Salvation Army - Las Cruces",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Las Cruces",
+      "address": "220 E Idaho Ave, Las Cruces, NM 88005, USA",
+      "street": "220 East Idaho Avenue",
+      "zip": "88005",
+      "coordinates": {
+        "lat": 32.296108,
+        "lng": -106.774839
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-las-cruces/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18693",
+      "title": "Salvation Army - Roswell",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Roswell",
+      "address": "207 E Chisum St, Roswell, NM 88203, USA",
+      "street": "207 East Chisum Street",
+      "zip": "88203",
+      "coordinates": {
+        "lat": 33.376939,
+        "lng": -104.520196
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-roswell-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18776",
+      "title": "Salvation Army - Santa Fe",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "1202 Camino Carlos Rey, Santa Fe, NM 87507, USA",
+      "street": "1202 Camino Carlos Rey",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.656109,
+        "lng": -105.985687
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/salvation-army-santa-fe/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19442",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "1108 Juan Tabo Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "1108 Juan Tabo Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.091025,
+        "lng": -106.514569
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19443",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "11500 Menaul Blvd NE, Albuquerque, NM 87112, USA",
+      "street": "11500 Menaul Boulevard Northeast",
+      "zip": "87112",
+      "coordinates": {
+        "lat": 35.108119,
+        "lng": -106.512775
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19444",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3211 Coors Blvd SW, Albuquerque, NM 87121, USA",
+      "street": "3211 Coors Boulevard Southwest",
+      "zip": "87121",
+      "coordinates": {
+        "lat": 35.028564,
+        "lng": -106.716001
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19445",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "3401 NM-528, Albuquerque, NM 87114, USA",
+      "street": "3401 Alameda Boulevard Northwest",
+      "zip": "87114",
+      "coordinates": {
+        "lat": 35.205432,
+        "lng": -106.648979
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19446",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "4701 Lincoln Rd NE, Albuquerque, NM 87109, USA",
+      "street": "4701 Lincoln Road Northeast",
+      "zip": "87109",
+      "coordinates": {
+        "lat": 35.142666,
+        "lng": -106.590727
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19447",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "5000 San Mateo Blvd NE, Albuquerque, NM 87109, USA",
+      "street": "5000 San Mateo Boulevard Northeast",
+      "zip": "87109",
+      "coordinates": {
+        "lat": 35.137431,
+        "lng": -106.584557
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19448",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "6636 Caminito Coors NW, Albuquerque, NM 87120, USA",
+      "street": "6636 Caminito Coors Northwest",
+      "zip": "87114",
+      "coordinates": {
+        "lat": 35.172895,
+        "lng": -106.672715
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19449",
+      "title": "Goodwill - Albuquerque",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Albuquerque",
+      "address": "7120 Holly Ave NE, Albuquerque, NM 87113, USA",
+      "street": "7120 Holly Avenue Northeast",
+      "zip": "87113",
+      "coordinates": {
+        "lat": 35.175133,
+        "lng": -106.565635
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-albuquerque-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19670",
+      "title": "Goodwill - Bernalillo",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "1021 Venada Plaza Dr, Bernalillo, NM 87004, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 35.315952,
+        "lng": -106.571513
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-bernalillo/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19914",
+      "title": "Goodwill - Clovis",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Clovis",
+      "address": "2005 N Prince St, Clovis, NM 88101, USA",
+      "street": "2005 North Prince Street",
+      "zip": "88101",
+      "coordinates": {
+        "lat": 34.418753,
+        "lng": -103.196305
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-clovis/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20154",
+      "title": "Goodwill - Farmington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Farmington",
+      "address": "1861 N Hutton Ave, Farmington, NM 87402, USA",
+      "street": "1861 North Hutton Avenue",
+      "zip": "87402",
+      "coordinates": {
+        "lat": 36.746706,
+        "lng": -108.171403
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-farmington-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20228",
+      "title": "Goodwill - Gallup",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Gallup",
+      "address": "1820 E Hwy 66, Gallup, NM 87301, USA",
+      "street": "East Historic Highway 66",
+      "zip": "87301",
+      "coordinates": {
+        "lat": 35.528893,
+        "lng": -108.715966
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-gallup/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20724",
+      "title": "Goodwill - Los Lunas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Unknown",
+      "address": "201 Desert Willow Rd NW, Los Lunas, NM 87031, USA",
+      "street": "Desert Willow Road",
+      "zip": "",
+      "coordinates": {
+        "lat": 34.817335,
+        "lng": -106.766453
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-los-lunas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21361",
+      "title": "Goodwill - Rio Rancho",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Rio Rancho",
+      "address": "2003 Southern Blvd SE, Rio Rancho, NM 87124, USA",
+      "street": "2003 Southern Boulevard Southeast",
+      "zip": "87124",
+      "coordinates": {
+        "lat": 35.242667,
+        "lng": -106.692967
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-rio-rancho/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21409",
+      "title": "Goodwill - Roswell",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Roswell",
+      "address": "2601 N Main St, Roswell, NM 88201, USA",
+      "street": "2601 North Main Street",
+      "zip": "88201",
+      "coordinates": {
+        "lat": 33.424208,
+        "lng": -104.522198
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-roswell-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21451",
+      "title": "Goodwill - Santa Fe",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "New Mexico",
+      "stateSlug": "new-mexico",
+      "city": "Santa Fe",
+      "address": "3060 Cerrillos Rd, Santa Fe, NM 87507, USA",
+      "street": "3060 Cerrillos Road",
+      "zip": "87507",
+      "coordinates": {
+        "lat": 35.653396,
+        "lng": -105.993721
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/new-mexico/goodwill-santa-fe/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

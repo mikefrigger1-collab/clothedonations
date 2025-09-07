@@ -1,0 +1,852 @@
+{
+  "name": "Maine",
+  "slug": "maine",
+  "locations": [
+    {
+      "id": "17929",
+      "title": "Salvation Army - Damariscotta",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "17 Elm St, Damariscotta, ME 04543, USA",
+      "street": "17 Elm Street",
+      "zip": "4543",
+      "coordinates": {
+        "lat": 44.03284,
+        "lng": -69.531446
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/maine/salvation-army-damariscotta/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18650",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "712 Main St, Richmond, ME 04357, USA",
+      "street": "712 Main Street",
+      "zip": "4357",
+      "coordinates": {
+        "lat": 44.098452,
+        "lng": -69.865169
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/maine/salvation-army-richmond-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18696",
+      "title": "Salvation Army - Sabattus",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "26 Pleasant Hill Rd, Sabattus, ME 04280, USA",
+      "street": "26 Pleasant Hill Road",
+      "zip": "4280",
+      "coordinates": {
+        "lat": 44.115611,
+        "lng": -70.086801
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/maine/salvation-army-sabattus/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18697",
+      "title": "Salvation Army - Sabattus",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "30 Pleasant Hill Rd, Sabattus, ME 04280, USA",
+      "street": "30 Pleasant Hill Road",
+      "zip": "4280",
+      "coordinates": {
+        "lat": 44.119649,
+        "lng": -70.085569
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/maine/salvation-army-sabattus-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18978",
+      "title": "Salvation Army - Wiscasset",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "78 Fowle Hill Rd, Wiscasset, ME 04578, USA",
+      "street": "78 Fowle Hill Road",
+      "zip": "4578",
+      "coordinates": {
+        "lat": 44.036282,
+        "lng": -69.664225
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/maine/salvation-army-wiscasset/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18979",
+      "title": "Salvation Army - Wiscasset",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "97 Fowle Hill Rd, Wiscasset, ME 04578, USA",
+      "street": "97 Fowle Hill Road",
+      "zip": "4578",
+      "coordinates": {
+        "lat": 44.037839,
+        "lng": -69.664552
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/maine/salvation-army-wiscasset-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19535",
+      "title": "Goodwill - Auburn",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Auburn",
+      "address": "939 Turner St, Auburn, ME 04210, USA",
+      "street": "939 Turner Street",
+      "zip": "4210",
+      "coordinates": {
+        "lat": 44.12222,
+        "lng": -70.232305
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-auburn/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19537",
+      "title": "Goodwill - Augusta",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Augusta",
+      "address": "5 Senator Way, Augusta, ME 04330, USA",
+      "street": "5 Senator Way",
+      "zip": "4330",
+      "coordinates": {
+        "lat": 44.314507,
+        "lng": -69.805046
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-augusta/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19600",
+      "title": "Goodwill - Bangor",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Bangor",
+      "address": "805 Stillwater Ave, Bangor, ME 04401, USA",
+      "street": "805 Stillwater Avenue",
+      "zip": "4401",
+      "coordinates": {
+        "lat": 44.835835,
+        "lng": -68.747921
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-bangor/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19614",
+      "title": "Goodwill - West Bath",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "64 Arthur J Reno Sr Rd, Bath, ME 04530, USA",
+      "street": "64 Arthur J Reno Sr Road",
+      "zip": "4530",
+      "coordinates": {
+        "lat": 43.907405,
+        "lng": -69.854335
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-west-bath/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19644",
+      "title": "Goodwill - Belfast",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "13 Goodwill Dr, Belfast, ME 04915, USA",
+      "street": "13 Goodwill Drive",
+      "zip": "4915",
+      "coordinates": {
+        "lat": 44.42432,
+        "lng": -69.02581
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-belfast/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19674",
+      "title": "Goodwill - Biddeford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "420 Alfred St, Biddeford, ME 04005, USA",
+      "street": "420 Alfred Street",
+      "zip": "4005",
+      "coordinates": {
+        "lat": 43.482649,
+        "lng": -70.479298
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-biddeford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19728",
+      "title": "Goodwill - Brewer",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "610 Wilson St, Brewer, ME 04412, USA",
+      "street": "610 Wilson Street",
+      "zip": "4412",
+      "coordinates": {
+        "lat": 44.778824,
+        "lng": -68.737671
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-brewer/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19749",
+      "title": "Goodwill - Brunswick",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Brunswick",
+      "address": "21 Gurnet Rd, Brunswick, ME 04011, USA",
+      "street": "21 Gurnet Road",
+      "zip": "4011",
+      "coordinates": {
+        "lat": 43.902787,
+        "lng": -69.913056
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-brunswick/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19750",
+      "title": "Goodwill - Brunswick",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Brunswick",
+      "address": "Longfellow Ave, Brunswick, ME 04011, USA",
+      "street": "Longfellow Avenue",
+      "zip": "4011",
+      "coordinates": {
+        "lat": 43.904601,
+        "lng": -69.961559
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-brunswick-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19796",
+      "title": "Goodwill - Cape Elizabeth",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "21 Dennison Dr, Cape Elizabeth, ME 04107, USA",
+      "street": "21 Dennison Drive",
+      "zip": "4107",
+      "coordinates": {
+        "lat": 43.586239,
+        "lng": -70.242564
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-cape-elizabeth/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20119",
+      "title": "Goodwill - Ellsworth",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "15 Downeast Highway, Ellsworth, ME 04605, USA",
+      "street": "15 Downeast Highway",
+      "zip": "4605",
+      "coordinates": {
+        "lat": 44.530849,
+        "lng": -68.405125
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-ellsworth/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20149",
+      "title": "Goodwill - Falmouth Shopping Center, Falmouth",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "251 US-1, Falmouth, ME 04105, USA",
+      "street": "251 Route 1",
+      "zip": "4105",
+      "coordinates": {
+        "lat": 43.724132,
+        "lng": -70.230627
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-falmouth-shopping-center-falmouth/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20263",
+      "title": "Goodwill - Gorham",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "34 Hutcherson Dr, Gorham, ME 04038, USA",
+      "street": "34 Hutcherson Drive",
+      "zip": "4038",
+      "coordinates": {
+        "lat": 43.681295,
+        "lng": -70.39552
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-gorham/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20549",
+      "title": "Goodwill - Kennebunk",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "36 Sea Rd, Kennebunk, ME 04043, USA",
+      "street": "36 Sea Road",
+      "zip": "4043",
+      "coordinates": {
+        "lat": 43.376432,
+        "lng": -70.525581
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-kennebunk/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21145",
+      "title": "Goodwill - Old Orchard Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "1 Vallee Ln, Old Orchard Beach, ME 04064, USA",
+      "street": "1 Vallee Lane",
+      "zip": "4064",
+      "coordinates": {
+        "lat": 43.517876,
+        "lng": -70.407519
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-old-orchard-beach/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21387",
+      "title": "Goodwill - Rockland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "202 Camden St, Rockland, ME 04841, USA",
+      "street": "202 Camden Street",
+      "zip": "4841",
+      "coordinates": {
+        "lat": 44.122596,
+        "lng": -69.10045
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-rockland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21513",
+      "title": "Goodwill - South Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "180 Waterman Dr, South Portland, ME 04106, USA",
+      "street": "180 Waterman Drive",
+      "zip": "4106",
+      "coordinates": {
+        "lat": 43.635417,
+        "lng": -70.254357
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-south-portland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21514",
+      "title": "Goodwill - South Portland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "555 Maine Mall Rd, South Portland, ME 04106, USA",
+      "street": "555 Maine Mall Road",
+      "zip": "4106",
+      "coordinates": {
+        "lat": 43.629447,
+        "lng": -70.343754
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-south-portland-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21628",
+      "title": "Goodwill - Topsham",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "106 Park Dr, Topsham, ME 04086, USA",
+      "street": "106 Park Drive",
+      "zip": "4086",
+      "coordinates": {
+        "lat": 43.930881,
+        "lng": -69.978278
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-topsham/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21698",
+      "title": "Goodwill - Waterville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Waterville",
+      "address": "10 Concourse W, Waterville, ME 04901, USA",
+      "street": "10 Concourse West",
+      "zip": "4901",
+      "coordinates": {
+        "lat": 44.549507,
+        "lng": -69.632587
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-waterville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21739",
+      "title": "Goodwill - Westbrook",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "200 Larrabee Rd, Westbrook, ME 04092, USA",
+      "street": "200 Larrabee Road",
+      "zip": "4092",
+      "coordinates": {
+        "lat": 43.681211,
+        "lng": -70.333462
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-westbrook/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21740",
+      "title": "Goodwill - Westbrook",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "594 County Rd, Westbrook, ME 04092, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.648807,
+        "lng": -70.369769
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-westbrook-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21786",
+      "title": "Goodwill - Windham",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "31 Landing Rd, Windham, ME 04062, USA",
+      "street": "31 Landing Road",
+      "zip": "4062",
+      "coordinates": {
+        "lat": 43.839702,
+        "lng": -70.446533
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/maine/goodwill-windham/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23443",
+      "title": "Planet Aid - Kittery Storage & Parcel Center",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "162 State Rd, Kittery, ME 03904, USA",
+      "street": "162 State Road",
+      "zip": "3904",
+      "coordinates": {
+        "lat": 43.099247,
+        "lng": -70.74419
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/maine/planet-aid-kittery-storage-parcel-center/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23447",
+      "title": "Planet Aid - Mike Higgins Auto Repair",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "7 Route 236, Kittery, ME 03904, USA",
+      "street": "7 Route 236",
+      "zip": "3904",
+      "coordinates": {
+        "lat": 43.09161,
+        "lng": -70.73741
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/maine/planet-aid-mike-higgins-auto-repair/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23448",
+      "title": "Planet Aid - Piscataqua Animal Hospital",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "103 State Rd, Kittery, ME 03904, USA",
+      "street": "103 State Road",
+      "zip": "3904",
+      "coordinates": {
+        "lat": 43.093088,
+        "lng": -70.74799
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/maine/planet-aid-piscataqua-animal-hospital/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23449",
+      "title": "Planet Aid - The Fabulous Find",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "139 State Rd, Kittery, ME 03904, USA",
+      "street": "139 State Road",
+      "zip": "3904",
+      "coordinates": {
+        "lat": 43.097411,
+        "lng": -70.745907
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/maine/planet-aid-the-fabulous-find/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24915",
+      "title": "Planet Aid - Two Son's LLC",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "26 Sea Mist Ln, York, ME 03909, USA",
+      "street": "26 Sea Mist Lane",
+      "zip": "3909",
+      "coordinates": {
+        "lat": 43.166321,
+        "lng": -70.62029
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/maine/planet-aid-two-sons-llc/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24916",
+      "title": "Planet Aid - York Recycling Center",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Maine",
+      "stateSlug": "maine",
+      "city": "Unknown",
+      "address": "61 Witchtrot Rd, York, ME 03909, USA",
+      "street": "61 Witchtrot Road",
+      "zip": "3909",
+      "coordinates": {
+        "lat": 43.194274,
+        "lng": -70.748119
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/maine/planet-aid-york-recycling-center/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

@@ -1,0 +1,2590 @@
+{
+  "name": "Rhode Island",
+  "slug": "rhode-island",
+  "locations": [
+    {
+      "id": "17781",
+      "title": "Salvation Army - Burrillville",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "82 N Main St, Pascoag, RI 02859, USA",
+      "street": "82 North Main Street",
+      "zip": "2859",
+      "coordinates": {
+        "lat": 41.961245,
+        "lng": -71.701572
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-burrillville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17782",
+      "title": "Salvation Army - Pascoag",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "82 N Main St, Pascoag, RI 02859, USA",
+      "street": "82 North Main Street",
+      "zip": "2859",
+      "coordinates": {
+        "lat": 41.961245,
+        "lng": -71.701572
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-pascoag/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17919",
+      "title": "Salvation Army - Cranston",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Cranston",
+      "address": "200 Atwood Ave, Cranston, RI 02910, USA",
+      "street": "200 Atwood Avenue",
+      "zip": "2920",
+      "coordinates": {
+        "lat": 41.781781,
+        "lng": -71.474276
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-cranston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17980",
+      "title": "Salvation Army - East Greenwich",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "4619 Post Rd, East Greenwich, RI 02818, USA",
+      "street": "Post Road",
+      "zip": "2818",
+      "coordinates": {
+        "lat": 41.665537,
+        "lng": -71.450755
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-east-greenwich/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18216",
+      "title": "Salvation Army - Jamestown",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1218 N Main Rd, Jamestown, RI 02835, USA",
+      "street": "1218 North Main Road",
+      "zip": "2835",
+      "coordinates": {
+        "lat": 41.563115,
+        "lng": -71.374853
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-jamestown-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18225",
+      "title": "Salvation Army - Johnston",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "65 Shun Pike, Johnston, RI 02919, USA",
+      "street": "65 Shun Pike",
+      "zip": "2919",
+      "coordinates": {
+        "lat": 41.804665,
+        "lng": -71.523133
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-johnston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18468",
+      "title": "Salvation Army - Newport",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Newport",
+      "address": "76 Broadway, Newport, RI 02840, USA",
+      "street": "76 Broadway",
+      "zip": "2840",
+      "coordinates": {
+        "lat": 41.4923,
+        "lng": -71.31209
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-newport-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18484",
+      "title": "Salvation Army - North Providenc",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1895 Smith St, North Providence, RI 02911, USA",
+      "street": "1895 Smith Street",
+      "zip": "2911",
+      "coordinates": {
+        "lat": 41.855958,
+        "lng": -71.478501
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-north-providenc/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18619",
+      "title": "Salvation Army - Portsmouth",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "305 Hedly St, Portsmouth, RI 02871, USA",
+      "street": "Hedly Street",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.593806,
+        "lng": -71.264974
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-portsmouth/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18620",
+      "title": "Salvation Army - Portsmouth",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "980 E Main Rd, Portsmouth, RI 02871, USA",
+      "street": "980 East Main Road",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.561358,
+        "lng": -71.254847
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-portsmouth-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18629",
+      "title": "Salvation Army - Providence",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Providence",
+      "address": "201 Pitman St, Providence, RI 02906, USA",
+      "street": "201 Pitman Street",
+      "zip": "2906",
+      "coordinates": {
+        "lat": 41.826335,
+        "lng": -71.385309
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-providence/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18817",
+      "title": "Salvation Army - Wakefield",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "202 Church St, South Kingstown, RI 02879, USA",
+      "street": "202 Church Street",
+      "zip": "2879",
+      "coordinates": {
+        "lat": 41.447581,
+        "lng": -71.497218
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-wakefield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18939",
+      "title": "Salvation Army - Warwick",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "1121 Warwick Ave, Warwick, RI 02888, USA",
+      "street": "1121 Warwick Avenue",
+      "zip": "2888",
+      "coordinates": {
+        "lat": 41.745851,
+        "lng": -71.407221
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-warwick/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18940",
+      "title": "Salvation Army - Warwick",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "558 Greenwich Ave, Warwick, RI 02886, USA",
+      "street": "558 Greenwich Avenue",
+      "zip": "2886",
+      "coordinates": {
+        "lat": 41.720676,
+        "lng": -71.464684
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-warwick-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18957",
+      "title": "Salvation Army - West Warwick",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "269 Washington St, West Warwick, RI 02893, USA",
+      "street": "Washington Street",
+      "zip": "2893",
+      "coordinates": {
+        "lat": 41.700296,
+        "lng": -71.529506
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-west-warwick/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18959",
+      "title": "Salvation Army - Westerly",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "258 Post Rd, Westerly, RI 02891, USA",
+      "street": "258 Post Road",
+      "zip": "2891",
+      "coordinates": {
+        "lat": 41.354237,
+        "lng": -71.766975
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/salvation-army-westerly/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20003",
+      "title": "Goodwill - Cumberland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1 Ann and Hope Way, Cumberland, RI 02864, USA",
+      "street": "1 Ann and Hope Way",
+      "zip": "2864",
+      "coordinates": {
+        "lat": 41.912928,
+        "lng": -71.397653
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/goodwill-cumberland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22271",
+      "title": "Planet Aid - Anthony Martin Property",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "37 Main St, Albion, RI 02802, USA",
+      "street": "37 Main Street",
+      "zip": "2802",
+      "coordinates": {
+        "lat": 41.951357,
+        "lng": -71.454152
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-anthony-martin-property/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22446",
+      "title": "Planet Aid - Gulf Gas - Bradford",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "247 Ashaway Rd, Bradford, RI 02808, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.41214,
+        "lng": -71.748805
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-gulf-gas-bradford/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22569",
+      "title": "Planet Aid - Storage America - Central Falls",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Central Falls",
+      "address": "558 Roosevelt Ave, Central Falls, RI 02863, USA",
+      "street": "558 Roosevelt Avenue",
+      "zip": "2863",
+      "coordinates": {
+        "lat": 41.887203,
+        "lng": -71.382791
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-storage-america-central-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22570",
+      "title": "Planet Aid - Sunny Hill Farms",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Central Falls",
+      "address": "364 Dexter St, Central Falls, RI 02863, USA",
+      "street": "364 Dexter Street",
+      "zip": "2863",
+      "coordinates": {
+        "lat": 41.882916,
+        "lng": -71.392971
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-sunny-hill-farms/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22571",
+      "title": "Planet Aid - Village Haven",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Central Falls",
+      "address": "90 School St, Central Falls, RI 02863, USA",
+      "street": "90 School Street",
+      "zip": "2863",
+      "coordinates": {
+        "lat": 41.890723,
+        "lng": -71.397349
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-village-haven/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22574",
+      "title": "Planet Aid - Quonnie Bait & Tackle",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "5223 A Old Post Rd, Charlestown, RI 02813, USA",
+      "street": "Old Post Road",
+      "zip": "2813",
+      "coordinates": {
+        "lat": 41.355766,
+        "lng": -71.718403
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-quonnie-bait-tackle/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22575",
+      "title": "Planet Aid - Rippy's Liquor",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "4158 S County Trl, Charlestown, RI 02813, USA",
+      "street": "4158 South County Trail",
+      "zip": "2813",
+      "coordinates": {
+        "lat": 41.43838,
+        "lng": -71.637624
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-rippys-liquor/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22890",
+      "title": "Planet Aid - Nicky's Lounge",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "354 Tiogue Ave, Coventry, RI 02816, USA",
+      "street": "354 Tiogue Avenue",
+      "zip": "2816",
+      "coordinates": {
+        "lat": 41.682764,
+        "lng": -71.544311
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-nickys-lounge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22897",
+      "title": "Planet Aid - Atwood Cleaners",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Cranston",
+      "address": "807 Atwood Ave, Cranston, RI 02920, USA",
+      "street": "807 Atwood Avenue",
+      "zip": "2920",
+      "coordinates": {
+        "lat": 41.79476,
+        "lng": -71.479621
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-atwood-cleaners/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22898",
+      "title": "Planet Aid - Bestway Food Mart",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Cranston",
+      "address": "280 Atwood Ave, Cranston, RI 02920, USA",
+      "street": "280 Atwood Avenue",
+      "zip": "2920",
+      "coordinates": {
+        "lat": 41.783391,
+        "lng": -71.473216
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-bestway-food-mart/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22899",
+      "title": "Planet Aid - Mutual Mart / Sayfs Enterprises",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Cranston",
+      "address": "397 Dyer Ave, Cranston, RI 02920, USA",
+      "street": "397 Dyer Avenue",
+      "zip": "2920",
+      "coordinates": {
+        "lat": 41.803245,
+        "lng": -71.458583
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-mutual-mart-sayfs-enterprises/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22900",
+      "title": "Planet Aid - Tire Warehouse - Cranston",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Cranston",
+      "address": "1170 Oaklawn Ave, Cranston, RI 02920, USA",
+      "street": "1170 Oaklawn Avenue",
+      "zip": "2920",
+      "coordinates": {
+        "lat": 41.737508,
+        "lng": -71.477576
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-tire-warehouse-cranston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22905",
+      "title": "Planet Aid - Cumberland Church",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "91 Pine Swamp Rd, Cumberland, RI 02864, USA",
+      "street": "91 Pine Swamp Road",
+      "zip": "2864",
+      "coordinates": {
+        "lat": 42.010597,
+        "lng": -71.445969
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-cumberland-church/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22906",
+      "title": "Planet Aid - Frank Jacinto Accounting",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "15 Martin St, Cumberland, RI 02864, USA",
+      "street": "15 Martin Street",
+      "zip": "2864",
+      "coordinates": {
+        "lat": 41.929378,
+        "lng": -71.424535
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-frank-jacinto-accounting/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22907",
+      "title": "Planet Aid - Golden Palace",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1165 High St, Cumberland, RI 02864, USA",
+      "street": "1165 High Street",
+      "zip": "2864",
+      "coordinates": {
+        "lat": 41.92504,
+        "lng": -71.39897
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-golden-palace/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22908",
+      "title": "Planet Aid - Mariaâ€™s Red Star Mattress",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "4012 Mendon Rd, Cumberland, RI 02864, USA",
+      "street": "4012 Mendon Road",
+      "zip": "2864",
+      "coordinates": {
+        "lat": 41.984252,
+        "lng": -71.476391
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-mariaaes-red-star-mattress/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22909",
+      "title": "Planet Aid - Olympia Gymnastics Center",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "70 Industrial Rd, Cumberland, RI 02864, USA",
+      "street": "70 Industrial Road",
+      "zip": "2864",
+      "coordinates": {
+        "lat": 41.954066,
+        "lng": -71.39561
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-olympia-gymnastics-center/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22910",
+      "title": "Planet Aid - Sanco Financial (TZ Bear)",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1390 Mendon Rd, Cumberland, RI 02864, USA",
+      "street": "1390 Mendon Road",
+      "zip": "2864",
+      "coordinates": {
+        "lat": 41.935919,
+        "lng": -71.429314
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-sanco-financial-tz-bear/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23005",
+      "title": "Planet Aid - Chesca's - East Greenwich",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "4552 Post Rd, East Greenwich, RI 02818, USA",
+      "street": "Post Road",
+      "zip": "2818",
+      "coordinates": {
+        "lat": 41.666994,
+        "lng": -71.449416
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-chescas-east-greenwich/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23010",
+      "title": "Planet Aid - City Bubbles Laundry",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "East Providence",
+      "address": "316 Warren Ave, East Providence, RI 02914, USA",
+      "street": "316 Warren Avenue",
+      "zip": "2914",
+      "coordinates": {
+        "lat": 41.813942,
+        "lng": -71.370861
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-city-bubbles-laundry/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23011",
+      "title": "Planet Aid - Moon Star Chinese Restaurant",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "East Providence",
+      "address": "219 Taunton Ave, East Providence, RI 02914, USA",
+      "street": "219 Taunton Avenue",
+      "zip": "2914",
+      "coordinates": {
+        "lat": 41.819509,
+        "lng": -71.371342
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-moon-star-chinese-restaurant/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23070",
+      "title": "Planet Aid - Dunkin Donuts - Exeter",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "561 S County Trl, Exeter, RI 02822, USA",
+      "street": "561 South County Trail",
+      "zip": "2822",
+      "coordinates": {
+        "lat": 41.526593,
+        "lng": -71.551563
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-dunkin-donuts-exeter/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23071",
+      "title": "Planet Aid - Town Hall - Exeter",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "675 10 Rod Rd, Exeter, RI 02822, USA",
+      "street": "Ten Rod Road",
+      "zip": "2822",
+      "coordinates": {
+        "lat": 41.58004,
+        "lng": -71.577833
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-town-hall-exeter/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23072",
+      "title": "Planet Aid - Transfer Station - Exeter",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "890 10 Rod Rd, Exeter, RI 02822, USA",
+      "street": "Ten Rod Road",
+      "zip": "2822",
+      "coordinates": {
+        "lat": 41.578474,
+        "lng": -71.59701
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-transfer-station-exeter/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23112",
+      "title": "Planet Aid - Foster Recycling Center - DPW",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "86 Foster Center Rd, Foster, RI 02825, USA",
+      "street": "86 Foster Center Road",
+      "zip": "2825",
+      "coordinates": {
+        "lat": 41.784746,
+        "lng": -71.719271
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-foster-recycling-center-dpw/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23113",
+      "title": "Planet Aid - Paine Elementary School",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "160 Foster Center Rd, Foster, RI 02825, USA",
+      "street": "160 Foster Center Road",
+      "zip": "2825",
+      "coordinates": {
+        "lat": 41.813674,
+        "lng": -71.732622
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-paine-elementary-school/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23198",
+      "title": "Planet Aid - A&W Rhode Island",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "460 Putnam Pike, Greenville, RI 02828, USA",
+      "street": "460 Putnam Pike",
+      "zip": "2828",
+      "coordinates": {
+        "lat": 41.869758,
+        "lng": -71.534793
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-aw-rhode-island/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23212",
+      "title": "Planet Aid - Mini Mart / Pia Dia Deli",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Woonsocket",
+      "address": "11 Hamlet Ave, Hamlet, RI 02895, USA",
+      "street": "11 Hamlet Avenue",
+      "zip": "2895",
+      "coordinates": {
+        "lat": 42.000932,
+        "lng": -71.504784
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-mini-mart-pia-dia-deli/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23229",
+      "title": "Planet Aid - Echo Properties LLC (formerly Dev's Cafe)",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "341 Chapel St, Harrisville, RI 02830, USA",
+      "street": "341 Chapel Street",
+      "zip": "2830",
+      "coordinates": {
+        "lat": 41.96739,
+        "lng": -71.682521
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-echo-properties-llc-formerly-devs-cafe/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23371",
+      "title": "Planet Aid - McQuade Market",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "6 Clarke St, Jamestown, RI 02835, USA",
+      "street": "6 Clarke Street",
+      "zip": "2835",
+      "coordinates": {
+        "lat": 41.493806,
+        "lng": -71.375557
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-mcquade-market/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23380",
+      "title": "Planet Aid - Angelika & Me Salon",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "58 Greenville Ave, Johnston, RI 02919, USA",
+      "street": "58 Greenville Avenue",
+      "zip": "2919",
+      "coordinates": {
+        "lat": 41.832941,
+        "lng": -71.473799
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-angelika-me-salon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23381",
+      "title": "Planet Aid - Bishop Hill Tavern",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "2868 Hartford Ave, Johnston, RI 02919, USA",
+      "street": "2868 Hartford Avenue",
+      "zip": "2919",
+      "coordinates": {
+        "lat": 41.834182,
+        "lng": -71.563042
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-bishop-hill-tavern/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23382",
+      "title": "Planet Aid - Expresso Pizza - Johnston",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "2949 Hartford Ave, Johnston, RI 02919, USA",
+      "street": "2949 Hartford Avenue",
+      "zip": "2919",
+      "coordinates": {
+        "lat": 41.835202,
+        "lng": -71.566069
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-expresso-pizza-johnston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23383",
+      "title": "Planet Aid - Petroil / Food Mart",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1401 Plainfield St, Johnston, RI 02919, USA",
+      "street": "Plainfield Street",
+      "zip": "2909",
+      "coordinates": {
+        "lat": 41.796113,
+        "lng": -71.483429
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-petroil-food-mart/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23442",
+      "title": "Planet Aid - URI Emporium",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "99 Fortin Rd, Kingston, RI 02881, USA",
+      "street": "99 Fortin Road",
+      "zip": "2881",
+      "coordinates": {
+        "lat": 41.485631,
+        "lng": -71.524854
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-uri-emporium/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23815",
+      "title": "Planet Aid - Seaport Communications",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "304 Point Judith Rd, Narragansett, RI 02882, USA",
+      "street": "304 Point Judith Road",
+      "zip": "2882",
+      "coordinates": {
+        "lat": 41.417938,
+        "lng": -71.479171
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-seaport-communications/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23906",
+      "title": "Planet Aid - Freeway Gas",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Newport",
+      "address": "250 Newport Ave, Newport, RI 02840, USA",
+      "street": "Newport Avenue",
+      "zip": "2840",
+      "coordinates": {
+        "lat": 41.487552,
+        "lng": -71.327084
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-freeway-gas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23952",
+      "title": "Planet Aid - Dania Food Mart",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "7000 Post Rd, North Kingstown, RI 02852, USA",
+      "street": "Post Road",
+      "zip": "2852",
+      "coordinates": {
+        "lat": 41.607618,
+        "lng": -71.455237
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-dania-food-mart/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23953",
+      "title": "Planet Aid - PK Fuel (formerly Mobil)",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "6228 Post Rd, North Kingstown, RI 02852, USA",
+      "street": "6228 Post Road",
+      "zip": "2852",
+      "coordinates": {
+        "lat": 41.627874,
+        "lng": -71.461118
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-pk-fuel-formerly-mobil/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23954",
+      "title": "Planet Aid - Transfer Station - North Kingstown",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "345 Devils Foot Rd, North Kingstown, RI 02852, USA",
+      "street": "345 Devils Foot Road",
+      "zip": "2852",
+      "coordinates": {
+        "lat": 41.608521,
+        "lng": -71.469669
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-transfer-station-north-kingstown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23955",
+      "title": "Planet Aid - Wickford Mini Mart",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "684 Boston Neck Rd, North Kingstown, RI 02852, USA",
+      "street": "684 Boston Neck Road",
+      "zip": "2852",
+      "coordinates": {
+        "lat": 41.552476,
+        "lng": -71.440534
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-wickford-mini-mart/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23956",
+      "title": "Planet Aid - Yorktown Market",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "6769 Post Rd, North Kingstown, RI 02852, USA",
+      "street": "6769 Post Road",
+      "zip": "2852",
+      "coordinates": {
+        "lat": 41.613424,
+        "lng": -71.458007
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-yorktown-market/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23961",
+      "title": "Planet Aid - Valley View Services",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "5 Smithfield Rd, North Providence, RI 02904, USA",
+      "street": "5 Smithfield Road",
+      "zip": "2904",
+      "coordinates": {
+        "lat": 41.854624,
+        "lng": -71.446643
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-valley-view-services/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23969",
+      "title": "Planet Aid - North Scituate ES",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "46 Institute Ln, North Scituate, RI 02857, USA",
+      "street": "46 Institute Lane",
+      "zip": "2857",
+      "coordinates": {
+        "lat": 41.833876,
+        "lng": -71.584594
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-north-scituate-es/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23970",
+      "title": "Planet Aid - Scituate Liquor Shoppe",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "30 Hartford Pike, North Scituate, RI 02857, USA",
+      "street": "Hartford Pike",
+      "zip": "2857",
+      "coordinates": {
+        "lat": 41.835932,
+        "lng": -71.578519
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-scituate-liquor-shoppe/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "23971",
+      "title": "Planet Aid - Sam's Food Store",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "948 Eddie Dowling Hwy, North Smithfield, RI 02896, USA",
+      "street": "948 Eddie Dowling Highway",
+      "zip": "2896",
+      "coordinates": {
+        "lat": 41.962671,
+        "lng": -71.495504
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-sams-food-store/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24087",
+      "title": "Planet Aid - D&B Performance",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "91 S Main St, Pascoag, RI 02859, USA",
+      "street": "91 South Main Street",
+      "zip": "2859",
+      "coordinates": {
+        "lat": 41.953584,
+        "lng": -71.70188
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-db-performance/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24088",
+      "title": "Planet Aid - News Star - Pascoag",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "170 Pascoag Main St, Pascoag, RI 02859, USA",
+      "street": "170 Main Street",
+      "zip": "2859",
+      "coordinates": {
+        "lat": 41.958751,
+        "lng": -71.701707
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-news-star-pascoag/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24099",
+      "title": "Planet Aid - Ama's Variety",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Pawtucket",
+      "address": "957 Main St, Pawtucket, RI 02860, USA",
+      "street": "957 Main Street",
+      "zip": "2860",
+      "coordinates": {
+        "lat": 41.865366,
+        "lng": -71.399375
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-amas-variety/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24100",
+      "title": "Planet Aid - Bestway Food Store - Pawtucket",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Pawtucket",
+      "address": "823 Newport Ave, Pawtucket, RI 02861, USA",
+      "street": "823 Newport Avenue",
+      "zip": "2861",
+      "coordinates": {
+        "lat": 41.878068,
+        "lng": -71.353934
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-bestway-food-store-pawtucket/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24101",
+      "title": "Planet Aid - Living Hope Assembly of God",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Pawtucket",
+      "address": "100 Broadway, Pawtucket, RI 02860, USA",
+      "street": "100 Broadway",
+      "zip": "2860",
+      "coordinates": {
+        "lat": 41.875149,
+        "lng": -71.392732
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-living-hope-assembly-of-god/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24102",
+      "title": "Planet Aid - Luckys Hookah World (former Blackstone Market)",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Pawtucket",
+      "address": "385 East Ave, Pawtucket, RI 02860, USA",
+      "street": "385 East Avenue",
+      "zip": "2860",
+      "coordinates": {
+        "lat": 41.868274,
+        "lng": -71.387423
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-luckys-hookah-world-former-blackstone-market/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24103",
+      "title": "Planet Aid - Sayfs Mini Mart",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Pawtucket",
+      "address": "1531 Newport Ave, Pawtucket, RI 02861, USA",
+      "street": "1531 Newport Avenue",
+      "zip": "2861",
+      "coordinates": {
+        "lat": 41.894662,
+        "lng": -71.353789
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-sayfs-mini-mart/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24263",
+      "title": "Planet Aid - Melville Elementary School",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1351 W Main Rd, Portsmouth, RI 02871, USA",
+      "street": "1351 West Main Road",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.582458,
+        "lng": -71.270157
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-melville-elementary-school/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24264",
+      "title": "Planet Aid - Portsmouth Middle School",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "125 Jepson Ln, Portsmouth, RI 02871, USA",
+      "street": "125 Jepson Lane",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.55518,
+        "lng": -71.285278
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-portsmouth-middle-school/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24265",
+      "title": "Planet Aid - St. Anthony's Church",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "2836 E Main Rd, Portsmouth, RI 02871, USA",
+      "street": "2836 East Main Road",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.60608,
+        "lng": -71.247702
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-st-anthonys-church/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24266",
+      "title": "Planet Aid - Tom's Lawn & Garden Equipment",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1055 E Main Rd, Portsmouth, RI 02871, USA",
+      "street": "1055 East Main Road",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.562679,
+        "lng": -71.252787
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-toms-lawn-garden-equipment/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24267",
+      "title": "Planet Aid - Transfer Station - Portsmouth",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "800 W Main Rd, Portsmouth, RI 02871, USA",
+      "street": "800 West Main Road",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.59429,
+        "lng": -71.263992
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-transfer-station-portsmouth/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24268",
+      "title": "Planet Aid - Valley Inn Restaurant",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "2221 W Main Rd, Portsmouth, RI 02871, USA",
+      "street": "2221 West Main Road",
+      "zip": "2871",
+      "coordinates": {
+        "lat": 41.5632,
+        "lng": -71.286202
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-valley-inn-restaurant/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24282",
+      "title": "Planet Aid - Central Meat Market",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Providence",
+      "address": "113 Gano St, Providence, RI 02906, USA",
+      "street": "113 Gano Street",
+      "zip": "2906",
+      "coordinates": {
+        "lat": 41.822328,
+        "lng": -71.389598
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-central-meat-market/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24283",
+      "title": "Planet Aid - Gulf Express - Providence",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Providence",
+      "address": "255 Reservoir Ave, Providence, RI 02907, USA",
+      "street": "255 Reservoir Avenue",
+      "zip": "2907",
+      "coordinates": {
+        "lat": 41.789864,
+        "lng": -71.429961
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-gulf-express-providence/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24284",
+      "title": "Planet Aid - K Khout",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Providence",
+      "address": "691 Valley St, Providence, RI 02908, USA",
+      "street": "691 Valley Street",
+      "zip": "2908",
+      "coordinates": {
+        "lat": 41.8311,
+        "lng": -71.428613
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-k-khout/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24285",
+      "title": "Planet Aid - New Way Church",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Providence",
+      "address": "14 Sherwood St, Providence, RI 02908, USA",
+      "street": "14 Sherwood Street",
+      "zip": "2908",
+      "coordinates": {
+        "lat": 41.849822,
+        "lng": -71.432594
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-new-way-church/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24286",
+      "title": "Planet Aid - Olney St. Baptist Church",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Providence",
+      "address": "100 Olney St, Providence, RI 02906, USA",
+      "street": "100 Olney Street",
+      "zip": "2906",
+      "coordinates": {
+        "lat": 41.836064,
+        "lng": -71.404832
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-olney-st-baptist-church/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24287",
+      "title": "Planet Aid - Three Ring Liquors",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Providence",
+      "address": "474 Plainfield St, Providence, RI 02909, USA",
+      "street": "474 Plainfield Street",
+      "zip": "2909",
+      "coordinates": {
+        "lat": 41.813171,
+        "lng": -71.454148
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-three-ring-liquors/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24330",
+      "title": "Planet Aid - Irving Station - Riverside",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1345 Wampanaog Trail, Riverside, RI 02915, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.7743,
+        "lng": -71.349697
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-irving-station-riverside/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24331",
+      "title": "Planet Aid - Lizotte Glass",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "400 Wampanoag Trl, Riverside, RI 02915, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.794162,
+        "lng": -71.348148
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-lizotte-glass/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24615",
+      "title": "Planet Aid - Transfer Station - Tiverton",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "304 Progress Way, Tiverton, RI 02878, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.642163,
+        "lng": -71.170429
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-transfer-station-tiverton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24702",
+      "title": "Planet Aid - George's Auto Repair",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1250 Kingstown Rd, Wakefield, RI 02879, USA",
+      "street": "Kingstown Road",
+      "zip": "2879",
+      "coordinates": {
+        "lat": 41.451173,
+        "lng": -71.500799
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-georges-auto-repair/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24728",
+      "title": "Planet Aid - Auto Spa - Warwick",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "2406 Post Rd, Warwick, RI 02886, USA",
+      "street": "2406 Post Road",
+      "zip": "2886",
+      "coordinates": {
+        "lat": 41.71688,
+        "lng": -71.44407
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-auto-spa-warwick/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24729",
+      "title": "Planet Aid - Bald Hill Rd Plaza",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "1500 Bald Hill Rd, Warwick, RI 02886, USA",
+      "street": "1500 Bald Hill Road",
+      "zip": "2886",
+      "coordinates": {
+        "lat": 41.69999,
+        "lng": -71.494887
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-bald-hill-rd-plaza/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24730",
+      "title": "Planet Aid - Harss Express - Warwick",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "2912 Warwick Ave, Warwick, RI 02889, USA",
+      "street": "2912 Warwick Avenue",
+      "zip": "2889",
+      "coordinates": {
+        "lat": 41.702565,
+        "lng": -71.386664
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-harss-express-warwick/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24731",
+      "title": "Planet Aid - Seven-Eleven - Warwick",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "2078 W Shore Rd, Warwick, RI 02889, USA",
+      "street": "2078 West Shore Road",
+      "zip": "2889",
+      "coordinates": {
+        "lat": 41.700501,
+        "lng": -71.398474
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-seven-eleven-warwick/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24732",
+      "title": "Planet Aid - Sunoco (Makalu LLC)",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "629 Bald Hill Rd, Warwick, RI 02886, USA",
+      "street": "629 Bald Hill Road",
+      "zip": "2886",
+      "coordinates": {
+        "lat": 41.720955,
+        "lng": -71.483936
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-sunoco-makalu-llc/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24733",
+      "title": "Planet Aid - Teamworks - Warwick",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Warwick",
+      "address": "170 Jefferson Blvd, Warwick, RI 02888, USA",
+      "street": "170 Jefferson Boulevard",
+      "zip": "2888",
+      "coordinates": {
+        "lat": 41.743839,
+        "lng": -71.43715
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-teamworks-warwick/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24780",
+      "title": "Planet Aid - Kingston Turf Farms",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "3720 S County Trl, West Kingston, RI 02892, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.473396,
+        "lng": -71.614183
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-kingston-turf-farms/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24803",
+      "title": "Planet Aid - Abdi Properties LLC",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "231 Washington St, West Warwick, RI 02893, USA",
+      "street": "231 Washington Street",
+      "zip": "2893",
+      "coordinates": {
+        "lat": 41.700927,
+        "lng": -71.528512
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-abdi-properties-llc/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24804",
+      "title": "Planet Aid - Arctic Laundry / Aloha Pizza",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "126 Roberts St, West Warwick, RI 02893, USA",
+      "street": "126 Roberts Street",
+      "zip": "2893",
+      "coordinates": {
+        "lat": 41.700757,
+        "lng": -71.527221
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-arctic-laundry-aloha-pizza/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24805",
+      "title": "Planet Aid - Bread n Stuff",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1669 Main St, West Warwick, RI 02893, USA",
+      "street": "1669 Main Street",
+      "zip": "2893",
+      "coordinates": {
+        "lat": 41.686688,
+        "lng": -71.523084
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-bread-n-stuff/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24806",
+      "title": "Planet Aid - Cowesett Wine",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "285 Cowesett Ave, West Warwick, RI 02893, USA",
+      "street": "285 Cowesett Avenue",
+      "zip": "2893",
+      "coordinates": {
+        "lat": 41.684575,
+        "lng": -71.506859
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-cowesett-wine/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24807",
+      "title": "Planet Aid - Islamic School of RI",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "840 Providence St, West Warwick, RI 02893, USA",
+      "street": "840 Providence Street",
+      "zip": "2893",
+      "coordinates": {
+        "lat": 41.724684,
+        "lng": -71.49194
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-islamic-school-of-ri/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24812",
+      "title": "Planet Aid - Blue Mitten",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "135 Main St, Westerly, RI 02891, USA",
+      "street": "135 Main Street",
+      "zip": "2891",
+      "coordinates": {
+        "lat": 41.373642,
+        "lng": -71.831474
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-blue-mitten/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24813",
+      "title": "Planet Aid - East Avenue Plaza",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "1 East Ave, Westerly, RI 02891, USA",
+      "street": "1 East Avenue",
+      "zip": "2891",
+      "coordinates": {
+        "lat": 41.367158,
+        "lng": -71.819563
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-east-avenue-plaza/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24814",
+      "title": "Planet Aid - Jonnycake Center - Westerly",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "23 Industrial Dr, Westerly, RI 02891, USA",
+      "street": "23 Industrial Drive",
+      "zip": "2891",
+      "coordinates": {
+        "lat": 41.383783,
+        "lng": -71.83001
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-jonnycake-center-westerly/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24815",
+      "title": "Planet Aid - Transfer Station - Westerly",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "39 Larry Hirsch Ln, Westerly, RI 02891, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 41.379524,
+        "lng": -71.803522
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-transfer-station-westerly/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24882",
+      "title": "Planet Aid - Ocean State Transit",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Unknown",
+      "address": "532 Switch Rd, Wood River Junction, RI 02894, USA",
+      "street": "532 Switch Road",
+      "zip": "2894",
+      "coordinates": {
+        "lat": 41.43853,
+        "lng": -71.693769
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-ocean-state-transit/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24889",
+      "title": "Planet Aid - Latinoâ€™s Deli Meat Market",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Woonsocket",
+      "address": "395 Front St, Woonsocket, RI 02895, USA",
+      "street": "395 Front Street",
+      "zip": "2895",
+      "coordinates": {
+        "lat": 41.997937,
+        "lng": -71.513934
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-latinoaes-deli-meat-market/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24890",
+      "title": "Planet Aid - Pretty Cares Inc.",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Woonsocket",
+      "address": "455 Carrington Ave, Woonsocket, RI 02895, USA",
+      "street": "455, 457 Carrington Avenue",
+      "zip": "2895",
+      "coordinates": {
+        "lat": 42.000631,
+        "lng": -71.501249
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-pretty-cares-inc/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24891",
+      "title": "Planet Aid - Quick Mart - DHR",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Woonsocket",
+      "address": "814 Diamond Hill Rd, Woonsocket, RI 02895, USA",
+      "street": "814 Diamond Hill Road",
+      "zip": "2895",
+      "coordinates": {
+        "lat": 42.015801,
+        "lng": -71.49133
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-quick-mart-dhr/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "24892",
+      "title": "Planet Aid - RJ's Hill Liquors",
+      "company": "Planet Aid",
+      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
+      "state": "Rhode Island",
+      "stateSlug": "rhode-island",
+      "city": "Woonsocket",
+      "address": "820 Cumberland Hill Rd, Woonsocket, RI 02895, USA",
+      "street": "820 Cumberland Hill Road",
+      "zip": "2895",
+      "coordinates": {
+        "lat": 41.995343,
+        "lng": -71.487771
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "planet-aid.jpg",
+      "permalink": "https://www.clothedonations.com/rhode-island/planet-aid-rjs-hill-liquors/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

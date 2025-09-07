@@ -1,0 +1,127 @@
+{
+  "name": "Vermont",
+  "slug": "vermont",
+  "locations": [
+    {
+      "id": "18695",
+      "title": "Salvation Army - Rutland",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Vermont",
+      "stateSlug": "vermont",
+      "city": "Rutland City",
+      "address": "1 Field Ave, Rutland, VT 05701, USA",
+      "street": "1 Field Avenue",
+      "zip": "5702",
+      "coordinates": {
+        "lat": 43.626569,
+        "lng": -72.97627
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/vermont/salvation-army-rutland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19663",
+      "title": "Goodwill - Bennington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Vermont",
+      "stateSlug": "vermont",
+      "city": "Unknown",
+      "address": "215 North St, Bennington, VT 05201, USA",
+      "street": "215 North Street",
+      "zip": "5201",
+      "coordinates": {
+        "lat": 42.882224,
+        "lng": -73.196266
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/vermont/goodwill-bennington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21419",
+      "title": "Goodwill - Rutland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Vermont",
+      "stateSlug": "vermont",
+      "city": "Rutland City",
+      "address": "230 N Main St, Rutland, VT 05701, USA",
+      "street": "230 North Main Street",
+      "zip": "5701",
+      "coordinates": {
+        "lat": 43.625133,
+        "lng": -72.97496
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/vermont/goodwill-rutland/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21511",
+      "title": "Goodwill - South Burlington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Vermont",
+      "stateSlug": "vermont",
+      "city": "Unknown",
+      "address": "1080 Shelburne Rd, South Burlington, VT 05403, USA",
+      "street": "1080 Shelburne Road",
+      "zip": "5403",
+      "coordinates": {
+        "lat": 44.43904,
+        "lng": -73.209543
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/vermont/goodwill-south-burlington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21777",
+      "title": "Goodwill - Williston",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Vermont",
+      "stateSlug": "vermont",
+      "city": "Unknown",
+      "address": "64 Harvest Ln, Williston, VT 05495, USA",
+      "street": "64 Harvest Lane",
+      "zip": "5495",
+      "coordinates": {
+        "lat": 44.451551,
+        "lng": -73.118846
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/vermont/goodwill-williston/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

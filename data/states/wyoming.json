@@ -1,0 +1,154 @@
+{
+  "name": "Wyoming",
+  "slug": "wyoming",
+  "locations": [
+    {
+      "id": "17799",
+      "title": "Salvation Army - Casper",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wyoming",
+      "stateSlug": "wyoming",
+      "city": "Casper",
+      "address": "1260 E Yellowstone Hwy, Casper, WY 82601, USA",
+      "street": "1260 East Yellowstone Highway",
+      "zip": "82601",
+      "coordinates": {
+        "lat": 42.853156,
+        "lng": -106.307961
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wyoming/salvation-army-casper/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17826",
+      "title": "Salvation Army - Cheyenne",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wyoming",
+      "stateSlug": "wyoming",
+      "city": "Cheyenne",
+      "address": "1401 E Lincolnway, Cheyenne, WY 82001, USA",
+      "street": "1401 East Lincolnway",
+      "zip": "82001",
+      "coordinates": {
+        "lat": 41.136234,
+        "lng": -104.797841
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wyoming/salvation-army-cheyenne/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18262",
+      "title": "Salvation Army - Laramie",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wyoming",
+      "stateSlug": "wyoming",
+      "city": "Laramie",
+      "address": "100 S 2nd St, Laramie, WY 82070, USA",
+      "street": "100 South 2nd Street",
+      "zip": "82071",
+      "coordinates": {
+        "lat": 41.312877,
+        "lng": -105.595095
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wyoming/salvation-army-laramie/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18807",
+      "title": "Salvation Army - Sheridan",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wyoming",
+      "stateSlug": "wyoming",
+      "city": "Sheridan",
+      "address": "956 Coffeen Ave, Sheridan, WY 82801, USA",
+      "street": "956 Coffeen Avenue",
+      "zip": "82801",
+      "coordinates": {
+        "lat": 44.786864,
+        "lng": -106.945294
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/wyoming/salvation-army-sheridan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19873",
+      "title": "Goodwill - Cheyenne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wyoming",
+      "stateSlug": "wyoming",
+      "city": "Cheyenne",
+      "address": "2131 Mason Way, Cheyenne, WY 82009, USA",
+      "street": "2131 Mason Way",
+      "zip": "82001",
+      "coordinates": {
+        "lat": 41.161553,
+        "lng": -104.787739
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wyoming/goodwill-cheyenne/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19874",
+      "title": "Goodwill - Cheyenne",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Wyoming",
+      "stateSlug": "wyoming",
+      "city": "Cheyenne",
+      "address": "3301 Nationway, Cheyenne, WY 82001, USA",
+      "street": "3301 Nationway",
+      "zip": "82001",
+      "coordinates": {
+        "lat": 41.135503,
+        "lng": -104.770098
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/wyoming/goodwill-cheyenne-2/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

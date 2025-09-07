@@ -1,0 +1,470 @@
+{
+  "name": "South Dakota",
+  "slug": "south-dakota",
+  "locations": [
+    {
+      "id": "17444",
+      "title": "Savers - Sioux Falls",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Sioux Falls",
+      "address": "4008 S Shirley Ave, Sioux Falls, SD 57106, USA",
+      "street": "South Shirley Avenue",
+      "zip": "57106",
+      "coordinates": {
+        "lat": 43.516816,
+        "lng": -96.775249
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/savers-sioux-falls/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17597",
+      "title": "Salvation Army - Aberdeen",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Aberdeen",
+      "address": "1025 6th Ave SW, Aberdeen, SD 57401, USA",
+      "street": "1025 6th Avenue Southwest",
+      "zip": "57401",
+      "coordinates": {
+        "lat": 45.459131,
+        "lng": -98.503523
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/salvation-army-aberdeen/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18197",
+      "title": "Salvation Army - Huron",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Huron",
+      "address": "237 Illinois Ave SW, Huron, SD 57350, USA",
+      "street": "237 Illinois Avenue Southwest",
+      "zip": "57350",
+      "coordinates": {
+        "lat": 44.363929,
+        "lng": -98.217838
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/salvation-army-huron/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18408",
+      "title": "Salvation Army - Mitchell",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Mitchell",
+      "address": "724 N Sanborn Blvd, Mitchell, SD 57301, USA",
+      "street": "724 North Sanborn Boulevard",
+      "zip": "57301",
+      "coordinates": {
+        "lat": 43.716232,
+        "lng": -98.029174
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/salvation-army-mitchell/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18639",
+      "title": "Salvation Army - Rapid City",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Rapid City",
+      "address": "621 E Saint Patrick St, Rapid City, SD 57701, USA",
+      "street": "621 East Saint Patrick Street",
+      "zip": "57701",
+      "coordinates": {
+        "lat": 44.067014,
+        "lng": -103.205129
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/salvation-army-rapid-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18825",
+      "title": "Salvation Army - Spearfish",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Spearfish",
+      "address": "320 Ryan Rd, Spearfish, SD 57783, USA",
+      "street": "320 Ryan Road",
+      "zip": "57783",
+      "coordinates": {
+        "lat": 44.501232,
+        "lng": -103.857053
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/salvation-army-spearfish/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18943",
+      "title": "Salvation Army - Watertown",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Watertown",
+      "address": "621 4th St SE, Watertown, SD 57201, USA",
+      "street": "621 4th Street Southeast",
+      "zip": "57201",
+      "coordinates": {
+        "lat": 44.891595,
+        "lng": -97.111724
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/salvation-army-watertown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19430",
+      "title": "Goodwill - Aberdeen",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Unknown",
+      "address": "Co Hwy 19, Aberdeen, SD 57401, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 45.44461,
+        "lng": -98.43552
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-aberdeen-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19740",
+      "title": "Goodwill - Brookings",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Brookings",
+      "address": "625 Main Ave, Brookings, SD 57006, USA",
+      "street": "625 Main Avenue",
+      "zip": "57006",
+      "coordinates": {
+        "lat": 44.312685,
+        "lng": -96.799224
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-brookings-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20923",
+      "title": "Goodwill - Mitchell",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Mitchell",
+      "address": "1415 W Havens Ave, Mitchell, SD 57301, USA",
+      "street": "1415 West Havens Avenue",
+      "zip": "57301",
+      "coordinates": {
+        "lat": 43.701084,
+        "lng": -98.044047
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-mitchell/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21260",
+      "title": "Goodwill - Pierre",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Unknown",
+      "address": "1902 Eastgate Ave, Pierre, SD 57501, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 44.384311,
+        "lng": -100.315148
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-pierre/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21330",
+      "title": "Goodwill - Rapid City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Rapid City",
+      "address": "611 Lindbergh Ave, Rapid City, SD 57701, USA",
+      "street": "611 Lindbergh Avenue",
+      "zip": "57701",
+      "coordinates": {
+        "lat": 44.09967,
+        "lng": -103.22442
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-rapid-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21331",
+      "title": "Goodwill - Rapid City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Rapid City",
+      "address": "611 Timmons Blvd, Rapid City, SD 57703, USA",
+      "street": "Timmons Boulevard",
+      "zip": "57703",
+      "coordinates": {
+        "lat": 44.076274,
+        "lng": -103.149991
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-rapid-city-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21493",
+      "title": "Goodwill - Sioux Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Sioux Falls",
+      "address": "120 N Kiwanis Ave, Sioux Falls, SD 57104, USA",
+      "street": "120 North Kiwanis Avenue",
+      "zip": "57104",
+      "coordinates": {
+        "lat": 43.548363,
+        "lng": -96.760022
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-sioux-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21494",
+      "title": "Goodwill - Sioux Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Sioux Falls",
+      "address": "3400 S Norton Ave, Sioux Falls, SD 57105, USA",
+      "street": "3400 South Norton Avenue",
+      "zip": "57197",
+      "coordinates": {
+        "lat": 43.513666,
+        "lng": -96.73443
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-sioux-falls-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21495",
+      "title": "Goodwill - Sioux Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Sioux Falls",
+      "address": "4701 E 41st St, Sioux Falls, SD 57110, USA",
+      "street": "4701 East 41st Street",
+      "zip": "57110",
+      "coordinates": {
+        "lat": 43.514227,
+        "lng": -96.66874
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-sioux-falls-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21697",
+      "title": "Goodwill - Watertown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Watertown",
+      "address": "2318 9th Ave SE, Watertown, SD 57201, USA",
+      "street": "2318 9th Avenue Southeast",
+      "zip": "57201",
+      "coordinates": {
+        "lat": 44.88938,
+        "lng": -97.076906
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-watertown/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21822",
+      "title": "Goodwill - Yankton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Yankton",
+      "address": "2508 Fox Run Pkwy, Yankton, SD 57078, USA",
+      "street": "2508 Fox Run Parkway",
+      "zip": "57078",
+      "coordinates": {
+        "lat": 42.899858,
+        "lng": -97.398556
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/goodwill-yankton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22180",
+      "title": "St Vincent De Paul - Spearfish",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "South Dakota",
+      "stateSlug": "south-dakota",
+      "city": "Spearfish",
+      "address": "137 E Illinois St, Spearfish, SD 57783, USA",
+      "street": "137 East Illinois Street",
+      "zip": "57783",
+      "coordinates": {
+        "lat": 44.489954,
+        "lng": -103.857746
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/south-dakota/st-vincent-de-paul-spearfish/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

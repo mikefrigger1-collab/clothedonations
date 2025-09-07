@@ -1,0 +1,1225 @@
+{
+  "name": "Idaho",
+  "slug": "idaho",
+  "locations": [
+    {
+      "id": "15602",
+      "title": "Idaho Youth Ranch - Boise",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "10448 W Overland Rd, Boise, ID 83709, USA",
+      "street": "10448 West Overland Road",
+      "zip": "83709",
+      "coordinates": {
+        "lat": 43.591765,
+        "lng": -116.312097
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-boise/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15603",
+      "title": "Idaho Youth Ranch - Boise",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "10485 W Fairview Ave, Boise, ID 83704, USA",
+      "street": "10485 West Fairview Avenue",
+      "zip": "83704",
+      "coordinates": {
+        "lat": 43.618303,
+        "lng": -116.312377
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-boise-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15604",
+      "title": "Idaho Youth Ranch - Boise",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "1417 Main St, Boise, ID 83702, USA",
+      "street": "West University Drive",
+      "zip": "83725",
+      "coordinates": {
+        "lat": 43.619453,
+        "lng": -116.21169
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-boise-3/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15605",
+      "title": "Idaho Youth Ranch - Boise",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "2141 Broadway Ave, Boise, ID 83706, USA",
+      "street": "2141 South Broadway Avenue",
+      "zip": "83706",
+      "coordinates": {
+        "lat": 43.584999,
+        "lng": -116.194501
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-boise-4/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15606",
+      "title": "Idaho Youth Ranch - Boise",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "250 N Orchard St, Boise, ID 83706, USA",
+      "street": "250 North Orchard Street",
+      "zip": "83706",
+      "coordinates": {
+        "lat": 43.606859,
+        "lng": -116.242607
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-boise-5/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15607",
+      "title": "Idaho Youth Ranch - Boise",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "5465 W Irving St #100, Boise, ID 83706, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.614807,
+        "lng": -116.249
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-boise-6/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15608",
+      "title": "Idaho Youth Ranch - Burley",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "1324 Albion Ave, Burley, ID 83318, USA",
+      "street": "1324 Albion Avenue",
+      "zip": "83318",
+      "coordinates": {
+        "lat": 42.536328,
+        "lng": -113.792373
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-burley/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15609",
+      "title": "Idaho Youth Ranch - Caldwell",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "2804 Cleveland Blvd, Caldwell, ID 83605, USA",
+      "street": "2804 Cleveland Boulevard",
+      "zip": "83605",
+      "coordinates": {
+        "lat": 43.649219,
+        "lng": -116.668466
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-caldwell/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15610",
+      "title": "Idaho Youth Ranch - Coeur d'Alene",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Coeur d'Alene",
+      "address": "845 N 4th St, Coeur d'Alene, ID 83814, USA",
+      "street": "845 North 4th Street",
+      "zip": "83814",
+      "coordinates": {
+        "lat": 47.681551,
+        "lng": -116.781282
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-coeur-dalene/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15611",
+      "title": "Idaho Youth Ranch - Eagle",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "300 W State St, Eagle, ID 83616, USA",
+      "street": "300 West State Street",
+      "zip": "83616",
+      "coordinates": {
+        "lat": 43.696041,
+        "lng": -116.357626
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-eagle/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15612",
+      "title": "Idaho Youth Ranch - Idaho Falls",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Idaho Falls",
+      "address": "255 N Woodruff Ave, Idaho Falls, ID 83401, USA",
+      "street": "255 North Woodruff Avenue",
+      "zip": "83401",
+      "coordinates": {
+        "lat": 43.498181,
+        "lng": -112.002137
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-idaho-falls/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15613",
+      "title": "Idaho Youth Ranch - Jerome",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "233 E Main St, Jerome, ID 83338, USA",
+      "street": "233 East Main Street",
+      "zip": "83338",
+      "coordinates": {
+        "lat": 42.723766,
+        "lng": -114.51559
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-jerome/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15614",
+      "title": "Idaho Youth Ranch - Lewiston",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Lewiston",
+      "address": "432 Thain Rd, Lewiston, ID 83501, USA",
+      "street": "432 Thain Road",
+      "zip": "83501",
+      "coordinates": {
+        "lat": 46.378172,
+        "lng": -116.973476
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-lewiston/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15615",
+      "title": "Idaho Youth Ranch - Meridian",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "231 N Main St, Meridian, ID 83642, USA",
+      "street": "231 North Main Street",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.605878,
+        "lng": -116.392792
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-meridian/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15616",
+      "title": "Idaho Youth Ranch - Middleton",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "228 E Main St, Middleton, ID 83644, USA",
+      "street": "228 East Main Street",
+      "zip": "83644",
+      "coordinates": {
+        "lat": 43.705627,
+        "lng": -116.620513
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-middleton/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15617",
+      "title": "Idaho Youth Ranch - Mountain Home",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "385 N 2nd E St, Mountain Home, ID 83647, USA",
+      "street": "385 North 2nd East Street",
+      "zip": "83647",
+      "coordinates": {
+        "lat": 43.133448,
+        "lng": -115.695414
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-mountain-home/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15618",
+      "title": "Idaho Youth Ranch - Nampa",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Nampa",
+      "address": "1031 Caldwell Blvd, Nampa, ID 83651, USA",
+      "street": "1031 Caldwell Boulevard",
+      "zip": "83651",
+      "coordinates": {
+        "lat": 43.598834,
+        "lng": -116.59488
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-nampa/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15619",
+      "title": "Idaho Youth Ranch - Nampa",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Nampa",
+      "address": "5520 E Franklin Rd, Nampa, ID 83687, USA",
+      "street": "5520 East Franklin Road",
+      "zip": "83687",
+      "coordinates": {
+        "lat": 43.605673,
+        "lng": -116.503832
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-nampa-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15620",
+      "title": "Idaho Youth Ranch - Ontario",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "2588 SW 4th Ave, Ontario, OR 97914, USA",
+      "street": "2588 Southwest 4th Avenue",
+      "zip": "97914",
+      "coordinates": {
+        "lat": 44.024325,
+        "lng": -117.000939
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-ontario/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15621",
+      "title": "Idaho Youth Ranch - Payette",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "33 N Main St, Payette, ID 83661, USA",
+      "street": "33 North Main Street",
+      "zip": "83661",
+      "coordinates": {
+        "lat": 44.07575,
+        "lng": -116.935245
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-payette/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15622",
+      "title": "Idaho Youth Ranch - Pocatello",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Pocatello",
+      "address": "720 Yellowstone Ave, Pocatello, ID 83201, USA",
+      "street": "720 Yellowstone Avenue",
+      "zip": "83201",
+      "coordinates": {
+        "lat": 42.888241,
+        "lng": -112.449354
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-pocatello/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15623",
+      "title": "Idaho Youth Ranch - Post Falls",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "1600 W Seltice Way, Post Falls, ID 83854, USA",
+      "street": "1600 West Seltice Way",
+      "zip": "83854",
+      "coordinates": {
+        "lat": 47.715798,
+        "lng": -116.967186
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-post-falls/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15624",
+      "title": "Idaho Youth Ranch - Post Falls",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "6240 E Commerce Loop, Post Falls, ID 83854, USA",
+      "street": "6240 East Commerce Loop",
+      "zip": "83854",
+      "coordinates": {
+        "lat": 47.702849,
+        "lng": -116.864223
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-post-falls-2/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "15625",
+      "title": "Idaho Youth Ranch - Rupert",
+      "company": "Idaho Youth Ranch",
+      "description": "Idaho Youth Ranch is a non-profit agency that seeks to aid struggling children and their families, with over 400 Idaho residents staffing their stores.\n\nTheir thrift shops accept donation such as appliances, media, clothing, accessories, electronics, and furniture. If you're not sure whether they can accept your donation, please give them a call beforehand",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "506 E St, Rupert, ID 83350, USA",
+      "street": "E Street",
+      "zip": "83350",
+      "coordinates": {
+        "lat": 42.616731,
+        "lng": -113.673111
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "idaho-youth-ranch.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/idaho-youth-ranch-rupert/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "18524",
+      "title": "Salvation Army - Ontario",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "1293 SW 4th Ave, Ontario, OR 97914, USA",
+      "street": "1293 Southwest 4th Avenue",
+      "zip": "97914",
+      "coordinates": {
+        "lat": 44.025132,
+        "lng": -116.984223
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/salvation-army-ontario/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19274",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19275",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19276",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19277",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19278",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19279",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19280",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19281",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19282",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19283",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19284",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19285",
+      "title": "Dress for Success - Boise Valley",
+      "company": "Dress for Success",
+      "description": "Dress for Success is a global nonprofit organization dedicated to empowering women to achieve economic independence by providing them with professional attire, support, and development tools. Donations of gently used professional clothing are collected and distributed to women seeking to enter or reenter the workforce. These donated clothes are carefully selected to help clients present themselves confidently during job interviews and in the workplace, reflecting professionalism and competence.\n\nIn addition to offering business attire, Dress for Success provides career development programs, mentoring, and networking opportunities. The organization’s goal is to address both the immediate need for proper work attire and the long-term success of women by equipping them with the skills and confidence necessary to thrive in their careers. By offering clothing donations alongside holistic career support, Dress for Success helps women gain financial independence and empowers them to break free from cycles of poverty.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "2760 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.627376,
+        "lng": -116.362007
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "dress-for-success.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/dress-for-success-boise-valley-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19692",
+      "title": "Goodwill - Boise",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "1465 S Vinnell Way, Boise, ID 83709, USA",
+      "street": "1465 South Vinnell Way",
+      "zip": "83709",
+      "coordinates": {
+        "lat": 43.591317,
+        "lng": -116.287581
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/goodwill-boise/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19693",
+      "title": "Goodwill - Boise",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "7000 W State St, Boise, ID 83714, USA",
+      "street": "7000 West State Street",
+      "zip": "83714",
+      "coordinates": {
+        "lat": 43.66741,
+        "lng": -116.275677
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/goodwill-boise-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20474",
+      "title": "Goodwill - Idaho Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Idaho Falls",
+      "address": "540 E 17th St, Idaho Falls, ID 83404, USA",
+      "street": "540 East 17th Street",
+      "zip": "83404",
+      "coordinates": {
+        "lat": 43.481263,
+        "lng": -112.022877
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/goodwill-idaho-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20846",
+      "title": "Goodwill - Meridian",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "1375 E Fairview Ave, Meridian, ID 83642, USA",
+      "street": "1375 East Fairview Avenue",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.618598,
+        "lng": -116.376803
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/goodwill-meridian/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21001",
+      "title": "Goodwill - Nampa",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Nampa",
+      "address": "1105 Caldwell Blvd, Nampa, ID 83651, USA",
+      "street": "1105 Caldwell Boulevard",
+      "zip": "83651",
+      "coordinates": {
+        "lat": 43.599197,
+        "lng": -116.595244
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/goodwill-nampa/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21291",
+      "title": "Goodwill - Pocatello",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Pocatello",
+      "address": "1570 Yellowstone Ave, Pocatello, ID 83201, USA",
+      "street": "1570 Yellowstone Avenue",
+      "zip": "83201",
+      "coordinates": {
+        "lat": 42.904248,
+        "lng": -112.450742
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/goodwill-pocatello/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21645",
+      "title": "Goodwill - Twin Falls",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Twin Falls",
+      "address": "870 Blue Lakes Blvd N, Twin Falls, ID 83301, USA",
+      "street": "870 Blue Lakes Boulevard North",
+      "zip": "83301",
+      "coordinates": {
+        "lat": 42.577222,
+        "lng": -114.458354
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/goodwill-twin-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21902",
+      "title": "St Vincent De Paul - Boise",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "2160 Broadway Ave, Boise, ID 83706, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 43.585246,
+        "lng": -116.192689
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/st-vincent-de-paul-boise/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21903",
+      "title": "St Vincent De Paul - Boise",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "251 N Orchard St, Boise, ID 83706, USA",
+      "street": "251 North Orchard Street",
+      "zip": "83706",
+      "coordinates": {
+        "lat": 43.606672,
+        "lng": -116.243979
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/st-vincent-de-paul-boise-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21904",
+      "title": "St Vincent De Paul - Boise",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Boise",
+      "address": "6464 W State St, Boise, ID 83714, USA",
+      "street": "6464 West State Street",
+      "zip": "83714",
+      "coordinates": {
+        "lat": 43.662823,
+        "lng": -116.269102
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/st-vincent-de-paul-boise-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21937",
+      "title": "St Vincent De Paul - Caldwell",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Unknown",
+      "address": "3719 Cleveland Blvd, Caldwell, ID 83605, USA",
+      "street": "3719 Cleveland Boulevard",
+      "zip": "83605",
+      "coordinates": {
+        "lat": 43.642995,
+        "lng": -116.657528
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/st-vincent-de-paul-caldwell/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22110",
+      "title": "St Vincent De Paul - Meridian",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Meridian",
+      "address": "213 N Main St, Meridian, ID 83642, USA",
+      "street": "213 North Main Street",
+      "zip": "83642",
+      "coordinates": {
+        "lat": 43.605449,
+        "lng": -116.392459
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/st-vincent-de-paul-meridian/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "22121",
+      "title": "St Vincent De Paul - Nampa",
+      "company": "St Vincent De Paul",
+      "description": "St Vincent de Paul offers material and spiritual aid to households and individuals in need. Its outreach activities extend to disaster relief, as well as visits to elder care facilities, hospitals, and prisons.\n\nDonations accepted include clothing, shoes, non-perishable food, houseware, toys, school supplies, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Idaho",
+      "stateSlug": "idaho",
+      "city": "Nampa",
+      "address": "1403 2nd St S, Nampa, ID 83651, USA",
+      "street": "1403 2nd Street South",
+      "zip": "83651",
+      "coordinates": {
+        "lat": 43.576355,
+        "lng": -116.558699
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/idaho/st-vincent-de-paul-nampa/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}

@@ -1,0 +1,3590 @@
+{
+  "name": "Virginia",
+  "slug": "virginia",
+  "locations": [
+    {
+      "id": "17294",
+      "title": "Savers - Fairfax",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "4618 West Ox Rd, Fairfax, VA 22030, USA",
+      "street": "4618 West Ox Road",
+      "zip": "22030",
+      "coordinates": {
+        "lat": 38.852885,
+        "lng": -77.376621
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/savers-fairfax/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17295",
+      "title": "Savers - Falls Church",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "2956 Gallows Rd, Fairfax, VA 22031, USA",
+      "street": "2956 Gallows Road",
+      "zip": "22031",
+      "coordinates": {
+        "lat": 38.870899,
+        "lng": -77.228973
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/savers-falls-church/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17369",
+      "title": "Savers - Lorton",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "9850 Furnace Rd, Lorton, VA 22079, USA",
+      "street": "9850 Furnace Road",
+      "zip": "22079",
+      "coordinates": {
+        "lat": 38.696009,
+        "lng": -77.241398
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/savers-lorton/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17375",
+      "title": "Savers - Manassas",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Manassas",
+      "address": "14811 Dumfries Rd, Manassas, VA 20112, USA",
+      "street": "Dumfries Road",
+      "zip": "22110",
+      "coordinates": {
+        "lat": 38.634654,
+        "lng": -77.428528
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/savers-manassas/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17490",
+      "title": "Savers - Woodbridge",
+      "company": "Savers",
+      "description": "Savers is a chain of for-profit thrift stores accepting and reselling donated items from non-profit organizations. They also work with waste management companies for responsible disposal of items that cannot be recycled.\n\nThey accept a wide range of donations including garments, accessories, shoes, sports equipment, textiles, appliances, toys, games, houseware, jewelry, media, small furniture, and more.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "14427 Potomac Mills Rd, Woodbridge, VA 22192, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.636167,
+        "lng": -77.294895
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Books",
+        "Clothing",
+        "Furniture",
+        "Homewares",
+        "Toys"
+      ],
+      "logo": "savers.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/savers-woodbridge/",
+      "lastUpdated": "6/10/2024"
+    },
+    {
+      "id": "17824",
+      "title": "Salvation Army - Chesapeake",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Chesapeake",
+      "address": "901 Eden Way N, Chesapeake, VA 23320, USA",
+      "street": "901 Eden Way North",
+      "zip": "23320",
+      "coordinates": {
+        "lat": 36.774714,
+        "lng": -76.228449
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-chesapeake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "17825",
+      "title": "Salvation Army - Chesterfield",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "6851 Courthouse Rd, Chesterfield, VA 23832, USA",
+      "street": "6851 Courthouse Road",
+      "zip": "23832",
+      "coordinates": {
+        "lat": 37.405808,
+        "lng": -77.560754
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-chesterfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18036",
+      "title": "Salvation Army - Fort Washington",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "11700 Old Fort Rd, Fort Washington, MD 20744, USA",
+      "street": "11700 Old Fort Road",
+      "zip": "20744",
+      "coordinates": {
+        "lat": 38.729089,
+        "lng": -76.977223
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-fort-washington/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18121",
+      "title": "Salvation Army - Hampton",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Hampton",
+      "address": "1033 Big Bethel Rd, Hampton, VA 23666, USA",
+      "street": "1033 Big Bethel Road",
+      "zip": "23666",
+      "coordinates": {
+        "lat": 37.049373,
+        "lng": -76.430154
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-hampton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18137",
+      "title": "Salvation Army - Henrico",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "8701 Hungary Spring Rd, Henrico, VA 23228, USA",
+      "street": "8701 Hungary Spring Road",
+      "zip": "23228",
+      "coordinates": {
+        "lat": 37.636732,
+        "lng": -77.517584
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-henrico/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18224",
+      "title": "Salvation Army - Savage",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "10350 Guilford Rd, Jessup, MD 20794, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.142314,
+        "lng": -76.809293
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-savage/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18387",
+      "title": "Salvation Army - Midlothian",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "3001 Polo Pkwy, Midlothian, VA 23113, USA",
+      "street": "3001 Polo Parkway",
+      "zip": "23113",
+      "coordinates": {
+        "lat": 37.525909,
+        "lng": -77.608682
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-midlothian/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18388",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "14111 Sovereign Grace Dr, Midlothian, VA 23114, USA",
+      "street": "14111 Sovereign Grace Drive",
+      "zip": "23114",
+      "coordinates": {
+        "lat": 37.496497,
+        "lng": -77.663351
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18475",
+      "title": "Salvation Army - Norfolk",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Norfolk",
+      "address": "2340 E Little Creek Rd, Norfolk, VA 23518, USA",
+      "street": "2340 East Little Creek Road",
+      "zip": "23518",
+      "coordinates": {
+        "lat": 36.916142,
+        "lng": -76.218148
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-norfolk-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18621",
+      "title": "Salvation Army - PortSmith",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Portsmouth",
+      "address": "2306 Airline Blvd, Portsmouth, VA 23701, USA",
+      "street": "2306 Airline Boulevard",
+      "zip": "23701",
+      "coordinates": {
+        "lat": 36.818538,
+        "lng": -76.354111
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-portsmith/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18651",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "11000 Midlothian Turnpike, Richmond, VA 23235, USA",
+      "street": "Midlothian Turnpike",
+      "zip": "23225",
+      "coordinates": {
+        "lat": 37.506857,
+        "lng": -77.599998
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18652",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "1415 W Cary St, Richmond, VA 23220, USA",
+      "street": "1415 West Cary Street",
+      "zip": "23220",
+      "coordinates": {
+        "lat": 37.545197,
+        "lng": -77.459889
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18653",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1701 Turner Rd, Richmond, VA 23225, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.480439,
+        "lng": -77.527641
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18654",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "2601 Hermitage Rd, Richmond, VA 23220, USA",
+      "street": "2601 Hermitage Road",
+      "zip": "23220",
+      "coordinates": {
+        "lat": 37.567144,
+        "lng": -77.45971
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18655",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "2709 Monument Ave, Richmond, VA 23220, USA",
+      "street": "2709 Monument Avenue",
+      "zip": "23220",
+      "coordinates": {
+        "lat": 37.5595,
+        "lng": -77.471011
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18656",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "410 W Brookland Park Blvd, Richmond, VA 23222, USA",
+      "street": "410 West Brookland Park Boulevard",
+      "zip": "23222",
+      "coordinates": {
+        "lat": 37.572014,
+        "lng": -77.438329
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18657",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "5327 Orcutt Ln, Richmond, VA 23224, USA",
+      "street": "5327 Orcutt Lane",
+      "zip": "23224",
+      "coordinates": {
+        "lat": 37.48039,
+        "lng": -77.491482
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18658",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "6930 Hopkins Rd, Richmond, VA 23234, USA",
+      "street": "Hopkins Road",
+      "zip": "23234",
+      "coordinates": {
+        "lat": 37.425347,
+        "lng": -77.471542
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18659",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "7000 Tim Price Way, Richmond, VA 23225, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.498806,
+        "lng": -77.528263
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18660",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "7401 Elkhardt Rd, Richmond, VA 23225, USA",
+      "street": "Elkhardt Road",
+      "zip": "23225",
+      "coordinates": {
+        "lat": 37.484631,
+        "lng": -77.530382
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18661",
+      "title": "Salvation Army - Richmond",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "7494 W Broad St, Richmond, VA 23294, USA",
+      "street": "West Broad Street",
+      "zip": "23230",
+      "coordinates": {
+        "lat": 37.617304,
+        "lng": -77.522284
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-richmond-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18927",
+      "title": "Salvation Army - Virginia Beach",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "1136 Lynnhaven Pkwy, Virginia Beach, VA 23452, USA",
+      "street": "1136 Lynnhaven Parkway",
+      "zip": "23452",
+      "coordinates": {
+        "lat": 36.801565,
+        "lng": -76.08406
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-virginia-beach/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18928",
+      "title": "Salvation Army - Virginia Beach",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "5524 Virginia Beach Blvd, Virginia Beach, VA 23462, USA",
+      "street": "5524 Virginia Beach Boulevard",
+      "zip": "23462",
+      "coordinates": {
+        "lat": 36.852907,
+        "lng": -76.172763
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-virginia-beach-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18934",
+      "title": "Salvation Army - Waldorf",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "12025 Trade Zone Ct, Waldorf, MD 20601, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.637646,
+        "lng": -76.893804
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-waldorf/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "18982",
+      "title": "Salvation Army - Woodbridge",
+      "company": "Salvation Army",
+      "description": "The Salvation Army was founded in London in 1865. Since then it has grown into a global charitable organization, currently serving in 130 countries.\n\nFinancial donations are more than welcome, but they also accept goods such as clothing, houseware, home appliances, furniture, and others. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "13287 Gordon Blvd, Woodbridge, VA 22191, USA",
+      "street": "13287 Gordon Boulevard",
+      "zip": "22191",
+      "coordinates": {
+        "lat": 38.66423,
+        "lng": -77.24779
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "salvation-army.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/salvation-army-woodbridge-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19024",
+      "title": "Greendrop - Alexandria",
+      "company": "Greendrop",
+      "description": "Greendrop is a charitable organization that collects donated items and distributes them to various other charitable organisations.\n\nAccepted donations include clothing, shoes, household items, kitchenware, toys, appliances, electronics, sporting goods, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Alexandria",
+      "address": "7210 Richmond Hwy, Alexandria, VA 22306, USA",
+      "street": "Richmond Highway",
+      "zip": "23242",
+      "coordinates": {
+        "lat": 38.760793,
+        "lng": -77.084439
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Homewares",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "greendrop.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/greendrop-alexandria/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19028",
+      "title": "Greendrop - Centreville",
+      "company": "Greendrop",
+      "description": "Greendrop is a charitable organization that collects donated items and distributes them to various other charitable organisations.\n\nAccepted donations include clothing, shoes, household items, kitchenware, toys, appliances, electronics, sporting goods, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "6317 Multiplex Dr, Centreville, VA 20121, USA",
+      "street": "6317 Multiplex Drive",
+      "zip": "20121",
+      "coordinates": {
+        "lat": 38.828188,
+        "lng": -77.438083
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Homewares",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "greendrop.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/greendrop-centreville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19048",
+      "title": "Greendrop - Springfield",
+      "company": "Greendrop",
+      "description": "Greendrop is a charitable organization that collects donated items and distributes them to various other charitable organisations.\n\nAccepted donations include clothing, shoes, household items, kitchenware, toys, appliances, electronics, sporting goods, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "8094 Rolling Rd, Springfield, VA 22153, USA",
+      "street": "8094 Rolling Road",
+      "zip": "22153",
+      "coordinates": {
+        "lat": 38.739096,
+        "lng": -77.211854
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Homewares",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "greendrop.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/greendrop-springfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19052",
+      "title": "Greendrop - Woodbridge",
+      "company": "Greendrop",
+      "description": "Greendrop is a charitable organization that collects donated items and distributes them to various other charitable organisations.\n\nAccepted donations include clothing, shoes, household items, kitchenware, toys, appliances, electronics, sporting goods, and more. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "13770 Smoketown Rd, Woodbridge, VA 22192, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.652679,
+        "lng": -77.306938
+      },
+      "acceptedMaterials": [
+        "Appliances",
+        "Clothing",
+        "Homewares",
+        "Shoes",
+        "Toys"
+      ],
+      "logo": "greendrop.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/greendrop-woodbridge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19219",
+      "title": "Women Giving Back - Ashburn",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "20365 Exchange St, Ashburn, VA 20147, USA",
+      "street": "20365 Exchange Street",
+      "zip": "20417",
+      "coordinates": {
+        "lat": 39.052703,
+        "lng": -77.454367
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-ashburn/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19220",
+      "title": "Women Giving Back - Ashburn",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "43145 Broadlands Center Plaza, Ashburn, VA 20148, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.026324,
+        "lng": -77.510557
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-ashburn-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19221",
+      "title": "Women Giving Back - Ashburn",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "44693 Brimfield Dr, Ashburn, VA 20147, USA",
+      "street": "44693 Brimfield Drive",
+      "zip": "20417",
+      "coordinates": {
+        "lat": 39.050535,
+        "lng": -77.454117
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-ashburn-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19298",
+      "title": "Women Giving Back - Broadlands",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "21907 Claiborne Pkwy, Broadlands, VA 20148, USA",
+      "street": "Claiborne Parkway",
+      "zip": "20148",
+      "coordinates": {
+        "lat": 39.010242,
+        "lng": -77.513615
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-broadlands/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19302",
+      "title": "Women Giving Back - Chantilly",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "13933 Willard Rd, Chantilly, VA 20151, USA",
+      "street": "13933 Willard Road",
+      "zip": "20151",
+      "coordinates": {
+        "lat": 38.885521,
+        "lng": -77.428661
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-chantilly/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19319",
+      "title": "Women Giving Back - Fairfax",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "11320 Random Hills Rd, Fairfax, VA 22030, USA",
+      "street": "11320 Random Hills Road",
+      "zip": "22030",
+      "coordinates": {
+        "lat": 38.856381,
+        "lng": -77.336959
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-fairfax/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19320",
+      "title": "Women Giving Back - Fairfax",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "11325 Random Hills Rd STE 400, Fairfax, VA 22030, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.855545,
+        "lng": -77.337759
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-fairfax-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19321",
+      "title": "Women Giving Back - Fairfax",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "12015 Lee Jackson Memorial Hwy, Fairfax, VA 22033, USA",
+      "street": "Route 50",
+      "zip": "22033",
+      "coordinates": {
+        "lat": 38.860133,
+        "lng": -77.362994
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-fairfax-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19322",
+      "title": "Women Giving Back - Fairfax",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "Jermantown Rd, Fairfax, VA, USA",
+      "street": "Jermantown Road",
+      "zip": "22030",
+      "coordinates": {
+        "lat": 38.862898,
+        "lng": -77.325736
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-fairfax-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19329",
+      "title": "Women Giving Back - Great Falls",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "9903 VA-193 #201, Great Falls, VA 22066, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.997936,
+        "lng": -77.28936
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-great-falls/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19330",
+      "title": "Women Giving Back - Herndon",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "284 Sunset Park Dr, Herndon, VA 20170, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.957301,
+        "lng": -77.37347
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-herndon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19359",
+      "title": "Women Giving Back - Leesburg",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "106 Harrison St SE Suite 100, Leesburg, VA 20175, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 39.112812,
+        "lng": -77.562166
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-leesburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19368",
+      "title": "Women Giving Back - McLean",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1355 Beverly Rd #109, McLean, VA 22101, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.936709,
+        "lng": -77.177168
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-mclean/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19389",
+      "title": "Women Giving Back - Reston",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Reston",
+      "address": "11493 Sunset Hills Rd, Reston, VA 20190, USA",
+      "street": "11493 Sunset Hills Road",
+      "zip": "20190",
+      "coordinates": {
+        "lat": 38.950275,
+        "lng": -77.34487
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-reston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19390",
+      "title": "Women Giving Back - Reston",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Reston",
+      "address": "12100 Sunset Hills Rd, Reston, VA 20190, USA",
+      "street": "12100 Sunset Hills Road",
+      "zip": "20190",
+      "coordinates": {
+        "lat": 38.954795,
+        "lng": -77.363757
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-reston-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19403",
+      "title": "Women Giving Back - Springfield",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "7200 Fullerton Rd, Springfield, VA 22150, USA",
+      "street": "7200 Fullerton Road",
+      "zip": "22150",
+      "coordinates": {
+        "lat": 38.74638,
+        "lng": -77.192458
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-springfield/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19419",
+      "title": "Women Giving Back - Sterling",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "20 Export Dr, Sterling, VA 20164, USA",
+      "street": "20 Export Drive",
+      "zip": "20164",
+      "coordinates": {
+        "lat": 38.993617,
+        "lng": -77.426718
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-sterling/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19426",
+      "title": "Women Giving Back - Woodbridge",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "2750 Killarney Dr, Woodbridge, VA 22192, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.658569,
+        "lng": -77.294489
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-woodbridge/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19427",
+      "title": "Women Giving Back - Woodbridge",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "3350 Commission Ct #100, Woodbridge, VA 22192, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.687166,
+        "lng": -77.313731
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-woodbridge-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19428",
+      "title": "Women Giving Back - Woodbridge",
+      "company": "Women Giving Back",
+      "description": "Women Giving Back (WGB) is a non-profit organization that first took shape in 2007, when women professionals from the homebuilding industry recognized the need for free quality clothes for homeless women and children.\n\nSeasonal donations of clothing, shoes, and jewelry are preferred. The organization also accepts donations of gently used bras, as well as unused, sealed underwear, makeup and toiletries.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "4545 Daisy Reid Ave, Woodbridge, VA 22192, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.678138,
+        "lng": -77.345575
+      },
+      "acceptedMaterials": [
+        "Clothing"
+      ],
+      "logo": "women-giving-back.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/women-giving-back-woodbridge-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19454",
+      "title": "Goodwill - Alexandria",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Alexandria",
+      "address": "6220 Richmond Hwy, Alexandria, VA 22303, USA",
+      "street": "6220 Richmond Highway",
+      "zip": "22303",
+      "coordinates": {
+        "lat": 38.783739,
+        "lng": -77.077304
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-alexandria-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19455",
+      "title": "Goodwill - Alexandria",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Alexandria",
+      "address": "8228 Richmond Hwy, Alexandria, VA 22309, USA",
+      "street": "Richmond Highway",
+      "zip": "23242",
+      "coordinates": {
+        "lat": 38.735284,
+        "lng": -77.098624
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-alexandria-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19480",
+      "title": "Goodwill - Annandale",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "7031 Columbia Pike, Annandale, VA 22003, USA",
+      "street": "7031 Columbia Pike",
+      "zip": "22003",
+      "coordinates": {
+        "lat": 38.832375,
+        "lng": -77.188769
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-annandale/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19503",
+      "title": "Goodwill - Arlington",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Arlington",
+      "address": "10 S Glebe Rd, Arlington, VA 22204, USA",
+      "street": "10 South Glebe Road",
+      "zip": "22204",
+      "coordinates": {
+        "lat": 38.869774,
+        "lng": -77.100624
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-arlington-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19519",
+      "title": "Goodwill - Ashland",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "10485 Dow Gil Rd, Ashland, VA 23005, USA",
+      "street": "10485 Dow-Gil Road",
+      "zip": "23005",
+      "coordinates": {
+        "lat": 37.741269,
+        "lng": -77.470308
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-ashland-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19637",
+      "title": "Goodwill - Bedford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1128 E Lynchburg Salem Turnpike #900, Bedford, VA 24523, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.324553,
+        "lng": -79.495346
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-bedford-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19638",
+      "title": "Goodwill - Bedford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1974 Falling Creek Rd, Bedford, VA 24523, USA",
+      "street": "1974 Falling Creek Road",
+      "zip": "24523",
+      "coordinates": {
+        "lat": 37.305294,
+        "lng": -79.501901
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-bedford-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19639",
+      "title": "Goodwill - Bedford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "805 Ole Turnpike Dr, Bedford, VA 24523, USA",
+      "street": "805 Ole Turnpike Drive",
+      "zip": "24523",
+      "coordinates": {
+        "lat": 37.337447,
+        "lng": -79.543312
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-bedford-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19640",
+      "title": "Goodwill - Bedford",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "856 Orange St, Bedford, VA 24523, USA",
+      "street": "Orange Street",
+      "zip": "24523",
+      "coordinates": {
+        "lat": 37.332712,
+        "lng": -79.503668
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-bedford-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19680",
+      "title": "Goodwill - Blackstone",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1312 S Main St, Blackstone, VA 23824, USA",
+      "street": "1312 South Main Street",
+      "zip": "23824",
+      "coordinates": {
+        "lat": 37.063857,
+        "lng": -78.006653
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-blackstone/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19695",
+      "title": "Goodwill - Midlothian",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "8535 Midlothian Turnpike, Bon Air, VA 23235, USA",
+      "street": "8535 Midlothian Turnpike",
+      "zip": "23235",
+      "coordinates": {
+        "lat": 37.494485,
+        "lng": -77.55488
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-midlothian/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19701",
+      "title": "Goodwill - Boones Mill",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "25277 Virgil H Goode Hwy, Boones Mill, VA 24065, USA",
+      "street": "25277 Virgil H Goode Highway",
+      "zip": "24065",
+      "coordinates": {
+        "lat": 37.119107,
+        "lng": -79.956503
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-boones-mill/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19815",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "3206 Electric Rd, Cave Spring, VA 24018, USA",
+      "street": "3206 Electric Road",
+      "zip": "24018",
+      "coordinates": {
+        "lat": 37.230456,
+        "lng": -80.007828
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19816",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "4431 Starkey Rd, Cave Spring, VA 24018, USA",
+      "street": "4431 Starkey Road",
+      "zip": "24018",
+      "coordinates": {
+        "lat": 37.22575,
+        "lng": -79.985333
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19831",
+      "title": "Goodwill - Centreville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "5077 Westfields Blvd, Centreville, VA 20120, USA",
+      "street": "5077 Westfields Boulevard",
+      "zip": "20120",
+      "coordinates": {
+        "lat": 38.86809,
+        "lng": -77.44678
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-centreville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19864",
+      "title": "Goodwill - Chesapeake",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Chesapeake",
+      "address": "1101 Cedar Rd, Chesapeake, VA 23322, USA",
+      "street": "1101 Cedar Road",
+      "zip": "23322",
+      "coordinates": {
+        "lat": 36.712691,
+        "lng": -76.279922
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-chesapeake/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19865",
+      "title": "Goodwill - Chesapeake",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Chesapeake",
+      "address": "121 Sherington Dr, Chesapeake, VA 23320, USA",
+      "street": "121 Sherington Drive",
+      "zip": "23320",
+      "coordinates": {
+        "lat": 36.746026,
+        "lng": -76.243341
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-chesapeake-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19867",
+      "title": "Goodwill - Chester",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "12160 Iron Bridge Rd, Chester, VA 23831, USA",
+      "street": "12160 Iron Bridge Road",
+      "zip": "23831",
+      "coordinates": {
+        "lat": 37.350283,
+        "lng": -77.479059
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-chester-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19871",
+      "title": "Goodwill - Chesterfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "14740 Hull Street Rd, Chesterfield, VA 23832, USA",
+      "street": "14740 Hull Street Road",
+      "zip": "23832",
+      "coordinates": {
+        "lat": 37.403884,
+        "lng": -77.686986
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-chesterfield-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19884",
+      "title": "Goodwill - Blacksburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "910 Lusters Gate Rd, Christiansburg, VA 24073, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.192696,
+        "lng": -80.366372
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-blacksburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "19923",
+      "title": "Goodwill - Colonial Heights",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "Town Hall Shopping Center, 1500 Boulevard, Colonial Heights, VA 23834, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.253586,
+        "lng": -77.412371
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-colonial-heights/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20009",
+      "title": "Goodwill - Dale City",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "2950 Dale Blvd, Dale City, VA 22193, USA",
+      "street": "2950 Dale Boulevard",
+      "zip": "22193",
+      "coordinates": {
+        "lat": 38.628637,
+        "lng": -77.301652
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-dale-city/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20010",
+      "title": "Goodwill - Daleville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "125 Commons Pkwy, Daleville, VA 24083, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.395298,
+        "lng": -79.910007
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-daleville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20124",
+      "title": "Goodwill - Emporia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "306a W Atlantic St, Emporia, VA 23847, USA",
+      "street": "West Atlantic Street",
+      "zip": "23847",
+      "coordinates": {
+        "lat": 36.698629,
+        "lng": -77.542005
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-emporia-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20139",
+      "title": "Goodwill - Fairfax",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Fairfax",
+      "address": "9960 Main St, Fairfax, VA 22031, USA",
+      "street": "9960 Main Street",
+      "zip": "22031",
+      "coordinates": {
+        "lat": 38.84435,
+        "lng": -77.290303
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-fairfax/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20148",
+      "title": "Goodwill - Falls Church",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "2936 Annandale Rd, Falls Church, VA 22042, USA",
+      "street": "Annandale Road",
+      "zip": "22003",
+      "coordinates": {
+        "lat": 38.870657,
+        "lng": -77.175162
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-falls-church/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20250",
+      "title": "Goodwill - Allen",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "10231 Washington Hwy, Glen Allen, VA 23059, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.684946,
+        "lng": -77.462892
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-allen-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20251",
+      "title": "Goodwill - Henrico",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "4200 Tom Leonard Dr, Glen Allen, VA 23060, USA",
+      "street": "4200 Tom Leonard Drive",
+      "zip": "23060",
+      "coordinates": {
+        "lat": 37.651827,
+        "lng": -77.600465
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-henrico/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20320",
+      "title": "Goodwill - Hampton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Hampton",
+      "address": "1911 Saville Row, Hampton, VA 23666, USA",
+      "street": "1911 Saville Row",
+      "zip": "23666",
+      "coordinates": {
+        "lat": 37.038758,
+        "lng": -76.383082
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-hampton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20360",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1650 St Matthews Ln, Henrico, VA 23233, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.670117,
+        "lng": -77.678769
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20361",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "3460 Pump Rd, Henrico, VA 23233, USA",
+      "street": "3460 Pump Road",
+      "zip": "23233",
+      "coordinates": {
+        "lat": 37.650475,
+        "lng": -77.614769
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20364",
+      "title": "Goodwill - Herndon",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "2421 Centreville Rd, Herndon, VA 20171, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.950268,
+        "lng": -77.406699
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-herndon/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20457",
+      "title": "Goodwill - Huddleston",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "2967 Fairview Church Rd, Huddleston, VA 24104, USA",
+      "street": "2967 Fairview Church Road",
+      "zip": "24104",
+      "coordinates": {
+        "lat": 37.108856,
+        "lng": -79.549117
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-huddleston/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20586",
+      "title": "Goodwill - St. LaCrosse",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1369 E Atlantic St #1821, La Crosse, VA 23950, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.705602,
+        "lng": -78.102475
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-st-lacrosse/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20760",
+      "title": "Goodwill - Manassas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "Historic District, 8014 Sudley Rd, Manassas, VA 20109, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.781269,
+        "lng": -77.512405
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-manassas/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20761",
+      "title": "Goodwill - Manassas",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "Historic District, 9769 Liberia Ave, Manassas, VA 20110, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 38.743259,
+        "lng": -77.449501
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-manassas-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20815",
+      "title": "Goodwill - Mechanicsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "7147 Brandy Run Dr, Mechanicsville, VA 23111, USA",
+      "street": "7147 Brandy Run Drive",
+      "zip": "23111",
+      "coordinates": {
+        "lat": 37.609955,
+        "lng": -77.343689
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-mechanicsville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20816",
+      "title": "Goodwill - Mechanicsville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "7427 Verdi Ln, Mechanicsville, VA 23116, USA",
+      "street": "7427 Verdi Lane",
+      "zip": "23116",
+      "coordinates": {
+        "lat": 37.647029,
+        "lng": -77.356295
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-mechanicsville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20889",
+      "title": "Goodwill - Midlothian",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "11749 Hull Street Rd, Midlothian, VA 23112, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.432671,
+        "lng": -77.611501
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-midlothian-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20890",
+      "title": "Goodwill - Midlothian",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1211 Alverser Dr, Midlothian, VA 23113, USA",
+      "street": "1211 Alverser Drive",
+      "zip": "23113",
+      "coordinates": {
+        "lat": 37.507567,
+        "lng": -77.616556
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-midlothian-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20926",
+      "title": "Goodwill - Moneta",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "12341 Moneta Rd, Moneta, VA 24121, USA",
+      "street": "12341 Moneta Road",
+      "zip": "24121",
+      "coordinates": {
+        "lat": 37.193765,
+        "lng": -79.611189
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-moneta/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20927",
+      "title": "Goodwill - Moneta",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "13697 Booker T Washington Hwy #100, Moneta, VA 24121, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.127848,
+        "lng": -79.696174
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-moneta-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20928",
+      "title": "Goodwill - Moneta",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "145 Lakewatch Center Dr, Moneta, VA 24121, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.127805,
+        "lng": -79.699148
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-moneta-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20929",
+      "title": "Goodwill - Moneta",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "14807 Moneta Rd A, Moneta, VA 24121, USA",
+      "street": "14807 Moneta Road",
+      "zip": "24121",
+      "coordinates": {
+        "lat": 37.166407,
+        "lng": -79.639158
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-moneta-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20930",
+      "title": "Goodwill - Moneta",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1832 Radford Church Rd, Moneta, VA 24121, USA",
+      "street": "1832 Radford Church Road",
+      "zip": "24121",
+      "coordinates": {
+        "lat": 37.141846,
+        "lng": -79.611354
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-moneta-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "20948",
+      "title": "Goodwill - Montvale",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1075 Beale Trail Rd, Montvale, VA 24122, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.378644,
+        "lng": -79.709097
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-montvale/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21062",
+      "title": "Goodwill - Newport News",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Newport News",
+      "address": "11061 Warwick Blvd, Newport News, VA 23601, USA",
+      "street": "11061 Warwick Boulevard",
+      "zip": "23601",
+      "coordinates": {
+        "lat": 37.046249,
+        "lng": -76.474281
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-newport-news/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21063",
+      "title": "Goodwill - Newport News",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "12638 Jefferson Ave, Newport News, VA 23603, USA",
+      "street": "12638 Jefferson Avenue",
+      "zip": "23602",
+      "coordinates": {
+        "lat": 37.135624,
+        "lng": -76.514906
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-newport-news-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21244",
+      "title": "Goodwill - Petersburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Petersburg",
+      "address": "65 Crater Cir, Petersburg, VA 23805, USA",
+      "street": "65 Crater Circle",
+      "zip": "23805",
+      "coordinates": {
+        "lat": 37.183746,
+        "lng": -77.369752
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-petersburg/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21318",
+      "title": "Goodwill - Portsmouth",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Portsmouth",
+      "address": "3225 High St, Portsmouth, VA 23707, USA",
+      "street": "3225 High Street",
+      "zip": "23707",
+      "coordinates": {
+        "lat": 36.834039,
+        "lng": -76.341396
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-portsmouth-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21321",
+      "title": "Goodwill - Powhatan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1885 Stavemill Crossing Ln, Powhatan, VA 23139, USA",
+      "street": "1885 Stavemill Crossing Lane",
+      "zip": "23139",
+      "coordinates": {
+        "lat": 37.509915,
+        "lng": -77.774096
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-powhatan/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21322",
+      "title": "Goodwill - Powhatan",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "Mitchell Rd, Powhatan, VA 23139, USA",
+      "street": "Mitchell Road",
+      "zip": "23139",
+      "coordinates": {
+        "lat": 37.55054,
+        "lng": -77.922131
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-powhatan-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21349",
+      "title": "Goodwill - Henrico",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "9065 W Broad St, Richmond, VA 23294, USA",
+      "street": "West Broad Street",
+      "zip": "23230",
+      "coordinates": {
+        "lat": 37.635542,
+        "lng": -77.548933
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-henrico-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21350",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1400 N Parham Rd, Richmond, VA 23229, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.601695,
+        "lng": -77.568927
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21351",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "2075 Charles City Rd, Richmond, VA 23231, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.512437,
+        "lng": -77.370069
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21352",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "3114 W Cary St, Richmond, VA 23221, USA",
+      "street": "3114 West Cary Street",
+      "zip": "23221",
+      "coordinates": {
+        "lat": 37.55343,
+        "lng": -77.480656
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21353",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "6202 W Broad St, Richmond, VA 23230, USA",
+      "street": "West Broad Street",
+      "zip": "23230",
+      "coordinates": {
+        "lat": 37.595643,
+        "lng": -77.509804
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21354",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "6301 Midlothian Turnpike, Richmond, VA 23225, USA",
+      "street": "6301 Midlothian Turnpike",
+      "zip": "23225",
+      "coordinates": {
+        "lat": 37.502691,
+        "lng": -77.510882
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond-12/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21355",
+      "title": "Goodwill - Richmond",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Richmond",
+      "address": "8018 W Broad St, Richmond, VA 23294, USA",
+      "street": "West Broad Street",
+      "zip": "23230",
+      "coordinates": {
+        "lat": 37.625758,
+        "lng": -77.53001
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-richmond-13/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21356",
+      "title": "Goodwill - Virginia",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "3979 Gay Ave, Richmond, VA 23231, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.527252,
+        "lng": -77.35939
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21366",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Roanoke",
+      "address": "2502 Melrose Ave NW, Roanoke, VA 24017, USA",
+      "street": "2502 Melrose Avenue Northwest",
+      "zip": "24017",
+      "coordinates": {
+        "lat": 37.285807,
+        "lng": -79.977843
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21367",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Roanoke",
+      "address": "2631 Peters Creek Rd, Roanoke, VA 24017, USA",
+      "street": "2631 Peters Creek Road Northwest",
+      "zip": "24017",
+      "coordinates": {
+        "lat": 37.314008,
+        "lng": -80.003074
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21368",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Roanoke",
+      "address": "2631 Peters Creek Rd, Roanoke, VA 24017, USA",
+      "street": "2631 Peters Creek Road Northwest",
+      "zip": "24017",
+      "coordinates": {
+        "lat": 37.314008,
+        "lng": -80.003074
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21369",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Roanoke",
+      "address": "352 Church Ave SW, Roanoke, VA 24016, USA",
+      "street": "352 Church Avenue Southwest",
+      "zip": "24016",
+      "coordinates": {
+        "lat": 37.269913,
+        "lng": -79.947857
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21370",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Roanoke",
+      "address": "4335 Pheasant Ridge Rd A, Roanoke, VA 24014, USA",
+      "street": "4335 Pheasant Ridge Road",
+      "zip": "24014",
+      "coordinates": {
+        "lat": 37.222228,
+        "lng": -79.966326
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21371",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "4812 Hollins Rd, Roanoke, VA 24019, USA",
+      "street": "4812 Hollins Road",
+      "zip": "24019",
+      "coordinates": {
+        "lat": 37.322548,
+        "lng": -79.934398
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-8/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21372",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "6315 Archcrest Dr, Roanoke, VA 24019, USA",
+      "street": "6315 Archcrest Drive",
+      "zip": "24019",
+      "coordinates": {
+        "lat": 37.340704,
+        "lng": -79.970764
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-9/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21373",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "6767 Cloverdale Rd, Roanoke, VA 24019, USA",
+      "street": "Cloverdale Road",
+      "zip": "25012",
+      "coordinates": {
+        "lat": 37.352166,
+        "lng": -79.884305
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21374",
+      "title": "Goodwill - Roanoke",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "6767 Cloverdale Rd, Roanoke, VA 24019, USA",
+      "street": "Cloverdale Road",
+      "zip": "25012",
+      "coordinates": {
+        "lat": 37.352166,
+        "lng": -79.884305
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-roanoke-11/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21392",
+      "title": "Goodwill - Mount",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "550 Old Franklin Turnpike, Rocky Mount, VA 24151, USA",
+      "street": "550 Old Franklin Turnpike",
+      "zip": "24151",
+      "coordinates": {
+        "lat": 37.013752,
+        "lng": -79.863458
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-mount/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21393",
+      "title": "Goodwill - Rocky Mount",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1045 N Main St, Rocky Mount, VA 24151, USA",
+      "street": "1045 North Main Street",
+      "zip": "24151",
+      "coordinates": {
+        "lat": 37.009841,
+        "lng": -79.895305
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-rocky-mount/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21394",
+      "title": "Goodwill - Rocky Mount",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "970 Tanyard Rd, Rocky Mount, VA 24151, USA",
+      "street": "970 Tanyard Road",
+      "zip": "24151",
+      "coordinates": {
+        "lat": 37.007627,
+        "lng": -79.875275
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-rocky-mount-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21431",
+      "title": "Goodwill - Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Salem",
+      "address": "1493 E Main St, Salem, VA 24153, USA",
+      "street": "1493 East Main Street",
+      "zip": "24153",
+      "coordinates": {
+        "lat": 37.29882,
+        "lng": -80.029581
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-salem-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21432",
+      "title": "Goodwill - Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Salem",
+      "address": "1830 Apperson Dr, Salem, VA 24153, USA",
+      "street": "1830 Apperson Drive",
+      "zip": "24153",
+      "coordinates": {
+        "lat": 37.268501,
+        "lng": -80.03035
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-salem-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21433",
+      "title": "Goodwill - Salem",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Salem",
+      "address": "1830 W Main St, Salem, VA 24153, USA",
+      "street": "1830 West Main Street",
+      "zip": "24153",
+      "coordinates": {
+        "lat": 37.287672,
+        "lng": -80.088281
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-salem-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21557",
+      "title": "Goodwill - Springfield",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "7011 Backlick Rd, Springfield, VA 22150, USA",
+      "street": "7011 Backlick Road",
+      "zip": "22150",
+      "coordinates": {
+        "lat": 38.765862,
+        "lng": -77.183833
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-springfield-10/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21577",
+      "title": "Goodwill - Sterling",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "22405 Enterprise St, Sterling, VA 20164, USA",
+      "street": "22405 Enterprise Street",
+      "zip": "20164",
+      "coordinates": {
+        "lat": 38.99619,
+        "lng": -77.407304
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-sterling-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21589",
+      "title": "Goodwill - Suffolk",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Suffolk",
+      "address": "2901 Godwin Blvd, Suffolk, VA 23434, USA",
+      "street": "2901 Godwin Boulevard",
+      "zip": "23434",
+      "coordinates": {
+        "lat": 36.778656,
+        "lng": -76.584428
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-suffolk/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21590",
+      "title": "Goodwill - Suffolk",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Suffolk",
+      "address": "3201 Bridge Rd, Suffolk, VA 23435, USA",
+      "street": "3201 Bridge Road",
+      "zip": "23435",
+      "coordinates": {
+        "lat": 36.863622,
+        "lng": -76.485204
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-suffolk-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21637",
+      "title": "Goodwill - Troutville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1641 Blue Ridge Blvd, Troutville, VA 24175, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.346893,
+        "lng": -79.846393
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-troutville/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21638",
+      "title": "Goodwill - Troutville",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1641 Blue Ridge Blvd, Troutville, VA 24175, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.346893,
+        "lng": -79.846393
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-troutville-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21664",
+      "title": "Goodwill - Vinton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1048 Morgans Mill Rd, Vinton, VA 24179, USA",
+      "street": "1048 Morgans Mill Road",
+      "zip": "24179",
+      "coordinates": {
+        "lat": 37.259338,
+        "lng": -79.734267
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-vinton/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21665",
+      "title": "Goodwill - Vinton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1062 Drewrys Hill Rd, Vinton, VA 24179, USA",
+      "street": "1062 Drewrys Hill Road",
+      "zip": "24179",
+      "coordinates": {
+        "lat": 37.269096,
+        "lng": -79.796967
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-vinton-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21666",
+      "title": "Goodwill - Vinton",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "907 Hardy Rd, Vinton, VA 24179, USA",
+      "street": "907 Hardy Road",
+      "zip": "24179",
+      "coordinates": {
+        "lat": 37.271737,
+        "lng": -79.88787
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-vinton-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21667",
+      "title": "Goodwill - Virginia Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "1949 Lynnhaven Pkwy Ste 1532, Virginia Beach, VA 23453, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.795032,
+        "lng": -76.119246
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia-beach/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21668",
+      "title": "Goodwill - Virginia Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "2093 General Booth Blvd, Virginia Beach, VA 23456, USA",
+      "street": "2093 General Booth Boulevard",
+      "zip": "23454",
+      "coordinates": {
+        "lat": 36.769464,
+        "lng": -76.013994
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia-beach-2/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21669",
+      "title": "Goodwill - Virginia Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "229 S Rosemont Rd, Virginia Beach, VA 23452, USA",
+      "street": "229 South Rosemont Road",
+      "zip": "23452",
+      "coordinates": {
+        "lat": 36.832367,
+        "lng": -76.096428
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia-beach-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21670",
+      "title": "Goodwill - Virginia Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "4461 Shore Dr, Virginia Beach, VA 23455, USA",
+      "street": "4461 Shore Drive",
+      "zip": "23455",
+      "coordinates": {
+        "lat": 36.904062,
+        "lng": -76.125189
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia-beach-4/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21671",
+      "title": "Goodwill - Virginia Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "4770 Princess Anne Rd, Virginia Beach, VA 23462, USA",
+      "street": "4770 Princess Anne Road",
+      "zip": "23462",
+      "coordinates": {
+        "lat": 36.815707,
+        "lng": -76.144683
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia-beach-5/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21672",
+      "title": "Goodwill - Virginia Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "600 S Lynnhaven Rd, Virginia Beach, VA 23452, USA",
+      "street": "600 South Lynnhaven Road",
+      "zip": "23452",
+      "coordinates": {
+        "lat": 36.820655,
+        "lng": -76.074694
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia-beach-6/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21673",
+      "title": "Goodwill - Virginia Beach",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Virginia Beach",
+      "address": "6531 College Park Square, Virginia Beach, VA 23464, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 36.809318,
+        "lng": -76.21691
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-virginia-beach-7/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21681",
+      "title": "Goodwill - Waldorf",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Waldorf",
+      "address": "2495 Crain Hwy, Waldorf, MD 20601, USA",
+      "street": "2495 Crain Highway",
+      "zip": "20601",
+      "coordinates": {
+        "lat": 38.643362,
+        "lng": -76.89484
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-waldorf/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21773",
+      "title": "Goodwill - Williamsburg",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Williamsburg",
+      "address": "1310 Richmond Rd, Williamsburg, VA 23185, USA",
+      "street": "1310 Richmond Road",
+      "zip": "23185",
+      "coordinates": {
+        "lat": 37.282928,
+        "lng": -76.720644
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-williamsburg-3/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21810",
+      "title": "Goodwill - Wirtz",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "7120 Booker T Washington Hwy, Wirtz, VA 24184, USA",
+      "street": "",
+      "zip": "",
+      "coordinates": {
+        "lat": 37.104209,
+        "lng": -79.815886
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-wirtz/",
+      "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "21825",
+      "title": "Goodwill - Yorktown",
+      "company": "Goodwill",
+      "description": "Goodwill is a non-profit organization that initiates community-based programs related to gainful employment. It was founded in 1902 in Boston.\n\nThe accept financial donations, as well as clothing and household items in usable condition. If you're not sure whether they can accept your donation, please give them a call beforehand.",
+      "state": "Virginia",
+      "stateSlug": "virginia",
+      "city": "Unknown",
+      "address": "5234 George Washington Memorial Hwy, Yorktown, VA 23692, USA",
+      "street": "5234 George Washington Memorial Highway",
+      "zip": "23692",
+      "coordinates": {
+        "lat": 37.158131,
+        "lng": -76.460692
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Furniture",
+        "Homewares"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/virginia/goodwill-yorktown/",
+      "lastUpdated": "7/10/2024"
+    }
+  ]
+}
