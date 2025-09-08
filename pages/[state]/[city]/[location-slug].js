@@ -505,10 +505,10 @@ export async function getStaticPaths() {
       }
     });
     
-    return {
-      paths,
-      fallback: false
-    };
+return {
+  paths: [], // ← Generate NO pages at build time
+  fallback: 'blocking' // ← Generate pages on-demand when requested
+};
   } catch (error) {
     console.error('Error in getStaticPaths:', error);
     
