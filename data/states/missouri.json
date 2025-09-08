@@ -3695,6 +3695,4710 @@
       "logo": "planet-aid.jpg",
       "permalink": "https://www.clothedonations.com/missouri/planet-aid-smokes-4-less-riverside/",
       "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "26573",
+      "title": "Big Brothers Big Sisters of Greater Kansas City",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1709 Walnut St, Kansas City, MO 64108",
+      "street": "1709 Walnut St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-of-greater-kansas-city",
+      "lastUpdated": "24/08/2029"
+    },
+    {
+      "id": "26574",
+      "title": "The Salvation Army Family Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "1301 E 10th St",
+      "address": "Family Store & Donation Center, 1301 E 10th St, Kansas City, MO 64108",
+      "street": "Family Store & Donation Center",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.462337095603,
+        "lng": -122.334870950623
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
+      "lastUpdated": "25/08/2029"
+    },
+    {
+      "id": "26575",
+      "title": "Goodwill of Western MO & Eastern KS",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "800 E 18th St, Kansas City, MO 64108",
+      "street": "800 E 18th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.488421728605,
+        "lng": -122.346878352673
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-of-western-mo-&-eastern-ks",
+      "lastUpdated": "26/08/2029"
+    },
+    {
+      "id": "26576",
+      "title": "Big Brothers Big Sisters Donation Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2605 W 43rd Ave, Kansas City, MO 64108",
+      "street": "2605 W 43rd Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin",
+      "lastUpdated": "27/08/2029"
+    },
+    {
+      "id": "26577",
+      "title": "Troost39 Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3922 Troost Ave, Kansas City, MO 64108",
+      "street": "3922 Troost Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.462337095603,
+        "lng": -122.334870950623
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/troost39-thrift-store",
+      "lastUpdated": "28/08/2029"
+    },
+    {
+      "id": "26578",
+      "title": "The Salvation Army Adult Rehabilitation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1351 E 10th St, Kansas City, MO 64108",
+      "street": "1351 E 10th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 41.499816048741,
+        "lng": -81.591546301069
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-adult-rehabilitation-center",
+      "lastUpdated": "29/08/2029"
+    },
+    {
+      "id": "26579",
+      "title": "Arizona Trading Company",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1722 Oak St, Kansas City, MO 64108",
+      "street": "1722 Oak St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 41.500995608536,
+        "lng": -81.592574108844
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/arizona-trading-company",
+      "lastUpdated": "30/08/2029"
+    },
+    {
+      "id": "26580",
+      "title": "Salvation Army of Kansas and Western Missouri",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3637 Broadway Blvd, Kansas City, MO 64108",
+      "street": "3637 Broadway Blvd",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 41.519923265293,
+        "lng": -81.620774471707
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-of-kansas-and-western-missouri",
+      "lastUpdated": "31/08/2029"
+    },
+    {
+      "id": "26581",
+      "title": "City Union Mission (Community Assistance)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1700 E 8th St, Kansas City, MO 64108",
+      "street": "1700 E 8th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 41.606847114656,
+        "lng": -81.52676944586
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-(community-assistance)",
+      "lastUpdated": "1/09/2029"
+    },
+    {
+      "id": "26582",
+      "title": "Salvation Army Warehouse",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1110 E Truman Rd, Kansas City, MO 64108",
+      "street": "1110 E Truman Rd",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-warehouse",
+      "lastUpdated": "2/09/2029"
+    },
+    {
+      "id": "26583",
+      "title": "Shelter KC",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1520 Cherry St, Kansas City, MO 64108",
+      "street": "1520 Cherry St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 41.597938561831,
+        "lng": -81.52673128913
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/shelter-kc",
+      "lastUpdated": "3/09/2029"
+    },
+    {
+      "id": "26584",
+      "title": "Uplift Organization Inc",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1516 Prospect Ave, Kansas City, MO 64108",
+      "street": "1516 Prospect Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.842511767315,
+        "lng": -122.251724466094
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/uplift-organization-inc",
+      "lastUpdated": "4/09/2029"
+    },
+    {
+      "id": "26585",
+      "title": "Redemptorist Social Services Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "207 Linwood Blvd, Kansas City, MO 64108",
+      "street": "207 Linwood Blvd",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.841344800926,
+        "lng": -122.251613401564
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/redemptorist-social-services-center",
+      "lastUpdated": "5/09/2029"
+    },
+    {
+      "id": "26586",
+      "title": "Connections To Success",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "300 Linwood Blvd, Kansas City, MO 64108",
+      "street": "300 Linwood Blvd",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 41.548397699121,
+        "lng": -81.510185498262
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/connections-to-success",
+      "lastUpdated": "6/09/2029"
+    },
+    {
+      "id": "26587",
+      "title": "City Union Mission Administration",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1100 E 11th St, Kansas City, MO 64108",
+      "street": "1100 E 11th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.811982676836,
+        "lng": -122.247803553543
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-administration",
+      "lastUpdated": "7/09/2029"
+    },
+    {
+      "id": "26588",
+      "title": "Do Good Co.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "413 E 18th St, Kansas City, MO 64108",
+      "street": "413 E 18th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/do-good-co.",
+      "lastUpdated": "8/09/2029"
+    },
+    {
+      "id": "26589",
+      "title": "Goodwill Midtown",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3630 Main St, Kansas City, MO 64108",
+      "street": "3630 Main St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.794771339327,
+        "lng": -122.269686820321
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-midtown",
+      "lastUpdated": "9/09/2029"
+    },
+    {
+      "id": "26590",
+      "title": "Make-A-Wish Car Donation",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2300 Main St, Kansas City, MO 64108",
+      "street": "2300 Main St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/make-a-wish-car-donation",
+      "lastUpdated": "10/09/2029"
+    },
+    {
+      "id": "26591",
+      "title": "Hope Faith - Homeless Assistance Campus",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "705 Virginia Ave, Kansas City, MO 64108",
+      "street": "705 Virginia Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.834298424622,
+        "lng": -122.263242969033
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hope-faith---homeless-assistance-campus",
+      "lastUpdated": "11/09/2029"
+    },
+    {
+      "id": "26592",
+      "title": "Northland Clothing Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3939 N Cleveland Ave, Kansas City, MO 64108",
+      "street": "3939 N Cleveland Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/northland-clothing-center",
+      "lastUpdated": "12/09/2029"
+    },
+    {
+      "id": "26593",
+      "title": "Cross-Lines Community Outreach",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "736 Shawnee Ave, Kansas City, MO 64108",
+      "street": "736 Shawnee Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.841312661189,
+        "lng": -122.25874261472
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/cross-lines-community-outreach",
+      "lastUpdated": "13/09/2029"
+    },
+    {
+      "id": "26594",
+      "title": "Goodwill",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1756 Campbell St, Kansas City, MO 64108",
+      "street": "1756 Campbell St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill",
+      "lastUpdated": "14/09/2029"
+    },
+    {
+      "id": "26595",
+      "title": "Bishop Sullivan Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3936 Troost Ave, Kansas City, MO 64108",
+      "street": "3936 Troost Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.793794643444,
+        "lng": -122.222349065377
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center",
+      "lastUpdated": "15/09/2029"
+    },
+    {
+      "id": "26596",
+      "title": "Buy The Pound Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3757 Independence Ave, Kansas City, MO 64108",
+      "street": "3757 Independence Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.740607070755,
+        "lng": -122.349042106393
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/buy-the-pound-thrift-store",
+      "lastUpdated": "16/09/2029"
+    },
+    {
+      "id": "26597",
+      "title": "Clothz Minded",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4115 Pennsylvania Ave, Kansas City, MO 64108",
+      "street": "4115 Pennsylvania Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/clothz-minded",
+      "lastUpdated": "17/09/2029"
+    },
+    {
+      "id": "26598",
+      "title": "City Union Mission Family Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1310 Wabash Ave, Kansas City, MO 64108",
+      "street": "1310 Wabash Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.723265974306,
+        "lng": -122.348052200655
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-family-center",
+      "lastUpdated": "18/09/2029"
+    },
+    {
+      "id": "26599",
+      "title": "Catholic Charities of NE Kansas - Wyandotte County Office",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "600 Minnesota Ave, Kansas City, MO 64108",
+      "street": "600 Minnesota Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 37.740850712102,
+        "lng": -122.202380972297
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/catholic-charities-of-ne-kansas---wyandotte-county-office",
+      "lastUpdated": "19/09/2029"
+    },
+    {
+      "id": "26600",
+      "title": "Boomerang",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3900 Pennsylvania Ave #2940, Kansas City, MO 64108",
+      "street": "3900 Pennsylvania Ave #2940",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.59201993775,
+        "lng": -122.326054737911
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/boomerang",
+      "lastUpdated": "20/09/2029"
+    },
+    {
+      "id": "26601",
+      "title": "Planet Aid Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "601 NW 68th St, Kansas City, MO 64108",
+      "street": "601 NW 68th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
+      "lastUpdated": "21/09/2029"
+    },
+    {
+      "id": "26602",
+      "title": "Cross-Lines Community Kitchen",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "718 Shawnee Ave, Kansas City, MO 64108",
+      "street": "718 Shawnee Ave",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.594274679393,
+        "lng": -122.328962145142
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/cross-lines-community-kitchen",
+      "lastUpdated": "22/09/2029"
+    },
+    {
+      "id": "26603",
+      "title": "Salvation army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1413 Liberty St, Kansas City, MO 64108",
+      "street": "1413 Liberty St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.466020500708,
+        "lng": -122.336948126911
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army",
+      "lastUpdated": "23/09/2029"
+    },
+    {
+      "id": "26604",
+      "title": "City Union Mission (Men's Shelter)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1108 E 10th St, Kansas City, MO 64108",
+      "street": "1108 E 10th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.466778902671,
+        "lng": -122.359772459494
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-(men's-shelter)",
+      "lastUpdated": "24/09/2029"
+    },
+    {
+      "id": "26605",
+      "title": "WyCo Vintage",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3535 Broadway Blvd, Kansas City, MO 64108",
+      "street": "3535 Broadway Blvd",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 47.477963317661,
+        "lng": -122.292574023967
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/wyco-vintage",
+      "lastUpdated": "25/09/2029"
+    },
+    {
+      "id": "26606",
+      "title": "Salvation Army - Eastside Corps",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3013 E 9th St, Kansas City, MO 64108",
+      "street": "3013 E 9th St",
+      "zip": "64108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army---eastside-corps",
+      "lastUpdated": "26/09/2029"
+    },
+    {
+      "id": "26607",
+      "title": "True Light Family Resource Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "712 E 31st St, Kansas City, MO 64109",
+      "street": "712 E 31st St",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/true-light-family-resource-center",
+      "lastUpdated": "27/09/2029"
+    },
+    {
+      "id": "26608",
+      "title": "KMD Foundation,Inc.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Linwood Blvd",
+      "address": "2420 E, Linwood Blvd, Kansas City, MO 64109",
+      "street": "2420 E",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 47.753816689082,
+        "lng": -122.315948821368
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/kmd-foundation,inc.",
+      "lastUpdated": "28/09/2029"
+    },
+    {
+      "id": "26609",
+      "title": "City Thrift Waldo",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "7740 Wornall Rd, Kansas City, MO 64109",
+      "street": "7740 Wornall Rd",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/city-thrift-waldo",
+      "lastUpdated": "29/09/2029"
+    },
+    {
+      "id": "26610",
+      "title": "Habitat for Humanity of Kansas City (Administrative Office)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1423 Linwood Blvd, Kansas City, MO 64109",
+      "street": "1423 Linwood Blvd",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 47.482651559177,
+        "lng": -122.333910916684
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/habitat-for-humanity-of-kansas-city-(administrative-office)",
+      "lastUpdated": "30/09/2029"
+    },
+    {
+      "id": "26611",
+      "title": "Journey To New Life, Inc.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3120 Troost Ave, Kansas City, MO 64109",
+      "street": "3120 Troost Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.298084864458,
+        "lng": -81.835276814236
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/journey-to-new-life,-inc.",
+      "lastUpdated": "1/10/2029"
+    },
+    {
+      "id": "26612",
+      "title": "Emancipation Station",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "719 E 31st St, Kansas City, MO 64109",
+      "street": "719 E 31st St",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.380882862905,
+        "lng": -81.712102943851
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/emancipation-station",
+      "lastUpdated": "2/10/2029"
+    },
+    {
+      "id": "26613",
+      "title": "Red Racks DAV Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8026 Wornall Rd, Kansas City, MO 64109",
+      "street": "8026 Wornall Rd",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.384481637135,
+        "lng": -81.747174203857
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store",
+      "lastUpdated": "3/10/2029"
+    },
+    {
+      "id": "26614",
+      "title": "Operation Breakthrough",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3039 Troost Ave, Kansas City, MO 64109",
+      "street": "3039 Troost Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.384469681693,
+        "lng": -81.739729234207
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/operation-breakthrough",
+      "lastUpdated": "4/10/2029"
+    },
+    {
+      "id": "26615",
+      "title": "Savers",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2251 NW Barry Rd, Kansas City, MO 64109",
+      "street": "2251 NW Barry Rd",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.40971997913,
+        "lng": -81.738259674795
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers",
+      "lastUpdated": "5/10/2029"
+    },
+    {
+      "id": "26616",
+      "title": "Goodwill North Oak",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4824 N Oak Trafficway, Kansas City, MO 64109",
+      "street": "4824 N Oak Trafficway",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.520584855495,
+        "lng": -81.549169961271
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-north-oak",
+      "lastUpdated": "6/10/2029"
+    },
+    {
+      "id": "26617",
+      "title": "The Salvation Army Family Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6219 Johnson Dr, Kansas City, MO 64109",
+      "street": "6219 Johnson Dr",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.501297499202,
+        "lng": -81.538395178224
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
+      "lastUpdated": "7/10/2029"
+    },
+    {
+      "id": "26618",
+      "title": "Savers Community Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5441 W 95th St, Kansas City, MO 64109",
+      "street": "5441 W 95th St",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 37.798758864291,
+        "lng": -122.267778636329
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center",
+      "lastUpdated": "8/10/2029"
+    },
+    {
+      "id": "26619",
+      "title": "The Bookstore at Troost 39 Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3922 Troost Ave, Kansas City, MO 64109",
+      "street": "3922 Troost Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 37.943468845505,
+        "lng": -121.26827219363
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-bookstore-at-troost-39-thrift-store",
+      "lastUpdated": "9/10/2029"
+    },
+    {
+      "id": "26620",
+      "title": "City Thrift Overland Park",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "11186 Antioch Rd, Kansas City, MO 64109",
+      "street": "11186 Antioch Rd",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 37.980491224654,
+        "lng": -121.297818044857
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/city-thrift-overland-park",
+      "lastUpdated": "10/10/2029"
+    },
+    {
+      "id": "26621",
+      "title": "Catholic Charities - Serve & Lift Center - Kansas City",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8001 Longview Rd, Kansas City, MO 64109",
+      "street": "8001 Longview Rd",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 38.005567480412,
+        "lng": -121.31831783542
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/catholic-charities---serve-&-lift-center---kansas-city",
+      "lastUpdated": "11/10/2029"
+    },
+    {
+      "id": "26622",
+      "title": "The Salvation Army Family Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "11421 Metcalf Ave, Kansas City, MO 64109",
+      "street": "11421 Metcalf Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.511242009876,
+        "lng": -81.619158749199
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
+      "lastUpdated": "12/10/2029"
+    },
+    {
+      "id": "26623",
+      "title": "Bishop Sullivan Center - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3936 Troost Ave, Kansas City, MO 64109",
+      "street": "3936 Troost Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 37.967895073549,
+        "lng": -121.274913705807
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center---food-distribution-center",
+      "lastUpdated": "13/10/2029"
+    },
+    {
+      "id": "26624",
+      "title": "Copycat Kids",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2711 Troost Ave, Kansas City, MO 64109",
+      "street": "2711 Troost Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.512821110069,
+        "lng": -81.611127060389
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/copycat-kids",
+      "lastUpdated": "14/10/2029"
+    },
+    {
+      "id": "26625",
+      "title": "Shelter KC Women's Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2611 E 11th St, Kansas City, MO 64109",
+      "street": "2611 E 11th St",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 37.970256038519,
+        "lng": -121.278014770289
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/shelter-kc-women's-center",
+      "lastUpdated": "15/10/2029"
+    },
+    {
+      "id": "26626",
+      "title": "Savers",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5441 W 95th St, Kansas City, MO 64109",
+      "street": "5441 W 95th St",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.506025307035,
+        "lng": -81.613037525697
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers",
+      "lastUpdated": "16/10/2029"
+    },
+    {
+      "id": "26627",
+      "title": "Lost & Found KCMO",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64109",
+      "street": "Kansas City",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 37.990413771694,
+        "lng": -121.316455473687
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/lost-&-found-kcmo",
+      "lastUpdated": "17/10/2029"
+    },
+    {
+      "id": "26628",
+      "title": "Uzazi Village",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4232 Troost Ave, Kansas City, MO 64109",
+      "street": "4232 Troost Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 41.515972134835,
+        "lng": -81.569099084438
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/uzazi-village",
+      "lastUpdated": "18/10/2029"
+    },
+    {
+      "id": "26629",
+      "title": "Cornerstones of Care",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8150 Wornall Rd, Kansas City, MO 64109",
+      "street": "8150 Wornall Rd",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/cornerstones-of-care",
+      "lastUpdated": "19/10/2029"
+    },
+    {
+      "id": "26630",
+      "title": "Angels Encamped Foundation",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4215 Euclid Ave, Kansas City, MO 64109",
+      "street": "4215 Euclid Ave",
+      "zip": "64109",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/angels-encamped-foundation",
+      "lastUpdated": "20/10/2029"
+    },
+    {
+      "id": "26631",
+      "title": "Kansas City GIFT",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5008 Prospect Ave, Kansas City, MO 64110",
+      "street": "5008 Prospect Ave",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/kansas-city-gift",
+      "lastUpdated": "21/10/2029"
+    },
+    {
+      "id": "26632",
+      "title": "The Salvation Army Family Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8330 N Broadway, Kansas City, MO 64110",
+      "street": "8330 N Broadway",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
+      "lastUpdated": "22/10/2029"
+    },
+    {
+      "id": "26633",
+      "title": "Hillcrest Thrift Shop - Picture Hills (HPC)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6501 N Cosby Ave, Kansas City, MO 64110",
+      "street": "6501 N Cosby Ave",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 37.956464382179,
+        "lng": -121.274330747065
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-shop---picture-hills-(hpc)",
+      "lastUpdated": "23/10/2029"
+    },
+    {
+      "id": "26634",
+      "title": "Rex Vintage",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64110",
+      "street": "Kansas City",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 47.466021522083,
+        "lng": -122.336847520371
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/rex-vintage",
+      "lastUpdated": "24/10/2029"
+    },
+    {
+      "id": "26635",
+      "title": "HappyBottoms",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "303 W 79th St, Kansas City, MO 64110",
+      "street": "303 W 79th St",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/happybottoms",
+      "lastUpdated": "25/10/2029"
+    },
+    {
+      "id": "26636",
+      "title": "Salvation Army Family Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1301 E 10th St, Kansas City, MO 64110",
+      "street": "1301 E 10th St",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-family-store",
+      "lastUpdated": "26/10/2029"
+    },
+    {
+      "id": "26637",
+      "title": "Blessings Abound",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "10325 Metcalf Ave, Kansas City, MO 64110",
+      "street": "10325 Metcalf Ave",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 47.708646078443,
+        "lng": -122.323192061826
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/blessings-abound",
+      "lastUpdated": "27/10/2029"
+    },
+    {
+      "id": "26638",
+      "title": "Restart Inc",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "918 E 9th St, Kansas City, MO 64110",
+      "street": "918 E 9th St",
+      "zip": "64110",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/restart-inc",
+      "lastUpdated": "28/10/2029"
+    },
+    {
+      "id": "26639",
+      "title": "United Way of Greater Kansas City",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4801 Main St Suite #425, Kansas City, MO 64112",
+      "street": "4801 Main St Suite #425",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/united-way-of-greater-kansas-city",
+      "lastUpdated": "29/10/2029"
+    },
+    {
+      "id": "26640",
+      "title": "Family Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8026 Wornall Rd, Kansas City, MO 64112",
+      "street": "8026 Wornall Rd",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 47.493144976683,
+        "lng": -122.239414874783
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/family-thrift-store",
+      "lastUpdated": "30/10/2029"
+    },
+    {
+      "id": "26641",
+      "title": "Charlie Hustle",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4747 Broadway Blvd, Kansas City, MO 64112",
+      "street": "4747 Broadway Blvd",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/charlie-hustle",
+      "lastUpdated": "31/10/2029"
+    },
+    {
+      "id": "26642",
+      "title": "Goodwill Waldo",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8230 Wornall Rd, Kansas City, MO 64112",
+      "street": "8230 Wornall Rd",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-waldo",
+      "lastUpdated": "1/11/2029"
+    },
+    {
+      "id": "26643",
+      "title": "Adelante Thrift",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3720 State Ave, Kansas City, MO 64112",
+      "street": "3720 State Ave",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 42.331840067282,
+        "lng": -83.051099081363
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/adelante-thrift",
+      "lastUpdated": "2/11/2029"
+    },
+    {
+      "id": "26644",
+      "title": "Savers Community Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2251 NW Barry Rd, Kansas City, MO 64112",
+      "street": "2251 NW Barry Rd",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center",
+      "lastUpdated": "3/11/2029"
+    },
+    {
+      "id": "26645",
+      "title": "Blessings Abound",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "13637 Washington St, Kansas City, MO 64112",
+      "street": "13637 Washington St",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 42.374102490979,
+        "lng": -83.062476305107
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/blessings-abound",
+      "lastUpdated": "4/11/2029"
+    },
+    {
+      "id": "26646",
+      "title": "Annie's",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "841 W 39th St, Kansas City, MO 64112",
+      "street": "841 W 39th St",
+      "zip": "64112",
+      "coordinates": {
+        "lat": 42.340201348035,
+        "lng": -83.06843610323
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/annie's",
+      "lastUpdated": "5/11/2029"
+    },
+    {
+      "id": "26647",
+      "title": "THE ReSALE SHOP operated by Boost KC",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6601 N Oak Trafficway, Kansas City, MO 64113",
+      "street": "6601 N Oak Trafficway",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 41.481397901975,
+        "lng": -81.836561470045
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-resale-shop-operated-by-boost-kc",
+      "lastUpdated": "6/11/2029"
+    },
+    {
+      "id": "26648",
+      "title": "Go Green Recycling Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Broadway St",
+      "address": "On 75th at Broadway EB, Broadway St, Kansas City, MO 64113",
+      "street": "On 75th at Broadway EB",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 41.471748723145,
+        "lng": -81.888006766495
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
+      "lastUpdated": "7/11/2029"
+    },
+    {
+      "id": "26649",
+      "title": "The Clothes Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "9351 N Oak Trafficway, Kansas City, MO 64113",
+      "street": "9351 N Oak Trafficway",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 41.457156235629,
+        "lng": -81.897543391336
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
+      "lastUpdated": "8/11/2029"
+    },
+    {
+      "id": "26650",
+      "title": "Planet Aid Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64113",
+      "street": "Kansas City",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
+      "lastUpdated": "9/11/2029"
+    },
+    {
+      "id": "26651",
+      "title": "The Clothes Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8108 NW Prairie View Rd, Kansas City, MO 64113",
+      "street": "8108 NW Prairie View Rd",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 47.405662354056,
+        "lng": -122.324856656666
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
+      "lastUpdated": "10/11/2029"
+    },
+    {
+      "id": "26652",
+      "title": "Variety Donation Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8301 N St Clair Ave, Kansas City, MO 64113",
+      "street": "8301 N St Clair Ave",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 37.960480859434,
+        "lng": -121.275102603688
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/variety-donation-bin",
+      "lastUpdated": "11/11/2029"
+    },
+    {
+      "id": "26653",
+      "title": "Arc Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "7400 N Oak Trafficway, Kansas City, MO 64113",
+      "street": "7400 N Oak Trafficway",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 38.021067218648,
+        "lng": -121.269320562687
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/arc-thrift-store",
+      "lastUpdated": "12/11/2029"
+    },
+    {
+      "id": "26654",
+      "title": "Planet Aid Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5948 N Northwood Rd, Kansas City, MO 64113",
+      "street": "5948 N Northwood Rd",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 37.9067805801,
+        "lng": -121.249367919784
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
+      "lastUpdated": "13/11/2029"
+    },
+    {
+      "id": "26655",
+      "title": "Red Racks DAV Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2425 NE Vivion Rd, Kansas City, MO 64113",
+      "street": "2425 NE Vivion Rd",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 37.971920667986,
+        "lng": -121.300601654272
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store",
+      "lastUpdated": "14/11/2029"
+    },
+    {
+      "id": "26656",
+      "title": "The Clothes Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8660 N Ambassador Dr, Kansas City, MO 64113",
+      "street": "8660 N Ambassador Dr",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 37.946998935989,
+        "lng": -121.297802876683
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
+      "lastUpdated": "15/11/2029"
+    },
+    {
+      "id": "26657",
+      "title": "Goodwill Liberty",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "9740 N Cedar Ave, Kansas City, MO 64113",
+      "street": "9740 N Cedar Ave",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 37.947407327106,
+        "lng": -121.297156201887
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-liberty",
+      "lastUpdated": "16/11/2029"
+    },
+    {
+      "id": "26658",
+      "title": "Planet Aid Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64113",
+      "street": "Kansas City",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 41.456086860928,
+        "lng": -81.901615589838
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
+      "lastUpdated": "17/11/2029"
+    },
+    {
+      "id": "26659",
+      "title": "The Clothes Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64113",
+      "street": "Kansas City",
+      "zip": "64113",
+      "coordinates": {
+        "lat": 37.965631079808,
+        "lng": -121.256023646354
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
+      "lastUpdated": "18/11/2029"
+    },
+    {
+      "id": "26660",
+      "title": "The Clothes Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64114",
+      "street": "Kansas City",
+      "zip": "64114",
+      "coordinates": {
+        "lat": 41.305516127514,
+        "lng": -81.835130276738
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
+      "lastUpdated": "19/11/2029"
+    },
+    {
+      "id": "26661",
+      "title": "House of Hope",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "21 Design Dr, Kansas City, MO 64116",
+      "street": "21 Design Dr",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 38.002105235798,
+        "lng": -121.316900875769
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/house-of-hope",
+      "lastUpdated": "20/11/2029"
+    },
+    {
+      "id": "26662",
+      "title": "A Turning Point",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1900 NE Englewood Rd, Kansas City, MO 64116",
+      "street": "1900 NE Englewood Rd",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 41.305569245625,
+        "lng": -81.835130728162
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/a-turning-point",
+      "lastUpdated": "21/11/2029"
+    },
+    {
+      "id": "26663",
+      "title": "DAV",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1102 Fayette St, Kansas City, MO 64116",
+      "street": "1102 Fayette St",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 37.960643533498,
+        "lng": -121.27430424705
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/dav",
+      "lastUpdated": "22/11/2029"
+    },
+    {
+      "id": "26664",
+      "title": "The Salvation Army - Northland Corps",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5306 N Oak Trafficway, Kansas City, MO 64116",
+      "street": "5306 N Oak Trafficway",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army---northland-corps",
+      "lastUpdated": "23/11/2029"
+    },
+    {
+      "id": "26665",
+      "title": "Go Green Recycling Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64116",
+      "street": "Kansas City",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 37.962401167306,
+        "lng": -121.293314349519
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
+      "lastUpdated": "24/11/2029"
+    },
+    {
+      "id": "26666",
+      "title": "MAJ-R Thrift & Discount",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6314 N Oak Trafficway, Kansas City, MO 64116",
+      "street": "6314 N Oak Trafficway",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount",
+      "lastUpdated": "25/11/2029"
+    },
+    {
+      "id": "26667",
+      "title": "BBBS Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1401 Fairfax Trafficway, Kansas City, MO 64116",
+      "street": "1401 Fairfax Trafficway",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 42.34449320973,
+        "lng": -83.065466520685
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/bbbs-donation-center",
+      "lastUpdated": "26/11/2029"
+    },
+    {
+      "id": "26668",
+      "title": "Assistance League-Kansas City",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6101 N Chestnut Ave, Kansas City, MO 64116",
+      "street": "6101 N Chestnut Ave",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/assistance-league-kansas-city",
+      "lastUpdated": "27/11/2029"
+    },
+    {
+      "id": "26669",
+      "title": "Giving the Basics",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "927 S 7th St, Kansas City, MO 64116",
+      "street": "927 S 7th St",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/giving-the-basics",
+      "lastUpdated": "28/11/2029"
+    },
+    {
+      "id": "26670",
+      "title": "Big Brothers Big Sisters Donation Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8124 NW Prairie View Rd, Kansas City, MO 64116",
+      "street": "8124 NW Prairie View Rd",
+      "zip": "64116",
+      "coordinates": {
+        "lat": 47.61607643091,
+        "lng": -122.132316015143
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin",
+      "lastUpdated": "29/11/2029"
+    },
+    {
+      "id": "26671",
+      "title": "Habitat KC ReStore Deramus",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4701 Deramus Ave, Kansas City, MO 64117",
+      "street": "4701 Deramus Ave",
+      "zip": "64117",
+      "coordinates": {
+        "lat": 47.569608870623,
+        "lng": -122.169367848266
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-deramus",
+      "lastUpdated": "30/11/2029"
+    },
+    {
+      "id": "26672",
+      "title": "Metropolitan Lutheran Ministry",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1100 NE Vivion Rd, Kansas City, MO 64117",
+      "street": "1100 NE Vivion Rd",
+      "zip": "64117",
+      "coordinates": {
+        "lat": 47.617808658088,
+        "lng": -122.121781136502
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/metropolitan-lutheran-ministry",
+      "lastUpdated": "1/12/2029"
+    },
+    {
+      "id": "26673",
+      "title": "Go Green Recycling Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64117",
+      "street": "Kansas City",
+      "zip": "64117",
+      "coordinates": {
+        "lat": 47.628440611047,
+        "lng": -122.170976795142
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
+      "lastUpdated": "2/12/2029"
+    },
+    {
+      "id": "26674",
+      "title": "Kc thrift",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "200 NW 72nd St, Kansas City, MO 64118",
+      "street": "200 NW 72nd St",
+      "zip": "64118",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/kc-thrift",
+      "lastUpdated": "3/12/2029"
+    },
+    {
+      "id": "26675",
+      "title": "My Best Friend's Closet",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "347 NW Barry Rd, Kansas City, MO 64119",
+      "street": "347 NW Barry Rd",
+      "zip": "64119",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/my-best-friend's-closet",
+      "lastUpdated": "4/12/2029"
+    },
+    {
+      "id": "26676",
+      "title": "Big Brothers Big Sisters Donation Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8448 N Church Rd, Kansas City, MO 64119",
+      "street": "8448 N Church Rd",
+      "zip": "64119",
+      "coordinates": {
+        "lat": 42.342164946078,
+        "lng": -83.073888615215
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin",
+      "lastUpdated": "5/12/2029"
+    },
+    {
+      "id": "26677",
+      "title": "Community Blood Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "7265 N Oak Trafficway, Kansas City, MO 64119",
+      "street": "7265 N Oak Trafficway",
+      "zip": "64119",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/community-blood-center",
+      "lastUpdated": "6/12/2029"
+    },
+    {
+      "id": "26678",
+      "title": "Plato's Closet Kansas City MO",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8557 N Oak Trafficway, Kansas City, MO 64119",
+      "street": "8557 N Oak Trafficway",
+      "zip": "64119",
+      "coordinates": {
+        "lat": 42.345193135425,
+        "lng": -83.057199462662
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/plato's-closet-kansas-city-mo",
+      "lastUpdated": "7/12/2029"
+    },
+    {
+      "id": "26679",
+      "title": "Northland Shepherd's Centers",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5601 NE Antioch Rd #12, Kansas City, MO 64119",
+      "street": "5601 NE Antioch Rd #12",
+      "zip": "64119",
+      "coordinates": {
+        "lat": 42.351406789347,
+        "lng": -83.076969606345
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/northland-shepherd's-centers",
+      "lastUpdated": "8/12/2029"
+    },
+    {
+      "id": "26680",
+      "title": "Avenue of Life",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "500 N 7th St Trfy Suite 101, Kansas City, MO 64120",
+      "street": "500 N 7th St Trfy Suite 101",
+      "zip": "64120",
+      "coordinates": {
+        "lat": 42.430039939777,
+        "lng": -83.216413130298
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/avenue-of-life",
+      "lastUpdated": "9/12/2029"
+    },
+    {
+      "id": "26681",
+      "title": "RPOR Drop-In Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5108 Independence Ave, Kansas City, MO 64120",
+      "street": "5108 Independence Ave",
+      "zip": "64120",
+      "coordinates": {
+        "lat": 42.377909819655,
+        "lng": -83.032284652265
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/rpor-drop-in-center",
+      "lastUpdated": "10/12/2029"
+    },
+    {
+      "id": "26682",
+      "title": "Charity Thrift Mart",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5631 E Truman Rd, Kansas City, MO 64123",
+      "street": "5631 E Truman Rd",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 42.329677278587,
+        "lng": -83.064967461151
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/charity-thrift-mart",
+      "lastUpdated": "11/12/2029"
+    },
+    {
+      "id": "26683",
+      "title": "Salvation Army - Eastside - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3013 E 9th St, Kansas City, MO 64123",
+      "street": "3013 E 9th St",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 47.630280610701,
+        "lng": -122.143143159066
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army---eastside---food-distribution-center",
+      "lastUpdated": "12/12/2029"
+    },
+    {
+      "id": "26684",
+      "title": "Independence Boulevard - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "606 Gladstone Blvd, Kansas City, MO 64123",
+      "street": "606 Gladstone Blvd",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 37.888571924736,
+        "lng": -121.243456558154
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/independence-boulevard---food-distribution-center",
+      "lastUpdated": "13/12/2029"
+    },
+    {
+      "id": "26685",
+      "title": "Planet Aid",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "208 Bennington Ave, Kansas City, MO 64123",
+      "street": "208 Bennington Ave",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 42.322905369062,
+        "lng": -83.065398188838
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid",
+      "lastUpdated": "14/12/2029"
+    },
+    {
+      "id": "26686",
+      "title": "Calvary Temple",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5612 St John Ave, Kansas City, MO 64123",
+      "street": "5612 St John Ave",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/calvary-temple",
+      "lastUpdated": "15/12/2029"
+    },
+    {
+      "id": "26687",
+      "title": "Cherith Brook Catholic Worker House",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "3226 E 12th St",
+      "address": "Cherith Brook Giving Grove, 3226 E 12th St, Kansas City, MO 64123",
+      "street": "Cherith Brook Giving Grove",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 37.959597493584,
+        "lng": -121.306571776194
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/cherith-brook-catholic-worker-house",
+      "lastUpdated": "16/12/2029"
+    },
+    {
+      "id": "26688",
+      "title": "Bishop Sullivan Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6435 E Truman Rd, Kansas City, MO 64123",
+      "street": "6435 E Truman Rd",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center",
+      "lastUpdated": "17/12/2029"
+    },
+    {
+      "id": "26689",
+      "title": "CSL Plasma",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6000 Independence Ave, Kansas City, MO 64123",
+      "street": "6000 Independence Ave",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 37.948774832966,
+        "lng": -121.286065744426
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/csl-plasma",
+      "lastUpdated": "18/12/2029"
+    },
+    {
+      "id": "26690",
+      "title": "Sheffield Family Life Center Church - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5700 Winner Rd, Kansas City, MO 64123",
+      "street": "5700 Winner Rd",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 38.021008921433,
+        "lng": -121.334757593191
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/sheffield-family-life-center-church---food-distribution-center",
+      "lastUpdated": "19/12/2029"
+    },
+    {
+      "id": "26691",
+      "title": "Missouri Organic Recycling open 8am to 5 pm Saturdays only for KCMO yard waste drop off.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1815 N Chouteau Trafficway, Kansas City, MO 64123",
+      "street": "1815 N Chouteau Trafficway",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 37.997525548286,
+        "lng": -121.303860220091
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/missouri-organic-recycling-open-8am-to-5-pm-saturdays-only-for-kcmo-yard-waste-drop-off.",
+      "lastUpdated": "20/12/2029"
+    },
+    {
+      "id": "26692",
+      "title": "Healing House Processing Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4614 St John Ave, Kansas City, MO 64123",
+      "street": "4614 St John Ave",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 37.947407327106,
+        "lng": -121.297156201887
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/healing-house-processing-center",
+      "lastUpdated": "21/12/2029"
+    },
+    {
+      "id": "26693",
+      "title": "rummage exports, LLC",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "131 Belmont Blvd, Kansas City, MO 64123",
+      "street": "131 Belmont Blvd",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 35.374375964709,
+        "lng": -119.017832433028
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/rummage-exports,-llc",
+      "lastUpdated": "22/12/2029"
+    },
+    {
+      "id": "26694",
+      "title": "Della Lamb Community Services",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "500 Woodland Ave, Kansas City, MO 64123",
+      "street": "500 Woodland Ave",
+      "zip": "64123",
+      "coordinates": {
+        "lat": 42.356259500029,
+        "lng": -83.029495554099
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/della-lamb-community-services",
+      "lastUpdated": "23/12/2029"
+    },
+    {
+      "id": "26695",
+      "title": "Hopecity",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5101 E 24th St, Kansas City, MO 64124",
+      "street": "5101 E 24th St",
+      "zip": "64124",
+      "coordinates": {
+        "lat": 35.376236519024,
+        "lng": -119.003147687224
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hopecity",
+      "lastUpdated": "24/12/2029"
+    },
+    {
+      "id": "26696",
+      "title": "Hope City - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5101 E 24th St, Kansas City, MO 64124",
+      "street": "5101 E 24th St",
+      "zip": "64124",
+      "coordinates": {
+        "lat": 42.340201348035,
+        "lng": -83.06843610323
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hope-city---food-distribution-center",
+      "lastUpdated": "25/12/2029"
+    },
+    {
+      "id": "26697",
+      "title": "Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3810 E Truman Rd, Kansas City, MO 64124",
+      "street": "3810 E Truman Rd",
+      "zip": "64124",
+      "coordinates": {
+        "lat": 35.376193300355,
+        "lng": -119.022426002659
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/thrift-store",
+      "lastUpdated": "26/12/2029"
+    },
+    {
+      "id": "26698",
+      "title": "Hope Faith Ministries - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "705 Virginia Ave, Kansas City, MO 64124",
+      "street": "705 Virginia Ave",
+      "zip": "64124",
+      "coordinates": {
+        "lat": 47.640185354538,
+        "lng": -122.399702870858
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hope-faith-ministries---food-distribution-center",
+      "lastUpdated": "27/12/2029"
+    },
+    {
+      "id": "26699",
+      "title": "Mother's Refuge",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3721 S Delridge Rd, Kansas City, MO 64126",
+      "street": "3721 S Delridge Rd",
+      "zip": "64126",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/mother's-refuge",
+      "lastUpdated": "28/12/2029"
+    },
+    {
+      "id": "26700",
+      "title": "The Salvation Army Family Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1535 East 23rd St S, Kansas City, MO 64126",
+      "street": "1535 East 23rd St S",
+      "zip": "64126",
+      "coordinates": {
+        "lat": 42.361538092817,
+        "lng": -83.096027002084
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
+      "lastUpdated": "29/12/2029"
+    },
+    {
+      "id": "26701",
+      "title": "Chenal Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "11432 E Truman Rd, Kansas City, MO 64126",
+      "street": "11432 E Truman Rd",
+      "zip": "64126",
+      "coordinates": {
+        "lat": 42.353707893401,
+        "lng": -83.013491773526
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/chenal-thrift-store",
+      "lastUpdated": "30/12/2029"
+    },
+    {
+      "id": "26702",
+      "title": "Justice Dignity Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2908 Indiana Ave, Kansas City, MO 64127",
+      "street": "2908 Indiana Ave",
+      "zip": "64127",
+      "coordinates": {
+        "lat": 42.377458967401,
+        "lng": -83.13529563258
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/justice-dignity-center",
+      "lastUpdated": "31/12/2029"
+    },
+    {
+      "id": "26703",
+      "title": "Goodwill Raytown",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8648 E 63rd St, Kansas City, MO 64129",
+      "street": "8648 E 63rd St",
+      "zip": "64129",
+      "coordinates": {
+        "lat": 42.402733193773,
+        "lng": -83.113085321161
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-raytown",
+      "lastUpdated": "1/01/2030"
+    },
+    {
+      "id": "26704",
+      "title": "Goodwill East 63rd",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8648 E 63rd St, Kansas City, MO 64129",
+      "street": "8648 E 63rd St",
+      "zip": "64129",
+      "coordinates": {
+        "lat": 42.398746597319,
+        "lng": -83.059019083264
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-east-63rd",
+      "lastUpdated": "2/01/2030"
+    },
+    {
+      "id": "26705",
+      "title": "MAJ-R Thrift & Discount",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "7506 Raytown Rd, Kansas City, MO 64129",
+      "street": "7506 Raytown Rd",
+      "zip": "64129",
+      "coordinates": {
+        "lat": 42.373959096249,
+        "lng": -83.06286788304
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount",
+      "lastUpdated": "3/01/2030"
+    },
+    {
+      "id": "26706",
+      "title": "CSL Pickup service",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3848 S Noland Rd, Kansas City, MO 64129",
+      "street": "3848 S Noland Rd",
+      "zip": "64129",
+      "coordinates": {
+        "lat": 42.386598056631,
+        "lng": -83.106584866417
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/csl-pickup-service",
+      "lastUpdated": "4/01/2030"
+    },
+    {
+      "id": "26707",
+      "title": "Open Box Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64129",
+      "street": "Kansas City",
+      "zip": "64129",
+      "coordinates": {
+        "lat": 35.339611685444,
+        "lng": -119.048746848785
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/open-box-thrift-store",
+      "lastUpdated": "5/01/2030"
+    },
+    {
+      "id": "26708",
+      "title": "Thrift World",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3848 S Noland Rd, Kansas City, MO 64129",
+      "street": "3848 S Noland Rd",
+      "zip": "64129",
+      "coordinates": {
+        "lat": 42.399217069634,
+        "lng": -83.059327561569
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/thrift-world",
+      "lastUpdated": "6/01/2030"
+    },
+    {
+      "id": "26709",
+      "title": "Planet Aid Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "On Troost at 82nd Terr Northbound Nearside, Kansas City, MO 64129",
+      "street": "On Troost at 82nd Terr Northbound Nearside",
+      "zip": "64129",
+      "coordinates": {
+        "lat": 35.359333824895,
+        "lng": -119.060941533731
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
+      "lastUpdated": "7/01/2030"
+    },
+    {
+      "id": "26710",
+      "title": "Goodwill Outlet & Recycling Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "5000 Bannister Rd, Kansas City, MO 64131",
+      "street": "5000 Bannister Rd",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 42.389441518195,
+        "lng": -83.086286112884
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-outlet-&-recycling-center",
+      "lastUpdated": "8/01/2030"
+    },
+    {
+      "id": "26711",
+      "title": "Story Boutique - benefits Kansas City Hospice",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3704 W 95th St, Kansas City, MO 64131",
+      "street": "3704 W 95th St",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 35.376454504987,
+        "lng": -119.010526300251
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/story-boutique---benefits-kansas-city-hospice",
+      "lastUpdated": "9/01/2030"
+    },
+    {
+      "id": "26712",
+      "title": "Community Assistance Council/LincWorks",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "10901 Blue Ridge Blvd, Kansas City, MO 64131",
+      "street": "10901 Blue Ridge Blvd",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 35.370805094974,
+        "lng": -118.995131500049
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/community-assistance-council/lincworks",
+      "lastUpdated": "10/01/2030"
+    },
+    {
+      "id": "26713",
+      "title": "Chosen",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1014b Main St, Kansas City, MO 64131",
+      "street": "1014b Main St",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 35.43582398939,
+        "lng": -119.012546710401
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/chosen",
+      "lastUpdated": "11/01/2030"
+    },
+    {
+      "id": "26714",
+      "title": "GROW",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "13007 State Line Rd, Kansas City, MO 64131",
+      "street": "13007 State Line Rd",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 35.36182110952,
+        "lng": -119.002893240724
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/grow",
+      "lastUpdated": "12/01/2030"
+    },
+    {
+      "id": "26715",
+      "title": "ICNA Relief - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64131",
+      "street": "Kansas City",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 35.310357761995,
+        "lng": -119.056742280982
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/icna-relief---food-distribution-center",
+      "lastUpdated": "13/01/2030"
+    },
+    {
+      "id": "26716",
+      "title": "Goodwill Leawood",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "12900 State Line Rd, Kansas City, MO 64131",
+      "street": "12900 State Line Rd",
+      "zip": "64131",
+      "coordinates": {
+        "lat": 35.392471011122,
+        "lng": -119.018657379079
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-leawood",
+      "lastUpdated": "14/01/2030"
+    },
+    {
+      "id": "26717",
+      "title": "Frugal's Family Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4804 S Noland Rd, Kansas City, MO 64133",
+      "street": "4804 S Noland Rd",
+      "zip": "64133",
+      "coordinates": {
+        "lat": 35.394750656986,
+        "lng": -118.949709607349
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/frugal's-family-thrift-store",
+      "lastUpdated": "15/01/2030"
+    },
+    {
+      "id": "26718",
+      "title": "Maj-R Thrift & Discount Store Grandview",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1500 Main St, Kansas City, MO 64134",
+      "street": "1500 Main St",
+      "zip": "64134",
+      "coordinates": {
+        "lat": 35.332263759556,
+        "lng": -119.053903356992
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount-store-grandview",
+      "lastUpdated": "16/01/2030"
+    },
+    {
+      "id": "26719",
+      "title": "Habitat KC ReStore Martin City",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "13531 Wyandotte St, Kansas City, MO 64134",
+      "street": "13531 Wyandotte St",
+      "zip": "64134",
+      "coordinates": {
+        "lat": 42.342280401721,
+        "lng": -83.057362005286
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-martin-city",
+      "lastUpdated": "17/01/2030"
+    },
+    {
+      "id": "26720",
+      "title": "MJ's Affordable Finds",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64136",
+      "street": "Kansas City",
+      "zip": "64136",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/mj's-affordable-finds",
+      "lastUpdated": "18/01/2030"
+    },
+    {
+      "id": "26721",
+      "title": "Deals Thrift Mart",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64136",
+      "street": "Kansas City",
+      "zip": "64136",
+      "coordinates": {
+        "lat": 42.397126238208,
+        "lng": -83.206364564481
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/deals-thrift-mart",
+      "lastUpdated": "19/01/2030"
+    },
+    {
+      "id": "26722",
+      "title": "The Clothing Fund",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "3848 S Noland Rd, Kansas City, MO 64136",
+      "street": "3848 S Noland Rd",
+      "zip": "64136",
+      "coordinates": {
+        "lat": 42.426209251075,
+        "lng": -83.102205617275
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothing-fund",
+      "lastUpdated": "20/01/2030"
+    },
+    {
+      "id": "26723",
+      "title": "Hope Network of Raytown",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "10500 E State Rte 350, Kansas City, MO 64138",
+      "street": "10500 E State Rte 350",
+      "zip": "64138",
+      "coordinates": {
+        "lat": 42.411463545119,
+        "lng": -83.118698491931
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hope-network-of-raytown",
+      "lastUpdated": "21/01/2030"
+    },
+    {
+      "id": "26724",
+      "title": "Gnarly Hussle",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6317 Raytown Rd, Kansas City, MO 64138",
+      "street": "6317 Raytown Rd",
+      "zip": "64138",
+      "coordinates": {
+        "lat": 42.406716235617,
+        "lng": -83.148456384118
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/gnarly-hussle",
+      "lastUpdated": "22/01/2030"
+    },
+    {
+      "id": "26725",
+      "title": "Hope Network - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "E State Rte 350, Kansas City, MO 64138",
+      "street": "E State Rte 350",
+      "zip": "64138",
+      "coordinates": {
+        "lat": 42.345918088008,
+        "lng": -83.094150115044
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hope-network---food-distribution-center",
+      "lastUpdated": "23/01/2030"
+    },
+    {
+      "id": "26726",
+      "title": "Hillcrest Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "936 SE 3rd St, Kansas City, MO 64138",
+      "street": "936 SE 3rd St",
+      "zip": "64138",
+      "coordinates": {
+        "lat": 42.404830615298,
+        "lng": -83.036235218562
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-store",
+      "lastUpdated": "24/01/2030"
+    },
+    {
+      "id": "26727",
+      "title": "Coldwater of Lee's Summit",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64138",
+      "street": "Kansas City",
+      "zip": "64138",
+      "coordinates": {
+        "lat": 35.373179393968,
+        "lng": -118.979758522972
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/coldwater-of-lee's-summit",
+      "lastUpdated": "25/01/2030"
+    },
+    {
+      "id": "26728",
+      "title": "Heart and Soul Resale Shop",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "12904 State Line Rd, Kansas City, MO 64145",
+      "street": "12904 State Line Rd",
+      "zip": "64145",
+      "coordinates": {
+        "lat": 42.347937450459,
+        "lng": -83.039417146296
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/heart-and-soul-resale-shop",
+      "lastUpdated": "26/01/2030"
+    },
+    {
+      "id": "26729",
+      "title": "Salvation Army Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64145",
+      "street": "Kansas City",
+      "zip": "64145",
+      "coordinates": {
+        "lat": 35.354006503101,
+        "lng": -118.969619084309
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-thrift-store",
+      "lastUpdated": "27/01/2030"
+    },
+    {
+      "id": "26730",
+      "title": "The Salvation Army Family Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64146",
+      "street": "Kansas City",
+      "zip": "64146",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
+      "lastUpdated": "28/01/2030"
+    },
+    {
+      "id": "26731",
+      "title": "Heart N Hand Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "305 N Scott Ave, Kansas City, MO 64146",
+      "street": "305 N Scott Ave",
+      "zip": "64146",
+      "coordinates": {
+        "lat": 35.371869878507,
+        "lng": -118.981182859076
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/heart-n-hand-thrift-store",
+      "lastUpdated": "29/01/2030"
+    },
+    {
+      "id": "26732",
+      "title": "Eagles Community Outreach",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "406 N Foxridge Dr, Kansas City, MO 64149",
+      "street": "406 N Foxridge Dr",
+      "zip": "64149",
+      "coordinates": {
+        "lat": 42.411827019767,
+        "lng": -83.24580578106
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/eagles-community-outreach",
+      "lastUpdated": "30/01/2030"
+    },
+    {
+      "id": "26733",
+      "title": "Hillcrest Thrift Outlet (HPC)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6520 NW Prairie View Rd, Kansas City, MO 64151",
+      "street": "6520 NW Prairie View Rd",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 35.412229936727,
+        "lng": -119.042961515927
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-outlet-(hpc)",
+      "lastUpdated": "31/01/2030"
+    },
+    {
+      "id": "26734",
+      "title": "Go Green Recycling Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8500 N Green Hills Rd, Kansas City, MO 64151",
+      "street": "8500 N Green Hills Rd",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 35.375399104989,
+        "lng": -119.020103337403
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
+      "lastUpdated": "1/02/2030"
+    },
+    {
+      "id": "26735",
+      "title": "The Clothes Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64151",
+      "street": "Kansas City",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 35.394051648828,
+        "lng": -118.949701954041
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
+      "lastUpdated": "2/02/2030"
+    },
+    {
+      "id": "26736",
+      "title": "The Clothes Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64151",
+      "street": "Kansas City",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 35.416464893818,
+        "lng": -119.021215412791
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
+      "lastUpdated": "3/02/2030"
+    },
+    {
+      "id": "26737",
+      "title": "Ditto - Northland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6238 NW Barry Rd, Kansas City, MO 64151",
+      "street": "6238 NW Barry Rd",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 35.409658226389,
+        "lng": -119.021012156951
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/ditto---northland",
+      "lastUpdated": "4/02/2030"
+    },
+    {
+      "id": "26738",
+      "title": "Planet Aid Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64151",
+      "street": "Kansas City",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
+      "lastUpdated": "5/02/2030"
+    },
+    {
+      "id": "26739",
+      "title": "Northland Infant Clothing Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "House of Prayer",
+      "address": "7110 North West Hwy 9, House of Prayer, 7110 MO-9, Kansas City, MO 64151",
+      "street": "7110 North West Hwy 9",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 35.37627349578,
+        "lng": -119.016701109747
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/northland-infant-clothing-center",
+      "lastUpdated": "6/02/2030"
+    },
+    {
+      "id": "26740",
+      "title": "Planet Aid Bin",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2701 NW Gateway Ave, Kansas City, MO 64151",
+      "street": "2701 NW Gateway Ave",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 42.361683203239,
+        "lng": -83.082765502806
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
+      "lastUpdated": "7/02/2030"
+    },
+    {
+      "id": "26741",
+      "title": "Mission Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "7210 N Oak Trafficway, Kansas City, MO 64151",
+      "street": "7210 N Oak Trafficway",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/mission-thrift-store",
+      "lastUpdated": "8/02/2030"
+    },
+    {
+      "id": "26742",
+      "title": "JCPenney",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "9100 N Skyview Ave, Kansas City, MO 64151",
+      "street": "9100 N Skyview Ave",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 42.413947669271,
+        "lng": -83.160113498321
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/jcpenney",
+      "lastUpdated": "9/02/2030"
+    },
+    {
+      "id": "26743",
+      "title": "Vintage Stock",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8500 NW Prairie View Rd, Kansas City, MO 64151",
+      "street": "8500 NW Prairie View Rd",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/vintage-stock",
+      "lastUpdated": "10/02/2030"
+    },
+    {
+      "id": "26744",
+      "title": "Northland Animal Welfare Society (NAWS)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "6972 N Broadway, Kansas City, MO 64151",
+      "street": "6972 N Broadway",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 42.429482166643,
+        "lng": -82.957923135851
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/northland-animal-welfare-society-(naws)",
+      "lastUpdated": "11/02/2030"
+    },
+    {
+      "id": "26745",
+      "title": "The Village at Briarcliff",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "4151 N Mulberry Dr, Kansas City, MO 64151",
+      "street": "4151 N Mulberry Dr",
+      "zip": "64151",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-village-at-briarcliff",
+      "lastUpdated": "12/02/2030"
+    },
+    {
+      "id": "26746",
+      "title": "Mimi's Pantry",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2255 NW Vivion Rd, Kansas City, MO 64152",
+      "street": "2255 NW Vivion Rd",
+      "zip": "64152",
+      "coordinates": {
+        "lat": 34.004175871201,
+        "lng": -118.409204776497
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/mimi's-pantry",
+      "lastUpdated": "13/02/2030"
+    },
+    {
+      "id": "26747",
+      "title": "Hillcrest Thrift Shop - Platte City (HPC)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "1305 Branch St, Kansas City, MO 64153",
+      "street": "1305 Branch St",
+      "zip": "64153",
+      "coordinates": {
+        "lat": 42.419798197751,
+        "lng": -82.975475650589
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-shop---platte-city-(hpc)",
+      "lastUpdated": "14/02/2030"
+    },
+    {
+      "id": "26748",
+      "title": "Habitat KC ReStore Northland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "8516 N Oak Trafficway, Kansas City, MO 64154",
+      "street": "8516 N Oak Trafficway",
+      "zip": "64154",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-northland",
+      "lastUpdated": "15/02/2030"
+    },
+    {
+      "id": "26749",
+      "title": "Savers",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64156",
+      "street": "Kansas City",
+      "zip": "64156",
+      "coordinates": {
+        "lat": 42.402509142301,
+        "lng": -83.162241704675
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers",
+      "lastUpdated": "16/02/2030"
+    },
+    {
+      "id": "26750",
+      "title": "In As Much Food Pantry",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "2050 Plumbers Way #190, Kansas City, MO 64156",
+      "street": "2050 Plumbers Way #190",
+      "zip": "64156",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/in-as-much-food-pantry",
+      "lastUpdated": "17/02/2030"
+    },
+    {
+      "id": "26751",
+      "title": "Hillcrest Hope Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "7 W Mill St, Kansas City, MO 64156",
+      "street": "7 W Mill St",
+      "zip": "64156",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-hope-thrift-store",
+      "lastUpdated": "18/02/2030"
+    },
+    {
+      "id": "26752",
+      "title": "Savers Community Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Kansas City, MO 64156",
+      "street": "Kansas City",
+      "zip": "64156",
+      "coordinates": {
+        "lat": 34.048441442685,
+        "lng": -118.276846690816
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center",
+      "lastUpdated": "19/02/2030"
+    },
+    {
+      "id": "26753",
+      "title": "Wild Child Resale",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Kansas City",
+      "address": "915 W Liberty Dr, Kansas City, MO 64157",
+      "street": "915 W Liberty Dr",
+      "zip": "64157",
+      "coordinates": {
+        "lat": 42.408099123196,
+        "lng": -83.092428149554
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/wild-child-resale",
+      "lastUpdated": "20/02/2030"
+    },
+    {
+      "id": "26797",
+      "title": "Red Racks DAV Thrift Store",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Independence, MO 64050",
+      "street": "Independence",
+      "zip": "64050",
+      "coordinates": {
+        "lat": 42.247764791346,
+        "lng": -88.973204831064
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store",
+      "lastUpdated": "5/04/2030"
+    },
+    {
+      "id": "26798",
+      "title": "Mustard Seed",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "401 N Liberty St, Independence, MO 64051",
+      "street": "401 N Liberty St",
+      "zip": "64051",
+      "coordinates": {
+        "lat": 42.265200371924,
+        "lng": -88.979968891818
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/mustard-seed",
+      "lastUpdated": "6/04/2030"
+    },
+    {
+      "id": "26799",
+      "title": "The Salvation Army, Independence, MO",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "14700 E Truman Rd, Independence, MO 64051",
+      "street": "14700 E Truman Rd",
+      "zip": "64051",
+      "coordinates": {
+        "lat": 42.26235660867,
+        "lng": -89.056145420403
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army,-independence,-mo",
+      "lastUpdated": "7/04/2030"
+    },
+    {
+      "id": "26800",
+      "title": "24 Thrift & Tique",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "#N/A",
+      "address": "Independence, MO 64051",
+      "street": "Independence",
+      "zip": "64051",
+      "coordinates": {
+        "lat": 43.210404996704,
+        "lng": -77.706945628694
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/24-thrift-&-tique",
+      "lastUpdated": "8/04/2030"
+    },
+    {
+      "id": "26801",
+      "title": "Community Services League",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "404 N Noland Rd, Independence, MO 64051",
+      "street": "404 N Noland Rd",
+      "zip": "64051",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/community-services-league",
+      "lastUpdated": "9/04/2030"
+    },
+    {
+      "id": "26802",
+      "title": "City Thrift Outlet and Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "1102 NW Woods Chapel Rd, Independence, MO 64051",
+      "street": "1102 NW Woods Chapel Rd",
+      "zip": "64051",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/city-thrift-outlet-and-donation-center",
+      "lastUpdated": "10/04/2030"
+    },
+    {
+      "id": "26803",
+      "title": "Manor Thrift Shop",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "931 Brown St, Independence, MO 64051",
+      "street": "931 Brown St",
+      "zip": "64051",
+      "coordinates": {
+        "lat": 42.254049703963,
+        "lng": -89.080986695363
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/manor-thrift-shop",
+      "lastUpdated": "11/04/2030"
+    },
+    {
+      "id": "26804",
+      "title": "Cozy Corner Thrift",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "10813 East 23rd St S, Independence, MO 64052",
+      "street": "10813 East 23rd St S",
+      "zip": "64052",
+      "coordinates": {
+        "lat": 43.094652817374,
+        "lng": -77.615131974787
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/cozy-corner-thrift",
+      "lastUpdated": "12/04/2030"
+    },
+    {
+      "id": "26805",
+      "title": "Another Ones Treasure",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "10100 E Truman Rd, Independence, MO 64052",
+      "street": "10100 E Truman Rd",
+      "zip": "64052",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/another-ones-treasure",
+      "lastUpdated": "13/04/2030"
+    },
+    {
+      "id": "26806",
+      "title": "Life Connection Church - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "3883 Blue Ridge Blvd, Independence, MO 64052",
+      "street": "3883 Blue Ridge Blvd",
+      "zip": "64052",
+      "coordinates": {
+        "lat": 43.199672581425,
+        "lng": -77.561840238615
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/life-connection-church---food-distribution-center",
+      "lastUpdated": "14/04/2030"
+    },
+    {
+      "id": "26807",
+      "title": "Mount Washington Baptist Church - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "9623 E Independence Ave, Independence, MO 64052",
+      "street": "9623 E Independence Ave",
+      "zip": "64052",
+      "coordinates": {
+        "lat": 42.269089453822,
+        "lng": -88.999267927481
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/mount-washington-baptist-church---food-distribution-center",
+      "lastUpdated": "15/04/2030"
+    },
+    {
+      "id": "26808",
+      "title": "Fairmount Community Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "217 S Cedar Ave, Independence, MO 64052",
+      "street": "217 S Cedar Ave",
+      "zip": "64052",
+      "coordinates": {
+        "lat": 42.266330902413,
+        "lng": -88.962716789635
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/fairmount-community-center",
+      "lastUpdated": "16/04/2030"
+    },
+    {
+      "id": "26809",
+      "title": "Hillcrest Ministries",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "401 N Spring St, Independence, MO 64053",
+      "street": "401 N Spring St",
+      "zip": "64053",
+      "coordinates": {
+        "lat": 43.08662186397,
+        "lng": -77.637181613177
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-ministries",
+      "lastUpdated": "17/04/2030"
+    },
+    {
+      "id": "26810",
+      "title": "Thrift Therapy",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "1527 S Noland Rd, Independence, MO 64055",
+      "street": "1527 S Noland Rd",
+      "zip": "64055",
+      "coordinates": {
+        "lat": 43.072480078203,
+        "lng": -77.607155897363
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/thrift-therapy",
+      "lastUpdated": "18/04/2030"
+    },
+    {
+      "id": "26811",
+      "title": "Truman Heritage Habitat for Humanity Independence ReStore",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Missouri",
+      "stateSlug": "missouri",
+      "city": "Independence",
+      "address": "505 N Dodgion St, Independence, MO 64055",
+      "street": "505 N Dodgion St",
+      "zip": "64055",
+      "coordinates": {
+        "lat": 42.265520802163,
+        "lng": -89.082359764725
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/missouri/truman-heritage-habitat-for-humanity-independence-restore",
+      "lastUpdated": "19/04/2030"
     }
   ]
 }

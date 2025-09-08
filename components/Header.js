@@ -1,4 +1,4 @@
-// Save as: components/Header.js
+// Updated Header.js with Hub navigation
 import Link from 'next/link';
 import { useState } from 'react';
 
@@ -110,11 +110,14 @@ const Header = () => {
             <Link href="/map" className="text-blue-100 hover:text-white transition-colors">
               Map
             </Link>
-            <Link href="/about" className="text-blue-100 hover:text-white transition-colors">
-              About
+            <Link href="/hub" className="text-blue-100 hover:text-white transition-colors">
+              Hub
             </Link>
             <Link href="/guidelines" className="text-blue-100 hover:text-white transition-colors">
               Guidelines
+            </Link>
+            <Link href="/about" className="text-blue-100 hover:text-white transition-colors">
+              About
             </Link>
             <Link href="/contact" className="text-blue-100 hover:text-white transition-colors">
               Contact
@@ -190,11 +193,11 @@ const Header = () => {
                 Map
               </Link>
               <Link 
-                href="/about" 
+                href="/hub" 
                 className="block py-2 text-blue-100 hover:text-white transition-colors"
                 onClick={() => setIsMobileMenuOpen(false)}
               >
-                About
+                Hub
               </Link>
               <Link 
                 href="/guidelines" 
@@ -202,6 +205,13 @@ const Header = () => {
                 onClick={() => setIsMobileMenuOpen(false)}
               >
                 Guidelines
+              </Link>
+              <Link 
+                href="/about" 
+                className="block py-2 text-blue-100 hover:text-white transition-colors"
+                onClick={() => setIsMobileMenuOpen(false)}
+              >
+                About
               </Link>
               <Link 
                 href="/contact" 

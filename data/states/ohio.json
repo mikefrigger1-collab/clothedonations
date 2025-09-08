@@ -19906,6 +19906,4686 @@
       "logo": "planet-aid.jpg",
       "permalink": "https://www.clothedonations.com/ohio/planet-aid-shell-gas-station-2550/",
       "lastUpdated": "7/10/2024"
+    },
+    {
+      "id": "27859",
+      "title": "The Salvation Army Thrift Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5005 Euclid Ave, Cleveland, OH 44101",
+      "street": "5005 Euclid Ave",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 43.039715826679,
+        "lng": -83.669053658501
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-salvation-army-thrift-store-&-donation-center",
+      "lastUpdated": "2/03/2033"
+    },
+    {
+      "id": "27860",
+      "title": "Dress for Success Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2239 E 55th St, Cleveland, OH 44101",
+      "street": "2239 E 55th St",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.748830677024,
+        "lng": -96.663511154361
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/dress-for-success-cleveland",
+      "lastUpdated": "3/03/2033"
+    },
+    {
+      "id": "27861",
+      "title": "The City Mission",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5310 Carnegie Ave, Cleveland, OH 44101",
+      "street": "5310 Carnegie Ave",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.713513837946,
+        "lng": -96.699956105573
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-city-mission",
+      "lastUpdated": "4/03/2033"
+    },
+    {
+      "id": "27862",
+      "title": "Another Chance of Ohio",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2974 E 65th St, Cleveland, OH 44101",
+      "street": "2974 E 65th St",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.747897488408,
+        "lng": -96.6484392654
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/another-chance-of-ohio",
+      "lastUpdated": "5/03/2033"
+    },
+    {
+      "id": "27863",
+      "title": "PEARLS Girls' Community Closet at Malachi Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44101",
+      "street": "Cleveland",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.734745428097,
+        "lng": -96.678526652118
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/pearls-girls'-community-closet-at-malachi-center",
+      "lastUpdated": "6/03/2033"
+    },
+    {
+      "id": "27864",
+      "title": "West Side Catholic Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3135 Lorain Ave, Cleveland, OH 44101",
+      "street": "3135 Lorain Ave",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.750592964147,
+        "lng": -96.665240874123
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/west-side-catholic-center",
+      "lastUpdated": "7/03/2033"
+    },
+    {
+      "id": "27865",
+      "title": "St. Vincent de Paul Society Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1404 E 9th St 3rd Floor, Cleveland, OH 44101",
+      "street": "1404 E 9th St 3rd Floor",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.718749915557,
+        "lng": -96.69851104369
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/st.-vincent-de-paul-society-cleveland",
+      "lastUpdated": "8/03/2033"
+    },
+    {
+      "id": "27866",
+      "title": "The Salvation Army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2507 E 22nd St, Cleveland, OH 44101",
+      "street": "2507 E 22nd St",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.834711565188,
+        "lng": -96.670743697936
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-salvation-army",
+      "lastUpdated": "9/03/2033"
+    },
+    {
+      "id": "27867",
+      "title": "Joseph House",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6108 St Clair Ave., Cleveland, OH 44101",
+      "street": "6108 St Clair Ave.",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/joseph-house",
+      "lastUpdated": "10/03/2033"
+    },
+    {
+      "id": "27868",
+      "title": "DonateStuff.com Clothing Donation Pickup Service",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44101",
+      "street": "Cleveland",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/donatestuff.com-clothing-donation-pickup-service",
+      "lastUpdated": "11/03/2033"
+    },
+    {
+      "id": "27869",
+      "title": "Salvation Army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "12645 Lorain Ave, Cleveland, OH 44101",
+      "street": "12645 Lorain Ave",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 32.842609210765,
+        "lng": -96.691545410533
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/salvation-army",
+      "lastUpdated": "12/03/2033"
+    },
+    {
+      "id": "27870",
+      "title": "Salvation Army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4402 Clark Ave, Cleveland, OH 44101",
+      "street": "4402 Clark Ave",
+      "zip": "44101",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/salvation-army",
+      "lastUpdated": "13/03/2033"
+    },
+    {
+      "id": "27871",
+      "title": "Value World Thrift",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "11900 Detroit Ave, Cleveland, OH 44102",
+      "street": "11900 Detroit Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/value-world-thrift",
+      "lastUpdated": "14/03/2033"
+    },
+    {
+      "id": "27872",
+      "title": "Needs Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "7630 Lorain Ave, Cleveland, OH 44102",
+      "street": "7630 Lorain Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 43.027903359104,
+        "lng": -78.822115840224
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/needs-cleveland",
+      "lastUpdated": "15/03/2033"
+    },
+    {
+      "id": "27873",
+      "title": "Habitat for Humanity Greater Cleveland, ReStore",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2110 W 110th St, Cleveland, OH 44102",
+      "street": "2110 W 110th St",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/habitat-for-humanity-greater-cleveland,-restore",
+      "lastUpdated": "16/03/2033"
+    },
+    {
+      "id": "27874",
+      "title": "Margieâ€™s Closet",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1384 W 117th St, Cleveland, OH 44102",
+      "street": "1384 W 117th St",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 43.035198143536,
+        "lng": -78.822844450004
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/margieâ€™s-closet",
+      "lastUpdated": "17/03/2033"
+    },
+    {
+      "id": "27875",
+      "title": "Savers",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "7100 Brookpark Rd, Cleveland, OH 44102",
+      "street": "7100 Brookpark Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/savers",
+      "lastUpdated": "18/03/2033"
+    },
+    {
+      "id": "27876",
+      "title": "Providence House Inc.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2050 W 32nd St, Cleveland, OH 44102",
+      "street": "2050 W 32nd St",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/providence-house-inc.",
+      "lastUpdated": "19/03/2033"
+    },
+    {
+      "id": "27877",
+      "title": "Christ Child Showcase Lakewood",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "15404 Madison Ave, Cleveland, OH 44102",
+      "street": "15404 Madison Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/christ-child-showcase-lakewood",
+      "lastUpdated": "20/03/2033"
+    },
+    {
+      "id": "27878",
+      "title": "The Salvation Army Thrift Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6990 Biddulph Ave, Cleveland, OH 44102",
+      "street": "6990 Biddulph Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-salvation-army-thrift-store-&-donation-center",
+      "lastUpdated": "21/03/2033"
+    },
+    {
+      "id": "27879",
+      "title": "Christ Child Society of Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "7901 Detroit Ave, Cleveland, OH 44102",
+      "street": "7901 Detroit Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 43.012461324736,
+        "lng": -78.818488850018
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/christ-child-society-of-cleveland",
+      "lastUpdated": "22/03/2033"
+    },
+    {
+      "id": "27880",
+      "title": "Shoes and Clothes For Kids",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "15500 S Waterloo Rd, Cleveland, OH 44102",
+      "street": "15500 S Waterloo Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.867020572257,
+        "lng": -78.717946734242
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/shoes-and-clothes-for-kids",
+      "lastUpdated": "23/03/2033"
+    },
+    {
+      "id": "27881",
+      "title": "Kids In Need Resource Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3631 Perkins Ave Suite 1C, Cleveland, OH 44102",
+      "street": "3631 Perkins Ave Suite 1C",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.974501429086,
+        "lng": -78.813858895548
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/kids-in-need-resource-center",
+      "lastUpdated": "24/03/2033"
+    },
+    {
+      "id": "27882",
+      "title": "Salvation Army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4139 E 93rd St, Cleveland, OH 44102",
+      "street": "4139 E 93rd St",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.970159650725,
+        "lng": -78.696647093359
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/salvation-army",
+      "lastUpdated": "25/03/2033"
+    },
+    {
+      "id": "27883",
+      "title": "From One Mother To Another",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1721 Lee Rd, Cleveland, OH 44102",
+      "street": "1721 Lee Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/from-one-mother-to-another",
+      "lastUpdated": "26/03/2033"
+    },
+    {
+      "id": "27884",
+      "title": "Cleveland Furniture Bank",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6282 Pearl Rd, Cleveland, OH 44102",
+      "street": "6282 Pearl Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cleveland-furniture-bank",
+      "lastUpdated": "27/03/2033"
+    },
+    {
+      "id": "27885",
+      "title": "The Learning Zone- Salvation Army East Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1507 Doan Ave, Cleveland, OH 44102",
+      "street": "1507 Doan Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.912565981119,
+        "lng": -78.754181060848
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-learning-zone--salvation-army-east-cleveland",
+      "lastUpdated": "28/03/2033"
+    },
+    {
+      "id": "27886",
+      "title": "Cleveland Chesed Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1898 S Taylor Rd, Cleveland, OH 44102",
+      "street": "1898 S Taylor Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cleveland-chesed-center",
+      "lastUpdated": "29/03/2033"
+    },
+    {
+      "id": "27887",
+      "title": "Cleveland Ronald McDonald House",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "10415 Euclid Ave, Cleveland, OH 44102",
+      "street": "10415 Euclid Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cleveland-ronald-mcdonald-house",
+      "lastUpdated": "30/03/2033"
+    },
+    {
+      "id": "27888",
+      "title": "Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44102",
+      "street": "Cleveland",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.912102186429,
+        "lng": -78.75418642888
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/donation-center",
+      "lastUpdated": "31/03/2033"
+    },
+    {
+      "id": "27889",
+      "title": "Goodwill University Heights",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "13908 A Cedar Rd, Cleveland, OH 44102",
+      "street": "13908 A Cedar Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.920882188097,
+        "lng": -78.75872367748
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-university-heights",
+      "lastUpdated": "1/04/2033"
+    },
+    {
+      "id": "27890",
+      "title": "St. Herman House - FOCUS Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4410 Franklin Blvd, Cleveland, OH 44102",
+      "street": "4410 Franklin Blvd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/st.-herman-house---focus-cleveland",
+      "lastUpdated": "2/04/2033"
+    },
+    {
+      "id": "27891",
+      "title": "Redeemer ICH Crisis Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2970 W 30th St, Cleveland, OH 44102",
+      "street": "2970 W 30th St",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 43.021186925039,
+        "lng": -78.79890098728
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/redeemer-ich-crisis-center",
+      "lastUpdated": "3/04/2033"
+    },
+    {
+      "id": "27892",
+      "title": "Savers Community Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "7100 Brookpark Rd, Cleveland, OH 44102",
+      "street": "7100 Brookpark Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 43.016278021517,
+        "lng": -78.795148661288
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/savers-community-donation-center",
+      "lastUpdated": "4/04/2033"
+    },
+    {
+      "id": "27893",
+      "title": "Moonstruck CLE Vintage",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "11917 Mayfield Rd, Cleveland, OH 44102",
+      "street": "11917 Mayfield Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.893570545087,
+        "lng": -78.754520824587
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/moonstruck-cle-vintage",
+      "lastUpdated": "5/04/2033"
+    },
+    {
+      "id": "27894",
+      "title": "Ozanam Center Food Pantry",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2169 Searsdale Ave, Cleveland, OH 44102",
+      "street": "2169 Searsdale Ave",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.952416182698,
+        "lng": -78.905307437893
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/ozanam-center-food-pantry",
+      "lastUpdated": "6/04/2033"
+    },
+    {
+      "id": "27895",
+      "title": "Common Threads - Brook Park",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5793 Smith Rd, Cleveland, OH 44102",
+      "street": "5793 Smith Rd",
+      "zip": "44102",
+      "coordinates": {
+        "lat": 42.903446691371,
+        "lng": -78.823944781573
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/common-threads---brook-park",
+      "lastUpdated": "7/04/2033"
+    },
+    {
+      "id": "27896",
+      "title": "Nifty Thrifty Variety Shop",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "7100 Broadway Ave Suite 200, Cleveland, OH 44104",
+      "street": "7100 Broadway Ave Suite 200",
+      "zip": "44104",
+      "coordinates": {
+        "lat": 42.952416182698,
+        "lng": -78.905307437893
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/nifty-thrifty-variety-shop",
+      "lastUpdated": "8/04/2033"
+    },
+    {
+      "id": "27897",
+      "title": "Friendly Inn Settlement Inc.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2386 Unwin Rd, Cleveland, OH 44104",
+      "street": "2386 Unwin Rd",
+      "zip": "44104",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/friendly-inn-settlement-inc.",
+      "lastUpdated": "9/04/2033"
+    },
+    {
+      "id": "27898",
+      "title": "Metanoia Project",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "11115 Kinsman Rd, Cleveland, OH 44104",
+      "street": "11115 Kinsman Rd",
+      "zip": "44104",
+      "coordinates": {
+        "lat": 42.948495613822,
+        "lng": -78.828811186313
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/metanoia-project",
+      "lastUpdated": "10/04/2033"
+    },
+    {
+      "id": "27899",
+      "title": "Cool Water Dry Goods",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2413 Professor Ave, Cleveland, OH 44104",
+      "street": "2413 Professor Ave",
+      "zip": "44104",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cool-water-dry-goods",
+      "lastUpdated": "11/04/2033"
+    },
+    {
+      "id": "27900",
+      "title": "American Red Cross",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3747 Euclid Ave, Cleveland, OH 44104",
+      "street": "3747 Euclid Ave",
+      "zip": "44104",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/american-red-cross",
+      "lastUpdated": "12/04/2033"
+    },
+    {
+      "id": "27901",
+      "title": "MedWish Medworks",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1625 E 31st St, Cleveland, OH 44104",
+      "street": "1625 E 31st St",
+      "zip": "44104",
+      "coordinates": {
+        "lat": 43.00353157345,
+        "lng": -78.889575883212
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/medwish-medworks",
+      "lastUpdated": "13/04/2033"
+    },
+    {
+      "id": "27902",
+      "title": "Cache Resale Shop",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "11205 Euclid Ave, Cleveland, OH 44104",
+      "street": "11205 Euclid Ave",
+      "zip": "44104",
+      "coordinates": {
+        "lat": 29.525066170503,
+        "lng": -98.716377373457
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cache-resale-shop",
+      "lastUpdated": "14/04/2033"
+    },
+    {
+      "id": "27903",
+      "title": "Salvation Army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6990 Biddulph Rd, Cleveland, OH 44105",
+      "street": "6990 Biddulph Rd",
+      "zip": "44105",
+      "coordinates": {
+        "lat": 43.015361601241,
+        "lng": -78.877399012381
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/salvation-army",
+      "lastUpdated": "15/04/2033"
+    },
+    {
+      "id": "27904",
+      "title": "The People's Project",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3500 Payne Ave, Cleveland, OH 44105",
+      "street": "3500 Payne Ave",
+      "zip": "44105",
+      "coordinates": {
+        "lat": 29.511833599076,
+        "lng": -98.405753085437
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-people's-project",
+      "lastUpdated": "16/04/2033"
+    },
+    {
+      "id": "27905",
+      "title": "Good Friends Thrift",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6369 Pearl Rd, Cleveland, OH 44105",
+      "street": "6369 Pearl Rd",
+      "zip": "44105",
+      "coordinates": {
+        "lat": 42.932316475844,
+        "lng": -78.816187954613
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/good-friends-thrift",
+      "lastUpdated": "17/04/2033"
+    },
+    {
+      "id": "27906",
+      "title": "ZOE House",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5454 State Rd, Cleveland, OH 44105",
+      "street": "5454 State Rd",
+      "zip": "44105",
+      "coordinates": {
+        "lat": 29.49650319381,
+        "lng": -98.415190694193
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/zoe-house",
+      "lastUpdated": "18/04/2033"
+    },
+    {
+      "id": "27907",
+      "title": "St.Augustine Hunger Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1400 Howard Ave, Cleveland, OH 44105",
+      "street": "1400 Howard Ave",
+      "zip": "44105",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/st.augustine-hunger-center",
+      "lastUpdated": "19/04/2033"
+    },
+    {
+      "id": "27908",
+      "title": "May Dugan Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4115 Bridge Ave, Cleveland, OH 44105",
+      "street": "4115 Bridge Ave",
+      "zip": "44105",
+      "coordinates": {
+        "lat": 42.903919317522,
+        "lng": -78.745920886422
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/may-dugan-center",
+      "lastUpdated": "20/04/2033"
+    },
+    {
+      "id": "27909",
+      "title": "ACT II Resale Shop",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2747 Fairmount Blvd, Cleveland, OH 44106",
+      "street": "2747 Fairmount Blvd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 29.492845198629,
+        "lng": -98.701420196069
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/act-ii-resale-shop",
+      "lastUpdated": "21/04/2033"
+    },
+    {
+      "id": "27910",
+      "title": "Avalon Exchange",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1798 Coventry Rd, Cleveland, OH 44106",
+      "street": "1798 Coventry Rd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/avalon-exchange",
+      "lastUpdated": "22/04/2033"
+    },
+    {
+      "id": "27911",
+      "title": "St Martin De Porres Family Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1264 E 123rd St, Cleveland, OH 44106",
+      "street": "1264 E 123rd St",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/st-martin-de-porres-family-center",
+      "lastUpdated": "23/04/2033"
+    },
+    {
+      "id": "27912",
+      "title": "Upcycle Parts Shop",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6419 St Clair Ave., Cleveland, OH 44106",
+      "street": "6419 St Clair Ave.",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/upcycle-parts-shop",
+      "lastUpdated": "24/04/2033"
+    },
+    {
+      "id": "27913",
+      "title": "Bishop William M. Cosgrove Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1736 Superior Ave, Cleveland, OH 44106",
+      "street": "1736 Superior Ave",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/bishop-william-m.-cosgrove-center",
+      "lastUpdated": "25/04/2033"
+    },
+    {
+      "id": "27914",
+      "title": "National Council ofJewish Women/Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "26055 Emery Rd, Cleveland, OH 44106",
+      "street": "26055 Emery Rd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 29.441473265576,
+        "lng": -98.3990535988
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/national-council-ofjewish-women/cleveland",
+      "lastUpdated": "26/04/2033"
+    },
+    {
+      "id": "27915",
+      "title": "Mt. Sinai Friendship United",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "7510 Woodland Ave, Cleveland, OH 44106",
+      "street": "7510 Woodland Ave",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 43.019164802563,
+        "lng": -78.87647035913
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/mt.-sinai-friendship-united",
+      "lastUpdated": "27/04/2033"
+    },
+    {
+      "id": "27916",
+      "title": "Habitat for Humanity ReStore, North Randall",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4601 Northfield Rd, Cleveland, OH 44106",
+      "street": "4601 Northfield Rd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/habitat-for-humanity-restore,-north-randall",
+      "lastUpdated": "28/04/2033"
+    },
+    {
+      "id": "27917",
+      "title": "University Circle Inc.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "10831 Magnolia Dr, Cleveland, OH 44106",
+      "street": "10831 Magnolia Dr",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 43.015873167619,
+        "lng": -78.878929629422
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/university-circle-inc.",
+      "lastUpdated": "29/04/2033"
+    },
+    {
+      "id": "27918",
+      "title": "Father Michael Wittman Ozanam Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "13824 Euclid Ave, Cleveland, OH 44106",
+      "street": "13824 Euclid Ave",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/father-michael-wittman-ozanam-center",
+      "lastUpdated": "30/04/2033"
+    },
+    {
+      "id": "27919",
+      "title": "New Life Gospel Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2856 Martin Luther King Jr Dr, Cleveland, OH 44106",
+      "street": "2856 Martin Luther King Jr Dr",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 43.019244240002,
+        "lng": -78.875054287687
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/new-life-gospel-center",
+      "lastUpdated": "1/05/2033"
+    },
+    {
+      "id": "27920",
+      "title": "The Salvation Army Adult Rehabilitation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5005 Euclid Ave, Cleveland, OH 44106",
+      "street": "5005 Euclid Ave",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 29.41191723696,
+        "lng": -98.538328735698
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-salvation-army-adult-rehabilitation-center",
+      "lastUpdated": "2/05/2033"
+    },
+    {
+      "id": "27921",
+      "title": "The Cleveland Orchestra",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "11001 Euclid Ave, Cleveland, OH 44106",
+      "street": "11001 Euclid Ave",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 43.00494921121,
+        "lng": -78.875621484772
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-cleveland-orchestra",
+      "lastUpdated": "3/05/2033"
+    },
+    {
+      "id": "27922",
+      "title": "Fatima Family Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6600 Lexington Ave, Cleveland, OH 44106",
+      "street": "6600 Lexington Ave",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/fatima-family-center",
+      "lastUpdated": "4/05/2033"
+    },
+    {
+      "id": "27923",
+      "title": "The Lakewood Foundation",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "12525 Lake Ave, Cleveland, OH 44107",
+      "street": "12525 Lake Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-lakewood-foundation",
+      "lastUpdated": "5/05/2033"
+    },
+    {
+      "id": "27924",
+      "title": "Savers",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "21201 Center Ridge Rd, Cleveland, OH 44107",
+      "street": "21201 Center Ridge Rd",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.420223404125,
+        "lng": -98.534082472292
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/savers",
+      "lastUpdated": "6/05/2033"
+    },
+    {
+      "id": "27925",
+      "title": "Laura's Home Women's Crisis Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "18120 Puritas Ave, Cleveland, OH 44107",
+      "street": "18120 Puritas Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 42.983092142592,
+        "lng": -78.822925706543
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/laura's-home-women's-crisis-center",
+      "lastUpdated": "7/05/2033"
+    },
+    {
+      "id": "27926",
+      "title": "Blessed Trinity - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "14040 Puritas Ave, Cleveland, OH 44107",
+      "street": "14040 Puritas Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.415488122009,
+        "lng": -98.559021752553
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/blessed-trinity---food-distribution-center",
+      "lastUpdated": "8/05/2033"
+    },
+    {
+      "id": "27927",
+      "title": "The Hope Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "15135 Triskett Rd, Cleveland, OH 44107",
+      "street": "15135 Triskett Rd",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 43.011645208828,
+        "lng": -78.849237984067
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-hope-center",
+      "lastUpdated": "9/05/2033"
+    },
+    {
+      "id": "27928",
+      "title": "The Exchange",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "15100 Detroit Ave, Cleveland, OH 44107",
+      "street": "15100 Detroit Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.330119930514,
+        "lng": -98.546027977796
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-exchange",
+      "lastUpdated": "10/05/2033"
+    },
+    {
+      "id": "27929",
+      "title": "Story Church",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "9900 Madison Ave, Cleveland, OH 44107",
+      "street": "9900 Madison Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 43.018744411558,
+        "lng": -78.877844705473
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/story-church",
+      "lastUpdated": "11/05/2033"
+    },
+    {
+      "id": "27930",
+      "title": "Catholic Charities, Diocese of Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "7911 Detroit Ave, Cleveland, OH 44107",
+      "street": "7911 Detroit Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 42.982318634807,
+        "lng": -78.827705343205
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/catholic-charities,-diocese-of-cleveland",
+      "lastUpdated": "12/05/2033"
+    },
+    {
+      "id": "27931",
+      "title": "Birthright of Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "14701 Detroit Ave #370, Cleveland, OH 44107",
+      "street": "14701 Detroit Ave #370",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.41770871832,
+        "lng": -98.63387825861
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/birthright-of-cleveland",
+      "lastUpdated": "13/05/2033"
+    },
+    {
+      "id": "27932",
+      "title": "Showcase Fairview Park",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "20470 Lorain Rd, Cleveland, OH 44107",
+      "street": "20470 Lorain Rd",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.435040478552,
+        "lng": -98.691353778672
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/showcase-fairview-park",
+      "lastUpdated": "14/05/2033"
+    },
+    {
+      "id": "27933",
+      "title": "GV Art + Design",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "17128 Detroit Ave, Cleveland, OH 44107",
+      "street": "17128 Detroit Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/gv-art-+-design",
+      "lastUpdated": "15/05/2033"
+    },
+    {
+      "id": "27934",
+      "title": "Oktober's",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "12611 Madison Ave, Cleveland, OH 44107",
+      "street": "12611 Madison Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.43049840396,
+        "lng": -98.62379729652
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/oktober's",
+      "lastUpdated": "16/05/2033"
+    },
+    {
+      "id": "27935",
+      "title": "Salvation Army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1604 Doan Ave, Cleveland, OH 44108",
+      "street": "1604 Doan Ave",
+      "zip": "44108",
+      "coordinates": {
+        "lat": 42.9820050567,
+        "lng": -78.822964007753
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/salvation-army",
+      "lastUpdated": "17/05/2033"
+    },
+    {
+      "id": "27936",
+      "title": "Volunteers of America Cleveland Housing & Veterans Resource Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "775 E 152nd St, Cleveland, OH 44108",
+      "street": "775 E 152nd St",
+      "zip": "44108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/volunteers-of-america-cleveland-housing-&-veterans-resource-center",
+      "lastUpdated": "18/05/2033"
+    },
+    {
+      "id": "27937",
+      "title": "Greater Cleveland Food Bank Community Resource Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "15500 S Waterloo Rd, Cleveland, OH 44108",
+      "street": "15500 S Waterloo Rd",
+      "zip": "44108",
+      "coordinates": {
+        "lat": 43.01895253462,
+        "lng": -78.881401160548
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/greater-cleveland-food-bank-community-resource-center",
+      "lastUpdated": "19/05/2033"
+    },
+    {
+      "id": "27938",
+      "title": "STAR POP vintage + modern",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "15813 Waterloo Rd, Cleveland, OH 44108",
+      "street": "15813 Waterloo Rd",
+      "zip": "44108",
+      "coordinates": {
+        "lat": 29.414929594648,
+        "lng": -98.650058726749
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/star-pop-vintage-+-modern",
+      "lastUpdated": "20/05/2033"
+    },
+    {
+      "id": "27939",
+      "title": "Saint Aloysius Church - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "10932 St Clair Ave., Cleveland, OH 44108",
+      "street": "10932 St Clair Ave.",
+      "zip": "44108",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/saint-aloysius-church---food-distribution-center",
+      "lastUpdated": "21/05/2033"
+    },
+    {
+      "id": "27940",
+      "title": "United Hearts Life Mission Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "\"Thay helped me over 15 and still helpping me angel's that are\", Cleveland, OH 44109",
+      "street": "\"Thay helped me over 15 and still helpping me angel's that are\"",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 29.504516973248,
+        "lng": -98.584260805664
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/united-hearts-life-mission-center",
+      "lastUpdated": "22/05/2033"
+    },
+    {
+      "id": "27941",
+      "title": "Parma Heights Food Pantry",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6369 Pearl Rd, Cleveland, OH 44109",
+      "street": "6369 Pearl Rd",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/parma-heights-food-pantry",
+      "lastUpdated": "23/05/2033"
+    },
+    {
+      "id": "27942",
+      "title": "Malachi Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44109",
+      "street": "Cleveland",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/malachi-center",
+      "lastUpdated": "24/05/2033"
+    },
+    {
+      "id": "27943",
+      "title": "Cleveland Metroparks Zoo Gift Shop",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3900 Wildlife Way, Cleveland, OH 44109",
+      "street": "3900 Wildlife Way",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cleveland-metroparks-zoo-gift-shop",
+      "lastUpdated": "25/05/2033"
+    },
+    {
+      "id": "27944",
+      "title": "The Haven Home",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2971 E 61st St, Cleveland, OH 44109",
+      "street": "2971 E 61st St",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 29.472089832726,
+        "lng": -98.622375063337
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-haven-home",
+      "lastUpdated": "26/05/2033"
+    },
+    {
+      "id": "27945",
+      "title": "USCRI-Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3167 Fulton Rd Suite 306, Cleveland, OH 44109",
+      "street": "3167 Fulton Rd Suite 306",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 42.827416043133,
+        "lng": -78.753490843614
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/uscri-cleveland",
+      "lastUpdated": "27/05/2033"
+    },
+    {
+      "id": "27946",
+      "title": "Mega Church Resource Center Food Pantry",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2401 Prame Ave, Cleveland, OH 44109",
+      "street": "2401 Prame Ave",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 29.518128629307,
+        "lng": -98.702218186786
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/mega-church-resource-center-food-pantry",
+      "lastUpdated": "28/05/2033"
+    },
+    {
+      "id": "27947",
+      "title": "The Wholeness Project",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3389 Fulton Rd, Cleveland, OH 44109",
+      "street": "3389 Fulton Rd",
+      "zip": "44109",
+      "coordinates": {
+        "lat": 42.828156607347,
+        "lng": -78.753535726227
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-wholeness-project",
+      "lastUpdated": "29/05/2033"
+    },
+    {
+      "id": "27948",
+      "title": "Goodwill Outlet Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "17903 St Clair Ave., Cleveland, OH 44110",
+      "street": "17903 St Clair Ave.",
+      "zip": "44110",
+      "coordinates": {
+        "lat": 29.456480565059,
+        "lng": -98.551140727604
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-outlet-cleveland",
+      "lastUpdated": "30/05/2033"
+    },
+    {
+      "id": "27949",
+      "title": "Salvation Army",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "17625 Grovewood Ave, Cleveland, OH 44110",
+      "street": "17625 Grovewood Ave",
+      "zip": "44110",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/salvation-army",
+      "lastUpdated": "31/05/2033"
+    },
+    {
+      "id": "27950",
+      "title": "Salvation Army-temple Corps - Food Distribution Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "17625 Grovewood Ave, Cleveland, OH 44110",
+      "street": "17625 Grovewood Ave",
+      "zip": "44110",
+      "coordinates": {
+        "lat": 29.455960140081,
+        "lng": -98.553396736699
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/salvation-army-temple-corps---food-distribution-center",
+      "lastUpdated": "1/06/2033"
+    },
+    {
+      "id": "27951",
+      "title": "Westown Square",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "10950 Lorain Ave, Cleveland, OH 44111",
+      "street": "10950 Lorain Ave",
+      "zip": "44111",
+      "coordinates": {
+        "lat": 42.981736632953,
+        "lng": -78.720724619398
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/westown-square",
+      "lastUpdated": "2/06/2033"
+    },
+    {
+      "id": "27952",
+      "title": "Goodwill Brook Park Snow Road",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "14690 Snow Rd, Cleveland, OH 44111",
+      "street": "14690 Snow Rd",
+      "zip": "44111",
+      "coordinates": {
+        "lat": 43.01895253462,
+        "lng": -78.881401160548
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-brook-park-snow-road",
+      "lastUpdated": "3/06/2033"
+    },
+    {
+      "id": "27953",
+      "title": "Value World Thrift",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4639 Northfield Rd, Cleveland, OH 44112",
+      "street": "4639 Northfield Rd",
+      "zip": "44112",
+      "coordinates": {
+        "lat": 29.590161672067,
+        "lng": -98.512845725699
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/value-world-thrift",
+      "lastUpdated": "4/06/2033"
+    },
+    {
+      "id": "27954",
+      "title": "Cleveland Kidsâ€™ Book Bank",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3635 Perkins Ave #1e, Cleveland, OH 44114",
+      "street": "3635 Perkins Ave #1e",
+      "zip": "44114",
+      "coordinates": {
+        "lat": 29.613595605165,
+        "lng": -98.509126844973
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cleveland-kidsâ€™-book-bank",
+      "lastUpdated": "5/06/2033"
+    },
+    {
+      "id": "27955",
+      "title": "Ohio Mills Corp",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1719 E 39th St, Cleveland, OH 44114",
+      "street": "1719 E 39th St",
+      "zip": "44114",
+      "coordinates": {
+        "lat": 41.504168581647,
+        "lng": -81.653794750645
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/ohio-mills-corp",
+      "lastUpdated": "6/06/2033"
+    },
+    {
+      "id": "27956",
+      "title": "Cocoâ€™s Selfie Space",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "530 Euclid Ave, Cleveland, OH 44115",
+      "street": "530 Euclid Ave",
+      "zip": "44115",
+      "coordinates": {
+        "lat": 29.54933584192,
+        "lng": -98.662921030152
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cocoâ€™s-selfie-space",
+      "lastUpdated": "7/06/2033"
+    },
+    {
+      "id": "27957",
+      "title": "Harbor Light Complex",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1710 Prospect Ave E #755A, Cleveland, OH 44115",
+      "street": "1710 Prospect Ave E #755A",
+      "zip": "44115",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/harbor-light-complex",
+      "lastUpdated": "8/06/2033"
+    },
+    {
+      "id": "27958",
+      "title": "Lutheran Menâ€™s Shelter",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2100 Lakeside Ave E, Cleveland, OH 44115",
+      "street": "2100 Lakeside Ave E",
+      "zip": "44115",
+      "coordinates": {
+        "lat": 29.488769299273,
+        "lng": -98.583318378801
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/lutheran-menâ€™s-shelter",
+      "lastUpdated": "9/06/2033"
+    },
+    {
+      "id": "27959",
+      "title": "Zelma George Family Shelter",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2150 E 18th St, Cleveland, OH 44115",
+      "street": "2150 E 18th St",
+      "zip": "44115",
+      "coordinates": {
+        "lat": 42.825741383833,
+        "lng": -78.829202158161
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/zelma-george-family-shelter",
+      "lastUpdated": "10/06/2033"
+    },
+    {
+      "id": "27960",
+      "title": "Evie Lou",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2509 Professor Ave, Cleveland, OH 44115",
+      "street": "2509 Professor Ave",
+      "zip": "44115",
+      "coordinates": {
+        "lat": 41.469718211469,
+        "lng": -81.716581088595
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/evie-lou",
+      "lastUpdated": "11/06/2033"
+    },
+    {
+      "id": "27961",
+      "title": "Lutheran Metropolitan Ministry",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4515 Superior Ave, Cleveland, OH 44115",
+      "street": "4515 Superior Ave",
+      "zip": "44115",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/lutheran-metropolitan-ministry",
+      "lastUpdated": "12/06/2033"
+    },
+    {
+      "id": "27962",
+      "title": "PCs for People",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3126 St Clair Ave NE, Cleveland, OH 44115",
+      "street": "3126 St Clair Ave NE",
+      "zip": "44115",
+      "coordinates": {
+        "lat": 41.523573848919,
+        "lng": -81.648927480014
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/pcs-for-people",
+      "lastUpdated": "13/06/2033"
+    },
+    {
+      "id": "27963",
+      "title": "Common Threads - Fairview Park",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "22049 Lorain Rd, Cleveland, OH 44116",
+      "street": "22049 Lorain Rd",
+      "zip": "44116",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/common-threads---fairview-park",
+      "lastUpdated": "14/06/2033"
+    },
+    {
+      "id": "27964",
+      "title": "Savers Community Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "21201 Center Ridge Rd, Cleveland, OH 44116",
+      "street": "21201 Center Ridge Rd",
+      "zip": "44116",
+      "coordinates": {
+        "lat": 41.494103367362,
+        "lng": -81.674781816427
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/savers-community-donation-center",
+      "lastUpdated": "15/06/2033"
+    },
+    {
+      "id": "27965",
+      "title": "American Cancer Society Discovery Shop Fairview Park, Ohio",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "21849 Lorain Rd, Cleveland, OH 44116",
+      "street": "21849 Lorain Rd",
+      "zip": "44116",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/american-cancer-society-discovery-shop-fairview-park,-ohio",
+      "lastUpdated": "16/06/2033"
+    },
+    {
+      "id": "27966",
+      "title": "American Cancer Society Discovery Shop - Fairview Park, OH",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "21849 Lorain Rd, Cleveland, OH 44116",
+      "street": "21849 Lorain Rd",
+      "zip": "44116",
+      "coordinates": {
+        "lat": 41.503336503771,
+        "lng": -81.689583146782
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/american-cancer-society-discovery-shop---fairview-park,-oh",
+      "lastUpdated": "17/06/2033"
+    },
+    {
+      "id": "27967",
+      "title": "Goodwill North Olmsted",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "23100 Lorain Rd, Cleveland, OH 44116",
+      "street": "23100 Lorain Rd",
+      "zip": "44116",
+      "coordinates": {
+        "lat": 29.594553921054,
+        "lng": -98.472218065977
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-north-olmsted",
+      "lastUpdated": "18/06/2033"
+    },
+    {
+      "id": "27968",
+      "title": "Volunteers Of America Thrift - Willoughby",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "35101 Euclid Ave, Cleveland, OH 44117",
+      "street": "35101 Euclid Ave",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 41.48211898695,
+        "lng": -81.708286957081
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/volunteers-of-america-thrift---willoughby",
+      "lastUpdated": "19/06/2033"
+    },
+    {
+      "id": "27969",
+      "title": "Planet Aid - Ohio",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "30901 Carter St, Cleveland, OH 44117",
+      "street": "30901 Carter St",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/planet-aid---ohio",
+      "lastUpdated": "20/06/2033"
+    },
+    {
+      "id": "27970",
+      "title": "Imani Temple Ministries",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1505 E 260th St, Cleveland, OH 44117",
+      "street": "1505 E 260th St",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/imani-temple-ministries",
+      "lastUpdated": "21/06/2033"
+    },
+    {
+      "id": "27971",
+      "title": "Savers Community Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "30604 Lakeshore Blvd, Cleveland, OH 44117",
+      "street": "30604 Lakeshore Blvd",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/savers-community-donation-center",
+      "lastUpdated": "22/06/2033"
+    },
+    {
+      "id": "27972",
+      "title": "Nottingham United Methodist",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "18316 St Clair Ave., Cleveland, OH 44117",
+      "street": "18316 St Clair Ave.",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 41.477445167586,
+        "lng": -81.645281981896
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/nottingham-united-methodist",
+      "lastUpdated": "23/06/2033"
+    },
+    {
+      "id": "27973",
+      "title": "NEXT",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44118",
+      "street": "Cleveland",
+      "zip": "44118",
+      "coordinates": {
+        "lat": 29.641025087716,
+        "lng": -98.49281424123
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/next",
+      "lastUpdated": "24/06/2033"
+    },
+    {
+      "id": "27974",
+      "title": "Champions for Charity",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3076 Morley Rd, Cleveland, OH 44118",
+      "street": "3076 Morley Rd",
+      "zip": "44118",
+      "coordinates": {
+        "lat": 41.501505666374,
+        "lng": -81.652241063034
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/champions-for-charity",
+      "lastUpdated": "25/06/2033"
+    },
+    {
+      "id": "27975",
+      "title": "Goodwill Industries of Greater Cleveland & East Central Ohio",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2720 Van Aken Blvd, Cleveland, OH 44120",
+      "street": "2720 Van Aken Blvd",
+      "zip": "44120",
+      "coordinates": {
+        "lat": 41.497375562832,
+        "lng": -81.651637072985
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-industries-of-greater-cleveland-&-east-central-ohio",
+      "lastUpdated": "26/06/2033"
+    },
+    {
+      "id": "27976",
+      "title": "MSFITXCHANGE",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "12721 Larchmere Blvd, Cleveland, OH 44120",
+      "street": "12721 Larchmere Blvd",
+      "zip": "44120",
+      "coordinates": {
+        "lat": 29.464507550947,
+        "lng": -98.624803479643
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/msfitxchange",
+      "lastUpdated": "27/06/2033"
+    },
+    {
+      "id": "27977",
+      "title": "Jos A. Bank",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44122",
+      "street": "Cleveland",
+      "zip": "44122",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/jos-a.-bank",
+      "lastUpdated": "28/06/2033"
+    },
+    {
+      "id": "27978",
+      "title": "Uptown Cheapskate Mayfield Heights",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6383 Mayfield Rd, Cleveland, OH 44122",
+      "street": "6383 Mayfield Rd",
+      "zip": "44122",
+      "coordinates": {
+        "lat": 41.459401570269,
+        "lng": -81.776437185207
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/uptown-cheapskate-mayfield-heights",
+      "lastUpdated": "29/06/2033"
+    },
+    {
+      "id": "27979",
+      "title": "Goodwill Mayfield Heights",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6605 Mayfield Rd, Cleveland, OH 44122",
+      "street": "6605 Mayfield Rd",
+      "zip": "44122",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-mayfield-heights",
+      "lastUpdated": "30/06/2033"
+    },
+    {
+      "id": "27980",
+      "title": "The Altruism Society Inc",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "2000 Auburn Dr #200, Cleveland, OH 44122",
+      "street": "2000 Auburn Dr #200",
+      "zip": "44122",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-altruism-society-inc",
+      "lastUpdated": "1/07/2033"
+    },
+    {
+      "id": "27981",
+      "title": "Soup's On Community Meal",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "23002 Lakeshore Blvd, Cleveland, OH 44123",
+      "street": "23002 Lakeshore Blvd",
+      "zip": "44123",
+      "coordinates": {
+        "lat": 29.481615635027,
+        "lng": -98.634777150918
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/soup's-on-community-meal",
+      "lastUpdated": "2/07/2033"
+    },
+    {
+      "id": "27982",
+      "title": "MantraShop CLE",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "891 E 222nd St, Cleveland, OH 44123",
+      "street": "891 E 222nd St",
+      "zip": "44123",
+      "coordinates": {
+        "lat": 41.506149266935,
+        "lng": -81.662807524986
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/mantrashop-cle",
+      "lastUpdated": "3/07/2033"
+    },
+    {
+      "id": "27983",
+      "title": "Jay Dee Cleaners",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "878 E 222nd St, Cleveland, OH 44123",
+      "street": "878 E 222nd St",
+      "zip": "44123",
+      "coordinates": {
+        "lat": 41.567872502975,
+        "lng": -81.573144615371
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/jay-dee-cleaners",
+      "lastUpdated": "4/07/2033"
+    },
+    {
+      "id": "27984",
+      "title": "Clothes Mentor Mayfield Heights, OH",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6145 Mayfield Rd, Cleveland, OH 44124",
+      "street": "6145 Mayfield Rd",
+      "zip": "44124",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/clothes-mentor-mayfield-heights,-oh",
+      "lastUpdated": "5/07/2033"
+    },
+    {
+      "id": "27985",
+      "title": "Goodwill Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5400 Mayfield Rd, Cleveland, OH 44124",
+      "street": "5400 Mayfield Rd",
+      "zip": "44124",
+      "coordinates": {
+        "lat": 41.430397219499,
+        "lng": -81.73415333834
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-donation-center",
+      "lastUpdated": "6/07/2033"
+    },
+    {
+      "id": "27986",
+      "title": "Plato's Closet Lyndhurst",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5688 Mayfield Rd, Cleveland, OH 44124",
+      "street": "5688 Mayfield Rd",
+      "zip": "44124",
+      "coordinates": {
+        "lat": 29.435524921615,
+        "lng": -98.70935938853
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/plato's-closet-lyndhurst",
+      "lastUpdated": "7/07/2033"
+    },
+    {
+      "id": "27987",
+      "title": "Landerwood Plaza",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44124",
+      "street": "Cleveland",
+      "zip": "44124",
+      "coordinates": {
+        "lat": 41.477386214177,
+        "lng": -81.804167276808
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/landerwood-plaza",
+      "lastUpdated": "8/07/2033"
+    },
+    {
+      "id": "27988",
+      "title": "Revolve Kids and Tweens Resale",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5686 Mayfield Rd, Cleveland, OH 44124",
+      "street": "5686 Mayfield Rd",
+      "zip": "44124",
+      "coordinates": {
+        "lat": 29.550851809148,
+        "lng": -98.663054579209
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/revolve-kids-and-tweens-resale",
+      "lastUpdated": "9/07/2033"
+    },
+    {
+      "id": "27989",
+      "title": "Goodwill",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5774 Transportation Blvd, Cleveland, OH 44125",
+      "street": "5774 Transportation Blvd",
+      "zip": "44125",
+      "coordinates": {
+        "lat": 41.481349162671,
+        "lng": -81.708490349095
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill",
+      "lastUpdated": "10/07/2033"
+    },
+    {
+      "id": "27990",
+      "title": "Simple Recycling Clothing Collection Drop-off Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "24869 Lorain Rd, Cleveland, OH 44126",
+      "street": "24869 Lorain Rd",
+      "zip": "44126",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/simple-recycling-clothing-collection-drop-off-center",
+      "lastUpdated": "11/07/2033"
+    },
+    {
+      "id": "27991",
+      "title": "Value World Thrift",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "24869 Lorain Rd, Cleveland, OH 44126",
+      "street": "24869 Lorain Rd",
+      "zip": "44126",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/value-world-thrift",
+      "lastUpdated": "12/07/2033"
+    },
+    {
+      "id": "27992",
+      "title": "Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "22013 Lorain Rd, Cleveland, OH 44126",
+      "street": "22013 Lorain Rd",
+      "zip": "44126",
+      "coordinates": {
+        "lat": 29.483216300639,
+        "lng": -98.601919542581
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/donation-center",
+      "lastUpdated": "13/07/2033"
+    },
+    {
+      "id": "27993",
+      "title": "University Settlement",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5115 Broadway Ave, Cleveland, OH 44127",
+      "street": "5115 Broadway Ave",
+      "zip": "44127",
+      "coordinates": {
+        "lat": 41.483981516909,
+        "lng": -81.768823435555
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/university-settlement",
+      "lastUpdated": "14/07/2033"
+    },
+    {
+      "id": "27994",
+      "title": "Neighborhood Pets Outreach & Resource Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "3711 E 65th St, Cleveland, OH 44127",
+      "street": "3711 E 65th St",
+      "zip": "44127",
+      "coordinates": {
+        "lat": 29.515487570667,
+        "lng": -98.634421343949
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/neighborhood-pets-outreach-&-resource-center",
+      "lastUpdated": "15/07/2033"
+    },
+    {
+      "id": "27995",
+      "title": "My Recovery Day",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4500 Lee Rd building H, Cleveland, OH 44128",
+      "street": "4500 Lee Rd building H",
+      "zip": "44128",
+      "coordinates": {
+        "lat": 41.473865722487,
+        "lng": -81.762859287579
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/my-recovery-day",
+      "lastUpdated": "16/07/2033"
+    },
+    {
+      "id": "27996",
+      "title": "Thriftique Showroom",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "5055 Richmond Rd, Cleveland, OH 44128",
+      "street": "5055 Richmond Rd",
+      "zip": "44128",
+      "coordinates": {
+        "lat": 29.433861489566,
+        "lng": -98.586342505676
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/thriftique-showroom",
+      "lastUpdated": "17/07/2033"
+    },
+    {
+      "id": "27997",
+      "title": "Lifebanc",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "4775 Richmond Rd, Cleveland, OH 44128",
+      "street": "4775 Richmond Rd",
+      "zip": "44128",
+      "coordinates": {
+        "lat": 41.472615348986,
+        "lng": -81.736452216369
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/lifebanc",
+      "lastUpdated": "18/07/2033"
+    },
+    {
+      "id": "27998",
+      "title": "NEXT",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Cleveland, OH 44128",
+      "street": "Cleveland",
+      "zip": "44128",
+      "coordinates": {
+        "lat": 29.433312183618,
+        "lng": -98.553823597678
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/next",
+      "lastUpdated": "19/07/2033"
+    },
+    {
+      "id": "27999",
+      "title": "Purr-Fect Place",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "715 Broadway Ave, Cleveland, OH 44128",
+      "street": "715 Broadway Ave",
+      "zip": "44128",
+      "coordinates": {
+        "lat": 41.483958040635,
+        "lng": -81.771809570569
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/purr-fect-place",
+      "lastUpdated": "20/07/2033"
+    },
+    {
+      "id": "28000",
+      "title": "Krazy Bins | Bargain Bin Discount Store - Restock Friday 10AM",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "8515 Day Dr, Cleveland, OH 44129",
+      "street": "8515 Day Dr",
+      "zip": "44129",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/krazy-bins-|-bargain-bin-discount-store---restock-friday-10am",
+      "lastUpdated": "21/07/2033"
+    },
+    {
+      "id": "28001",
+      "title": "Goodwill Middleburg Heights",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6880 Pearl Rd, Cleveland, OH 44130",
+      "street": "6880 Pearl Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 29.551303522345,
+        "lng": -98.664911789463
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-middleburg-heights",
+      "lastUpdated": "22/07/2033"
+    },
+    {
+      "id": "28002",
+      "title": "The Salvation Army Thrift Store & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "8623 Pearl Rd, Cleveland, OH 44130",
+      "street": "8623 Pearl Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 41.48164687315,
+        "lng": -81.739225082327
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-salvation-army-thrift-store-&-donation-center",
+      "lastUpdated": "23/07/2033"
+    },
+    {
+      "id": "28003",
+      "title": "Audrey's Outreach Programs",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "16845 Holland Rd, Cleveland, OH 44130",
+      "street": "16845 Holland Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 29.494943591249,
+        "lng": -98.740783634626
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/audrey's-outreach-programs",
+      "lastUpdated": "24/07/2033"
+    },
+    {
+      "id": "28004",
+      "title": "Seconds City Consignment Home Furnishings",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6530 Pearl Rd, Cleveland, OH 44130",
+      "street": "6530 Pearl Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/seconds-city-consignment-home-furnishings",
+      "lastUpdated": "25/07/2033"
+    },
+    {
+      "id": "28005",
+      "title": "Royalton Donation Center - Goodwill Industries of Greater Cleveland and East Central Ohio",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6068 Royalton Rd, Cleveland, OH 44130",
+      "street": "6068 Royalton Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/royalton-donation-center---goodwill-industries-of-greater-cleveland-and-east-central-ohio",
+      "lastUpdated": "26/07/2033"
+    },
+    {
+      "id": "28006",
+      "title": "Second Mile Outreach",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1480 W Bagley Rd, Cleveland, OH 44130",
+      "street": "1480 W Bagley Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 41.471425775701,
+        "lng": -81.701613211968
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/second-mile-outreach",
+      "lastUpdated": "27/07/2033"
+    },
+    {
+      "id": "28007",
+      "title": "Madinati Fashion",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "6599 Pearl Rd, Cleveland, OH 44130",
+      "street": "6599 Pearl Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 41.485480713014,
+        "lng": -81.716699995692
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/madinati-fashion",
+      "lastUpdated": "28/07/2033"
+    },
+    {
+      "id": "28008",
+      "title": "Church Street Ministries",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "1480 W Bagley Rd, Cleveland, OH 44130",
+      "street": "1480 W Bagley Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/church-street-ministries",
+      "lastUpdated": "29/07/2033"
+    },
+    {
+      "id": "28009",
+      "title": "Uptown Cheapskate Strongsville",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland",
+      "address": "17210 Royalton Rd, Cleveland, OH 44130",
+      "street": "17210 Royalton Rd",
+      "zip": "44130",
+      "coordinates": {
+        "lat": 41.501299857089,
+        "lng": -81.539412585896
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/uptown-cheapskate-strongsville",
+      "lastUpdated": "30/07/2033"
+    },
+    {
+      "id": "28010",
+      "title": "Lakewood Community Services Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "12900 Madison Ave, Lakewood, OH 44107",
+      "street": "12900 Madison Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/lakewood-community-services-center",
+      "lastUpdated": "31/07/2033"
+    },
+    {
+      "id": "28011",
+      "title": "Geiger's Lakewood",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "14710 Detroit Ave, Lakewood, OH 44107",
+      "street": "14710 Detroit Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/geiger's-lakewood",
+      "lastUpdated": "1/08/2033"
+    },
+    {
+      "id": "28012",
+      "title": "D's Accessories LLC",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "13622 Detroit Ave, Lakewood, OH 44107",
+      "street": "13622 Detroit Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.435551550733,
+        "lng": -98.70196643198
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/d's-accessories-llc",
+      "lastUpdated": "2/08/2033"
+    },
+    {
+      "id": "28013",
+      "title": "Goodwill Bookstore & Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "30655 Detroit Rd, Lakewood, OH 44107",
+      "street": "30655 Detroit Rd",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 41.503780522765,
+        "lng": -81.615913466004
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-bookstore-&-donation-center",
+      "lastUpdated": "3/08/2033"
+    },
+    {
+      "id": "28014",
+      "title": "Centering Space",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "14812 Lake Ave, Lakewood, OH 44107",
+      "street": "14812 Lake Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/centering-space",
+      "lastUpdated": "4/08/2033"
+    },
+    {
+      "id": "28015",
+      "title": "Good Sammy Booragoon Op Shop & Containers For Change",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "491 Marmion Street",
+      "address": "Units 3&4, 491 Marmion Street, Lakewood, OH 44107",
+      "street": "Units 3&4",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 41.508096123801,
+        "lng": -81.555899128261
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/good-sammy-booragoon-op-shop-&-containers-for-change",
+      "lastUpdated": "5/08/2033"
+    },
+    {
+      "id": "28016",
+      "title": "Serendipity",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "485 Oberlin Ave S, Lakewood, OH 44107",
+      "street": "485 Oberlin Ave S",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.518965667916,
+        "lng": -98.662274370682
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/serendipity",
+      "lastUpdated": "6/08/2033"
+    },
+    {
+      "id": "28017",
+      "title": "Blair Ritchey",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "17921 Detroit Ave, Lakewood, OH 44107",
+      "street": "17921 Detroit Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 41.533492193699,
+        "lng": -81.586518080807
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/blair-ritchey",
+      "lastUpdated": "7/08/2033"
+    },
+    {
+      "id": "28018",
+      "title": "Lakewood Seventh-day Adventist Church",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "1382 Arthur Ave, Lakewood, OH 44107",
+      "street": "1382 Arthur Ave",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 29.519147670837,
+        "lng": -98.643569327669
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/lakewood-seventh-day-adventist-church",
+      "lastUpdated": "8/08/2033"
+    },
+    {
+      "id": "28019",
+      "title": "Honey from the Rock - Cleveland's Foster Care Closet",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "2233 W 110th St, Lakewood, OH 44107",
+      "street": "2233 W 110th St",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 41.389252613843,
+        "lng": -81.763336341175
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/honey-from-the-rock---cleveland's-foster-care-closet",
+      "lastUpdated": "9/08/2033"
+    },
+    {
+      "id": "28020",
+      "title": "Savers",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "#N/A",
+      "address": "Lakewood, OH 44107",
+      "street": "Lakewood",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/savers",
+      "lastUpdated": "10/08/2033"
+    },
+    {
+      "id": "28021",
+      "title": "Sisters-Charity-St Augustine",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Lakewood",
+      "address": "3122 West Blvd, Lakewood, OH 44107",
+      "street": "3122 West Blvd",
+      "zip": "44107",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/sisters-charity-st-augustine",
+      "lastUpdated": "11/08/2033"
+    },
+    {
+      "id": "28022",
+      "title": "Sew4Service Euclid Chapter",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Studio - Room 104",
+      "address": "291 E 222nd St Store - Room 115, Studio - Room 104, Euclid, OH 44117",
+      "street": "291 E 222nd St Store - Room 115",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/sew4service-euclid-chapter",
+      "lastUpdated": "12/08/2033"
+    },
+    {
+      "id": "28023",
+      "title": "Praxis of Cleveland by Landmark Recovery",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "19350 Euclid Ave, Euclid, OH 44117",
+      "street": "19350 Euclid Ave",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 41.446413882183,
+        "lng": -81.621285690355
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/praxis-of-cleveland-by-landmark-recovery",
+      "lastUpdated": "13/08/2033"
+    },
+    {
+      "id": "28024",
+      "title": "The FEST",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "28700 Euclid Ave, Euclid, OH 44117",
+      "street": "28700 Euclid Ave",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-fest",
+      "lastUpdated": "14/08/2033"
+    },
+    {
+      "id": "28025",
+      "title": "Aspinwall Church",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "14627 Aspinwall Ave, Euclid, OH 44117",
+      "street": "14627 Aspinwall Ave",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 29.590841789836,
+        "lng": -98.465887886165
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/aspinwall-church",
+      "lastUpdated": "15/08/2033"
+    },
+    {
+      "id": "28026",
+      "title": "1-800-GOT-JUNK? Cleveland",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "\"Got all the stuffs we had donated for an amazing price in less than 30 min.\", Euclid, OH 44117",
+      "street": "\"Got all the stuffs we had donated for an amazing price in less than 30 min.\"",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/1-800-got-junk?-cleveland",
+      "lastUpdated": "16/08/2033"
+    },
+    {
+      "id": "28027",
+      "title": "Save A Lot",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "2227 Noble Rd, Euclid, OH 44117",
+      "street": "2227 Noble Rd",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/save-a-lot",
+      "lastUpdated": "17/08/2033"
+    },
+    {
+      "id": "28028",
+      "title": "Paralyzed Veterans of America, Buckeye Chapter",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "2775 Bishop Rd Suite B, Euclid, OH 44117",
+      "street": "2775 Bishop Rd Suite B",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/paralyzed-veterans-of-america,-buckeye-chapter",
+      "lastUpdated": "18/08/2033"
+    },
+    {
+      "id": "28029",
+      "title": "Hope United Church --A Nazarene Church",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "499 Trebisky Rd, Euclid, OH 44117",
+      "street": "499 Trebisky Rd",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 29.688365793471,
+        "lng": -98.47684995839
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/hope-united-church---a-nazarene-church",
+      "lastUpdated": "19/08/2033"
+    },
+    {
+      "id": "28030",
+      "title": "Polka Hall of Fame",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "605 E 222nd St, Euclid, OH 44117",
+      "street": "605 E 222nd St",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 41.479691864444,
+        "lng": -81.684662710006
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/polka-hall-of-fame",
+      "lastUpdated": "20/08/2033"
+    },
+    {
+      "id": "28031",
+      "title": "CYO",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "7911 Detroit Ave, Euclid, OH 44117",
+      "street": "7911 Detroit Ave",
+      "zip": "44117",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cyo",
+      "lastUpdated": "21/08/2033"
+    },
+    {
+      "id": "28032",
+      "title": "Euclid Hunger Task Force",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Euclid",
+      "address": "291 E 222nd St, Euclid, OH 44123",
+      "street": "291 E 222nd St",
+      "zip": "44123",
+      "coordinates": {
+        "lat": 41.468972405661,
+        "lng": -81.606924266351
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/euclid-hunger-task-force",
+      "lastUpdated": "22/08/2033"
+    },
+    {
+      "id": "28033",
+      "title": "Famicos Foundation",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "1325 Ansel Rd, Cleveland Heights, OH 44106",
+      "street": "1325 Ansel Rd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/famicos-foundation",
+      "lastUpdated": "23/08/2033"
+    },
+    {
+      "id": "28034",
+      "title": "Grocery Outlet",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "12438 Cedar Rd, Cleveland Heights, OH 44106",
+      "street": "12438 Cedar Rd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 41.494987701547,
+        "lng": -81.654266454965
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/grocery-outlet",
+      "lastUpdated": "24/08/2033"
+    },
+    {
+      "id": "28035",
+      "title": "Luna Bakery & Cafe",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "2482 Fairmount Blvd, Cleveland Heights, OH 44106",
+      "street": "2482 Fairmount Blvd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/luna-bakery-&-cafe",
+      "lastUpdated": "25/08/2033"
+    },
+    {
+      "id": "28036",
+      "title": "Stems Fleur",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "2495 Lee Blvd, Cleveland Heights, OH 44106",
+      "street": "2495 Lee Blvd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 41.458078091966,
+        "lng": -81.63868429608
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/stems-fleur",
+      "lastUpdated": "26/08/2033"
+    },
+    {
+      "id": "28037",
+      "title": "Wade Lagoon",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "1919 E 107th St, Cleveland Heights, OH 44106",
+      "street": "1919 E 107th St",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/wade-lagoon",
+      "lastUpdated": "27/08/2033"
+    },
+    {
+      "id": "28038",
+      "title": "Cleveland Botanical Garden",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "11030 East Blvd, Cleveland Heights, OH 44106",
+      "street": "11030 East Blvd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 41.405651084765,
+        "lng": -81.803938534534
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cleveland-botanical-garden",
+      "lastUpdated": "28/08/2033"
+    },
+    {
+      "id": "28039",
+      "title": "People Rebuilders Foundation",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "1675 Ansel Rd #1228, Cleveland Heights, OH 44106",
+      "street": "1675 Ansel Rd #1228",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/people-rebuilders-foundation",
+      "lastUpdated": "29/08/2033"
+    },
+    {
+      "id": "28040",
+      "title": "Cedar Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "13938 Cedar Rd, Cleveland Heights, OH 44106",
+      "street": "13938 Cedar Rd",
+      "zip": "44106",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/cedar-center",
+      "lastUpdated": "30/08/2033"
+    },
+    {
+      "id": "28041",
+      "title": "Heights Emergency Food Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Cleveland Heights",
+      "address": "3663 Mayfield Rd, Cleveland Heights, OH 44118",
+      "street": "3663 Mayfield Rd",
+      "zip": "44118",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/heights-emergency-food-center",
+      "lastUpdated": "31/08/2033"
+    },
+    {
+      "id": "28042",
+      "title": "American Red Cross Blood Donation Center",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Parma",
+      "address": "5585 Pearl Rd, Parma, OH 44129",
+      "street": "5585 Pearl Rd",
+      "zip": "44129",
+      "coordinates": {
+        "lat": 41.508697198869,
+        "lng": -81.599987984231
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/american-red-cross-blood-donation-center",
+      "lastUpdated": "1/09/2033"
+    },
+    {
+      "id": "28043",
+      "title": "Rally House Parma",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Parma",
+      "address": "7891 W Ridgewood Dr, Parma, OH 44129",
+      "street": "7891 W Ridgewood Dr",
+      "zip": "44129",
+      "coordinates": {
+        "lat": 39.095248589678,
+        "lng": -94.576520344136
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/rally-house-parma",
+      "lastUpdated": "2/09/2033"
+    },
+    {
+      "id": "28044",
+      "title": "All Saints Episcopal Church",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Parma",
+      "address": "8911 W Ridgewood Dr, Parma, OH 44129",
+      "street": "8911 W Ridgewood Dr",
+      "zip": "44129",
+      "coordinates": {
+        "lat": 39.095315953072,
+        "lng": -94.565644313321
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/all-saints-episcopal-church",
+      "lastUpdated": "3/09/2033"
+    },
+    {
+      "id": "28045",
+      "title": "Catholic Charities Parma Campus",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Parma",
+      "address": "6753 State Rd, Parma, OH 44134",
+      "street": "6753 State Rd",
+      "zip": "44134",
+      "coordinates": {
+        "lat": 39.103850968056,
+        "lng": -94.561484835599
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/catholic-charities-parma-campus",
+      "lastUpdated": "4/09/2033"
+    },
+    {
+      "id": "28046",
+      "title": "Goodwill Strongsville",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Strongsville",
+      "address": "16160 Pearl Rd, Strongsville, OH 44136",
+      "street": "16160 Pearl Rd",
+      "zip": "44136",
+      "coordinates": {
+        "lat": 39.061091797461,
+        "lng": -94.590455310427
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/goodwill-strongsville",
+      "lastUpdated": "5/09/2033"
+    },
+    {
+      "id": "28047",
+      "title": "Clothes Mentor Strongsville, OH",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Strongsville",
+      "address": "15143 Pearl Rd Center, Strongsville, OH 44136",
+      "street": "15143 Pearl Rd Center",
+      "zip": "44136",
+      "coordinates": {
+        "lat": 45.526191675621,
+        "lng": -122.697099538457
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/clothes-mentor-strongsville,-oh",
+      "lastUpdated": "6/09/2033"
+    },
+    {
+      "id": "28048",
+      "title": "Plato's Closet Strongsville",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Strongsville",
+      "address": "15151 Pearl Rd, Strongsville, OH 44136",
+      "street": "15151 Pearl Rd",
+      "zip": "44136",
+      "coordinates": {
+        "lat": 39.092882887813,
+        "lng": -94.578962063103
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/plato's-closet-strongsville",
+      "lastUpdated": "7/09/2033"
+    },
+    {
+      "id": "28049",
+      "title": "The Gathering Place WEST (Corporate) & Home Furnishings Resale Shop (Warehouse)",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Westlake",
+      "address": "25425 Center Ridge Rd, Westlake, OH 44145",
+      "street": "25425 Center Ridge Rd",
+      "zip": "44145",
+      "coordinates": {
+        "lat": 45.551567892938,
+        "lng": -122.661642412503
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/the-gathering-place-west-(corporate)-&-home-furnishings-resale-shop-(warehouse)",
+      "lastUpdated": "8/09/2033"
+    },
+    {
+      "id": "28050",
+      "title": "Volunteers of America Thrift Store â€“ North Olmsted",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Westlake",
+      "address": "27240 Lorain Rd, Westlake, OH 44145",
+      "street": "27240 Lorain Rd",
+      "zip": "44145",
+      "coordinates": {
+        "lat": 39.101718145314,
+        "lng": -94.565610439067
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/volunteers-of-america-thrift-store-â€“-north-olmsted",
+      "lastUpdated": "9/09/2033"
+    },
+    {
+      "id": "28051",
+      "title": "Once Upon A Child Westlake",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Westlake",
+      "address": "25028 Center Ridge Rd, Westlake, OH 44145",
+      "street": "25028 Center Ridge Rd",
+      "zip": "44145",
+      "coordinates": {
+        "lat": 45.509059972551,
+        "lng": -122.659849991949
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/once-upon-a-child-westlake",
+      "lastUpdated": "10/09/2033"
+    },
+    {
+      "id": "28052",
+      "title": "Community West Foundation",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Westlake",
+      "address": "821 Westpoint Pkwy suite 900, Westlake, OH 44145",
+      "street": "821 Westpoint Pkwy suite 900",
+      "zip": "44145",
+      "coordinates": {
+        "lat": 39.055655243811,
+        "lng": -94.57221845729
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/community-west-foundation",
+      "lastUpdated": "11/09/2033"
+    },
+    {
+      "id": "28053",
+      "title": "River Trading Co.",
+      "company": "Unknown",
+      "description": "Donation location - please contact for details",
+      "state": "Ohio",
+      "stateSlug": "ohio",
+      "city": "Rocky River",
+      "address": "19347 Detroit Rd, Rocky River, OH 44116",
+      "street": "19347 Detroit Rd",
+      "zip": "44116",
+      "coordinates": {
+        "lat": 45.519744575218,
+        "lng": -122.682332085861
+      },
+      "acceptedMaterials": [
+        "Clothing",
+        "Linen",
+        "Shoes"
+      ],
+      "logo": "goodwill.jpg",
+      "permalink": "https://www.clothedonations.com/ohio/river-trading-co.",
+      "lastUpdated": "12/09/2033"
     }
   ]
 }

@@ -21327,30 +21327,6 @@
       "logo": "planet-aid.jpg",
       "permalink": "https://www.clothedonations.com/pennsylvania/planet-aid-youngwood-laundrymat/",
       "lastUpdated": "7/10/2024"
-    },
-    {
-      "id": "24927",
-      "title": "Planet Aid - Jackson Plaza",
-      "company": "Planet Aid",
-      "description": "Planet Aid is a non-profit organization that focuses on collecting, recycling, and redistributing donated clothing and shoes to promote environmental sustainability and support global development. Through strategically placed donation bins in communities, they provide an accessible way for people to contribute their unwanted textiles. Once collected, the items are sorted and either resold in secondhand markets or recycled, helping to reduce the amount of waste that ends up in landfills. The proceeds from the sale of donated items are channeled into various educational, health, and environmental initiatives, particularly in underdeveloped regions.\n\nPlanet Aid’s efforts extend beyond environmental goals. Their programs help improve access to education, promote sustainable farming practices, and combat poverty in some of the world's poorest communities. By reusing and recycling clothing, Planet Aid reduces textile waste while simultaneously creating positive social impact, making their model an important link between environmental care and global development.",
-      "state": "Pennsylvania",
-      "stateSlug": "pennsylvania",
-      "city": "Unknown",
-      "address": "22412 Perry Hwy, Zelienople, PA 16063, USA",
-      "street": "Perry Highway",
-      "zip": "16063",
-      "coordinates": {
-        "lat": 40.777775,
-        "lng": -80.132289
-      },
-      "acceptedMaterials": [
-        "Clothing",
-        "Linen",
-        "Shoes"
-      ],
-      "logo": "planet-aid.jpg",
-      "permalink": "https://www.clothedonations.com/pennsylvania/planet-aid-jackson-plaza/",
-      "lastUpdated": "7/10/2024"
     }
   ]
 }

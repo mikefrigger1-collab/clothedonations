@@ -6,6 +6,7 @@ import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 
 
+
 const stateInfo = {
   'alabama': {
     title: 'Alabama Clothing Drop Off & Donation Boxes',
@@ -454,6 +455,28 @@ const LocationCard = memo(({ location, index, stateSlug, companyStyle, hours }) 
 
 LocationCard.displayName = 'LocationCard';
 
+// Virtualized item renderer
+const VirtualizedLocationItem = ({ index, style, data }) => {
+  const { locations, stateSlug } = data;
+  const location = locations[index];
+  const companyStyle = getCompanyStyle(location.company);
+  const hours = generateHoursForLocation(index, location.company);
+  
+  return (
+    <div style={style}>
+      <div style={{ padding: '12px', height: 'calc(100% - 24px)' }}>
+        <LocationCard
+          location={location}
+          index={index}
+          stateSlug={stateSlug}
+          companyStyle={companyStyle}
+          hours={hours}
+        />
+      </div>
+    </div>
+  );
+};
+
 // Helper function to get company styling
 const getCompanyStyle = (companyName) => {
   return companyStyles[companyName] || companyStyles['default'];
@@ -488,6 +511,10 @@ export default function StatePage({ stateData, stateSlug }) {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedCompany, setSelectedCompany] = useState('');
   const [debouncedSearchTerm, setDebouncedSearchTerm] = useState('');
+  const [useVirtualization, setUseVirtualization] = useState(false);
+const [isClient, setIsClient] = useState(false);
+const [itemsToShow, setItemsToShow] = useState(100);
+const [isLoadingMore, setIsLoadingMore] = useState(false);
 
   // Add this before your return statement
 const currentStateInfo = stateInfo[stateSlug] || {
@@ -505,30 +532,46 @@ const currentStateInfo = stateInfo[stateSlug] || {
     return () => clearTimeout(timer);
   }, [searchTerm]);
 
-  // Memoize filtered locations using debounced search
-  const filteredLocations = useMemo(() => {
-    if (!stateData?.locations) return [];
-    
-    let filtered = stateData.locations;
+useEffect(() => {
+  setItemsToShow(100);
+}, [debouncedSearchTerm, selectedCompany]);
 
-    if (debouncedSearchTerm) {
-      const searchLower = debouncedSearchTerm.toLowerCase();
-      filtered = filtered.filter(location =>
-        location.name?.toLowerCase().includes(searchLower) ||
-        location.city?.toLowerCase().includes(searchLower) ||
-        location.address?.toLowerCase().includes(searchLower) ||
-        location.company?.toLowerCase().includes(searchLower)
-      );
-    }
+ // Memoize filtered locations using debounced search
+const filteredLocations = useMemo(() => {
+  if (!stateData?.locations) return [];
+  
+  let filtered = stateData.locations;
 
-    if (selectedCompany) {
-      filtered = filtered.filter(location =>
-        location.company === selectedCompany
-      );
-    }
+  if (debouncedSearchTerm) {
+    const searchLower = debouncedSearchTerm.toLowerCase();
+    filtered = filtered.filter(location =>
+      location.name?.toLowerCase().includes(searchLower) ||
+      location.city?.toLowerCase().includes(searchLower) ||
+      location.address?.toLowerCase().includes(searchLower) ||
+      location.company?.toLowerCase().includes(searchLower)
+    );
+  }
 
-    return filtered;
-  }, [stateData?.locations, debouncedSearchTerm, selectedCompany]);
+  if (selectedCompany) {
+    filtered = filtered.filter(location =>
+      location.company === selectedCompany
+    );
+  }
+
+  return filtered;
+}, [stateData?.locations, debouncedSearchTerm, selectedCompany]);
+
+// Add this new computed value for displayed locations
+const displayedLocations = useMemo(() => {
+  return filteredLocations.slice(0, itemsToShow);
+}, [filteredLocations, itemsToShow]);
+
+    // Client-side hydration and virtualization logic
+useEffect(() => {
+  setIsClient(true);
+  // Always use static grid for now
+  setUseVirtualization(false);
+}, [filteredLocations.length]);
 
   // Memoize companies list
   const companies = useMemo(() => {
@@ -543,6 +586,15 @@ const currentStateInfo = stateInfo[stateSlug] || {
     setSearchTerm('');
     setSelectedCompany('');
   }, []);
+
+  const loadMore = useCallback(() => {
+  setIsLoadingMore(true);
+  // Simulate loading delay for better UX
+  setTimeout(() => {
+    setItemsToShow(prev => prev + 100);
+    setIsLoadingMore(false);
+  }, 300);
+}, []);
 
   // Generate hours once and memoize
   const generateHoursForLocation = useCallback((index, companyName) => {
@@ -559,10 +611,9 @@ const currentStateInfo = stateInfo[stateSlug] || {
         <title>{currentStateInfo.title} | Find {locationCount.toLocaleString()}+ Locations</title>
         <meta name="description" content={currentStateInfo.description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
       </Head>
 
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
+      <div className="min-h-screen bg-gradient-to-br from-slate-50 to-blue-100">
    <Header />
 
 {/* Hero Section */}
@@ -593,7 +644,7 @@ const currentStateInfo = stateInfo[stateSlug] || {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="bg-white/20 backdrop-blur-sm rounded-xl p-6 border border-white/30">
           <div className="text-3xl font-bold text-blue-800">{locationCount.toLocaleString()}</div>
-          <div className="text-gray-700">Donation Centers</div>
+          <div className="text-gray-700">Clothing Drop Points</div>
         </div>
         <div className="bg-white/20 backdrop-blur-sm rounded-xl p-6 border border-white/30">
           <div className="text-3xl font-bold text-blue-800">{companies.length}</div>
@@ -629,7 +680,7 @@ const currentStateInfo = stateInfo[stateSlug] || {
     <div className="container mx-auto px-4">
       <div className="max-w-4xl mx-auto">
         <div className="bg-white rounded-2xl p-6 shadow-lg border border-gray-100">
-          <h3 className="text-xl font-bold text-gray-900 mb-4">Find Donation Centers</h3>
+          <h3 className="text-xl font-bold text-gray-900 mb-4">Find Clothing Drop Off Points</h3>
           
           <div className="grid md:grid-cols-2 gap-4">
             {/* Search Input */}
@@ -671,9 +722,10 @@ const currentStateInfo = stateInfo[stateSlug] || {
           </div>
           {/* Results Count */}
           <div className="mt-4 flex items-center justify-between">
-            <p className="text-gray-600">
-              Showing {filteredLocations.length.toLocaleString()} of {locationCount.toLocaleString()} locations
-            </p>
+<p className="text-gray-600">
+  Showing {displayedLocations.length.toLocaleString()} of {filteredLocations.length.toLocaleString()} locations
+  {filteredLocations.length !== locationCount && ` (${locationCount.toLocaleString()} total)`}
+</p>
             {(searchTerm || selectedCompany) && (
               <button
                 onClick={() => {
@@ -702,67 +754,89 @@ const currentStateInfo = stateInfo[stateSlug] || {
   </section>
 )}
 
-        {/* Locations List - Optimized Version */}
-      <section className="py-12 bg-white">
-        <div className="container mx-auto px-4">
-          <div className="max-w-6xl mx-auto">
-            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-              Donation Centers in {stateData?.name || 'Your State'}
-            </h2>
+{/* Locations List - With Conditional Virtualization */}
+<section className="py-12 bg-white">
+  <div className="container mx-auto px-4">
+    <div className="max-w-6xl mx-auto">
+      <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
+        Donation Centers in {stateData?.name || 'Your State'}
+      </h2>
 
-            {filteredLocations.length > 0 ? (
-              <div 
-                className="grid md:grid-cols-2 lg:grid-cols-3 gap-6"
-                style={{
-                  // CSS Grid optimization for better performance
-                  containIntrinsicSize: 'auto 400px',
-                  contentVisibility: 'auto'
-                }}
-              >
-                {filteredLocations.map((location, index) => {
-                  const companyStyle = getCompanyStyle(location.company);
-                  const hours = generateHoursForLocation(index, location.company);
-                  
-                  return (
-                    <LocationCard
-                      key={`${location.company}-${location.address}-${index}`}
-                      location={location}
-                      index={index}
-                      stateSlug={stateSlug}
-                      companyStyle={companyStyle}
-                      hours={hours}
-                    />
-                  );
-                })}
-              </div>
-            ) : (
-              /* No Results Message */
-              <div className="text-center py-12">
-                <svg className="w-16 h-16 text-gray-400 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-                </svg>
-                <h3 className="text-xl font-medium text-gray-900 mb-2">
-                  {locationCount === 0 ? 'No donation centers available' : 'No locations found'}
-                </h3>
-                <p className="text-gray-600 mb-4">
-                  {locationCount === 0 
-                    ? 'Check back soon for donation center locations in this state.'
-                    : 'Try adjusting your search terms or clearing the filters.'
-                  }
-                </p>
-                {(debouncedSearchTerm || selectedCompany) && (
-                  <button
-                    onClick={clearFilters}
-                    className="bg-blue-600 text-white py-2 px-6 rounded-lg hover:bg-blue-700 transition-colors font-medium"
-                  >
-                    Show all locations
-                  </button>
-                )}
-              </div>
-            )}
+      {filteredLocations.length > 0 ? (
+        <div>
+          {/* Grid */}
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {displayedLocations.map((location, index) => {
+              const companyStyle = getCompanyStyle(location.company);
+              const hours = generateHoursForLocation(index, location.company);
+              
+              return (
+                <LocationCard
+                  key={`${location.company}-${location.address}-${index}`}
+                  location={location}
+                  index={index}
+                  stateSlug={stateSlug}
+                  companyStyle={companyStyle}
+                  hours={hours}
+                />
+              );
+            })}
           </div>
+
+          {/* Load More Button */}
+          {displayedLocations.length < filteredLocations.length && (
+            <div className="text-center mt-12">
+              <div className="mb-4 text-gray-600">
+                Showing {displayedLocations.length.toLocaleString()} of {filteredLocations.length.toLocaleString()} locations
+              </div>
+              <button
+                onClick={loadMore}
+                disabled={isLoadingMore}
+                className="bg-blue-600 text-white py-3 px-8 rounded-xl hover:bg-blue-700 transition-colors font-medium disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                {isLoadingMore ? (
+                  <span className="flex items-center">
+                    <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    Loading...
+                  </span>
+                ) : (
+                  `Load More (${(filteredLocations.length - displayedLocations.length).toLocaleString()} remaining)`
+                )}
+              </button>
+            </div>
+          )}
         </div>
-      </section>
+      ) : (
+        /* No Results Message */
+        <div className="text-center py-12">
+          <svg className="w-16 h-16 text-gray-400 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+          <h3 className="text-xl font-medium text-gray-900 mb-2">
+            {locationCount === 0 ? 'No donation centers available' : 'No locations found'}
+          </h3>
+          <p className="text-gray-600 mb-4">
+            {locationCount === 0 
+              ? 'Check back soon for donation center locations in this state.'
+              : 'Try adjusting your search terms or clearing the filters.'
+            }
+          </p>
+          {(debouncedSearchTerm || selectedCompany) && (
+            <button
+              onClick={clearFilters}
+              className="bg-blue-600 text-white py-2 px-6 rounded-lg hover:bg-blue-700 transition-colors font-medium"
+            >
+              Show all locations
+            </button>
+          )}
+        </div>
+      )}
+    </div>
+  </div>
+</section>
 
         {/* Back to States */}
         <section className="py-8 bg-gray-50">

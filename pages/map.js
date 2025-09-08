@@ -3,6 +3,8 @@ import { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import dynamic from 'next/dynamic';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 // Dynamically import the map component to avoid SSR issues
 const MapComponent = dynamic(() => import('../components/MapComponent'), {
@@ -160,34 +162,11 @@ function MapPage({ allLocations = [], states = [] }) {
         <meta name="description" content="Interactive map showing 10,000+ clothing donation centers across the US. Use your location to find the nearest drop-off points." />
         <meta name="robots" content="index, follow" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
       </Head>
 
       <div className="min-h-screen bg-gray-50">
-        {/* Header */}
-        <header className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white">
-          <div className="container mx-auto px-4 py-6">
-            <div className="flex items-center justify-between">
-              <div>
-                <Link href="/" className="text-2xl md:text-3xl font-bold hover:text-blue-100 transition-colors">
-                  ClotheDonations.com
-                </Link>
-                <p className="text-blue-100 mt-1 text-sm md:text-base">
-                  Find donation centers near you
-                </p>
-              </div>
-              <nav className="hidden md:flex space-x-6">
-                <Link href="/" className="text-blue-100 hover:text-white transition-colors">
-                  Home
-                </Link>
-                <Link href="/map" className="text-white font-medium">
-                  Map
-                </Link>
-              </nav>
-            </div>
-          </div>
-        </header>
+<Header />
 
         {/* Page Title */}
         <div className="bg-white shadow-sm border-b">
@@ -364,7 +343,7 @@ function MapPage({ allLocations = [], states = [] }) {
         {/* Map Container */}
         <div className="container mx-auto px-4 py-6">
           <div className="bg-white rounded-xl shadow-lg overflow-hidden">
-            <div className="h-96 md:h-[700px] lg:h-[800px] xl:h-[900px]">
+            <div className="h-96 md:h-[400px] lg:h-[400px] xl:h-[600px]">
               <MapComponent 
                 locations={filteredLocations}
                 userLocation={userLocation}
@@ -416,66 +395,7 @@ function MapPage({ allLocations = [], states = [] }) {
         </div>
 
         {/* Footer */}
-        <footer className="bg-gray-900 text-white py-12">
-          <div className="container mx-auto px-4">
-            <div className="grid md:grid-cols-4 gap-8">
-              
-              {/* Brand */}
-              <div className="md:col-span-2">
-                <h3 className="text-2xl font-bold mb-4">ClotheDonations.com</h3>
-                <p className="text-gray-400 mb-4 leading-relaxed">
-                  Your comprehensive guide to clothing donation centers across America. 
-                  Find nearby drop-off locations, support local charities, and make a 
-                  positive impact in your community.
-                </p>
-                <p className="text-gray-400">
-                  Serving {allLocations.length.toLocaleString()}+ verified locations nationwide since 2021.
-                </p>
-              </div>
-
-              {/* Quick Links */}
-              <div>
-                <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
-                <div className="space-y-2">
-                  <Link href="/" className="block text-gray-400 hover:text-white transition-colors">
-                    Find Locations
-                  </Link>
-                  <Link href="/map" className="block text-gray-400 hover:text-white transition-colors">
-                    Interactive Map
-                  </Link>
-                  <a href="#" className="block text-gray-400 hover:text-white transition-colors">
-                    Donation Guidelines
-                  </a>
-                  <a href="#" className="block text-gray-400 hover:text-white transition-colors">
-                    About Us
-                  </a>
-                </div>
-              </div>
-
-              {/* Popular States */}
-              <div>
-                <h4 className="text-lg font-semibold mb-4">Popular States</h4>
-                <div className="space-y-2">
-                  {states.slice(0, 5).map(state => (
-                    <Link 
-                      key={state.slug}
-                      href={`/${state.slug}/`}
-                      className="block text-gray-400 hover:text-white transition-colors"
-                    >
-                      {state.name}
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            </div>
-
-            <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-              <p className="text-gray-400">
-                © 2024 ClotheDonations.com. Making donation simple and accessible for everyone.
-              </p>
-            </div>
-          </div>
-        </footer>
+        <Footer allLocations={allLocations} states={states} />
       </div>
     </>
   );

@@ -80,14 +80,13 @@ export default function AboutPage() {
         <title>About ClotheDonations.com | Our Mission to Make Donation Simple</title>
         <meta name="description" content="Learn about ClotheDonations.com's mission to connect generous donors with trusted charities. Discover our story, values, and commitment to making clothing donation accessible nationwide." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
       </Head>
 
       <div className="min-h-screen bg-gray-50">
         <Header />
 
         {/* Hero Section */}
-        <header className="bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+        <header className="bg-gradient-to-br from-blue-700 to-blue-800 text-white">
           <div className="container mx-auto px-4 py-16">
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
@@ -315,7 +314,7 @@ export default function AboutPage() {
             </section>
 
             {/* Call to Action */}
-            <section className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-2xl p-8 text-white text-center">
+            <section className="bg-gradient-to-r from-blue-700 to-blue-800 rounded-2xl p-8 text-white text-center">
               <h2 className="text-3xl font-bold mb-6">Join Our Mission</h2>
               <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
                 Whether you're looking to donate items or learn more about supporting your community, 

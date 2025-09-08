@@ -50,14 +50,13 @@ export default function GuidelinesPage() {
         <title>Clothing Donation Guidelines | How to Donate Responsibly</title>
         <meta name="description" content="Complete guide to clothing donations. Learn what to donate, how to prepare items, tax benefits, and organization-specific guidelines for maximum impact." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
       </Head>
 
       <div className="min-h-screen bg-gray-50">
         <Header />
 
         {/* Hero Section */}
-        <header className="bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+        <header className="bg-gradient-to-br from-blue-700 to-blue-800 text-white">
           <div className="container mx-auto px-4 py-16">
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
@@ -456,7 +455,7 @@ export default function GuidelinesPage() {
   </div>
 </section>
             {/* Call to Action */}
-            <section className="bg-gradient-to-r from-blue-600 to-indigo-700 rounded-2xl p-8 text-white text-center">
+            <section className="bg-gradient-to-r from-blue-700 to-blue-800 rounded-2xl p-8 text-white text-center">
               <h2 className="text-3xl font-bold mb-6">Ready to Make a Difference?</h2>
               <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
                 Now that you know how to donate responsibly, find a donation center near you and start making an impact in your community.
@@ -481,15 +480,11 @@ export default function GuidelinesPage() {
                   <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-1.447-.894L15 4m0 13V4m-6 3l6-3"></path>
                   </svg>
-                  View Interactive Map
+                  View Map
                 </Link>
               </div>
               
-              <div className="mt-8 p-4 bg-blue-500/30 rounded-lg">
-                <p className="text-blue-100">
-                  <strong>Quick Tip:</strong> Start small with a few quality items. Every donation makes a difference in someone's life.
-                </p>
-              </div>
+  
             </section>
 
           </div>

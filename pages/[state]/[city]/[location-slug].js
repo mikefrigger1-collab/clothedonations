@@ -163,7 +163,6 @@ export default function LocationPage({ location, stateSlug, citySlug }) {
         <meta name="robots" content="noindex, nofollow" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="canonical" href={`/${stateSlug}/`} />
-        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
       </Head>
 
       <div className="min-h-screen bg-gray-50">
