@@ -13,10 +13,8 @@
       "address": "1026 Stadium Dr, Alexandria, LA 71303, USA",
       "street": "1026 Stadium Drive",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.265054,
-        "lng": -92.489283
-      },
+      "latitude": 31.265054,
+      "longitude": -92.489283,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -37,10 +35,8 @@
       "address": "14 MacArthur Dr, Alexandria, LA 71303, USA",
       "street": "14 Macarthur Drive",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.304535,
-        "lng": -92.48047
-      },
+      "latitude": 31.304535,
+      "longitude": -92.48047,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -61,10 +57,8 @@
       "address": "1701 Ulster Dr, Alexandria, LA 71303, USA",
       "street": "Ulster Drive",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.34017,
-        "lng": -92.51366
-      },
+      "latitude": 31.34017,
+      "longitude": -92.51366,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -85,10 +79,8 @@
       "address": "1904 Lee St, Alexandria, LA 71301, USA",
       "street": "1904 Lee Street",
       "zip": "71301",
-      "coordinates": {
-        "lat": 31.299297,
-        "lng": -92.451897
-      },
+      "latitude": 31.299297,
+      "longitude": -92.451897,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -109,10 +101,8 @@
       "address": "1984 Monroe St, Alexandria, LA 71301, USA",
       "street": "1984 Monroe Street",
       "zip": "71301",
-      "coordinates": {
-        "lat": 31.30587,
-        "lng": -92.46468
-      },
+      "latitude": 31.30587,
+      "longitude": -92.46468,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -133,10 +123,8 @@
       "address": "201 Bolton Ave, Alexandria, LA 71301, USA",
       "street": "201 Bolton Avenue",
       "zip": "71301",
-      "coordinates": {
-        "lat": 31.308549,
-        "lng": -92.458618
-      },
+      "latitude": 31.308549,
+      "longitude": -92.458618,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -157,10 +145,8 @@
       "address": "204 Bolton Ave, Alexandria, LA 71301, USA",
       "street": "204 Bolton Avenue",
       "zip": "71301",
-      "coordinates": {
-        "lat": 31.308049,
-        "lng": -92.459043
-      },
+      "latitude": 31.308049,
+      "longitude": -92.459043,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -181,10 +167,8 @@
       "address": "2161 N Bolton Ave, Alexandria, LA 71303, USA",
       "street": "2161 North Bolton Avenue",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.321981,
-        "lng": -92.476643
-      },
+      "latitude": 31.321981,
+      "longitude": -92.476643,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -205,10 +189,8 @@
       "address": "2204 Worley Dr, Alexandria, LA 71301, USA",
       "street": "2204 Worley Drive",
       "zip": "71301",
-      "coordinates": {
-        "lat": 31.276269,
-        "lng": -92.4648
-      },
+      "latitude": 31.276269,
+      "longitude": -92.4648,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -229,10 +211,8 @@
       "address": "260 Windermere Blvd, Alexandria, LA 71303, USA",
       "street": "260 Windermere Boulevard",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.292079,
-        "lng": -92.491757
-      },
+      "latitude": 31.292079,
+      "longitude": -92.491757,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -253,10 +233,8 @@
       "address": "2900 S MacArthur Dr, Alexandria, LA 71301, USA",
       "street": "2900 South Macarthur Drive",
       "zip": "71301",
-      "coordinates": {
-        "lat": 31.267152,
-        "lng": -92.457773
-      },
+      "latitude": 31.267152,
+      "longitude": -92.457773,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -277,10 +255,8 @@
       "address": "3512 Lee St, Alexandria, LA 71302, USA",
       "street": "3512 Lee Street",
       "zip": "71302",
-      "coordinates": {
-        "lat": 31.277368,
-        "lng": -92.446953
-      },
+      "latitude": 31.277368,
+      "longitude": -92.446953,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -301,10 +277,8 @@
       "address": "5615 Coliseum Blvd, Alexandria, LA 71303, USA",
       "street": "Coliseum Boulevard",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.294546,
-        "lng": -92.502737
-      },
+      "latitude": 31.294546,
+      "longitude": -92.502737,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -325,10 +299,8 @@
       "address": "5909 Skye St, Alexandria, LA 71303, USA",
       "street": "5909 Skye Street",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.296647,
-        "lng": -92.512239
-      },
+      "latitude": 31.296647,
+      "longitude": -92.512239,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -349,10 +321,8 @@
       "address": "5994 Jackson St, Alexandria, LA 71303, USA",
       "street": "5994 Jackson Street",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.263664,
-        "lng": -92.489723
-      },
+      "latitude": 31.263664,
+      "longitude": -92.489723,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -373,10 +343,8 @@
       "address": "7921 LA-28, Alexandria, LA 71303, USA",
       "street": "Coliseum Boulevard",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.295068,
-        "lng": -92.538992
-      },
+      "latitude": 31.295068,
+      "longitude": -92.538992,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -397,10 +365,8 @@
       "address": "1500 1st St, Arcadia, LA 71001, USA",
       "street": "1500 1st Street",
       "zip": "71001",
-      "coordinates": {
-        "lat": 32.547525,
-        "lng": -92.916146
-      },
+      "latitude": 32.547525,
+      "longitude": -92.916146,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -421,10 +387,8 @@
       "address": "15248 LA-9, Athens, LA 71003, USA",
       "street": "LA 9",
       "zip": "71003",
-      "coordinates": {
-        "lat": 32.653609,
-        "lng": -93.022202
-      },
+      "latitude": 32.653609,
+      "longitude": -93.022202,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -445,10 +409,8 @@
       "address": "5804 Monroe Hwy, Ball, LA 71405, USA",
       "street": "5804 Monroe Highway",
       "zip": "71405",
-      "coordinates": {
-        "lat": 31.404103,
-        "lng": -92.410624
-      },
+      "latitude": 31.404103,
+      "longitude": -92.410624,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -469,10 +431,8 @@
       "address": "10090 Florida Blvd, Baton Rouge, LA 70815, USA",
       "street": "10090 Florida Boulevard",
       "zip": "70815",
-      "coordinates": {
-        "lat": 30.455551,
-        "lng": -91.070303
-      },
+      "latitude": 30.455551,
+      "longitude": -91.070303,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -493,10 +453,8 @@
       "address": "12390 Scotland Ave, Baton Rouge, LA 70807, USA",
       "street": "12390 Scotland Avenue",
       "zip": "70807",
-      "coordinates": {
-        "lat": 30.558223,
-        "lng": -91.173137
-      },
+      "latitude": 30.558223,
+      "longitude": -91.173137,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -517,10 +475,8 @@
       "address": "15232 George Oneal Rd, Baton Rouge, LA 70817, USA",
       "street": "15232 George Oneal Road",
       "zip": "70817",
-      "coordinates": {
-        "lat": 30.40609,
-        "lng": -91.01509
-      },
+      "latitude": 30.40609,
+      "longitude": -91.01509,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -541,10 +497,8 @@
       "address": "3132 College Dr, Baton Rouge, LA 70808, USA",
       "street": "3132 College Drive",
       "zip": "70808",
-      "coordinates": {
-        "lat": 30.419981,
-        "lng": -91.143099
-      },
+      "latitude": 30.419981,
+      "longitude": -91.143099,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -565,10 +519,8 @@
       "address": "3132 College Dr, Baton Rouge, LA 70808, USA",
       "street": "3132 College Drive",
       "zip": "70808",
-      "coordinates": {
-        "lat": 30.419981,
-        "lng": -91.143099
-      },
+      "latitude": 30.419981,
+      "longitude": -91.143099,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -589,10 +541,8 @@
       "address": "7515 Guy Dr, Baton Rouge, LA 70806, USA",
       "street": "7515 Guy Drive",
       "zip": "70806",
-      "coordinates": {
-        "lat": 30.433645,
-        "lng": -91.110202
-      },
+      "latitude": 30.433645,
+      "longitude": -91.110202,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -613,10 +563,8 @@
       "address": "9335 Burbank Dr, Baton Rouge, LA 70820, USA",
       "street": "9335 Burbank Drive",
       "zip": "70820",
-      "coordinates": {
-        "lat": 30.361184,
-        "lng": -91.124505
-      },
+      "latitude": 30.361184,
+      "longitude": -91.124505,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -637,10 +585,8 @@
       "address": "9960 Bluebonnet Blvd, Baton Rouge, LA 70810, USA",
       "street": "9960 Bluebonnet Boulevard",
       "zip": "70810",
-      "coordinates": {
-        "lat": 30.355594,
-        "lng": -91.111128
-      },
+      "latitude": 30.355594,
+      "longitude": -91.111128,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -661,10 +607,8 @@
       "address": "9960 Bluebonnet Blvd, Baton Rouge, LA 70810, USA",
       "street": "9960 Bluebonnet Boulevard",
       "zip": "70810",
-      "coordinates": {
-        "lat": 30.355594,
-        "lng": -91.111128
-      },
+      "latitude": 30.355594,
+      "longitude": -91.111128,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -685,10 +629,8 @@
       "address": "1301 Martin Ln, Bossier City, LA 71111, USA",
       "street": "1301 Martin Lane",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.519479,
-        "lng": -93.725144
-      },
+      "latitude": 32.519479,
+      "longitude": -93.725144,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -709,10 +651,8 @@
       "address": "1314 Barksdale Blvd, Bossier City, LA 71111, USA",
       "street": "1314 Barksdale Boulevard",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.515525,
-        "lng": -93.725281
-      },
+      "latitude": 32.515525,
+      "longitude": -93.725281,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -733,10 +673,8 @@
       "address": "2150 Barksdale Blvd, Bossier City, LA 71112, USA",
       "street": "2150 Barksdale Boulevard",
       "zip": "71112",
-      "coordinates": {
-        "lat": 32.511496,
-        "lng": -93.711424
-      },
+      "latitude": 32.511496,
+      "longitude": -93.711424,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -757,10 +695,8 @@
       "address": "2201 E Texas St, Bossier City, LA 71111, USA",
       "street": "2201 East Texas Street",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.528783,
-        "lng": -93.718213
-      },
+      "latitude": 32.528783,
+      "longitude": -93.718213,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -781,10 +717,8 @@
       "address": "2334 Barksdale Blvd, Bossier City, LA 71112, USA",
       "street": "2334 Barksdale Boulevard",
       "zip": "71112",
-      "coordinates": {
-        "lat": 32.507719,
-        "lng": -93.703265
-      },
+      "latitude": 32.507719,
+      "longitude": -93.703265,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -805,10 +739,8 @@
       "address": "329 E Texas St, Bossier City, LA 71111, USA",
       "street": "329 East Texas Street",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.521371,
-        "lng": -93.736044
-      },
+      "latitude": 32.521371,
+      "longitude": -93.736044,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -829,10 +761,8 @@
       "address": "748 Diamond Jacks Blvd, Bossier City, LA 71111, USA",
       "street": "748 Diamond Jacks Boulevard",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.513106,
-        "lng": -93.726241
-      },
+      "latitude": 32.513106,
+      "longitude": -93.726241,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -853,10 +783,8 @@
       "address": "1510 US-80, Calhoun, LA 71225, USA",
       "street": "US 80",
       "zip": "71225",
-      "coordinates": {
-        "lat": 32.524726,
-        "lng": -92.304044
-      },
+      "latitude": 32.524726,
+      "longitude": -92.304044,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -877,10 +805,8 @@
       "address": "291 US-80, Calhoun, LA 71225, USA",
       "street": "291 US 80",
       "zip": "71225",
-      "coordinates": {
-        "lat": 32.520491,
-        "lng": -92.327686
-      },
+      "latitude": 32.520491,
+      "longitude": -92.327686,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -901,10 +827,8 @@
       "address": "3738 Elm St, Choudrant, LA 71227, USA",
       "street": "3738 Elm Street",
       "zip": "71227",
-      "coordinates": {
-        "lat": 32.534829,
-        "lng": -92.511799
-      },
+      "latitude": 32.534829,
+      "longitude": -92.511799,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -925,10 +849,8 @@
       "address": "5024 Cut-Off Rd, Coushatta, LA 71019, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.021838,
-        "lng": -93.339641
-      },
+      "latitude": 32.021838,
+      "longitude": -93.339641,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -949,10 +871,8 @@
       "address": "5115 Cut-Off Rd, Coushatta, LA 71019, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.019915,
-        "lng": -93.332195
-      },
+      "latitude": 32.019915,
+      "longitude": -93.332195,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -973,10 +893,8 @@
       "address": "96 Lorraine St, Destrehan, LA 70047, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.940755,
-        "lng": -90.352048
-      },
+      "latitude": 29.940755,
+      "longitude": -90.352048,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -997,10 +915,8 @@
       "address": "13142 LA-73, Geismar, LA 70734, USA",
       "street": "Old Jefferson Highway",
       "zip": "70734",
-      "coordinates": {
-        "lat": 30.258444,
-        "lng": -90.98877
-      },
+      "latitude": 30.258444,
+      "longitude": -90.98877,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1021,10 +937,8 @@
       "address": "6169 US-171, Gloster, LA 71030, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.140052,
-        "lng": -93.835522
-      },
+      "latitude": 32.140052,
+      "longitude": -93.835522,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1045,10 +959,8 @@
       "address": "2740 S Cajun Ave, Gonzales, LA 70737, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.206949,
-        "lng": -90.941329
-      },
+      "latitude": 30.206949,
+      "longitude": -90.941329,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1069,10 +981,8 @@
       "address": "809 N Airline Hwy, Gonzales, LA 70737, USA",
       "street": "North Airline Highway",
       "zip": "70737",
-      "coordinates": {
-        "lat": 30.238878,
-        "lng": -90.914776
-      },
+      "latitude": 30.238878,
+      "longitude": -90.914776,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1093,10 +1003,8 @@
       "address": "2085 W Martin Luther King Jr Ave, Grambling, LA 71245, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.529896,
-        "lng": -92.713794
-      },
+      "latitude": 32.529896,
+      "longitude": -92.713794,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1117,10 +1025,8 @@
       "address": "533 Main St, Grambling, LA 71245, USA",
       "street": "533 Main Street",
       "zip": "71245",
-      "coordinates": {
-        "lat": 32.519164,
-        "lng": -92.713173
-      },
+      "latitude": 32.519164,
+      "longitude": -92.713173,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1141,10 +1047,8 @@
       "address": "8631 US-171, Grand Cane, LA 71032, USA",
       "street": "8631 West Main Street",
       "zip": "71032",
-      "coordinates": {
-        "lat": 32.078029,
-        "lng": -93.804268
-      },
+      "latitude": 32.078029,
+      "longitude": -93.804268,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1165,10 +1069,8 @@
       "address": "707 Kepler St, Gretna, LA 70053, USA",
       "street": "707 Kepler Street",
       "zip": "70053",
-      "coordinates": {
-        "lat": 29.922165,
-        "lng": -90.04981
-      },
+      "latitude": 29.922165,
+      "longitude": -90.04981,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1189,10 +1091,8 @@
       "address": "9320 Jefferson Hwy, Harahan, LA 70123, USA",
       "street": "9320 Jefferson Highway",
       "zip": "70123",
-      "coordinates": {
-        "lat": 29.951678,
-        "lng": -90.214813
-      },
+      "latitude": 29.951678,
+      "longitude": -90.214813,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1213,10 +1113,8 @@
       "address": "9320 Jefferson Hwy, Harahan, LA 70123, USA",
       "street": "9320 Jefferson Highway",
       "zip": "70123",
-      "coordinates": {
-        "lat": 29.951678,
-        "lng": -90.214813
-      },
+      "latitude": 29.951678,
+      "longitude": -90.214813,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1237,10 +1135,8 @@
       "address": "2150 Airline Dr, Kenner, LA 70062, USA",
       "street": "Airline Drive",
       "zip": "70062",
-      "coordinates": {
-        "lat": 29.979951,
-        "lng": -90.242589
-      },
+      "latitude": 29.979951,
+      "longitude": -90.242589,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1261,10 +1157,8 @@
       "address": "2425 Williams Blvd, Kenner, LA 70062, USA",
       "street": "2425 Williams Boulevard",
       "zip": "70062",
-      "coordinates": {
-        "lat": 30.000288,
-        "lng": -90.241356
-      },
+      "latitude": 30.000288,
+      "longitude": -90.241356,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1285,10 +1179,8 @@
       "address": "3324 Williams Blvd, Kenner, LA 70065, USA",
       "street": "3324 Williams Boulevard",
       "zip": "70065",
-      "coordinates": {
-        "lat": 30.017012,
-        "lng": -90.237791
-      },
+      "latitude": 30.017012,
+      "longitude": -90.237791,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1309,10 +1201,8 @@
       "address": "3406 Williams Blvd, Kenner, LA 70065, USA",
       "street": "3406 Williams Boulevard",
       "zip": "70065",
-      "coordinates": {
-        "lat": 30.018141,
-        "lng": -90.237842
-      },
+      "latitude": 30.018141,
+      "longitude": -90.237842,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1333,10 +1223,8 @@
       "address": "224 W Airline Hwy, Laplace, LA 70068, USA",
       "street": "224 West Airline Highway",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.068397,
-        "lng": -90.481512
-      },
+      "latitude": 30.068397,
+      "longitude": -90.481512,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1357,10 +1245,8 @@
       "address": "225 E Airline Hwy, Laplace, LA 70068, USA",
       "street": "225 East Airline Highway",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.064707,
-        "lng": -90.476936
-      },
+      "latitude": 30.064707,
+      "longitude": -90.476936,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1381,10 +1267,8 @@
       "address": "930 E Airline Hwy, Laplace, LA 70068, USA",
       "street": "930 East Airline Highway",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.054631,
-        "lng": -90.463045
-      },
+      "latitude": 30.054631,
+      "longitude": -90.463045,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1405,10 +1289,8 @@
       "address": "1001 Lovell Ln, Logansport, LA 71049, USA",
       "street": "Lovell Lane",
       "zip": "71049",
-      "coordinates": {
-        "lat": 31.984661,
-        "lng": -93.994672
-      },
+      "latitude": 31.984661,
+      "longitude": -93.994672,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1429,10 +1311,8 @@
       "address": "12715 US-90, Luling, LA 70070, USA",
       "street": "US 90",
       "zip": "70070",
-      "coordinates": {
-        "lat": 29.907298,
-        "lng": -90.36355
-      },
+      "latitude": 29.907298,
+      "longitude": -90.36355,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1453,10 +1333,8 @@
       "address": "409 Polk St, Mansfield, LA 71052, USA",
       "street": "409 Polk Street",
       "zip": "71052",
-      "coordinates": {
-        "lat": 32.037875,
-        "lng": -93.707217
-      },
+      "latitude": 32.037875,
+      "longitude": -93.707217,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1477,10 +1355,8 @@
       "address": "500 Washington Ave, Mansfield, LA 71052, USA",
       "street": "500 Washington Avenue",
       "zip": "71052",
-      "coordinates": {
-        "lat": 32.031541,
-        "lng": -93.710603
-      },
+      "latitude": 32.031541,
+      "longitude": -93.710603,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1501,10 +1377,8 @@
       "address": "994 Polk St, Mansfield, LA 71052, USA",
       "street": "994 Polk Street",
       "zip": "71052",
-      "coordinates": {
-        "lat": 32.037317,
-        "lng": -93.70692
-      },
+      "latitude": 32.037317,
+      "longitude": -93.70692,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1525,10 +1399,8 @@
       "address": "5708 Airline Dr, Metairie, LA 70003, USA",
       "street": "5708 Airline Drive",
       "zip": "70003",
-      "coordinates": {
-        "lat": 29.974628,
-        "lng": -90.193263
-      },
+      "latitude": 29.974628,
+      "longitude": -90.193263,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1549,10 +1421,8 @@
       "address": "5708 Airline Dr, Metairie, LA 70003, USA",
       "street": "5708 Airline Drive",
       "zip": "70003",
-      "coordinates": {
-        "lat": 29.974628,
-        "lng": -90.193263
-      },
+      "latitude": 29.974628,
+      "longitude": -90.193263,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1573,10 +1443,8 @@
       "address": "6525 Veterans Blvd, Metairie, LA 70003, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.005264,
-        "lng": -90.212197
-      },
+      "latitude": 30.005264,
+      "longitude": -90.212197,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1597,10 +1465,8 @@
       "address": "7199 Trenton St, Metairie, LA 70003, USA",
       "street": "7199 Trenton Street",
       "zip": "70003",
-      "coordinates": {
-        "lat": 30.001811,
-        "lng": -90.219557
-      },
+      "latitude": 30.001811,
+      "longitude": -90.219557,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1621,10 +1487,8 @@
       "address": "7301 Airline Dr, Metairie, LA 70003, USA",
       "street": "7301 Airline Drive",
       "zip": "70003",
-      "coordinates": {
-        "lat": 29.97835,
-        "lng": -90.215197
-      },
+      "latitude": 29.97835,
+      "longitude": -90.215197,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1645,10 +1509,8 @@
       "address": "8000 W Metairie Ave, Metairie, LA 70003, USA",
       "street": "8000 West Metairie Avenue",
       "zip": "70003",
-      "coordinates": {
-        "lat": 29.985479,
-        "lng": -90.219593
-      },
+      "latitude": 29.985479,
+      "longitude": -90.219593,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1669,10 +1531,8 @@
       "address": "3434 St Charles Ave, New Orleans, LA 70115, USA",
       "street": "3434 Saint Charles Avenue",
       "zip": "70115",
-      "coordinates": {
-        "lat": 29.927672,
-        "lng": -90.092273
-      },
+      "latitude": 29.927672,
+      "longitude": -90.092273,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1693,10 +1553,8 @@
       "address": "133 Delaronde St, New Orleans, LA 70114, USA",
       "street": "133 Delaronde Street",
       "zip": "70114",
-      "coordinates": {
-        "lat": 29.952022,
-        "lng": -90.054662
-      },
+      "latitude": 29.952022,
+      "longitude": -90.054662,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1717,10 +1575,8 @@
       "address": "133 Delaronde St, New Orleans, LA 70114, USA",
       "street": "133 Delaronde Street",
       "zip": "70114",
-      "coordinates": {
-        "lat": 29.952022,
-        "lng": -90.054662
-      },
+      "latitude": 29.952022,
+      "longitude": -90.054662,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1741,10 +1597,8 @@
       "address": "1525 Elysian Fields Ave, New Orleans, LA 70117, USA",
       "street": "1525 Elysian Fields Avenue",
       "zip": "70117",
-      "coordinates": {
-        "lat": 29.973093,
-        "lng": -90.056395
-      },
+      "latitude": 29.973093,
+      "longitude": -90.056395,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1765,10 +1619,8 @@
       "address": "1533 Esplanade Ave, New Orleans, LA 70116, USA",
       "street": "1533 Esplanade Avenue",
       "zip": "70116",
-      "coordinates": {
-        "lat": 29.969404,
-        "lng": -90.068042
-      },
+      "latitude": 29.969404,
+      "longitude": -90.068042,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1789,10 +1641,8 @@
       "address": "1830 Rousseau St, New Orleans, LA 70130, USA",
       "street": "1830 Rousseau Street",
       "zip": "70130",
-      "coordinates": {
-        "lat": 29.927674,
-        "lng": -90.068598
-      },
+      "latitude": 29.927674,
+      "longitude": -90.068598,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1813,10 +1663,8 @@
       "address": "1830 Rousseau St, New Orleans, LA 70130, USA",
       "street": "1830 Rousseau Street",
       "zip": "70130",
-      "coordinates": {
-        "lat": 29.927674,
-        "lng": -90.068598
-      },
+      "latitude": 29.927674,
+      "longitude": -90.068598,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1837,10 +1685,8 @@
       "address": "2036 Caffin Ave, New Orleans, LA 70117, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.971361,
-        "lng": -90.012831
-      },
+      "latitude": 29.971361,
+      "longitude": -90.012831,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1861,10 +1707,8 @@
       "address": "2243 Simon Bolivar Ave, New Orleans, LA 70113, USA",
       "street": "2243 Simon Bolivar Avenue",
       "zip": "70113",
-      "coordinates": {
-        "lat": 29.939122,
-        "lng": -90.085775
-      },
+      "latitude": 29.939122,
+      "longitude": -90.085775,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1885,10 +1729,8 @@
       "address": "2841 S Claiborne Ave, New Orleans, LA 70125, USA",
       "street": "2841 South Claiborne Avenue",
       "zip": "70125",
-      "coordinates": {
-        "lat": 29.94276,
-        "lng": -90.095852
-      },
+      "latitude": 29.94276,
+      "longitude": -90.095852,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1909,10 +1751,8 @@
       "address": "2900 Elysian Fields Ave, New Orleans, LA 70122, USA",
       "street": "2900 Elysian Fields Avenue",
       "zip": "70122",
-      "coordinates": {
-        "lat": 29.987951,
-        "lng": -90.05935
-      },
+      "latitude": 29.987951,
+      "longitude": -90.05935,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1933,10 +1773,8 @@
       "address": "3101 S Carrollton Ave, New Orleans, LA 70118, USA",
       "street": "3101 South Carrollton Avenue",
       "zip": "70118",
-      "coordinates": {
-        "lat": 29.961176,
-        "lng": -90.114262
-      },
+      "latitude": 29.961176,
+      "longitude": -90.114262,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1957,10 +1795,8 @@
       "address": "3101 S Carrollton Ave, New Orleans, LA 70118, USA",
       "street": "3101 South Carrollton Avenue",
       "zip": "70118",
-      "coordinates": {
-        "lat": 29.961176,
-        "lng": -90.114262
-      },
+      "latitude": 29.961176,
+      "longitude": -90.114262,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -1981,10 +1817,8 @@
       "address": "3501 General Meyer Ave, New Orleans, LA 70114, USA",
       "street": "3501 General Meyer Avenue",
       "zip": "70114",
-      "coordinates": {
-        "lat": 29.938524,
-        "lng": -90.01882
-      },
+      "latitude": 29.938524,
+      "longitude": -90.01882,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2005,10 +1839,8 @@
       "address": "3501 Toulouse St, New Orleans, LA 70119, USA",
       "street": "3501 Toulouse Street",
       "zip": "70119",
-      "coordinates": {
-        "lat": 29.975173,
-        "lng": -90.092072
-      },
+      "latitude": 29.975173,
+      "longitude": -90.092072,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2029,10 +1861,8 @@
       "address": "3501 Toulouse St, New Orleans, LA 70119, USA",
       "street": "3501 Toulouse Street",
       "zip": "70119",
-      "coordinates": {
-        "lat": 29.975173,
-        "lng": -90.092072
-      },
+      "latitude": 29.975173,
+      "longitude": -90.092072,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2053,10 +1883,8 @@
       "address": "8023 S Claiborne Ave, New Orleans, LA 70125, USA",
       "street": "8023 South Claiborne Avenue",
       "zip": "70125",
-      "coordinates": {
-        "lat": 29.955717,
-        "lng": -90.119497
-      },
+      "latitude": 29.955717,
+      "longitude": -90.119497,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2077,10 +1905,8 @@
       "address": "14252 US-90, Paradis, LA 70080, USA",
       "street": "US Highway 90",
       "zip": "70080",
-      "coordinates": {
-        "lat": 29.8905,
-        "lng": -90.414175
-      },
+      "latitude": 29.8905,
+      "longitude": -90.414175,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2101,10 +1927,8 @@
       "address": "3300 LA-28, Pineville, LA 71360, USA",
       "street": "3300 LA 28",
       "zip": "71360",
-      "coordinates": {
-        "lat": 31.332966,
-        "lng": -92.39033
-      },
+      "latitude": 31.332966,
+      "longitude": -92.39033,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2125,10 +1949,8 @@
       "address": "420 Rocky Bayou Dr, Pineville, LA 71360, USA",
       "street": "420 Rocky Bayou Drive",
       "zip": "71360",
-      "coordinates": {
-        "lat": 31.352007,
-        "lng": -92.424909
-      },
+      "latitude": 31.352007,
+      "longitude": -92.424909,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2149,10 +1971,8 @@
       "address": "6204 Shreveport Hwy, Pineville, LA 71360, USA",
       "street": "Shreveport Highway",
       "zip": "71360",
-      "coordinates": {
-        "lat": 31.404905,
-        "lng": -92.449676
-      },
+      "latitude": 31.404905,
+      "longitude": -92.449676,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2173,10 +1993,8 @@
       "address": "112 N Lobdell Hwy, Port Allen, LA 70767, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.449998,
-        "lng": -91.245611
-      },
+      "latitude": 30.449998,
+      "longitude": -91.245611,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2197,10 +2015,8 @@
       "address": "112 N Lobdell Hwy, Port Allen, LA 70767, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.449998,
-        "lng": -91.245611
-      },
+      "latitude": 30.449998,
+      "longitude": -91.245611,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2221,10 +2037,8 @@
       "address": "112 N Lobdell Hwy, Port Allen, LA 70767, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.449998,
-        "lng": -91.245611
-      },
+      "latitude": 30.449998,
+      "longitude": -91.245611,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2245,10 +2059,8 @@
       "address": "112 N Lobdell Hwy, Port Allen, LA 70767, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.449998,
-        "lng": -91.245611
-      },
+      "latitude": 30.449998,
+      "longitude": -91.245611,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2269,10 +2081,8 @@
       "address": "8601 Jefferson Hwy, River Ridge, LA 70123, USA",
       "street": "8601 Jefferson Highway",
       "zip": "70123",
-      "coordinates": {
-        "lat": 29.942907,
-        "lng": -90.21202
-      },
+      "latitude": 29.942907,
+      "longitude": -90.21202,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2293,10 +2103,8 @@
       "address": "104 North Service Rd E, Ruston, LA 71270, USA",
       "street": "104 North Service Road East",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.541079,
-        "lng": -92.63797
-      },
+      "latitude": 32.541079,
+      "longitude": -92.63797,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2317,10 +2125,8 @@
       "address": "1338 Cooktown Rd, Ruston, LA 71270, USA",
       "street": "Cooktown Road",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.542527,
-        "lng": -92.652542
-      },
+      "latitude": 32.542527,
+      "longitude": -92.652542,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2341,10 +2147,8 @@
       "address": "2016 Farmerville Hwy, Ruston, LA 71270, USA",
       "street": "Farmerville Highway",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.548163,
-        "lng": -92.610206
-      },
+      "latitude": 32.548163,
+      "longitude": -92.610206,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2365,10 +2169,8 @@
       "address": "2829 Farmerville Hwy, Ruston, LA 71270, USA",
       "street": "2829 Farmerville Highway",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.573848,
-        "lng": -92.602922
-      },
+      "latitude": 32.573848,
+      "longitude": -92.602922,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2389,10 +2191,8 @@
       "address": "311 N Maple St, Ruston, LA 71270, USA",
       "street": "311 North Maple Street",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.53284,
-        "lng": -92.666148
-      },
+      "latitude": 32.53284,
+      "longitude": -92.666148,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2413,10 +2213,8 @@
       "address": "346 W California Ave, Ruston, LA 71270, USA",
       "street": "346 West California Avenue",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.524085,
-        "lng": -92.643105
-      },
+      "latitude": 32.524085,
+      "longitude": -92.643105,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2437,10 +2235,8 @@
       "address": "504 S Vienna St, Ruston, LA 71270, USA",
       "street": "South Vienna Street",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.524335,
-        "lng": -92.638678
-      },
+      "latitude": 32.524335,
+      "longitude": -92.638678,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2461,10 +2257,8 @@
       "address": "909 W California Ave, Ruston, LA 71270, USA",
       "street": "909 West California Avenue",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.521695,
-        "lng": -92.650959
-      },
+      "latitude": 32.521695,
+      "longitude": -92.650959,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2485,10 +2279,8 @@
       "address": "923 E Georgia Ave, Ruston, LA 71270, USA",
       "street": "923 East Georgia Avenue",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.533296,
-        "lng": -92.625421
-      },
+      "latitude": 32.533296,
+      "longitude": -92.625421,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2509,10 +2301,8 @@
       "address": "10431 E Airline Hwy, St Rose, LA 70087, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.973341,
-        "lng": -90.301234
-      },
+      "latitude": 29.973341,
+      "longitude": -90.301234,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2533,10 +2323,8 @@
       "address": "109 E Bert Kouns Industrial Loop, Shreveport, LA 71106, USA",
       "street": "109 East Bert Kouns Industrial Loop",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.397828,
-        "lng": -93.749004
-      },
+      "latitude": 32.397828,
+      "longitude": -93.749004,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2557,10 +2345,8 @@
       "address": "1101 Sprt Bkdl Hwy Srv Dr, Shreveport, LA 71105, USA",
       "street": "Sprt Bkdl Hwy Srv Drive",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.484709,
-        "lng": -93.708054
-      },
+      "latitude": 32.484709,
+      "longitude": -93.708054,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2581,10 +2367,8 @@
       "address": "1867 Nelson St, Shreveport, LA 71107, USA",
       "street": "1867 Nelson Street",
       "zip": "71107",
-      "coordinates": {
-        "lat": 32.542852,
-        "lng": -93.777719
-      },
+      "latitude": 32.542852,
+      "longitude": -93.777719,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2605,10 +2389,8 @@
       "address": "1907 Southern Loop, Shreveport, LA 71106, USA",
       "street": "Southern Loop",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.354613,
-        "lng": -93.714377
-      },
+      "latitude": 32.354613,
+      "longitude": -93.714377,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2629,10 +2411,8 @@
       "address": "1907 Southern Loop, Shreveport, LA 71106, USA",
       "street": "Southern Loop",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.354613,
-        "lng": -93.714377
-      },
+      "latitude": 32.354613,
+      "longitude": -93.714377,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2653,10 +2433,8 @@
       "address": "2001 Centenary Blvd, Shreveport, LA 71104, USA",
       "street": "2001 Centenary Boulevard",
       "zip": "71104",
-      "coordinates": {
-        "lat": 32.492416,
-        "lng": -93.732789
-      },
+      "latitude": 32.492416,
+      "longitude": -93.732789,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2677,10 +2455,8 @@
       "address": "2803 Shreveport Blanchard Hwy, Shreveport, LA 71107, USA",
       "street": "2803 Hilry Huckaby III Avenue",
       "zip": "71107",
-      "coordinates": {
-        "lat": 32.512697,
-        "lng": -93.780764
-      },
+      "latitude": 32.512697,
+      "longitude": -93.780764,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2701,10 +2477,8 @@
       "address": "2915 Youree Dr, Shreveport, LA 71104, USA",
       "street": "2915 Youree Drive",
       "zip": "71104",
-      "coordinates": {
-        "lat": 32.483121,
-        "lng": -93.723683
-      },
+      "latitude": 32.483121,
+      "longitude": -93.723683,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2725,10 +2499,8 @@
       "address": "326 E Stoner Ave, Shreveport, LA 71101, USA",
       "street": "326 East Stoner Avenue",
       "zip": "71101",
-      "coordinates": {
-        "lat": 32.500249,
-        "lng": -93.725322
-      },
+      "latitude": 32.500249,
+      "longitude": -93.725322,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2749,10 +2521,8 @@
       "address": "3510 Hearne Ave, Shreveport, LA 71109, USA",
       "street": "3510 North Hearne Avenue",
       "zip": "71103",
-      "coordinates": {
-        "lat": 32.479715,
-        "lng": -93.780438
-      },
+      "latitude": 32.479715,
+      "longitude": -93.780438,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2773,10 +2543,8 @@
       "address": "388 W Bert Kouns Industrial Loop, Shreveport, LA 71106, USA",
       "street": "388 West Bert Kouns Industrial Loop",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.399785,
-        "lng": -93.762714
-      },
+      "latitude": 32.399785,
+      "longitude": -93.762714,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2797,10 +2565,8 @@
       "address": "4020 Hearne Ave, Shreveport, LA 71103, USA",
       "street": "4020 North Hearne Avenue",
       "zip": "71103",
-      "coordinates": {
-        "lat": 32.475094,
-        "lng": -93.780269
-      },
+      "latitude": 32.475094,
+      "longitude": -93.780269,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2821,10 +2587,8 @@
       "address": "510 Kings Hwy, Shreveport, LA 71104, USA",
       "street": "510 Kings Highway",
       "zip": "71104",
-      "coordinates": {
-        "lat": 32.482363,
-        "lng": -93.74063
-      },
+      "latitude": 32.482363,
+      "longitude": -93.74063,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2845,10 +2609,8 @@
       "address": "534 N Market St, Shreveport, LA 71107, USA",
       "street": "534 North Market Street",
       "zip": "71107",
-      "coordinates": {
-        "lat": 32.524451,
-        "lng": -93.757372
-      },
+      "latitude": 32.524451,
+      "longitude": -93.757372,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2869,10 +2631,8 @@
       "address": "705 E Kings Hwy, Shreveport, LA 71104, USA",
       "street": "705 East Kings Highway",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.479098,
-        "lng": -93.71836
-      },
+      "latitude": 32.479098,
+      "longitude": -93.71836,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2893,10 +2653,8 @@
       "address": "790 E Flournoy Lucas Rd, Shreveport, LA 71115, USA",
       "street": "790 East Flournoy Lucas Road",
       "zip": "71115",
-      "coordinates": {
-        "lat": 32.401481,
-        "lng": -93.694766
-      },
+      "latitude": 32.401481,
+      "longitude": -93.694766,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2917,10 +2675,8 @@
       "address": "814 Cotton St, Shreveport, LA 71101, USA",
       "street": "814 Cotton Street",
       "zip": "71101",
-      "coordinates": {
-        "lat": 32.508149,
-        "lng": -93.75075
-      },
+      "latitude": 32.508149,
+      "longitude": -93.75075,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2941,10 +2697,8 @@
       "address": "814 Cotton St, Shreveport, LA 71101, USA",
       "street": "814 Cotton Street",
       "zip": "71101",
-      "coordinates": {
-        "lat": 32.508149,
-        "lng": -93.75075
-      },
+      "latitude": 32.508149,
+      "longitude": -93.75075,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2965,10 +2719,8 @@
       "address": "890 Flournoy Lucas Rd, Shreveport, LA 71118, USA",
       "street": "890 Flournoy Lucas Road",
       "zip": "71118",
-      "coordinates": {
-        "lat": 32.391331,
-        "lng": -93.780053
-      },
+      "latitude": 32.391331,
+      "longitude": -93.780053,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -2989,10 +2741,8 @@
       "address": "9464 Mansfield Rd, Shreveport, LA 71118, USA",
       "street": "9464 Mansfield Road",
       "zip": "71118",
-      "coordinates": {
-        "lat": 32.391608,
-        "lng": -93.814414
-      },
+      "latitude": 32.391608,
+      "longitude": -93.814414,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3013,10 +2763,8 @@
       "address": "9201 US-80, Simsboro, LA 71275, USA",
       "street": "9201 US 80",
       "zip": "71275",
-      "coordinates": {
-        "lat": 32.529,
-        "lng": -92.777223
-      },
+      "latitude": 32.529,
+      "longitude": -92.777223,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3037,10 +2785,8 @@
       "address": "3715 LA-67, Slaughter, LA 70777, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.768634,
-        "lng": -91.031422
-      },
+      "latitude": 30.768634,
+      "longitude": -91.031422,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3061,10 +2807,8 @@
       "address": "1313 Jenkins St, South Mansfield, LA 71052, USA",
       "street": "1313 Jenkins Street",
       "zip": "71052",
-      "coordinates": {
-        "lat": 32.020026,
-        "lng": -93.713777
-      },
+      "latitude": 32.020026,
+      "longitude": -93.713777,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3085,10 +2829,8 @@
       "address": "LA-3276, Stonewall, LA, USA",
       "street": "State Route 3276",
       "zip": "71078",
-      "coordinates": {
-        "lat": 32.282292,
-        "lng": -93.823023
-      },
+      "latitude": 32.282292,
+      "longitude": -93.823023,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3109,10 +2851,8 @@
       "address": "11715 Burgess Ave, Walker, LA 70785, USA",
       "street": "11715 Burgess Avenue",
       "zip": "70785",
-      "coordinates": {
-        "lat": 30.492814,
-        "lng": -90.891641
-      },
+      "latitude": 30.492814,
+      "longitude": -90.891641,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3133,10 +2873,8 @@
       "address": "28145 Walker South Rd, Walker, LA 70785, USA",
       "street": "28145 Walker South Road",
       "zip": "70785",
-      "coordinates": {
-        "lat": 30.475222,
-        "lng": -90.864977
-      },
+      "latitude": 30.475222,
+      "longitude": -90.864977,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3157,10 +2895,8 @@
       "address": "29521 Walker South Rd, Walker, LA 70785, USA",
       "street": "Walker South Road",
       "zip": "70785",
-      "coordinates": {
-        "lat": 30.484715,
-        "lng": -90.863054
-      },
+      "latitude": 30.484715,
+      "longitude": -90.863054,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3181,10 +2917,8 @@
       "address": "8827 Florida Blvd, Walker, LA 70785, USA",
       "street": "8827 Florida Boulevard",
       "zip": "70785",
-      "coordinates": {
-        "lat": 30.484273,
-        "lng": -90.904204
-      },
+      "latitude": 30.484273,
+      "longitude": -90.904204,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3205,10 +2939,8 @@
       "address": "539 Smith St, West Monroe, LA 71292, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.484734,
-        "lng": -92.166918
-      },
+      "latitude": 32.484734,
+      "longitude": -92.166918,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3229,10 +2961,8 @@
       "address": "800 Mill St, West Monroe, LA 71291, USA",
       "street": "800 Mill Street",
       "zip": "71291",
-      "coordinates": {
-        "lat": 32.500234,
-        "lng": -92.133842
-      },
+      "latitude": 32.500234,
+      "longitude": -92.133842,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3253,10 +2983,8 @@
       "address": "8215 Cypress St, West Monroe, LA 71291, USA",
       "street": "Cypress Street",
       "zip": "71291",
-      "coordinates": {
-        "lat": 32.51791,
-        "lng": -92.242657
-      },
+      "latitude": 32.51791,
+      "longitude": -92.242657,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3277,10 +3005,8 @@
       "address": "20377 Old Scenic Hwy, Zachary, LA 70791, USA",
       "street": "20377 Old Scenic Highway",
       "zip": "70791",
-      "coordinates": {
-        "lat": 30.652919,
-        "lng": -91.195211
-      },
+      "latitude": 30.652919,
+      "longitude": -91.195211,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3301,10 +3027,8 @@
       "address": "820 S Main St, Zwolle, LA 71486, USA",
       "street": "South Main Street",
       "zip": "71486",
-      "coordinates": {
-        "lat": 31.630726,
-        "lng": -93.644226
-      },
+      "latitude": 31.630726,
+      "longitude": -93.644226,
       "acceptedMaterials": [
         "Accessories",
         "Clothing",
@@ -3325,10 +3049,8 @@
       "address": "1132 Veterans Memorial Dr, Abbeville, LA 70510, USA",
       "street": "1132 Veterans Memorial Drive",
       "zip": "70510",
-      "coordinates": {
-        "lat": 29.980286,
-        "lng": -92.122663
-      },
+      "latitude": 29.980286,
+      "longitude": -92.122663,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3353,10 +3075,8 @@
       "address": "117 Park Ave, Abbeville, LA 70510, USA",
       "street": "117 Park Avenue",
       "zip": "70510",
-      "coordinates": {
-        "lat": 29.976616,
-        "lng": -92.141706
-      },
+      "latitude": 29.976616,
+      "longitude": -92.141706,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3381,10 +3101,8 @@
       "address": "310 Charity St, Abbeville, LA 70510, USA",
       "street": "310 Charity Street",
       "zip": "70510",
-      "coordinates": {
-        "lat": 29.97335,
-        "lng": -92.132733
-      },
+      "latitude": 29.97335,
+      "longitude": -92.132733,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3409,10 +3127,8 @@
       "address": "3404 Veterans Memorial Dr, Abbeville, LA 70510, USA",
       "street": "Veterans Memorial Drive",
       "zip": "70510",
-      "coordinates": {
-        "lat": 29.967936,
-        "lng": -92.087398
-      },
+      "latitude": 29.967936,
+      "longitude": -92.087398,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3437,10 +3153,8 @@
       "address": "5884 US-167, Abbeville, LA 70510, USA",
       "street": "Park Avenue",
       "zip": "70510",
-      "coordinates": {
-        "lat": 29.996792,
-        "lng": -92.127974
-      },
+      "latitude": 29.996792,
+      "longitude": -92.127974,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3465,10 +3179,8 @@
       "address": "22697 LA-435, Abita Springs, LA 70420, USA",
       "street": "22697 Highway 435",
       "zip": "70420",
-      "coordinates": {
-        "lat": 30.486364,
-        "lng": -90.025417
-      },
+      "latitude": 30.486364,
+      "longitude": -90.025417,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3493,10 +3205,8 @@
       "address": "614 Fulton St, Alexandria, LA 71301, USA",
       "street": "614 Fulton Street",
       "zip": "71301",
-      "coordinates": {
-        "lat": 31.306832,
-        "lng": -92.443224
-      },
+      "latitude": 31.306832,
+      "longitude": -92.443224,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3521,10 +3231,8 @@
       "address": "42360 LA-16, Amite City, LA 70422, USA",
       "street": "West Oak Street",
       "zip": "70422",
-      "coordinates": {
-        "lat": 30.709957,
-        "lng": -90.753439
-      },
+      "latitude": 30.709957,
+      "longitude": -90.753439,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3549,10 +3257,8 @@
       "address": "Charles Marks Rd, Louisiana 70512, USA",
       "street": "Charles Marks Road",
       "zip": "70512",
-      "coordinates": {
-        "lat": 30.409423,
-        "lng": -91.870903
-      },
+      "latitude": 30.409423,
+      "longitude": -91.870903,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3577,10 +3283,8 @@
       "address": "150 Main St, Baker, LA 70714, USA",
       "street": "150 Main Street",
       "zip": "70714",
-      "coordinates": {
-        "lat": 30.57589,
-        "lng": -91.16947
-      },
+      "latitude": 30.57589,
+      "longitude": -91.16947,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3605,10 +3309,8 @@
       "address": "327 E Martin Luther King Rd, Baldwin, LA 70514, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.880109,
-        "lng": -91.527346
-      },
+      "latitude": 29.880109,
+      "longitude": -91.527346,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3633,10 +3335,8 @@
       "address": "4702 Monroe Hwy, Ball, LA 71405, USA",
       "street": "4702 Monroe Highway",
       "zip": "71405",
-      "coordinates": {
-        "lat": 31.384453,
-        "lng": -92.406495
-      },
+      "latitude": 31.384453,
+      "longitude": -92.406495,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3661,10 +3361,8 @@
       "address": "6920 Plank Rd, Baton Rouge, LA 70811, USA",
       "street": "Plank Road",
       "zip": "70811",
-      "coordinates": {
-        "lat": 30.513215,
-        "lng": -91.147723
-      },
+      "latitude": 30.513215,
+      "longitude": -91.147723,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3689,10 +3387,8 @@
       "address": "12319 Florida Blvd, Baton Rouge, LA 70815, USA",
       "street": "12319 Florida Boulevard",
       "zip": "70815",
-      "coordinates": {
-        "lat": 30.460644,
-        "lng": -91.04724
-      },
+      "latitude": 30.460644,
+      "longitude": -91.04724,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3717,10 +3413,8 @@
       "address": "12617 Florida Blvd, Baton Rouge, LA 70815, USA",
       "street": "Florida Boulevard",
       "zip": "70815",
-      "coordinates": {
-        "lat": 30.46155,
-        "lng": -91.042892
-      },
+      "latitude": 30.46155,
+      "longitude": -91.042892,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3745,10 +3439,8 @@
       "address": "14241 Coursey Blvd, Baton Rouge, LA 70817, USA",
       "street": "14241 Coursey Boulevard",
       "zip": "70817",
-      "coordinates": {
-        "lat": 30.408998,
-        "lng": -91.020126
-      },
+      "latitude": 30.408998,
+      "longitude": -91.020126,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3773,10 +3465,8 @@
       "address": "14506 Scenic Hwy, Baton Rouge, LA 70807, USA",
       "street": "14506 Scenic Highway",
       "zip": "70807",
-      "coordinates": {
-        "lat": 30.578376,
-        "lng": -91.211269
-      },
+      "latitude": 30.578376,
+      "longitude": -91.211269,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3801,10 +3491,8 @@
       "address": "14639 Wax Rd, Baton Rouge, LA 70818, USA",
       "street": "14639 Wax Road",
       "zip": "70818",
-      "coordinates": {
-        "lat": 30.543533,
-        "lng": -91.024781
-      },
+      "latitude": 30.543533,
+      "longitude": -91.024781,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3829,10 +3517,8 @@
       "address": "14681 Wax Rd, Baton Rouge, LA 70818, USA",
       "street": "14681 Wax Road",
       "zip": "70818",
-      "coordinates": {
-        "lat": 30.543554,
-        "lng": -91.024471
-      },
+      "latitude": 30.543554,
+      "longitude": -91.024471,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3857,10 +3543,8 @@
       "address": "1542 N Foster Dr, Baton Rouge, LA 70806, USA",
       "street": "North Foster Drive",
       "zip": "70806",
-      "coordinates": {
-        "lat": 30.464028,
-        "lng": -91.138975
-      },
+      "latitude": 30.464028,
+      "longitude": -91.138975,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3885,10 +3569,8 @@
       "address": "3873 Choctaw Dr, Baton Rouge, LA 70805, USA",
       "street": "Choctaw Drive",
       "zip": "70805",
-      "coordinates": {
-        "lat": 30.471843,
-        "lng": -91.151395
-      },
+      "latitude": 30.471843,
+      "longitude": -91.151395,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3913,10 +3595,8 @@
       "address": "4650 Airline Hwy, Baton Rouge, LA 70805, USA",
       "street": "4650 Airline Highway",
       "zip": "70805",
-      "coordinates": {
-        "lat": 30.508812,
-        "lng": -91.144017
-      },
+      "latitude": 30.508812,
+      "longitude": -91.144017,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3941,10 +3621,8 @@
       "address": "5383 Jones Creek Rd, Baton Rouge, LA 70817, USA",
       "street": "Jones Creek Road",
       "zip": "70817",
-      "coordinates": {
-        "lat": 30.405282,
-        "lng": -91.014696
-      },
+      "latitude": 30.405282,
+      "longitude": -91.014696,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3969,10 +3647,8 @@
       "address": "5483 Jones Creek Rd, Baton Rouge, LA 70817, USA",
       "street": "Jones Creek Road",
       "zip": "70817",
-      "coordinates": {
-        "lat": 30.404245,
-        "lng": -91.016108
-      },
+      "latitude": 30.404245,
+      "longitude": -91.016108,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3997,10 +3673,8 @@
       "address": "6757 Florida Blvd, Baton Rouge, LA 70806, USA",
       "street": "6757 Florida Boulevard",
       "zip": "70806",
-      "coordinates": {
-        "lat": 30.452398,
-        "lng": -91.12138
-      },
+      "latitude": 30.452398,
+      "longitude": -91.12138,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4025,10 +3699,8 @@
       "address": "6910 Mickens Rd, Baton Rouge, LA 70811, USA",
       "street": "6910 Mickens Road",
       "zip": "70811",
-      "coordinates": {
-        "lat": 30.518812,
-        "lng": -91.121834
-      },
+      "latitude": 30.518812,
+      "longitude": -91.121834,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4053,10 +3725,8 @@
       "address": "5604 LA-3, Benton, LA 71006, USA",
       "street": "Benton Road",
       "zip": "",
-      "coordinates": {
-        "lat": 32.630486,
-        "lng": -93.742585
-      },
+      "latitude": 32.630486,
+      "longitude": -93.742585,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4081,10 +3751,8 @@
       "address": "206 Cherry St, Bernice, LA 71222, USA",
       "street": "206 Cherry Street",
       "zip": "71222",
-      "coordinates": {
-        "lat": 32.822606,
-        "lng": -92.657263
-      },
+      "latitude": 32.822606,
+      "longitude": -92.657263,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4109,10 +3777,8 @@
       "address": "405 Plum St, Bernice, LA 71222, USA",
       "street": "Plum Street",
       "zip": "71222",
-      "coordinates": {
-        "lat": 32.820554,
-        "lng": -92.659533
-      },
+      "latitude": 32.820554,
+      "longitude": -92.659533,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4137,10 +3803,8 @@
       "address": "427 Plum St, Bernice, LA 71222, USA",
       "street": "Plum Street",
       "zip": "71222",
-      "coordinates": {
-        "lat": 32.82011,
-        "lng": -92.658641
-      },
+      "latitude": 32.82011,
+      "longitude": -92.658641,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4165,10 +3829,8 @@
       "address": "California St, Berwick, LA 70342, USA",
       "street": "California Street",
       "zip": "70342",
-      "coordinates": {
-        "lat": 29.694238,
-        "lng": -91.219833
-      },
+      "latitude": 29.694238,
+      "longitude": -91.219833,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4193,10 +3855,8 @@
       "address": "2033 US-90, Berwick, LA 70342, USA",
       "street": "2033 US 90",
       "zip": "70342",
-      "coordinates": {
-        "lat": 29.686155,
-        "lng": -91.25387
-      },
+      "latitude": 29.686155,
+      "longitude": -91.25387,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4221,10 +3881,8 @@
       "address": "1870 Airline Dr, Bossier City, LA 71112, USA",
       "street": "1870 Airline Drive",
       "zip": "71112",
-      "coordinates": {
-        "lat": 32.519647,
-        "lng": -93.694552
-      },
+      "latitude": 32.519647,
+      "longitude": -93.694552,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4249,10 +3907,8 @@
       "address": "2100 Airline Dr, Bossier City, LA 71111, USA",
       "street": "2100 Airline Drive",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.532288,
-        "lng": -93.705337
-      },
+      "latitude": 32.532288,
+      "longitude": -93.705337,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4277,10 +3933,8 @@
       "address": "2130 Airline Dr, Bossier City, LA 71111, USA",
       "street": "2130 Airline Drive",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.535923,
-        "lng": -93.707043
-      },
+      "latitude": 32.535923,
+      "longitude": -93.707043,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4305,10 +3959,8 @@
       "address": "2340 Airline Dr, Bossier City, LA 71111, USA",
       "street": "2340 Airline Drive",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.544928,
-        "lng": -93.707737
-      },
+      "latitude": 32.544928,
+      "longitude": -93.707737,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4333,10 +3985,8 @@
       "address": "2900 E Texas St, Bossier City, LA 71111, USA",
       "street": "2900 East Texas Street",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.527856,
-        "lng": -93.70923
-      },
+      "latitude": 32.527856,
+      "longitude": -93.70923,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4361,10 +4011,8 @@
       "address": "2300 Cecilia Loop, Breaux Bridge, LA 70517, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.34045,
-        "lng": -91.842708
-      },
+      "latitude": 30.34045,
+      "longitude": -91.842708,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4389,10 +4037,8 @@
       "address": "2815 Grand Point Hwy, Breaux Bridge, LA 70517, USA",
       "street": "Grand Point Highway",
       "zip": "70517",
-      "coordinates": {
-        "lat": 30.325241,
-        "lng": -91.825794
-      },
+      "latitude": 30.325241,
+      "longitude": -91.825794,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4417,10 +4063,8 @@
       "address": "3002 Grand Point Hwy, Breaux Bridge, LA 70517, USA",
       "street": "Grand Point Highway",
       "zip": "70517",
-      "coordinates": {
-        "lat": 30.312426,
-        "lng": -91.833853
-      },
+      "latitude": 30.312426,
+      "longitude": -91.833853,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4445,10 +4089,8 @@
       "address": "3015 Main Hwy, Breaux Bridge, LA 70517, USA",
       "street": "Main Highway",
       "zip": "70582",
-      "coordinates": {
-        "lat": 30.312645,
-        "lng": -91.903971
-      },
+      "latitude": 30.312645,
+      "longitude": -91.903971,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4473,10 +4115,8 @@
       "address": "406 Caleb St, Breaux Bridge, LA 70517, USA",
       "street": "406 Caleb Street",
       "zip": "70517",
-      "coordinates": {
-        "lat": 30.289148,
-        "lng": -91.912405
-      },
+      "latitude": 30.289148,
+      "longitude": -91.912405,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4501,10 +4141,8 @@
       "address": "Breaux Bridge, LA 70517, USA",
       "street": "",
       "zip": "70517",
-      "coordinates": {
-        "lat": 30.273532,
-        "lng": -91.899284
-      },
+      "latitude": 30.273532,
+      "longitude": -91.899284,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4529,10 +4167,8 @@
       "address": "101 W Main St, Broussard, LA 70518, USA",
       "street": "101 West Main Street",
       "zip": "70518",
-      "coordinates": {
-        "lat": 30.147795,
-        "lng": -91.964437
-      },
+      "latitude": 30.147795,
+      "longitude": -91.964437,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4557,10 +4193,8 @@
       "address": "205 N Morgan Ave, Broussard, LA 70518, USA",
       "street": "205 North Morgan Avenue",
       "zip": "70518",
-      "coordinates": {
-        "lat": 30.1507,
-        "lng": -91.963176
-      },
+      "latitude": 30.1507,
+      "longitude": -91.963176,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4585,10 +4219,8 @@
       "address": "1300 US-80, Calhoun, LA 71225, USA",
       "street": "US 80",
       "zip": "71225",
-      "coordinates": {
-        "lat": 32.522635,
-        "lng": -92.31213
-      },
+      "latitude": 32.522635,
+      "longitude": -92.31213,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4613,10 +4245,8 @@
       "address": "4419 N University Ave, Carencro, LA 70520, USA",
       "street": "4419 North University Avenue",
       "zip": "70520",
-      "coordinates": {
-        "lat": 30.318986,
-        "lng": -92.049805
-      },
+      "latitude": 30.318986,
+      "longitude": -92.049805,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4641,10 +4271,8 @@
       "address": "6739 Front St, Chatham, LA 71226, USA",
       "street": "Front Street",
       "zip": "71238",
-      "coordinates": {
-        "lat": 32.309626,
-        "lng": -92.446612
-      },
+      "latitude": 32.309626,
+      "longitude": -92.446612,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4669,10 +4297,8 @@
       "address": "6209 US-71, Cove, AR 71937, USA",
       "street": "6209 US 59;US 71;AR 246",
       "zip": "71937",
-      "coordinates": {
-        "lat": 34.393184,
-        "lng": -94.393968
-      },
+      "latitude": 34.393184,
+      "longitude": -94.393968,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4697,10 +4323,8 @@
       "address": "13029 U.S. Hwy 190, Covington, LA 70433, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.501691,
-        "lng": -90.199614
-      },
+      "latitude": 30.501691,
+      "longitude": -90.199614,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4725,10 +4349,8 @@
       "address": "2100 N Hwy 190, Covington, LA 70433, USA",
       "street": "Ronald Reagan Highway",
       "zip": "70433",
-      "coordinates": {
-        "lat": 30.464881,
-        "lng": -90.083189
-      },
+      "latitude": 30.464881,
+      "longitude": -90.083189,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4753,10 +4375,8 @@
       "address": "2815 N Hwy 190, Covington, LA 70433, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.471172,
-        "lng": -90.087146
-      },
+      "latitude": 30.471172,
+      "longitude": -90.087146,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4781,10 +4401,8 @@
       "address": "627 E Boston St, Covington, LA 70433, USA",
       "street": "627 East Boston Street",
       "zip": "70433",
-      "coordinates": {
-        "lat": 30.475625,
-        "lng": -90.093387
-      },
+      "latitude": 30.475625,
+      "longitude": -90.093387,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4809,10 +4427,8 @@
       "address": "20150 Covington Hwy, Covington, LA 70433, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.481436,
-        "lng": -90.072973
-      },
+      "latitude": 30.481436,
+      "longitude": -90.072973,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4837,10 +4453,8 @@
       "address": "410 Canal St, Delcambre, LA 70528, USA",
       "street": "410 Canal Street",
       "zip": "70528",
-      "coordinates": {
-        "lat": 29.951904,
-        "lng": -91.984827
-      },
+      "latitude": 29.951904,
+      "longitude": -91.984827,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4865,10 +4479,8 @@
       "address": "432 Par Rd 1047, Dodson, LA 71422, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.124444,
-        "lng": -92.639691
-      },
+      "latitude": 32.124444,
+      "longitude": -92.639691,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4893,10 +4505,8 @@
       "address": "1822 McMullen St, Dubach, LA 71235, USA",
       "street": "1822 McMullen Street",
       "zip": "71235",
-      "coordinates": {
-        "lat": 32.697769,
-        "lng": -92.656991
-      },
+      "latitude": 32.697769,
+      "longitude": -92.656991,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4921,10 +4531,8 @@
       "address": "1888 McMullen St, Dubach, LA 71235, USA",
       "street": "1888 McMullen Street",
       "zip": "71235",
-      "coordinates": {
-        "lat": 32.695342,
-        "lng": -92.657069
-      },
+      "latitude": 32.695342,
+      "longitude": -92.657069,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4949,10 +4557,8 @@
       "address": "3201 US-167, Dubach, LA 71235, USA",
       "street": "McMullen Street",
       "zip": "71235",
-      "coordinates": {
-        "lat": 32.653861,
-        "lng": -92.649428
-      },
+      "latitude": 32.653861,
+      "longitude": -92.649428,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4977,10 +4583,8 @@
       "address": "202 S Kibbe St, Erath, LA 70533, USA",
       "street": "202 South Kibbe Street",
       "zip": "70533",
-      "coordinates": {
-        "lat": 29.95735,
-        "lng": -92.036542
-      },
+      "latitude": 29.95735,
+      "longitude": -92.036542,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5005,10 +4609,8 @@
       "address": "10413 LA-34, Eros, LA 71238, USA",
       "street": "10413 2nd Street",
       "zip": "71238",
-      "coordinates": {
-        "lat": 32.40134,
-        "lng": -92.412727
-      },
+      "latitude": 32.40134,
+      "longitude": -92.412727,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5033,10 +4635,8 @@
       "address": "1519 US-165, Fenton, LA 70640, USA",
       "street": "US 165",
       "zip": "70640",
-      "coordinates": {
-        "lat": 30.366271,
-        "lng": -92.91742
-      },
+      "latitude": 30.366271,
+      "longitude": -92.91742,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5061,10 +4661,8 @@
       "address": "352 Main St, Franklin, LA 70538, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.834708,
-        "lng": -91.544057
-      },
+      "latitude": 29.834708,
+      "longitude": -91.544057,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5089,10 +4687,8 @@
       "address": "1419 Hospital Ave, Franklin, LA 70538, USA",
       "street": "1419 Hospital Avenue",
       "zip": "70538",
-      "coordinates": {
-        "lat": 29.803911,
-        "lng": -91.499327
-      },
+      "latitude": 29.803911,
+      "longitude": -91.499327,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5117,10 +4713,8 @@
       "address": "302 Martin Luther King Jr Blvd, Franklin, LA 70538, USA",
       "street": "302 Martin Luther King Jr Boulevard",
       "zip": "70538",
-      "coordinates": {
-        "lat": 29.790106,
-        "lng": -91.501293
-      },
+      "latitude": 29.790106,
+      "longitude": -91.501293,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5145,10 +4739,8 @@
       "address": "Gloster, LA 71030, USA",
       "street": "",
       "zip": "71030",
-      "coordinates": {
-        "lat": 32.190994,
-        "lng": -93.814905
-      },
+      "latitude": 32.190994,
+      "longitude": -93.814905,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5173,10 +4765,8 @@
       "address": "41123 LA-621, Gonzales, LA 70737, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.266668,
-        "lng": -90.916942
-      },
+      "latitude": 30.266668,
+      "longitude": -90.916942,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5201,10 +4791,8 @@
       "address": "2112 Belle Chasse Hwy, Gretna, LA 70056, USA",
       "street": "2112 Belle Chasse Highway",
       "zip": "70056",
-      "coordinates": {
-        "lat": 29.888205,
-        "lng": -90.032799
-      },
+      "latitude": 29.888205,
+      "longitude": -90.032799,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5229,10 +4817,8 @@
       "address": "151 Westbank Expy, Gretna, LA 70053, USA",
       "street": "151 Westbank Expressway",
       "zip": "70053",
-      "coordinates": {
-        "lat": 29.92486,
-        "lng": -90.039873
-      },
+      "latitude": 29.92486,
+      "longitude": -90.039873,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5257,10 +4843,8 @@
       "address": "197 Westbank Expy, Gretna, LA 70053, USA",
       "street": "197 Westbank Expressway",
       "zip": "70053",
-      "coordinates": {
-        "lat": 29.922009,
-        "lng": -90.038104
-      },
+      "latitude": 29.922009,
+      "longitude": -90.038104,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5285,10 +4869,8 @@
       "address": "2112 Belle Chasse Hwy, Gretna, LA 70056, USA",
       "street": "2112 Belle Chasse Highway",
       "zip": "70056",
-      "coordinates": {
-        "lat": 29.888205,
-        "lng": -90.032799
-      },
+      "latitude": 29.888205,
+      "longitude": -90.032799,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5313,10 +4895,8 @@
       "address": "2280 Old Baton Rouge Hwy, Hammond, LA 70403, USA",
       "street": "Old Baton Rouge Highway",
       "zip": "70403",
-      "coordinates": {
-        "lat": 30.498375,
-        "lng": -90.486608
-      },
+      "latitude": 30.498375,
+      "longitude": -90.486608,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5341,10 +4921,8 @@
       "address": "44650 S Baptist Rd, Hammond, LA 70403, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.501753,
-        "lng": -90.533424
-      },
+      "latitude": 30.501753,
+      "longitude": -90.533424,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5369,10 +4947,8 @@
       "address": "2015 Woodmere Blvd, Harvey, LA 70058, USA",
       "street": "2015 Woodmere Boulevard",
       "zip": "70058",
-      "coordinates": {
-        "lat": 29.87154,
-        "lng": -90.08188
-      },
+      "latitude": 29.87154,
+      "longitude": -90.08188,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5397,10 +4973,8 @@
       "address": "2701 Manhattan Blvd, Harvey, LA 70058, USA",
       "street": "2701 Manhattan Boulevard",
       "zip": "70058",
-      "coordinates": {
-        "lat": 29.87357,
-        "lng": -90.046442
-      },
+      "latitude": 29.87357,
+      "longitude": -90.046442,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5425,10 +4999,8 @@
       "address": "3645 Woodmere Blvd, Harvey, LA 70058, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.852044,
-        "lng": -90.077241
-      },
+      "latitude": 29.852044,
+      "longitude": -90.077241,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5453,10 +5025,8 @@
       "address": "4940 Lapalco Blvd, Harvey, LA 70058, USA",
       "street": "Lapalco Boulevard",
       "zip": "70058",
-      "coordinates": {
-        "lat": 29.875915,
-        "lng": -90.09548
-      },
+      "latitude": 29.875915,
+      "longitude": -90.09548,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5481,10 +5051,8 @@
       "address": "Hwy 79, Homer, LA 71040, USA",
       "street": "Minden Highway",
       "zip": "71040",
-      "coordinates": {
-        "lat": 32.944298,
-        "lng": -93.121069
-      },
+      "latitude": 32.944298,
+      "longitude": -93.121069,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5509,10 +5077,8 @@
       "address": "24420 U.S. Hwy 190, Huntsville, TX 77320, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.731895,
-        "lng": -95.37381
-      },
+      "latitude": 30.731895,
+      "longitude": -95.37381,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5537,10 +5103,8 @@
       "address": "52521 US-51, Independence, LA 70443, USA",
       "street": "US 51",
       "zip": "70443",
-      "coordinates": {
-        "lat": 30.644887,
-        "lng": -90.503965
-      },
+      "latitude": 30.644887,
+      "longitude": -90.503965,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5565,10 +5129,8 @@
       "address": "2726 LA-10, Jackson, LA 70748, USA",
       "street": "2726 Charter Street",
       "zip": "70748",
-      "coordinates": {
-        "lat": 30.837273,
-        "lng": -91.199595
-      },
+      "latitude": 30.837273,
+      "longitude": -91.199595,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5593,10 +5155,8 @@
       "address": "2094 Jean Lafitte Blvd, Jean Lafitte, LA 70067, USA",
       "street": "2094 Jean Lafitte Boulevard",
       "zip": "70067",
-      "coordinates": {
-        "lat": 29.747919,
-        "lng": -90.13491
-      },
+      "latitude": 29.747919,
+      "longitude": -90.13491,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5621,10 +5181,8 @@
       "address": "1223 Elton Rd, Jennings, LA 70546, USA",
       "street": "Elton Road",
       "zip": "70546",
-      "coordinates": {
-        "lat": 30.233009,
-        "lng": -92.66529
-      },
+      "latitude": 30.233009,
+      "longitude": -92.66529,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5649,10 +5207,8 @@
       "address": "502 S Cutting Ave, Jennings, LA 70546, USA",
       "street": "502 South Cutting Avenue",
       "zip": "70546",
-      "coordinates": {
-        "lat": 30.218834,
-        "lng": -92.654892
-      },
+      "latitude": 30.218834,
+      "longitude": -92.654892,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5677,10 +5233,8 @@
       "address": "164 Par Rd 443, Jonesboro, LA 71251, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.24129,
-        "lng": -92.607138
-      },
+      "latitude": 32.24129,
+      "longitude": -92.607138,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5705,10 +5259,8 @@
       "address": "Jonesboro, LA 71251, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.241267,
-        "lng": -92.715985
-      },
+      "latitude": 32.241267,
+      "longitude": -92.715985,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5733,10 +5285,8 @@
       "address": "2530 Williams Blvd, Kenner, LA 70062, USA",
       "street": "2530 Williams Boulevard",
       "zip": "70062",
-      "coordinates": {
-        "lat": 30.002425,
-        "lng": -90.239015
-      },
+      "latitude": 30.002425,
+      "longitude": -90.239015,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5761,10 +5311,8 @@
       "address": "3637 Williams Blvd, Kenner, LA 70065, USA",
       "street": "3637 Williams Boulevard",
       "zip": "70065",
-      "coordinates": {
-        "lat": 30.022924,
-        "lng": -90.239602
-      },
+      "latitude": 30.022924,
+      "longitude": -90.239602,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5789,10 +5337,8 @@
       "address": "3637 Williams Blvd, Kenner, LA 70065, USA",
       "street": "3637 Williams Boulevard",
       "zip": "70065",
-      "coordinates": {
-        "lat": 30.022924,
-        "lng": -90.239602
-      },
+      "latitude": 30.022924,
+      "longitude": -90.239602,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5817,10 +5363,8 @@
       "address": "28165 U.S. Hwy 190, Lacombe, LA 70445, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.312251,
-        "lng": -89.937895
-      },
+      "latitude": 30.312251,
+      "longitude": -89.937895,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5845,10 +5389,8 @@
       "address": "28165 U.S. Hwy 190, Lacombe, LA 70445, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.312251,
-        "lng": -89.937895
-      },
+      "latitude": 30.312251,
+      "longitude": -89.937895,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5873,10 +5415,8 @@
       "address": "1700 E College St, Lake Charles, LA 70607, USA",
       "street": "1700 East College Street",
       "zip": "70607",
-      "coordinates": {
-        "lat": 30.195929,
-        "lng": -93.196679
-      },
+      "latitude": 30.195929,
+      "longitude": -93.196679,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5901,10 +5441,8 @@
       "address": "1700 E College St, Lake Charles, LA 70607, USA",
       "street": "1700 East College Street",
       "zip": "70607",
-      "coordinates": {
-        "lat": 30.195929,
-        "lng": -93.196679
-      },
+      "latitude": 30.195929,
+      "longitude": -93.196679,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5929,10 +5467,8 @@
       "address": "2616 Lake St, Lake Charles, LA 70601, USA",
       "street": "2616 Lake Street",
       "zip": "70601",
-      "coordinates": {
-        "lat": 30.205856,
-        "lng": -93.232871
-      },
+      "latitude": 30.205856,
+      "longitude": -93.232871,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5957,10 +5493,8 @@
       "address": "2631 Kirkman St, Lake Charles, LA 70601, USA",
       "street": "2631 Kirkman Street",
       "zip": "70601",
-      "coordinates": {
-        "lat": 30.20613,
-        "lng": -93.209689
-      },
+      "latitude": 30.20613,
+      "longitude": -93.209689,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5985,10 +5519,8 @@
       "address": "3206 Kirkman St, Lake Charles, LA 70601, USA",
       "street": "3206 Kirkman Street",
       "zip": "70601",
-      "coordinates": {
-        "lat": 30.199455,
-        "lng": -93.210042
-      },
+      "latitude": 30.199455,
+      "longitude": -93.210042,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6013,10 +5545,8 @@
       "address": "3302 Ernest St, Lake Charles, LA 70601, USA",
       "street": "3302 Ernest Street",
       "zip": "70601",
-      "coordinates": {
-        "lat": 30.198025,
-        "lng": -93.223408
-      },
+      "latitude": 30.198025,
+      "longitude": -93.223408,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6041,10 +5571,8 @@
       "address": "4502 Common St, Lake Charles, LA 70607, USA",
       "street": "4502 Common Street",
       "zip": "70607",
-      "coordinates": {
-        "lat": 30.175861,
-        "lng": -93.214262
-      },
+      "latitude": 30.175861,
+      "longitude": -93.214262,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6069,10 +5597,8 @@
       "address": "124 E Airline Hwy, Laplace, LA 70068, USA",
       "street": "124 East Airline Highway",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.065405,
-        "lng": -90.479674
-      },
+      "latitude": 30.065405,
+      "longitude": -90.479674,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6097,10 +5623,8 @@
       "address": "130 E Airline Hwy, Laplace, LA 70068, USA",
       "street": "130 East Airline Highway",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.065157,
-        "lng": -90.479545
-      },
+      "latitude": 30.065157,
+      "longitude": -90.479545,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6125,10 +5649,8 @@
       "address": "299 Belle Terre Blvd, Laplace, LA 70068, USA",
       "street": "299 Belle Terre Boulevard",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.080327,
-        "lng": -90.502491
-      },
+      "latitude": 30.080327,
+      "longitude": -90.502491,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6153,10 +5675,8 @@
       "address": "483 Belle Terre Blvd, Laplace, LA 70068, USA",
       "street": "483 Belle Terre Boulevard",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.086392,
-        "lng": -90.503653
-      },
+      "latitude": 30.086392,
+      "longitude": -90.503653,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6181,10 +5701,8 @@
       "address": "500 Hemlock St, Laplace, LA 70068, USA",
       "street": "500 Hemlock Street",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.069684,
-        "lng": -90.497104
-      },
+      "latitude": 30.069684,
+      "longitude": -90.497104,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6209,10 +5727,8 @@
       "address": "Ormond Blvd, Laplace, LA 70068, USA",
       "street": "Ormond Boulevard",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.073339,
-        "lng": -90.490798
-      },
+      "latitude": 30.073339,
+      "longitude": -90.490798,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6237,10 +5753,8 @@
       "address": "St Andrews Blvd, Laplace, LA 70068, USA",
       "street": "Saint Andrews Boulevard",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.094175,
-        "lng": -90.492075
-      },
+      "latitude": 30.094175,
+      "longitude": -90.492075,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6265,10 +5779,8 @@
       "address": "US-51, Laplace, LA, USA",
       "street": "US 51",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.067485,
-        "lng": -90.480901
-      },
+      "latitude": 30.067485,
+      "longitude": -90.480901,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6293,10 +5805,8 @@
       "address": "13878 Florida Blvd, Livingston, LA 70754, USA",
       "street": "Florida Boulevard",
       "zip": "70754",
-      "coordinates": {
-        "lat": 30.502923,
-        "lng": -90.748083
-      },
+      "latitude": 30.502923,
+      "longitude": -90.748083,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6321,10 +5831,8 @@
       "address": "13738 Florida Blvd, Livingston, LA 70754, USA",
       "street": "Florida Boulevard",
       "zip": "70754",
-      "coordinates": {
-        "lat": 30.502696,
-        "lng": -90.752445
-      },
+      "latitude": 30.502696,
+      "longitude": -90.752445,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6349,10 +5857,8 @@
       "address": "5602 Airline Hwy, Lottie, LA 70756, USA",
       "street": "5602 Airline Highway",
       "zip": "70756",
-      "coordinates": {
-        "lat": 30.556908,
-        "lng": -91.637699
-      },
+      "latitude": 30.556908,
+      "longitude": -91.637699,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6377,10 +5883,8 @@
       "address": "2185 Hwy 59, Mandeville, LA 70448, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.400077,
-        "lng": -90.09364
-      },
+      "latitude": 30.400077,
+      "longitude": -90.09364,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6405,10 +5909,8 @@
       "address": "2215 Barataria Blvd, Marrero, LA 70072, USA",
       "street": "2215 Barataria Boulevard",
       "zip": "70072",
-      "coordinates": {
-        "lat": 29.863812,
-        "lng": -90.095961
-      },
+      "latitude": 29.863812,
+      "longitude": -90.095961,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6433,10 +5935,8 @@
       "address": "4959 Lapalco Blvd, Marrero, LA 70072, USA",
       "street": "4959 Lapalco Boulevard",
       "zip": "70072",
-      "coordinates": {
-        "lat": 29.874569,
-        "lng": -90.097057
-      },
+      "latitude": 29.874569,
+      "longitude": -90.097057,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6461,10 +5961,8 @@
       "address": "Bourg Larose Highway, 4400 Lafitte Pkwy, Marrero, LA 70072, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.840094,
-        "lng": -90.102699
-      },
+      "latitude": 29.840094,
+      "longitude": -90.102699,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6489,10 +5987,8 @@
       "address": "Marrero, LA 70072, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.899372,
-        "lng": -90.100351
-      },
+      "latitude": 29.899372,
+      "longitude": -90.100351,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6517,10 +6013,8 @@
       "address": "151 LA-487, Marthaville, LA 71450, USA",
       "street": "151 LA 487",
       "zip": "71450",
-      "coordinates": {
-        "lat": 31.873939,
-        "lng": -93.386394
-      },
+      "latitude": 31.873939,
+      "longitude": -93.386394,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6545,10 +6039,8 @@
       "address": "3200 E Judge Perez Dr, Meraux, LA 70075, USA",
       "street": "3200 East Judge Perez Drive",
       "zip": "70075",
-      "coordinates": {
-        "lat": 29.937238,
-        "lng": -89.929023
-      },
+      "latitude": 29.937238,
+      "longitude": -89.929023,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6573,10 +6065,8 @@
       "address": "5300 Veterans Blvd, Metairie, LA 70003, USA",
       "street": "5300 Veterans Memorial Boulevard",
       "zip": "70006",
-      "coordinates": {
-        "lat": 30.00538,
-        "lng": -90.200181
-      },
+      "latitude": 30.00538,
+      "longitude": -90.200181,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6601,10 +6091,8 @@
       "address": "100 Meadowbrook Dr, Minden, LA 71055, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.804671,
-        "lng": -93.291844
-      },
+      "latitude": 32.804671,
+      "longitude": -93.291844,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6629,10 +6117,8 @@
       "address": "107 McDonald St, Minden, LA 71055, USA",
       "street": "107 McDonald Street",
       "zip": "71055",
-      "coordinates": {
-        "lat": 32.617771,
-        "lng": -93.285224
-      },
+      "latitude": 32.617771,
+      "longitude": -93.285224,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6657,10 +6143,8 @@
       "address": "35999 LA-16, Montpelier, LA 70422, USA",
       "street": "4th Street",
       "zip": "",
-      "coordinates": {
-        "lat": 30.679737,
-        "lng": -90.652777
-      },
+      "latitude": 30.679737,
+      "longitude": -90.652777,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6685,10 +6169,8 @@
       "address": "175 Arlington St, Morgan City, LA 70380, USA",
       "street": "Arlington Street",
       "zip": "70342",
-      "coordinates": {
-        "lat": 29.685073,
-        "lng": -91.263042
-      },
+      "latitude": 29.685073,
+      "longitude": -91.263042,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6713,10 +6195,8 @@
       "address": "620 Dr M.L.K. Jr Blvd, Morgan City, LA 70380, USA",
       "street": "",
       "zip": "70380",
-      "coordinates": {
-        "lat": 29.695591,
-        "lng": -91.181991
-      },
+      "latitude": 29.695591,
+      "longitude": -91.181991,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6741,10 +6221,8 @@
       "address": "6214 LA-182, Morgan City, LA 70380, USA",
       "street": "US 90 Business;LA 182",
       "zip": "70380",
-      "coordinates": {
-        "lat": 29.699163,
-        "lng": -91.198878
-      },
+      "latitude": 29.699163,
+      "longitude": -91.198878,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6769,10 +6247,8 @@
       "address": "5821 LA-1, Natchitoches, LA 71457, USA",
       "street": "5821 Highway 3110",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.771045,
-        "lng": -93.107375
-      },
+      "latitude": 31.771045,
+      "longitude": -93.107375,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6797,10 +6273,8 @@
       "address": "1129 Greenville St, Natchitoches, LA 71457, USA",
       "street": "1129 Greenville Street",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.773995,
-        "lng": -93.100257
-      },
+      "latitude": 31.773995,
+      "longitude": -93.100257,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6825,10 +6299,8 @@
       "address": "1143 Greenville St, Natchitoches, LA 71457, USA",
       "street": "1143 Greenville Street",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.773995,
-        "lng": -93.100257
-      },
+      "latitude": 31.773995,
+      "longitude": -93.100257,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6853,10 +6325,8 @@
       "address": "115 Miller Dr, Natchitoches, LA 71457, USA",
       "street": "115 Miller Drive",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.796612,
-        "lng": -93.088455
-      },
+      "latitude": 31.796612,
+      "longitude": -93.088455,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6881,10 +6351,8 @@
       "address": "126 Bradley St, Natchitoches, LA 71457, USA",
       "street": "126 Bradley Street",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.67185,
-        "lng": -93.046994
-      },
+      "latitude": 31.67185,
+      "longitude": -93.046994,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6909,10 +6377,8 @@
       "address": "154 Marquetta Dr, Natchitoches, LA 71457, USA",
       "street": "154 Marquetta Drive",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.825644,
-        "lng": -93.03882
-      },
+      "latitude": 31.825644,
+      "longitude": -93.03882,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6937,10 +6403,8 @@
       "address": "1633 Old Robeline Rd, Natchitoches, LA 71457, USA",
       "street": "1633 Old Robeline Road",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.755579,
-        "lng": -93.103315
-      },
+      "latitude": 31.755579,
+      "longitude": -93.103315,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6965,10 +6429,8 @@
       "address": "1644 Keyser Ave, Natchitoches, LA 71457, USA",
       "street": "Keyser Avenue",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.75394,
-        "lng": -93.085132
-      },
+      "latitude": 31.75394,
+      "longitude": -93.085132,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6993,10 +6455,8 @@
       "address": "5105 LA-6, Natchitoches, LA 71457, USA",
       "street": "5105 University Parkway",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.779496,
-        "lng": -93.107791
-      },
+      "latitude": 31.779496,
+      "longitude": -93.107791,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7021,10 +6481,8 @@
       "address": "5934 LA-1, Natchitoches, LA 71457, USA",
       "street": "5934 Highway 3110",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.766662,
-        "lng": -93.108747
-      },
+      "latitude": 31.766662,
+      "longitude": -93.108747,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7049,10 +6507,8 @@
       "address": "1101 Daspit Rd, New Iberia, LA 70563, USA",
       "street": "Daspit Road",
       "zip": "70563",
-      "coordinates": {
-        "lat": 30.025409,
-        "lng": -91.808631
-      },
+      "latitude": 30.025409,
+      "longitude": -91.808631,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7077,10 +6533,8 @@
       "address": "113 Coteau Holmes Rd, New Iberia, LA 70563, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.075292,
-        "lng": -91.745034
-      },
+      "latitude": 30.075292,
+      "longitude": -91.745034,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7105,10 +6559,8 @@
       "address": "1503 Center St, New Iberia, LA 70560, USA",
       "street": "1503 Center Street",
       "zip": "70560",
-      "coordinates": {
-        "lat": 29.990234,
-        "lng": -91.833224
-      },
+      "latitude": 29.990234,
+      "longitude": -91.833224,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7133,10 +6585,8 @@
       "address": "3612 Coteau Rd, New Iberia, LA 70560, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.050986,
-        "lng": -91.931876
-      },
+      "latitude": 30.050986,
+      "longitude": -91.931876,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7161,10 +6611,8 @@
       "address": "618 W Admiral Doyle Dr, New Iberia, LA 70560, USA",
       "street": "618 West Admiral Doyle Drive",
       "zip": "70560",
-      "coordinates": {
-        "lat": 30.003442,
-        "lng": -91.842692
-      },
+      "latitude": 30.003442,
+      "longitude": -91.842692,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7189,10 +6637,8 @@
       "address": "623 E Admiral Doyle Dr, New Iberia, LA 70560, USA",
       "street": "623 East Admiral Doyle Drive",
       "zip": "70560",
-      "coordinates": {
-        "lat": 29.990057,
-        "lng": -91.8281
-      },
+      "latitude": 29.990057,
+      "longitude": -91.8281,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7217,10 +6663,8 @@
       "address": "N Hopkins St, New Iberia, LA, USA",
       "street": "North Hopkins Street",
       "zip": "70563",
-      "coordinates": {
-        "lat": 30.012511,
-        "lng": -91.822433
-      },
+      "latitude": 30.012511,
+      "longitude": -91.822433,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7245,10 +6689,8 @@
       "address": "6600 Franklin Ave, New Orleans, LA 70122, USA",
       "street": "6600 Franklin Avenue",
       "zip": "70122",
-      "coordinates": {
-        "lat": 30.028421,
-        "lng": -90.054426
-      },
+      "latitude": 30.028421,
+      "longitude": -90.054426,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7273,10 +6715,8 @@
       "address": "5th Ave, Oberlin, LA 70655, USA",
       "street": "5th Avenue",
       "zip": "70655",
-      "coordinates": {
-        "lat": 30.614927,
-        "lng": -92.766064
-      },
+      "latitude": 30.614927,
+      "longitude": -92.766064,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7301,10 +6741,8 @@
       "address": "3802 LA-31, Opelousas, LA 70570, USA",
       "street": "Cresswell Lane",
       "zip": "70570",
-      "coordinates": {
-        "lat": 30.474664,
-        "lng": -91.980316
-      },
+      "latitude": 30.474664,
+      "longitude": -91.980316,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7329,10 +6767,8 @@
       "address": "3802 LA-31, Opelousas, LA 70570, USA",
       "street": "Cresswell Lane",
       "zip": "70570",
-      "coordinates": {
-        "lat": 30.474664,
-        "lng": -91.980316
-      },
+      "latitude": 30.474664,
+      "longitude": -91.980316,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7357,10 +6793,8 @@
       "address": "500 US-90, Patterson, LA 70392, USA",
       "street": "500 Main Street",
       "zip": "70392",
-      "coordinates": {
-        "lat": 29.683954,
-        "lng": -91.300513
-      },
+      "latitude": 29.683954,
+      "longitude": -91.300513,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7385,10 +6819,8 @@
       "address": "4042 US-90, Patterson, LA 70392, USA",
       "street": "US 90",
       "zip": "70392",
-      "coordinates": {
-        "lat": 29.695447,
-        "lng": -91.347657
-      },
+      "latitude": 29.695447,
+      "longitude": -91.347657,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7413,10 +6845,8 @@
       "address": "500 US-90, Patterson, LA 70392, USA",
       "street": "500 Main Street",
       "zip": "70392",
-      "coordinates": {
-        "lat": 29.683954,
-        "lng": -91.300513
-      },
+      "latitude": 29.683954,
+      "longitude": -91.300513,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7441,10 +6871,8 @@
       "address": "603 Park St, Patterson, LA 70392, USA",
       "street": "603 Park Street",
       "zip": "70392",
-      "coordinates": {
-        "lat": 29.693394,
-        "lng": -91.310363
-      },
+      "latitude": 29.693394,
+      "longitude": -91.310363,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7469,10 +6897,8 @@
       "address": "63520 US-11, Pearl River, LA 70452, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.354713,
-        "lng": -89.753033
-      },
+      "latitude": 30.354713,
+      "longitude": -89.753033,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7497,10 +6923,8 @@
       "address": "64055 LA-41Spur, Pearl River, LA 70452, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.376101,
-        "lng": -89.74845
-      },
+      "latitude": 30.376101,
+      "longitude": -89.74845,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7525,10 +6949,8 @@
       "address": "64288 LA-41, Pearl River, LA 70452, USA",
       "street": "64288 Watts Road",
       "zip": "70452",
-      "coordinates": {
-        "lat": 30.364611,
-        "lng": -89.755544
-      },
+      "latitude": 30.364611,
+      "longitude": -89.755544,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7553,10 +6975,8 @@
       "address": "66182 LA-41, Pearl River, LA 70452, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.389944,
-        "lng": -89.761645
-      },
+      "latitude": 30.389944,
+      "longitude": -89.761645,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7581,10 +7001,8 @@
       "address": "321 Main St, Pineville, LA 71360, USA",
       "street": "321 Main Street",
       "zip": "71360",
-      "coordinates": {
-        "lat": 31.316782,
-        "lng": -92.439558
-      },
+      "latitude": 31.316782,
+      "longitude": -92.439558,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7609,10 +7027,8 @@
       "address": "3605 LA-28, Pineville, LA 71360, USA",
       "street": "3605 LA 28",
       "zip": "71360",
-      "coordinates": {
-        "lat": 31.335707,
-        "lng": -92.383702
-      },
+      "latitude": 31.335707,
+      "longitude": -92.383702,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7637,10 +7053,8 @@
       "address": "17680 U.S. Hwy 190, Port Barre, LA 70577, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.546063,
-        "lng": -91.962813
-      },
+      "latitude": 30.546063,
+      "longitude": -91.962813,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7665,10 +7079,8 @@
       "address": "Par Rd 445, Louisiana 71469, USA",
       "street": "445 Mitchell Harper Road",
       "zip": "70634",
-      "coordinates": {
-        "lat": 31.801104,
-        "lng": -93.278007
-      },
+      "latitude": 31.801104,
+      "longitude": -93.278007,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7693,10 +7105,8 @@
       "address": "108 Monticello Ave, Ruston, LA 71270, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.571238,
-        "lng": -92.643483
-      },
+      "latitude": 32.571238,
+      "longitude": -92.643483,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7721,10 +7131,8 @@
       "address": "1223 Goodwin Rd, Ruston, LA 71270, USA",
       "street": "1223 Goodwin Road",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.542326,
-        "lng": -92.631838
-      },
+      "latitude": 32.542326,
+      "longitude": -92.631838,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7749,10 +7157,8 @@
       "address": "1420 Cooktown Rd, Ruston, LA 71270, USA",
       "street": "1420 Cooktown Road",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.543216,
-        "lng": -92.652627
-      },
+      "latitude": 32.543216,
+      "longitude": -92.652627,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7777,10 +7183,8 @@
       "address": "1504 N Trenton St, Ruston, LA 71270, USA",
       "street": "1504 North Trenton Street",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.545133,
-        "lng": -92.63958
-      },
+      "latitude": 32.545133,
+      "longitude": -92.63958,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7805,10 +7209,8 @@
       "address": "1516 N Trenton St, Ruston, LA 71270, USA",
       "street": "1516 North Trenton Street",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.545532,
-        "lng": -92.639051
-      },
+      "latitude": 32.545532,
+      "longitude": -92.639051,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7833,10 +7235,8 @@
       "address": "2893 S Farmerville St, Ruston, LA 71270, USA",
       "street": "South Farmerville Street",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.497983,
-        "lng": -92.629902
-      },
+      "latitude": 32.497983,
+      "longitude": -92.629902,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7861,10 +7261,8 @@
       "address": "3000 S Vienna St, Ruston, LA 71270, USA",
       "street": "South Vienna Street",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.495954,
-        "lng": -92.637849
-      },
+      "latitude": 32.495954,
+      "longitude": -92.637849,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7889,10 +7287,8 @@
       "address": "314 W California Ave, Ruston, LA 71270, USA",
       "street": "314 West California Avenue",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.524143,
-        "lng": -92.642871
-      },
+      "latitude": 32.524143,
+      "longitude": -92.642871,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7917,10 +7313,8 @@
       "address": "3401 N Trenton St, Ruston, LA 71270, USA",
       "street": "3401 North Trenton Street",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.566916,
-        "lng": -92.644752
-      },
+      "latitude": 32.566916,
+      "longitude": -92.644752,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7945,10 +7339,8 @@
       "address": "342 Heard Rd, Ruston, LA 71270, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.498691,
-        "lng": -92.708588
-      },
+      "latitude": 32.498691,
+      "longitude": -92.708588,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7973,10 +7365,8 @@
       "address": "411 E California Ave, Ruston, LA 71270, USA",
       "street": "411 East California Avenue",
       "zip": "71270",
-      "coordinates": {
-        "lat": 32.523658,
-        "lng": -92.633318
-      },
+      "latitude": 32.523658,
+      "longitude": -92.633318,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8001,10 +7391,8 @@
       "address": "Ruston, LA 71270, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.523205,
-        "lng": -92.637927
-      },
+      "latitude": 32.523205,
+      "longitude": -92.637927,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8029,10 +7417,8 @@
       "address": "44033 LA-431, St Amant, LA 70774, USA",
       "street": "44033 LA 431",
       "zip": "70774",
-      "coordinates": {
-        "lat": 30.284474,
-        "lng": -90.869963
-      },
+      "latitude": 30.284474,
+      "longitude": -90.869963,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8057,10 +7443,8 @@
       "address": "1705 N Main St, St Martinville, LA 70582, USA",
       "street": "North Main Street",
       "zip": "70582",
-      "coordinates": {
-        "lat": 30.139751,
-        "lng": -91.825215
-      },
+      "latitude": 30.139751,
+      "longitude": -91.825215,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8085,10 +7469,8 @@
       "address": "2310 N Main St, St Martinville, LA 70582, USA",
       "street": "North Main Street",
       "zip": "70582",
-      "coordinates": {
-        "lat": 30.145542,
-        "lng": -91.821396
-      },
+      "latitude": 30.145542,
+      "longitude": -91.821396,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8113,10 +7495,8 @@
       "address": "10362 E Airline Hwy, St Rose, LA 70087, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.976667,
-        "lng": -90.292274
-      },
+      "latitude": 29.976667,
+      "longitude": -90.292274,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8141,10 +7521,8 @@
       "address": "11602 River Rd, St Rose, LA 70087, USA",
       "street": "11602 River Road",
       "zip": "70087",
-      "coordinates": {
-        "lat": 29.945554,
-        "lng": -90.317479
-      },
+      "latitude": 29.945554,
+      "longitude": -90.317479,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8169,10 +7547,8 @@
       "address": "10720 River Rd, St Rose, LA 70087, USA",
       "street": "10720 River Road",
       "zip": "70087",
-      "coordinates": {
-        "lat": 29.961732,
-        "lng": -90.302001
-      },
+      "latitude": 29.961732,
+      "longitude": -90.302001,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8197,10 +7573,8 @@
       "address": "1410 St Mary St, Scott, LA 70583, USA",
       "street": "1410 Saint Mary Street",
       "zip": "70583",
-      "coordinates": {
-        "lat": 30.243124,
-        "lng": -92.097553
-      },
+      "latitude": 30.243124,
+      "longitude": -92.097553,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8225,10 +7599,8 @@
       "address": "13533 LA-159, Shongaloo, LA 71072, USA",
       "street": "13533 LA 159",
       "zip": "71072",
-      "coordinates": {
-        "lat": 32.965861,
-        "lng": -93.306712
-      },
+      "latitude": 32.965861,
+      "longitude": -93.306712,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8253,10 +7625,8 @@
       "address": "632 Pine Hill Rd, Shreveport, LA 71107, USA",
       "street": "632 Pine Hill Road",
       "zip": "71107",
-      "coordinates": {
-        "lat": 32.584465,
-        "lng": -93.881677
-      },
+      "latitude": 32.584465,
+      "longitude": -93.881677,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8281,10 +7651,8 @@
       "address": "1342 Captain Shreve Dr, Shreveport, LA 71105, USA",
       "street": "Captain Shreve Drive",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.469955,
-        "lng": -93.707479
-      },
+      "latitude": 32.469955,
+      "longitude": -93.707479,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8309,10 +7677,8 @@
       "address": "1750 E 70th St, Shreveport, LA 71105, USA",
       "street": "1750 East 70th Street",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.445401,
-        "lng": -93.71416
-      },
+      "latitude": 32.445401,
+      "longitude": -93.71416,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8337,10 +7703,8 @@
       "address": "1750 E 70th St, Shreveport, LA 71105, USA",
       "street": "1750 East 70th Street",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.445401,
-        "lng": -93.71416
-      },
+      "latitude": 32.445401,
+      "longitude": -93.71416,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8365,10 +7729,8 @@
       "address": "1867 Nelson St, Shreveport, LA 71107, USA",
       "street": "1867 Nelson Street",
       "zip": "71107",
-      "coordinates": {
-        "lat": 32.542852,
-        "lng": -93.777719
-      },
+      "latitude": 32.542852,
+      "longitude": -93.777719,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8393,10 +7755,8 @@
       "address": "1900 N Market St, Shreveport, LA 71107, USA",
       "street": "1900 North Market Street",
       "zip": "71107",
-      "coordinates": {
-        "lat": 32.544776,
-        "lng": -93.775608
-      },
+      "latitude": 32.544776,
+      "longitude": -93.775608,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8421,10 +7781,8 @@
       "address": "2706 Mackey Ln, Shreveport, LA 71118, USA",
       "street": "2706 Mackey Lane",
       "zip": "71118",
-      "coordinates": {
-        "lat": 32.412832,
-        "lng": -93.79924
-      },
+      "latitude": 32.412832,
+      "longitude": -93.79924,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8449,10 +7807,8 @@
       "address": "2706 Mackey Ln, Shreveport, LA 71118, USA",
       "street": "2706 Mackey Lane",
       "zip": "71118",
-      "coordinates": {
-        "lat": 32.412832,
-        "lng": -93.79924
-      },
+      "latitude": 32.412832,
+      "longitude": -93.79924,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8477,10 +7833,8 @@
       "address": "2706 Mackey Ln, Shreveport, LA 71118, USA",
       "street": "2706 Mackey Lane",
       "zip": "71118",
-      "coordinates": {
-        "lat": 32.412832,
-        "lng": -93.79924
-      },
+      "latitude": 32.412832,
+      "longitude": -93.79924,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8505,10 +7859,8 @@
       "address": "300 W 84th St, Shreveport, LA 71106, USA",
       "street": "300 West 84th Street",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.428157,
-        "lng": -93.762476
-      },
+      "latitude": 32.428157,
+      "longitude": -93.762476,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8533,10 +7885,8 @@
       "address": "462 E 70th St, Shreveport, LA 71106, USA",
       "street": "462 East 70th Street",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.442291,
-        "lng": -93.749093
-      },
+      "latitude": 32.442291,
+      "longitude": -93.749093,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8561,10 +7911,8 @@
       "address": "5114 W Bert Kouns Industrial Loop, Shreveport, LA 71129, USA",
       "street": "5114 West Bert Kouns Industrial Loop",
       "zip": "71129",
-      "coordinates": {
-        "lat": 32.402647,
-        "lng": -93.84697
-      },
+      "latitude": 32.402647,
+      "longitude": -93.84697,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8589,10 +7937,8 @@
       "address": "5130 W Bert Kouns Industrial Loop, Shreveport, LA 71129, USA",
       "street": "5130 West Bert Kouns Industrial Loop",
       "zip": "71129",
-      "coordinates": {
-        "lat": 32.402675,
-        "lng": -93.84728
-      },
+      "latitude": 32.402675,
+      "longitude": -93.84728,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8617,10 +7963,8 @@
       "address": "5819 E Kings Hwy, Shreveport, LA 71105, USA",
       "street": "East Kings Highway",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.454329,
-        "lng": -93.707885
-      },
+      "latitude": 32.454329,
+      "longitude": -93.707885,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8645,10 +7989,8 @@
       "address": "5910 N Market St, Shreveport, LA 71107, USA",
       "street": "5910 North Market Street",
       "zip": "71107",
-      "coordinates": {
-        "lat": 32.603412,
-        "lng": -93.845133
-      },
+      "latitude": 32.603412,
+      "longitude": -93.845133,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8673,10 +8015,8 @@
       "address": "Eight Pines Shopping Center, 4461 Pines Rd, Shreveport, LA 71119, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.452949,
-        "lng": -93.865232
-      },
+      "latitude": 32.452949,
+      "longitude": -93.865232,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8701,10 +8041,8 @@
       "address": "3196 US-71, Spirit Lake, IA 51360, USA",
       "street": "US Highway 71",
       "zip": "51360",
-      "coordinates": {
-        "lat": 43.409593,
-        "lng": -95.127221
-      },
+      "latitude": 43.409593,
+      "longitude": -95.127221,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8729,10 +8067,8 @@
       "address": "516 S Main St, Springhill, LA 71075, USA",
       "street": "516 South Main Street",
       "zip": "71075",
-      "coordinates": {
-        "lat": 32.997475,
-        "lng": -93.461382
-      },
+      "latitude": 32.997475,
+      "longitude": -93.461382,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8757,10 +8093,8 @@
       "address": "600 LA-2, Sterlington, LA 71280, USA",
       "street": "600 LA 2",
       "zip": "71280",
-      "coordinates": {
-        "lat": 32.692622,
-        "lng": -92.075214
-      },
+      "latitude": 32.692622,
+      "longitude": -92.075214,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8785,10 +8119,8 @@
       "address": "299 S Cities Service Hwy, Sulphur, LA 70665, USA",
       "street": "299 South Cities Service Highway",
       "zip": "70663",
-      "coordinates": {
-        "lat": 30.220685,
-        "lng": -93.323326
-      },
+      "latitude": 30.220685,
+      "longitude": -93.323326,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8813,10 +8145,8 @@
       "address": "1180 Terry Pkwy, Terrytown, LA 70056, USA",
       "street": "1180 Terry Parkway",
       "zip": "70056",
-      "coordinates": {
-        "lat": 29.890285,
-        "lng": -90.031559
-      },
+      "latitude": 29.890285,
+      "longitude": -90.031559,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8841,10 +8171,8 @@
       "address": "505 Lapalco Blvd, Terrytown, LA 70056, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.879395,
-        "lng": -90.031614
-      },
+      "latitude": 29.879395,
+      "longitude": -90.031614,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8869,10 +8197,8 @@
       "address": "212 N Pine St, Vivian, LA 71082, USA",
       "street": "212 North Pine Street",
       "zip": "71082",
-      "coordinates": {
-        "lat": 32.873635,
-        "lng": -93.985125
-      },
+      "latitude": 32.873635,
+      "longitude": -93.985125,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8897,10 +8223,8 @@
       "address": "212 N Pine St, Vivian, LA 71082, USA",
       "street": "212 North Pine Street",
       "zip": "71082",
-      "coordinates": {
-        "lat": 32.873635,
-        "lng": -93.985125
-      },
+      "latitude": 32.873635,
+      "longitude": -93.985125,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8925,10 +8249,8 @@
       "address": "4188 LA-34, West Monroe, LA 71292, USA",
       "street": "Jonesboro Road",
       "zip": "71292",
-      "coordinates": {
-        "lat": 32.414914,
-        "lng": -92.339318
-      },
+      "latitude": 32.414914,
+      "longitude": -92.339318,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8953,10 +8275,8 @@
       "address": "10413 LA-34, Winnfield, LA 71483, USA",
       "street": "Maple Street",
       "zip": "71483",
-      "coordinates": {
-        "lat": 31.865618,
-        "lng": -92.682029
-      },
+      "latitude": 31.865618,
+      "longitude": -92.682029,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8981,10 +8301,8 @@
       "address": "5252 LA-19, Zachary, LA 70791, USA",
       "street": "5252 Zachary-Slaughter Highway",
       "zip": "70791",
-      "coordinates": {
-        "lat": 30.654116,
-        "lng": -91.149178
-      },
+      "latitude": 30.654116,
+      "longitude": -91.149178,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9009,10 +8327,8 @@
       "address": "1600 N Hwy 190, Covington, LA 70433, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.453695,
-        "lng": -90.081284
-      },
+      "latitude": 30.453695,
+      "longitude": -90.081284,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9034,10 +8350,8 @@
       "address": "3708 Lapalco Blvd, Harvey, LA 70058, USA",
       "street": "3708 Lapalco Boulevard",
       "zip": "70058",
-      "coordinates": {
-        "lat": 29.873991,
-        "lng": -90.083656
-      },
+      "latitude": 29.873991,
+      "longitude": -90.083656,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9059,10 +8373,8 @@
       "address": "100 Jefferson Hwy, New Orleans, LA 70121, USA",
       "street": "100 Jefferson Highway",
       "zip": "70121",
-      "coordinates": {
-        "lat": 29.96369,
-        "lng": -90.131511
-      },
+      "latitude": 29.96369,
+      "longitude": -90.131511,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9084,10 +8396,8 @@
       "address": "200 Jefferson Hwy, New Orleans, LA 70121, USA",
       "street": "Jefferson Highway",
       "zip": "70121",
-      "coordinates": {
-        "lat": 29.96405,
-        "lng": -90.132973
-      },
+      "latitude": 29.96405,
+      "longitude": -90.132973,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9109,10 +8419,8 @@
       "address": "2000 Martin Luther King Jr Blvd, New Orleans, LA 70113, USA",
       "street": "2000 Martin Luther King Jr Boulevard",
       "zip": "70113",
-      "coordinates": {
-        "lat": 29.941489,
-        "lng": -90.080522
-      },
+      "latitude": 29.941489,
+      "longitude": -90.080522,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9134,10 +8442,8 @@
       "address": "2118 Elysian Fields Ave, New Orleans, LA 70117, USA",
       "street": "2118 Elysian Fields Avenue",
       "zip": "70117",
-      "coordinates": {
-        "lat": 29.979083,
-        "lng": -90.058027
-      },
+      "latitude": 29.979083,
+      "longitude": -90.058027,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9159,10 +8465,8 @@
       "address": "2430 S Carrollton Ave, New Orleans, LA 70118, USA",
       "street": "2430 South Carrollton Avenue",
       "zip": "70118",
-      "coordinates": {
-        "lat": 29.956857,
-        "lng": -90.12009
-      },
+      "latitude": 29.956857,
+      "longitude": -90.12009,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9184,10 +8488,8 @@
       "address": "2500 General De Gaulle Dr, New Orleans, LA 70114, USA",
       "street": "2500 General de Gaulle Drive",
       "zip": "70114",
-      "coordinates": {
-        "lat": 29.93001,
-        "lng": -90.03195
-      },
+      "latitude": 29.93001,
+      "longitude": -90.03195,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9209,10 +8511,8 @@
       "address": "3940 Paris Ave, New Orleans, LA 70122, USA",
       "street": "3940 Paris Avenue",
       "zip": "70122",
-      "coordinates": {
-        "lat": 29.997924,
-        "lng": -90.073983
-      },
+      "latitude": 29.997924,
+      "longitude": -90.073983,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -9234,10 +8534,8 @@
       "address": "2900 Magazine St, New Orleans, LA 70115, USA",
       "street": "2900 Magazine Street",
       "zip": "70115",
-      "coordinates": {
-        "lat": 29.927215,
-        "lng": -90.08393
-      },
+      "latitude": 29.927215,
+      "longitude": -90.08393,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -9256,10 +8554,8 @@
       "address": "5216 Jackson St, Alexandria, LA 71303, USA",
       "street": "5216 Jackson Street",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.271475,
-        "lng": -92.48534
-      },
+      "latitude": 31.271475,
+      "longitude": -92.48534,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9280,10 +8576,8 @@
       "address": "5216 Jackson St, Alexandria, LA 71303, USA",
       "street": "5216 Jackson Street",
       "zip": "71303",
-      "coordinates": {
-        "lat": 31.271475,
-        "lng": -92.48534
-      },
+      "latitude": 31.271475,
+      "longitude": -92.48534,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9304,10 +8598,8 @@
       "address": "10350 Burbank Dr, Baton Rouge, LA 70810, USA",
       "street": "Burbank Drive",
       "zip": "70820",
-      "coordinates": {
-        "lat": 30.35429,
-        "lng": -91.112333
-      },
+      "latitude": 30.35429,
+      "longitude": -91.112333,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9328,10 +8620,8 @@
       "address": "10778 Coursey Blvd, Baton Rouge, LA 70816, USA",
       "street": "10778 Coursey Boulevard",
       "zip": "70816",
-      "coordinates": {
-        "lat": 30.41463,
-        "lng": -91.06213
-      },
+      "latitude": 30.41463,
+      "longitude": -91.06213,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9352,10 +8642,8 @@
       "address": "2435 O'Neal Ln, Baton Rouge, LA 70816, USA",
       "street": "2435 O'Neal Lane",
       "zip": "70816",
-      "coordinates": {
-        "lat": 30.432956,
-        "lng": -91.007001
-      },
+      "latitude": 30.432956,
+      "longitude": -91.007001,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9376,10 +8664,8 @@
       "address": "3121 College Dr, Baton Rouge, LA 70808, USA",
       "street": "3121 College Drive",
       "zip": "70806",
-      "coordinates": {
-        "lat": 30.418751,
-        "lng": -91.13965
-      },
+      "latitude": 30.418751,
+      "longitude": -91.13965,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9400,10 +8686,8 @@
       "address": "4000 Airline Dr, Bossier City, LA 71111, USA",
       "street": "4000 Airline Drive",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.573213,
-        "lng": -93.712177
-      },
+      "latitude": 32.573213,
+      "longitude": -93.712177,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9424,10 +8708,8 @@
       "address": "4000 Airline Dr, Bossier City, LA 71111, USA",
       "street": "4000 Airline Drive",
       "zip": "71111",
-      "coordinates": {
-        "lat": 32.573213,
-        "lng": -93.712177
-      },
+      "latitude": 32.573213,
+      "longitude": -93.712177,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9448,10 +8730,8 @@
       "address": "3200 Paris Rd, Chalmette, LA 70043, USA",
       "street": "3200 Paris Road",
       "zip": "70043",
-      "coordinates": {
-        "lat": 29.948406,
-        "lng": -89.960944
-      },
+      "latitude": 29.948406,
+      "longitude": -89.960944,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9472,10 +8752,8 @@
       "address": "790 U.S. Hwy 190, Covington, LA 70433, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.439965,
-        "lng": -90.081909
-      },
+      "latitude": 30.439965,
+      "longitude": -90.081909,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9496,10 +8774,8 @@
       "address": "1431 S Range Ave, Denham Springs, LA 70726, USA",
       "street": "1431 South Range Avenue",
       "zip": "70726",
-      "coordinates": {
-        "lat": 30.467642,
-        "lng": -90.957056
-      },
+      "latitude": 30.467642,
+      "longitude": -90.957056,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9520,10 +8796,8 @@
       "address": "1015 N Pine St, DeRidder, LA 70634, USA",
       "street": "1015 North Pine Street",
       "zip": "70634",
-      "coordinates": {
-        "lat": 30.863564,
-        "lng": -93.287087
-      },
+      "latitude": 30.863564,
+      "longitude": -93.287087,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9544,10 +8818,8 @@
       "address": "306 S Airline Hwy, Gonzales, LA 70737, USA",
       "street": "Airline Highway",
       "zip": "70737",
-      "coordinates": {
-        "lat": 30.231717,
-        "lng": -90.906552
-      },
+      "latitude": 30.231717,
+      "longitude": -90.906552,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9568,10 +8840,8 @@
       "address": "2722 W Thomas St, Hammond, LA 70403, USA",
       "street": "2722 West Thomas Street",
       "zip": "70401",
-      "coordinates": {
-        "lat": 30.503845,
-        "lng": -90.491131
-      },
+      "latitude": 30.503845,
+      "longitude": -90.491131,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9592,10 +8862,8 @@
       "address": "875 Manhattan Blvd, Harvey, LA 70058, USA",
       "street": "875 Manhattan Boulevard",
       "zip": "70058",
-      "coordinates": {
-        "lat": 29.90261,
-        "lng": -90.064641
-      },
+      "latitude": 29.90261,
+      "longitude": -90.064641,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9616,10 +8884,8 @@
       "address": "1085 US-80, Haughton, LA 71037, USA",
       "street": "1085 US Highway 80",
       "zip": "71037",
-      "coordinates": {
-        "lat": 32.55703,
-        "lng": -93.611531
-      },
+      "latitude": 32.55703,
+      "longitude": -93.611531,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9640,10 +8906,8 @@
       "address": "1085 US-80, Haughton, LA 71037, USA",
       "street": "1085 US Highway 80",
       "zip": "71037",
-      "coordinates": {
-        "lat": 32.55703,
-        "lng": -93.611531
-      },
+      "latitude": 32.55703,
+      "longitude": -93.611531,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9664,10 +8928,8 @@
       "address": "Junior Boulevard, 1750 Martin Luther King Blvd, Houma, LA 70360, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 29.61441,
-        "lng": -90.755177
-      },
+      "latitude": 29.61441,
+      "longitude": -90.755177,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9688,10 +8950,8 @@
       "address": "397 W Esplanade Ave, Kenner, LA 70065, USA",
       "street": "397 West Esplanade Avenue",
       "zip": "70065",
-      "coordinates": {
-        "lat": 30.022289,
-        "lng": -90.266774
-      },
+      "latitude": 30.022289,
+      "longitude": -90.266774,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9712,10 +8972,8 @@
       "address": "1102 W McNeese St, Lake Charles, LA 70605, USA",
       "street": "1102 West McNeese Street",
       "zip": "70605",
-      "coordinates": {
-        "lat": 30.17639,
-        "lng": -93.236798
-      },
+      "latitude": 30.17639,
+      "longitude": -93.236798,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9736,10 +8994,8 @@
       "address": "3004 Gerstner Memorial Dr, Lake Charles, LA 70601, USA",
       "street": "Gerstner Memorial Drive",
       "zip": "70601",
-      "coordinates": {
-        "lat": 30.202307,
-        "lng": -93.180712
-      },
+      "latitude": 30.202307,
+      "longitude": -93.180712,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9760,10 +9016,8 @@
       "address": "Country Club Rd, Lake Charles, LA 70605, USA",
       "street": "Country Club Road",
       "zip": "70605",
-      "coordinates": {
-        "lat": 30.168685,
-        "lng": -93.257716
-      },
+      "latitude": 30.168685,
+      "longitude": -93.257716,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9784,10 +9038,8 @@
       "address": "101 Carrollwood Dr, Laplace, LA 70068, USA",
       "street": "Carrollwood Drive",
       "zip": "70068",
-      "coordinates": {
-        "lat": 30.073779,
-        "lng": -90.497033
-      },
+      "latitude": 30.073779,
+      "longitude": -90.497033,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9808,10 +9060,8 @@
       "address": "1111 Boone St, Leesville, LA 71446, USA",
       "street": "1111 Boone Street",
       "zip": "71446",
-      "coordinates": {
-        "lat": 31.122696,
-        "lng": -93.271408
-      },
+      "latitude": 31.122696,
+      "longitude": -93.271408,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9832,10 +9082,8 @@
       "address": "12897 US-90, Luling, LA 70070, USA",
       "street": "US 90",
       "zip": "70070",
-      "coordinates": {
-        "lat": 29.90645,
-        "lng": -90.369135
-      },
+      "latitude": 29.90645,
+      "longitude": -90.369135,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9856,10 +9104,8 @@
       "address": "4940 LA-22, Mandeville, LA 70471, USA",
       "street": "4940 Highway 22",
       "zip": "70471",
-      "coordinates": {
-        "lat": 30.402894,
-        "lng": -90.118391
-      },
+      "latitude": 30.402894,
+      "longitude": -90.118391,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9880,10 +9126,8 @@
       "address": "4329 Veterans Memorial Blvd, Metairie, LA 70006, USA",
       "street": "4329 Veterans Memorial Boulevard",
       "zip": "70006",
-      "coordinates": {
-        "lat": 30.005633,
-        "lng": -90.181035
-      },
+      "latitude": 30.005633,
+      "longitude": -90.181035,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9904,10 +9148,8 @@
       "address": "480 Metairie Rd, Metairie, LA 70005, USA",
       "street": "480 Metairie Road",
       "zip": "70005",
-      "coordinates": {
-        "lat": 29.985435,
-        "lng": -90.129538
-      },
+      "latitude": 29.985435,
+      "longitude": -90.129538,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9928,10 +9170,8 @@
       "address": "3158 Louisville Ave, Monroe, LA 71201, USA",
       "street": "3158 Louisville Avenue",
       "zip": "71201",
-      "coordinates": {
-        "lat": 32.521734,
-        "lng": -92.085407
-      },
+      "latitude": 32.521734,
+      "longitude": -92.085407,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9952,10 +9192,8 @@
       "address": "311 South Dr, Natchitoches, LA 71457, USA",
       "street": "311A South Drive",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.744694,
-        "lng": -93.080763
-      },
+      "latitude": 31.744694,
+      "longitude": -93.080763,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -9976,10 +9214,8 @@
       "address": "311 South Dr, Natchitoches, LA 71457, USA",
       "street": "311A South Drive",
       "zip": "71457",
-      "coordinates": {
-        "lat": 31.744694,
-        "lng": -93.080763
-      },
+      "latitude": 31.744694,
+      "longitude": -93.080763,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10000,10 +9236,8 @@
       "address": "123 Robert E Lee Blvd, New Orleans, LA 70124, USA",
       "street": "123 Allen Toussaint Boulevard",
       "zip": "70124",
-      "coordinates": {
-        "lat": 30.021013,
-        "lng": -90.111714
-      },
+      "latitude": 30.021013,
+      "longitude": -90.111714,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10024,10 +9258,8 @@
       "address": "3400 Tulane Ave, New Orleans, LA 70119, USA",
       "street": "3400 Tulane Avenue",
       "zip": "70135",
-      "coordinates": {
-        "lat": 29.964349,
-        "lng": -90.100307
-      },
+      "latitude": 29.964349,
+      "longitude": -90.100307,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10048,10 +9280,8 @@
       "address": "30 Pinecrest Dr, Pineville, LA 71360, USA",
       "street": "30 Pinecrest Drive",
       "zip": "71360",
-      "coordinates": {
-        "lat": 31.362623,
-        "lng": -92.410142
-      },
+      "latitude": 31.362623,
+      "longitude": -92.410142,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10072,10 +9302,8 @@
       "address": "30 Pinecrest Dr, Pineville, LA 71360, USA",
       "street": "30 Pinecrest Drive",
       "zip": "71360",
-      "coordinates": {
-        "lat": 31.362623,
-        "lng": -92.410142
-      },
+      "latitude": 31.362623,
+      "longitude": -92.410142,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10096,10 +9324,8 @@
       "address": "9323 Jefferson Hwy, River Ridge, LA 70123, USA",
       "street": "9323 Jefferson Highway",
       "zip": "70123",
-      "coordinates": {
-        "lat": 29.952515,
-        "lng": -90.213732
-      },
+      "latitude": 29.952515,
+      "longitude": -90.213732,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10120,10 +9346,8 @@
       "address": "1243 Shreveport Barksdale Hwy, Shreveport, LA 71105, USA",
       "street": "1243 Shreveport Barksdale Highway",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.486984,
-        "lng": -93.705875
-      },
+      "latitude": 32.486984,
+      "longitude": -93.705875,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10144,10 +9368,8 @@
       "address": "1243 Shreveport Barksdale Hwy, Shreveport, LA 71105, USA",
       "street": "1243 Shreveport Barksdale Highway",
       "zip": "71105",
-      "coordinates": {
-        "lat": 32.486984,
-        "lng": -93.705875
-      },
+      "latitude": 32.486984,
+      "longitude": -93.705875,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10168,10 +9390,8 @@
       "address": "6713 Pines Rd C, Shreveport, LA 71129, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.449147,
-        "lng": -93.863224
-      },
+      "latitude": 32.449147,
+      "longitude": -93.863224,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10192,10 +9412,8 @@
       "address": "6713 Pines Rd, Shreveport, LA 71129, USA",
       "street": "6713 Pines Road",
       "zip": "71129",
-      "coordinates": {
-        "lat": 32.449147,
-        "lng": -93.863224
-      },
+      "latitude": 32.449147,
+      "longitude": -93.863224,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10216,10 +9434,8 @@
       "address": "800 W 70th St, Shreveport, LA 71106, USA",
       "street": "800 West 70th Street",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.443477,
-        "lng": -93.772012
-      },
+      "latitude": 32.443477,
+      "longitude": -93.772012,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10240,10 +9456,8 @@
       "address": "800 W 70th St, Shreveport, LA 71106, USA",
       "street": "800 West 70th Street",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.443477,
-        "lng": -93.772012
-      },
+      "latitude": 32.443477,
+      "longitude": -93.772012,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10264,10 +9478,8 @@
       "address": "8100 Jump Run Dr, Shreveport, LA 71115, USA",
       "street": "8100 Jump Run Drive",
       "zip": "71115",
-      "coordinates": {
-        "lat": 32.427998,
-        "lng": -93.71408
-      },
+      "latitude": 32.427998,
+      "longitude": -93.71408,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10288,10 +9500,8 @@
       "address": "8100 Jump Run Dr, Shreveport, LA 71115, USA",
       "street": "8100 Jump Run Drive",
       "zip": "71115",
-      "coordinates": {
-        "lat": 32.427998,
-        "lng": -93.71408
-      },
+      "latitude": 32.427998,
+      "longitude": -93.71408,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10312,10 +9522,8 @@
       "address": "8401 Line Ave, Shreveport, LA 71106, USA",
       "street": "Line Avenue",
       "zip": "71106",
-      "coordinates": {
-        "lat": 32.427266,
-        "lng": -93.741191
-      },
+      "latitude": 32.427266,
+      "longitude": -93.741191,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10336,10 +9544,8 @@
       "address": "9361 Mansfield Rd, Shreveport, LA 71118, USA",
       "street": "9361 Mansfield Road",
       "zip": "71118",
-      "coordinates": {
-        "lat": 32.398113,
-        "lng": -93.807447
-      },
+      "latitude": 32.398113,
+      "longitude": -93.807447,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10360,10 +9566,8 @@
       "address": "184 Gause Blvd, Slidell, LA 70458, USA",
       "street": "184 Gause Boulevard",
       "zip": "70458",
-      "coordinates": {
-        "lat": 30.285764,
-        "lng": -89.777299
-      },
+      "latitude": 30.285764,
+      "longitude": -89.777299,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10384,10 +9588,8 @@
       "address": "1610 Ruth St, Sulphur, LA 70663, USA",
       "street": "1610 Ruth Street",
       "zip": "70663",
-      "coordinates": {
-        "lat": 30.225255,
-        "lng": -93.374992
-      },
+      "latitude": 30.225255,
+      "longitude": -93.374992,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10408,10 +9610,8 @@
       "address": "29770 Walker South Rd, Walker, LA 70785, USA",
       "street": "Walker South Road",
       "zip": "70785",
-      "coordinates": {
-        "lat": 30.48653,
-        "lng": -90.860923
-      },
+      "latitude": 30.48653,
+      "longitude": -90.860923,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10432,10 +9632,8 @@
       "address": "3426 Cypress St, West Monroe, LA 71291, USA",
       "street": "3426 Cypress Street",
       "zip": "71291",
-      "coordinates": {
-        "lat": 32.517694,
-        "lng": -92.159433
-      },
+      "latitude": 32.517694,
+      "longitude": -92.159433,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10456,10 +9654,8 @@
       "address": "3426 Cypress St, West Monroe, LA 71291, USA",
       "street": "3426 Cypress Street",
       "zip": "71291",
-      "coordinates": {
-        "lat": 32.517694,
-        "lng": -92.159433
-      },
+      "latitude": 32.517694,
+      "longitude": -92.159433,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10480,10 +9676,8 @@
       "address": "5625 Main St, Zachary, LA 70791, USA",
       "street": "5625 Main Street",
       "zip": "70791",
-      "coordinates": {
-        "lat": 30.648483,
-        "lng": -91.144966
-      },
+      "latitude": 30.648483,
+      "longitude": -91.144966,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -10504,10 +9698,8 @@
       "address": "1871 Staring Ln, Baton Rouge, LA 70808, USA",
       "street": "1871 Staring Lane",
       "zip": "70810",
-      "coordinates": {
-        "lat": 30.392344,
-        "lng": -91.112509
-      },
+      "latitude": 30.392344,
+      "longitude": -91.112509,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -10527,10 +9719,8 @@
       "address": "2655 Plank Rd, Baton Rouge, LA 70805, USA",
       "street": "2655 Plank Road",
       "zip": "70805",
-      "coordinates": {
-        "lat": 30.471902,
-        "lng": -91.163256
-      },
+      "latitude": 30.471902,
+      "longitude": -91.163256,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -10550,10 +9740,8 @@
       "address": "1402 N Burnside Ave, Gonzales, LA 70737, USA",
       "street": "1402 North Burnside Avenue",
       "zip": "70737",
-      "coordinates": {
-        "lat": 30.243196,
-        "lng": -90.919232
-      },
+      "latitude": 30.243196,
+      "longitude": -90.919232,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -10573,10 +9761,8 @@
       "address": "824 N Morrison Blvd, Hammond, LA 70401, USA",
       "street": "824 North Morrison Boulevard",
       "zip": "70401",
-      "coordinates": {
-        "lat": 30.508816,
-        "lng": -90.48213
-      },
+      "latitude": 30.508816,
+      "longitude": -90.48213,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -10596,10 +9782,8 @@
       "address": "4034 4th St, Marrero, LA 70121, USA",
       "street": "4034 4th Street",
       "zip": "70072",
-      "coordinates": {
-        "lat": 29.904853,
-        "lng": -90.092821
-      },
+      "latitude": 29.904853,
+      "longitude": -90.092821,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -10619,10 +9803,8 @@
       "address": "710 Olinde St, New Roads, LA 70760, USA",
       "street": "710 Olinde Street",
       "zip": "70760",
-      "coordinates": {
-        "lat": 30.697561,
-        "lng": -91.441498
-      },
+      "latitude": 30.697561,
+      "longitude": -91.441498,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"

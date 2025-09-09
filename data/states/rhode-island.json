@@ -13,10 +13,8 @@
       "address": "82 N Main St, Pascoag, RI 02859, USA",
       "street": "82 North Main Street",
       "zip": "2859",
-      "coordinates": {
-        "lat": 41.961245,
-        "lng": -71.701572
-      },
+      "latitude": 41.961245,
+      "longitude": -71.701572,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "82 N Main St, Pascoag, RI 02859, USA",
       "street": "82 North Main Street",
       "zip": "2859",
-      "coordinates": {
-        "lat": 41.961245,
-        "lng": -71.701572
-      },
+      "latitude": 41.961245,
+      "longitude": -71.701572,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "200 Atwood Ave, Cranston, RI 02910, USA",
       "street": "200 Atwood Avenue",
       "zip": "2920",
-      "coordinates": {
-        "lat": 41.781781,
-        "lng": -71.474276
-      },
+      "latitude": 41.781781,
+      "longitude": -71.474276,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "4619 Post Rd, East Greenwich, RI 02818, USA",
       "street": "Post Road",
       "zip": "2818",
-      "coordinates": {
-        "lat": 41.665537,
-        "lng": -71.450755
-      },
+      "latitude": 41.665537,
+      "longitude": -71.450755,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "1218 N Main Rd, Jamestown, RI 02835, USA",
       "street": "1218 North Main Road",
       "zip": "2835",
-      "coordinates": {
-        "lat": 41.563115,
-        "lng": -71.374853
-      },
+      "latitude": 41.563115,
+      "longitude": -71.374853,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "65 Shun Pike, Johnston, RI 02919, USA",
       "street": "65 Shun Pike",
       "zip": "2919",
-      "coordinates": {
-        "lat": 41.804665,
-        "lng": -71.523133
-      },
+      "latitude": 41.804665,
+      "longitude": -71.523133,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -163,10 +151,8 @@
       "address": "76 Broadway, Newport, RI 02840, USA",
       "street": "76 Broadway",
       "zip": "2840",
-      "coordinates": {
-        "lat": 41.4923,
-        "lng": -71.31209
-      },
+      "latitude": 41.4923,
+      "longitude": -71.31209,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -188,10 +174,8 @@
       "address": "1895 Smith St, North Providence, RI 02911, USA",
       "street": "1895 Smith Street",
       "zip": "2911",
-      "coordinates": {
-        "lat": 41.855958,
-        "lng": -71.478501
-      },
+      "latitude": 41.855958,
+      "longitude": -71.478501,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -213,10 +197,8 @@
       "address": "305 Hedly St, Portsmouth, RI 02871, USA",
       "street": "Hedly Street",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.593806,
-        "lng": -71.264974
-      },
+      "latitude": 41.593806,
+      "longitude": -71.264974,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -238,10 +220,8 @@
       "address": "980 E Main Rd, Portsmouth, RI 02871, USA",
       "street": "980 East Main Road",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.561358,
-        "lng": -71.254847
-      },
+      "latitude": 41.561358,
+      "longitude": -71.254847,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -263,10 +243,8 @@
       "address": "201 Pitman St, Providence, RI 02906, USA",
       "street": "201 Pitman Street",
       "zip": "2906",
-      "coordinates": {
-        "lat": 41.826335,
-        "lng": -71.385309
-      },
+      "latitude": 41.826335,
+      "longitude": -71.385309,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -288,10 +266,8 @@
       "address": "202 Church St, South Kingstown, RI 02879, USA",
       "street": "202 Church Street",
       "zip": "2879",
-      "coordinates": {
-        "lat": 41.447581,
-        "lng": -71.497218
-      },
+      "latitude": 41.447581,
+      "longitude": -71.497218,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -313,10 +289,8 @@
       "address": "1121 Warwick Ave, Warwick, RI 02888, USA",
       "street": "1121 Warwick Avenue",
       "zip": "2888",
-      "coordinates": {
-        "lat": 41.745851,
-        "lng": -71.407221
-      },
+      "latitude": 41.745851,
+      "longitude": -71.407221,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -338,10 +312,8 @@
       "address": "558 Greenwich Ave, Warwick, RI 02886, USA",
       "street": "558 Greenwich Avenue",
       "zip": "2886",
-      "coordinates": {
-        "lat": 41.720676,
-        "lng": -71.464684
-      },
+      "latitude": 41.720676,
+      "longitude": -71.464684,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -363,10 +335,8 @@
       "address": "269 Washington St, West Warwick, RI 02893, USA",
       "street": "Washington Street",
       "zip": "2893",
-      "coordinates": {
-        "lat": 41.700296,
-        "lng": -71.529506
-      },
+      "latitude": 41.700296,
+      "longitude": -71.529506,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -388,10 +358,8 @@
       "address": "258 Post Rd, Westerly, RI 02891, USA",
       "street": "258 Post Road",
       "zip": "2891",
-      "coordinates": {
-        "lat": 41.354237,
-        "lng": -71.766975
-      },
+      "latitude": 41.354237,
+      "longitude": -71.766975,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -413,10 +381,8 @@
       "address": "1 Ann and Hope Way, Cumberland, RI 02864, USA",
       "street": "1 Ann and Hope Way",
       "zip": "2864",
-      "coordinates": {
-        "lat": 41.912928,
-        "lng": -71.397653
-      },
+      "latitude": 41.912928,
+      "longitude": -71.397653,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -437,10 +403,8 @@
       "address": "37 Main St, Albion, RI 02802, USA",
       "street": "37 Main Street",
       "zip": "2802",
-      "coordinates": {
-        "lat": 41.951357,
-        "lng": -71.454152
-      },
+      "latitude": 41.951357,
+      "longitude": -71.454152,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -461,10 +425,8 @@
       "address": "247 Ashaway Rd, Bradford, RI 02808, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.41214,
-        "lng": -71.748805
-      },
+      "latitude": 41.41214,
+      "longitude": -71.748805,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -485,10 +447,8 @@
       "address": "558 Roosevelt Ave, Central Falls, RI 02863, USA",
       "street": "558 Roosevelt Avenue",
       "zip": "2863",
-      "coordinates": {
-        "lat": 41.887203,
-        "lng": -71.382791
-      },
+      "latitude": 41.887203,
+      "longitude": -71.382791,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -509,10 +469,8 @@
       "address": "364 Dexter St, Central Falls, RI 02863, USA",
       "street": "364 Dexter Street",
       "zip": "2863",
-      "coordinates": {
-        "lat": 41.882916,
-        "lng": -71.392971
-      },
+      "latitude": 41.882916,
+      "longitude": -71.392971,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -533,10 +491,8 @@
       "address": "90 School St, Central Falls, RI 02863, USA",
       "street": "90 School Street",
       "zip": "2863",
-      "coordinates": {
-        "lat": 41.890723,
-        "lng": -71.397349
-      },
+      "latitude": 41.890723,
+      "longitude": -71.397349,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -557,10 +513,8 @@
       "address": "5223 A Old Post Rd, Charlestown, RI 02813, USA",
       "street": "Old Post Road",
       "zip": "2813",
-      "coordinates": {
-        "lat": 41.355766,
-        "lng": -71.718403
-      },
+      "latitude": 41.355766,
+      "longitude": -71.718403,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -581,10 +535,8 @@
       "address": "4158 S County Trl, Charlestown, RI 02813, USA",
       "street": "4158 South County Trail",
       "zip": "2813",
-      "coordinates": {
-        "lat": 41.43838,
-        "lng": -71.637624
-      },
+      "latitude": 41.43838,
+      "longitude": -71.637624,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -605,10 +557,8 @@
       "address": "354 Tiogue Ave, Coventry, RI 02816, USA",
       "street": "354 Tiogue Avenue",
       "zip": "2816",
-      "coordinates": {
-        "lat": 41.682764,
-        "lng": -71.544311
-      },
+      "latitude": 41.682764,
+      "longitude": -71.544311,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -629,10 +579,8 @@
       "address": "807 Atwood Ave, Cranston, RI 02920, USA",
       "street": "807 Atwood Avenue",
       "zip": "2920",
-      "coordinates": {
-        "lat": 41.79476,
-        "lng": -71.479621
-      },
+      "latitude": 41.79476,
+      "longitude": -71.479621,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -653,10 +601,8 @@
       "address": "280 Atwood Ave, Cranston, RI 02920, USA",
       "street": "280 Atwood Avenue",
       "zip": "2920",
-      "coordinates": {
-        "lat": 41.783391,
-        "lng": -71.473216
-      },
+      "latitude": 41.783391,
+      "longitude": -71.473216,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -677,10 +623,8 @@
       "address": "397 Dyer Ave, Cranston, RI 02920, USA",
       "street": "397 Dyer Avenue",
       "zip": "2920",
-      "coordinates": {
-        "lat": 41.803245,
-        "lng": -71.458583
-      },
+      "latitude": 41.803245,
+      "longitude": -71.458583,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -701,10 +645,8 @@
       "address": "1170 Oaklawn Ave, Cranston, RI 02920, USA",
       "street": "1170 Oaklawn Avenue",
       "zip": "2920",
-      "coordinates": {
-        "lat": 41.737508,
-        "lng": -71.477576
-      },
+      "latitude": 41.737508,
+      "longitude": -71.477576,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -725,10 +667,8 @@
       "address": "91 Pine Swamp Rd, Cumberland, RI 02864, USA",
       "street": "91 Pine Swamp Road",
       "zip": "2864",
-      "coordinates": {
-        "lat": 42.010597,
-        "lng": -71.445969
-      },
+      "latitude": 42.010597,
+      "longitude": -71.445969,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -749,10 +689,8 @@
       "address": "15 Martin St, Cumberland, RI 02864, USA",
       "street": "15 Martin Street",
       "zip": "2864",
-      "coordinates": {
-        "lat": 41.929378,
-        "lng": -71.424535
-      },
+      "latitude": 41.929378,
+      "longitude": -71.424535,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -773,10 +711,8 @@
       "address": "1165 High St, Cumberland, RI 02864, USA",
       "street": "1165 High Street",
       "zip": "2864",
-      "coordinates": {
-        "lat": 41.92504,
-        "lng": -71.39897
-      },
+      "latitude": 41.92504,
+      "longitude": -71.39897,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -797,10 +733,8 @@
       "address": "4012 Mendon Rd, Cumberland, RI 02864, USA",
       "street": "4012 Mendon Road",
       "zip": "2864",
-      "coordinates": {
-        "lat": 41.984252,
-        "lng": -71.476391
-      },
+      "latitude": 41.984252,
+      "longitude": -71.476391,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -821,10 +755,8 @@
       "address": "70 Industrial Rd, Cumberland, RI 02864, USA",
       "street": "70 Industrial Road",
       "zip": "2864",
-      "coordinates": {
-        "lat": 41.954066,
-        "lng": -71.39561
-      },
+      "latitude": 41.954066,
+      "longitude": -71.39561,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -845,10 +777,8 @@
       "address": "1390 Mendon Rd, Cumberland, RI 02864, USA",
       "street": "1390 Mendon Road",
       "zip": "2864",
-      "coordinates": {
-        "lat": 41.935919,
-        "lng": -71.429314
-      },
+      "latitude": 41.935919,
+      "longitude": -71.429314,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -869,10 +799,8 @@
       "address": "4552 Post Rd, East Greenwich, RI 02818, USA",
       "street": "Post Road",
       "zip": "2818",
-      "coordinates": {
-        "lat": 41.666994,
-        "lng": -71.449416
-      },
+      "latitude": 41.666994,
+      "longitude": -71.449416,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -893,10 +821,8 @@
       "address": "316 Warren Ave, East Providence, RI 02914, USA",
       "street": "316 Warren Avenue",
       "zip": "2914",
-      "coordinates": {
-        "lat": 41.813942,
-        "lng": -71.370861
-      },
+      "latitude": 41.813942,
+      "longitude": -71.370861,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -917,10 +843,8 @@
       "address": "219 Taunton Ave, East Providence, RI 02914, USA",
       "street": "219 Taunton Avenue",
       "zip": "2914",
-      "coordinates": {
-        "lat": 41.819509,
-        "lng": -71.371342
-      },
+      "latitude": 41.819509,
+      "longitude": -71.371342,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -941,10 +865,8 @@
       "address": "561 S County Trl, Exeter, RI 02822, USA",
       "street": "561 South County Trail",
       "zip": "2822",
-      "coordinates": {
-        "lat": 41.526593,
-        "lng": -71.551563
-      },
+      "latitude": 41.526593,
+      "longitude": -71.551563,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -965,10 +887,8 @@
       "address": "675 10 Rod Rd, Exeter, RI 02822, USA",
       "street": "Ten Rod Road",
       "zip": "2822",
-      "coordinates": {
-        "lat": 41.58004,
-        "lng": -71.577833
-      },
+      "latitude": 41.58004,
+      "longitude": -71.577833,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -989,10 +909,8 @@
       "address": "890 10 Rod Rd, Exeter, RI 02822, USA",
       "street": "Ten Rod Road",
       "zip": "2822",
-      "coordinates": {
-        "lat": 41.578474,
-        "lng": -71.59701
-      },
+      "latitude": 41.578474,
+      "longitude": -71.59701,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1013,10 +931,8 @@
       "address": "86 Foster Center Rd, Foster, RI 02825, USA",
       "street": "86 Foster Center Road",
       "zip": "2825",
-      "coordinates": {
-        "lat": 41.784746,
-        "lng": -71.719271
-      },
+      "latitude": 41.784746,
+      "longitude": -71.719271,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1037,10 +953,8 @@
       "address": "160 Foster Center Rd, Foster, RI 02825, USA",
       "street": "160 Foster Center Road",
       "zip": "2825",
-      "coordinates": {
-        "lat": 41.813674,
-        "lng": -71.732622
-      },
+      "latitude": 41.813674,
+      "longitude": -71.732622,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1061,10 +975,8 @@
       "address": "460 Putnam Pike, Greenville, RI 02828, USA",
       "street": "460 Putnam Pike",
       "zip": "2828",
-      "coordinates": {
-        "lat": 41.869758,
-        "lng": -71.534793
-      },
+      "latitude": 41.869758,
+      "longitude": -71.534793,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1085,10 +997,8 @@
       "address": "11 Hamlet Ave, Hamlet, RI 02895, USA",
       "street": "11 Hamlet Avenue",
       "zip": "2895",
-      "coordinates": {
-        "lat": 42.000932,
-        "lng": -71.504784
-      },
+      "latitude": 42.000932,
+      "longitude": -71.504784,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1109,10 +1019,8 @@
       "address": "341 Chapel St, Harrisville, RI 02830, USA",
       "street": "341 Chapel Street",
       "zip": "2830",
-      "coordinates": {
-        "lat": 41.96739,
-        "lng": -71.682521
-      },
+      "latitude": 41.96739,
+      "longitude": -71.682521,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1133,10 +1041,8 @@
       "address": "6 Clarke St, Jamestown, RI 02835, USA",
       "street": "6 Clarke Street",
       "zip": "2835",
-      "coordinates": {
-        "lat": 41.493806,
-        "lng": -71.375557
-      },
+      "latitude": 41.493806,
+      "longitude": -71.375557,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1157,10 +1063,8 @@
       "address": "58 Greenville Ave, Johnston, RI 02919, USA",
       "street": "58 Greenville Avenue",
       "zip": "2919",
-      "coordinates": {
-        "lat": 41.832941,
-        "lng": -71.473799
-      },
+      "latitude": 41.832941,
+      "longitude": -71.473799,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1181,10 +1085,8 @@
       "address": "2868 Hartford Ave, Johnston, RI 02919, USA",
       "street": "2868 Hartford Avenue",
       "zip": "2919",
-      "coordinates": {
-        "lat": 41.834182,
-        "lng": -71.563042
-      },
+      "latitude": 41.834182,
+      "longitude": -71.563042,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1205,10 +1107,8 @@
       "address": "2949 Hartford Ave, Johnston, RI 02919, USA",
       "street": "2949 Hartford Avenue",
       "zip": "2919",
-      "coordinates": {
-        "lat": 41.835202,
-        "lng": -71.566069
-      },
+      "latitude": 41.835202,
+      "longitude": -71.566069,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1229,10 +1129,8 @@
       "address": "1401 Plainfield St, Johnston, RI 02919, USA",
       "street": "Plainfield Street",
       "zip": "2909",
-      "coordinates": {
-        "lat": 41.796113,
-        "lng": -71.483429
-      },
+      "latitude": 41.796113,
+      "longitude": -71.483429,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1253,10 +1151,8 @@
       "address": "99 Fortin Rd, Kingston, RI 02881, USA",
       "street": "99 Fortin Road",
       "zip": "2881",
-      "coordinates": {
-        "lat": 41.485631,
-        "lng": -71.524854
-      },
+      "latitude": 41.485631,
+      "longitude": -71.524854,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1277,10 +1173,8 @@
       "address": "304 Point Judith Rd, Narragansett, RI 02882, USA",
       "street": "304 Point Judith Road",
       "zip": "2882",
-      "coordinates": {
-        "lat": 41.417938,
-        "lng": -71.479171
-      },
+      "latitude": 41.417938,
+      "longitude": -71.479171,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1301,10 +1195,8 @@
       "address": "250 Newport Ave, Newport, RI 02840, USA",
       "street": "Newport Avenue",
       "zip": "2840",
-      "coordinates": {
-        "lat": 41.487552,
-        "lng": -71.327084
-      },
+      "latitude": 41.487552,
+      "longitude": -71.327084,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1325,10 +1217,8 @@
       "address": "7000 Post Rd, North Kingstown, RI 02852, USA",
       "street": "Post Road",
       "zip": "2852",
-      "coordinates": {
-        "lat": 41.607618,
-        "lng": -71.455237
-      },
+      "latitude": 41.607618,
+      "longitude": -71.455237,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1349,10 +1239,8 @@
       "address": "6228 Post Rd, North Kingstown, RI 02852, USA",
       "street": "6228 Post Road",
       "zip": "2852",
-      "coordinates": {
-        "lat": 41.627874,
-        "lng": -71.461118
-      },
+      "latitude": 41.627874,
+      "longitude": -71.461118,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1373,10 +1261,8 @@
       "address": "345 Devils Foot Rd, North Kingstown, RI 02852, USA",
       "street": "345 Devils Foot Road",
       "zip": "2852",
-      "coordinates": {
-        "lat": 41.608521,
-        "lng": -71.469669
-      },
+      "latitude": 41.608521,
+      "longitude": -71.469669,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1397,10 +1283,8 @@
       "address": "684 Boston Neck Rd, North Kingstown, RI 02852, USA",
       "street": "684 Boston Neck Road",
       "zip": "2852",
-      "coordinates": {
-        "lat": 41.552476,
-        "lng": -71.440534
-      },
+      "latitude": 41.552476,
+      "longitude": -71.440534,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1421,10 +1305,8 @@
       "address": "6769 Post Rd, North Kingstown, RI 02852, USA",
       "street": "6769 Post Road",
       "zip": "2852",
-      "coordinates": {
-        "lat": 41.613424,
-        "lng": -71.458007
-      },
+      "latitude": 41.613424,
+      "longitude": -71.458007,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1445,10 +1327,8 @@
       "address": "5 Smithfield Rd, North Providence, RI 02904, USA",
       "street": "5 Smithfield Road",
       "zip": "2904",
-      "coordinates": {
-        "lat": 41.854624,
-        "lng": -71.446643
-      },
+      "latitude": 41.854624,
+      "longitude": -71.446643,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1469,10 +1349,8 @@
       "address": "46 Institute Ln, North Scituate, RI 02857, USA",
       "street": "46 Institute Lane",
       "zip": "2857",
-      "coordinates": {
-        "lat": 41.833876,
-        "lng": -71.584594
-      },
+      "latitude": 41.833876,
+      "longitude": -71.584594,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1493,10 +1371,8 @@
       "address": "30 Hartford Pike, North Scituate, RI 02857, USA",
       "street": "Hartford Pike",
       "zip": "2857",
-      "coordinates": {
-        "lat": 41.835932,
-        "lng": -71.578519
-      },
+      "latitude": 41.835932,
+      "longitude": -71.578519,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1517,10 +1393,8 @@
       "address": "948 Eddie Dowling Hwy, North Smithfield, RI 02896, USA",
       "street": "948 Eddie Dowling Highway",
       "zip": "2896",
-      "coordinates": {
-        "lat": 41.962671,
-        "lng": -71.495504
-      },
+      "latitude": 41.962671,
+      "longitude": -71.495504,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1541,10 +1415,8 @@
       "address": "91 S Main St, Pascoag, RI 02859, USA",
       "street": "91 South Main Street",
       "zip": "2859",
-      "coordinates": {
-        "lat": 41.953584,
-        "lng": -71.70188
-      },
+      "latitude": 41.953584,
+      "longitude": -71.70188,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1565,10 +1437,8 @@
       "address": "170 Pascoag Main St, Pascoag, RI 02859, USA",
       "street": "170 Main Street",
       "zip": "2859",
-      "coordinates": {
-        "lat": 41.958751,
-        "lng": -71.701707
-      },
+      "latitude": 41.958751,
+      "longitude": -71.701707,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1589,10 +1459,8 @@
       "address": "957 Main St, Pawtucket, RI 02860, USA",
       "street": "957 Main Street",
       "zip": "2860",
-      "coordinates": {
-        "lat": 41.865366,
-        "lng": -71.399375
-      },
+      "latitude": 41.865366,
+      "longitude": -71.399375,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1613,10 +1481,8 @@
       "address": "823 Newport Ave, Pawtucket, RI 02861, USA",
       "street": "823 Newport Avenue",
       "zip": "2861",
-      "coordinates": {
-        "lat": 41.878068,
-        "lng": -71.353934
-      },
+      "latitude": 41.878068,
+      "longitude": -71.353934,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1637,10 +1503,8 @@
       "address": "100 Broadway, Pawtucket, RI 02860, USA",
       "street": "100 Broadway",
       "zip": "2860",
-      "coordinates": {
-        "lat": 41.875149,
-        "lng": -71.392732
-      },
+      "latitude": 41.875149,
+      "longitude": -71.392732,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1661,10 +1525,8 @@
       "address": "385 East Ave, Pawtucket, RI 02860, USA",
       "street": "385 East Avenue",
       "zip": "2860",
-      "coordinates": {
-        "lat": 41.868274,
-        "lng": -71.387423
-      },
+      "latitude": 41.868274,
+      "longitude": -71.387423,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1685,10 +1547,8 @@
       "address": "1531 Newport Ave, Pawtucket, RI 02861, USA",
       "street": "1531 Newport Avenue",
       "zip": "2861",
-      "coordinates": {
-        "lat": 41.894662,
-        "lng": -71.353789
-      },
+      "latitude": 41.894662,
+      "longitude": -71.353789,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1709,10 +1569,8 @@
       "address": "1351 W Main Rd, Portsmouth, RI 02871, USA",
       "street": "1351 West Main Road",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.582458,
-        "lng": -71.270157
-      },
+      "latitude": 41.582458,
+      "longitude": -71.270157,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1733,10 +1591,8 @@
       "address": "125 Jepson Ln, Portsmouth, RI 02871, USA",
       "street": "125 Jepson Lane",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.55518,
-        "lng": -71.285278
-      },
+      "latitude": 41.55518,
+      "longitude": -71.285278,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1757,10 +1613,8 @@
       "address": "2836 E Main Rd, Portsmouth, RI 02871, USA",
       "street": "2836 East Main Road",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.60608,
-        "lng": -71.247702
-      },
+      "latitude": 41.60608,
+      "longitude": -71.247702,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1781,10 +1635,8 @@
       "address": "1055 E Main Rd, Portsmouth, RI 02871, USA",
       "street": "1055 East Main Road",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.562679,
-        "lng": -71.252787
-      },
+      "latitude": 41.562679,
+      "longitude": -71.252787,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1805,10 +1657,8 @@
       "address": "800 W Main Rd, Portsmouth, RI 02871, USA",
       "street": "800 West Main Road",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.59429,
-        "lng": -71.263992
-      },
+      "latitude": 41.59429,
+      "longitude": -71.263992,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1829,10 +1679,8 @@
       "address": "2221 W Main Rd, Portsmouth, RI 02871, USA",
       "street": "2221 West Main Road",
       "zip": "2871",
-      "coordinates": {
-        "lat": 41.5632,
-        "lng": -71.286202
-      },
+      "latitude": 41.5632,
+      "longitude": -71.286202,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1853,10 +1701,8 @@
       "address": "113 Gano St, Providence, RI 02906, USA",
       "street": "113 Gano Street",
       "zip": "2906",
-      "coordinates": {
-        "lat": 41.822328,
-        "lng": -71.389598
-      },
+      "latitude": 41.822328,
+      "longitude": -71.389598,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1877,10 +1723,8 @@
       "address": "255 Reservoir Ave, Providence, RI 02907, USA",
       "street": "255 Reservoir Avenue",
       "zip": "2907",
-      "coordinates": {
-        "lat": 41.789864,
-        "lng": -71.429961
-      },
+      "latitude": 41.789864,
+      "longitude": -71.429961,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1901,10 +1745,8 @@
       "address": "691 Valley St, Providence, RI 02908, USA",
       "street": "691 Valley Street",
       "zip": "2908",
-      "coordinates": {
-        "lat": 41.8311,
-        "lng": -71.428613
-      },
+      "latitude": 41.8311,
+      "longitude": -71.428613,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1925,10 +1767,8 @@
       "address": "14 Sherwood St, Providence, RI 02908, USA",
       "street": "14 Sherwood Street",
       "zip": "2908",
-      "coordinates": {
-        "lat": 41.849822,
-        "lng": -71.432594
-      },
+      "latitude": 41.849822,
+      "longitude": -71.432594,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1949,10 +1789,8 @@
       "address": "100 Olney St, Providence, RI 02906, USA",
       "street": "100 Olney Street",
       "zip": "2906",
-      "coordinates": {
-        "lat": 41.836064,
-        "lng": -71.404832
-      },
+      "latitude": 41.836064,
+      "longitude": -71.404832,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1973,10 +1811,8 @@
       "address": "474 Plainfield St, Providence, RI 02909, USA",
       "street": "474 Plainfield Street",
       "zip": "2909",
-      "coordinates": {
-        "lat": 41.813171,
-        "lng": -71.454148
-      },
+      "latitude": 41.813171,
+      "longitude": -71.454148,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1997,10 +1833,8 @@
       "address": "1345 Wampanaog Trail, Riverside, RI 02915, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.7743,
-        "lng": -71.349697
-      },
+      "latitude": 41.7743,
+      "longitude": -71.349697,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2021,10 +1855,8 @@
       "address": "400 Wampanoag Trl, Riverside, RI 02915, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.794162,
-        "lng": -71.348148
-      },
+      "latitude": 41.794162,
+      "longitude": -71.348148,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2045,10 +1877,8 @@
       "address": "304 Progress Way, Tiverton, RI 02878, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.642163,
-        "lng": -71.170429
-      },
+      "latitude": 41.642163,
+      "longitude": -71.170429,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2069,10 +1899,8 @@
       "address": "1250 Kingstown Rd, Wakefield, RI 02879, USA",
       "street": "Kingstown Road",
       "zip": "2879",
-      "coordinates": {
-        "lat": 41.451173,
-        "lng": -71.500799
-      },
+      "latitude": 41.451173,
+      "longitude": -71.500799,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2093,10 +1921,8 @@
       "address": "2406 Post Rd, Warwick, RI 02886, USA",
       "street": "2406 Post Road",
       "zip": "2886",
-      "coordinates": {
-        "lat": 41.71688,
-        "lng": -71.44407
-      },
+      "latitude": 41.71688,
+      "longitude": -71.44407,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2117,10 +1943,8 @@
       "address": "1500 Bald Hill Rd, Warwick, RI 02886, USA",
       "street": "1500 Bald Hill Road",
       "zip": "2886",
-      "coordinates": {
-        "lat": 41.69999,
-        "lng": -71.494887
-      },
+      "latitude": 41.69999,
+      "longitude": -71.494887,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2141,10 +1965,8 @@
       "address": "2912 Warwick Ave, Warwick, RI 02889, USA",
       "street": "2912 Warwick Avenue",
       "zip": "2889",
-      "coordinates": {
-        "lat": 41.702565,
-        "lng": -71.386664
-      },
+      "latitude": 41.702565,
+      "longitude": -71.386664,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2165,10 +1987,8 @@
       "address": "2078 W Shore Rd, Warwick, RI 02889, USA",
       "street": "2078 West Shore Road",
       "zip": "2889",
-      "coordinates": {
-        "lat": 41.700501,
-        "lng": -71.398474
-      },
+      "latitude": 41.700501,
+      "longitude": -71.398474,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2189,10 +2009,8 @@
       "address": "629 Bald Hill Rd, Warwick, RI 02886, USA",
       "street": "629 Bald Hill Road",
       "zip": "2886",
-      "coordinates": {
-        "lat": 41.720955,
-        "lng": -71.483936
-      },
+      "latitude": 41.720955,
+      "longitude": -71.483936,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2213,10 +2031,8 @@
       "address": "170 Jefferson Blvd, Warwick, RI 02888, USA",
       "street": "170 Jefferson Boulevard",
       "zip": "2888",
-      "coordinates": {
-        "lat": 41.743839,
-        "lng": -71.43715
-      },
+      "latitude": 41.743839,
+      "longitude": -71.43715,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2237,10 +2053,8 @@
       "address": "3720 S County Trl, West Kingston, RI 02892, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.473396,
-        "lng": -71.614183
-      },
+      "latitude": 41.473396,
+      "longitude": -71.614183,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2261,10 +2075,8 @@
       "address": "231 Washington St, West Warwick, RI 02893, USA",
       "street": "231 Washington Street",
       "zip": "2893",
-      "coordinates": {
-        "lat": 41.700927,
-        "lng": -71.528512
-      },
+      "latitude": 41.700927,
+      "longitude": -71.528512,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2285,10 +2097,8 @@
       "address": "126 Roberts St, West Warwick, RI 02893, USA",
       "street": "126 Roberts Street",
       "zip": "2893",
-      "coordinates": {
-        "lat": 41.700757,
-        "lng": -71.527221
-      },
+      "latitude": 41.700757,
+      "longitude": -71.527221,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2309,10 +2119,8 @@
       "address": "1669 Main St, West Warwick, RI 02893, USA",
       "street": "1669 Main Street",
       "zip": "2893",
-      "coordinates": {
-        "lat": 41.686688,
-        "lng": -71.523084
-      },
+      "latitude": 41.686688,
+      "longitude": -71.523084,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2333,10 +2141,8 @@
       "address": "285 Cowesett Ave, West Warwick, RI 02893, USA",
       "street": "285 Cowesett Avenue",
       "zip": "2893",
-      "coordinates": {
-        "lat": 41.684575,
-        "lng": -71.506859
-      },
+      "latitude": 41.684575,
+      "longitude": -71.506859,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2357,10 +2163,8 @@
       "address": "840 Providence St, West Warwick, RI 02893, USA",
       "street": "840 Providence Street",
       "zip": "2893",
-      "coordinates": {
-        "lat": 41.724684,
-        "lng": -71.49194
-      },
+      "latitude": 41.724684,
+      "longitude": -71.49194,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2381,10 +2185,8 @@
       "address": "135 Main St, Westerly, RI 02891, USA",
       "street": "135 Main Street",
       "zip": "2891",
-      "coordinates": {
-        "lat": 41.373642,
-        "lng": -71.831474
-      },
+      "latitude": 41.373642,
+      "longitude": -71.831474,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2405,10 +2207,8 @@
       "address": "1 East Ave, Westerly, RI 02891, USA",
       "street": "1 East Avenue",
       "zip": "2891",
-      "coordinates": {
-        "lat": 41.367158,
-        "lng": -71.819563
-      },
+      "latitude": 41.367158,
+      "longitude": -71.819563,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2429,10 +2229,8 @@
       "address": "23 Industrial Dr, Westerly, RI 02891, USA",
       "street": "23 Industrial Drive",
       "zip": "2891",
-      "coordinates": {
-        "lat": 41.383783,
-        "lng": -71.83001
-      },
+      "latitude": 41.383783,
+      "longitude": -71.83001,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2453,10 +2251,8 @@
       "address": "39 Larry Hirsch Ln, Westerly, RI 02891, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.379524,
-        "lng": -71.803522
-      },
+      "latitude": 41.379524,
+      "longitude": -71.803522,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2477,10 +2273,8 @@
       "address": "532 Switch Rd, Wood River Junction, RI 02894, USA",
       "street": "532 Switch Road",
       "zip": "2894",
-      "coordinates": {
-        "lat": 41.43853,
-        "lng": -71.693769
-      },
+      "latitude": 41.43853,
+      "longitude": -71.693769,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2501,10 +2295,8 @@
       "address": "395 Front St, Woonsocket, RI 02895, USA",
       "street": "395 Front Street",
       "zip": "2895",
-      "coordinates": {
-        "lat": 41.997937,
-        "lng": -71.513934
-      },
+      "latitude": 41.997937,
+      "longitude": -71.513934,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2525,10 +2317,8 @@
       "address": "455 Carrington Ave, Woonsocket, RI 02895, USA",
       "street": "455, 457 Carrington Avenue",
       "zip": "2895",
-      "coordinates": {
-        "lat": 42.000631,
-        "lng": -71.501249
-      },
+      "latitude": 42.000631,
+      "longitude": -71.501249,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2549,10 +2339,8 @@
       "address": "814 Diamond Hill Rd, Woonsocket, RI 02895, USA",
       "street": "814 Diamond Hill Road",
       "zip": "2895",
-      "coordinates": {
-        "lat": 42.015801,
-        "lng": -71.49133
-      },
+      "latitude": 42.015801,
+      "longitude": -71.49133,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2573,10 +2361,8 @@
       "address": "820 Cumberland Hill Rd, Woonsocket, RI 02895, USA",
       "street": "820 Cumberland Hill Road",
       "zip": "2895",
-      "coordinates": {
-        "lat": 41.995343,
-        "lng": -71.487771
-      },
+      "latitude": 41.995343,
+      "longitude": -71.487771,
       "acceptedMaterials": [
         "Clothing",
         "Linen",

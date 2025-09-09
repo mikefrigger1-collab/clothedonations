@@ -13,10 +13,8 @@
       "address": "3714 Andersonville Hwy, Andersonville, TN 37705, USA",
       "street": "3714 Andersonville Highway",
       "zip": "37705",
-      "coordinates": {
-        "lat": 36.197224,
-        "lng": -84.039583
-      },
+      "latitude": 36.197224,
+      "longitude": -84.039583,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -41,10 +39,8 @@
       "address": "1511 Congress Pkwy S, Athens, TN 37303, USA",
       "street": "1511 US Highway 11 South",
       "zip": "37303",
-      "coordinates": {
-        "lat": 35.449315,
-        "lng": -84.624079
-      },
+      "latitude": 35.449315,
+      "longitude": -84.624079,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -69,10 +65,8 @@
       "address": "1613 W Madison Ave, Athens, TN 37303, USA",
       "street": "1613 West Madison Avenue",
       "zip": "37303",
-      "coordinates": {
-        "lat": 35.43917,
-        "lng": -84.618775
-      },
+      "latitude": 35.43917,
+      "longitude": -84.618775,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -97,10 +91,8 @@
       "address": "2603 Congress Pkwy S, Athens, TN 37303, USA",
       "street": "2603 US Highway 11 South",
       "zip": "37303",
-      "coordinates": {
-        "lat": 35.439593,
-        "lng": -84.637644
-      },
+      "latitude": 35.439593,
+      "longitude": -84.637644,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -125,10 +117,8 @@
       "address": "2007 Broad St, Chattanooga, TN 37408, USA",
       "street": "2007 Broad Street",
       "zip": "37408",
-      "coordinates": {
-        "lat": 35.033179,
-        "lng": -85.314147
-      },
+      "latitude": 35.033179,
+      "longitude": -85.314147,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -153,10 +143,8 @@
       "address": "248 Northgate Mall Dr, Chattanooga, TN 37415, USA",
       "street": "248 Northgate Mall Drive",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.133007,
-        "lng": -85.238009
-      },
+      "latitude": 35.133007,
+      "longitude": -85.238009,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -181,10 +169,8 @@
       "address": "248 Northgate Mall Dr, Chattanooga, TN 37415, USA",
       "street": "248 Northgate Mall Drive",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.133007,
-        "lng": -85.238009
-      },
+      "latitude": 35.133007,
+      "longitude": -85.238009,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -209,10 +195,8 @@
       "address": "3029 Ringgold Rd, Chattanooga, TN 37412, USA",
       "street": "Old Ringgold Road",
       "zip": "37407",
-      "coordinates": {
-        "lat": 35.008052,
-        "lng": -85.266224
-      },
+      "latitude": 35.008052,
+      "longitude": -85.266224,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -237,10 +221,8 @@
       "address": "303 Browns Ferry Rd, Chattanooga, TN 37419, USA",
       "street": "303 Browns Ferry Road",
       "zip": "37419",
-      "coordinates": {
-        "lat": 35.028903,
-        "lng": -85.363339
-      },
+      "latitude": 35.028903,
+      "longitude": -85.363339,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -265,10 +247,8 @@
       "address": "3315 Hixson Pike, Chattanooga, TN 37415, USA",
       "street": "3315 Hixson Pike",
       "zip": "37415",
-      "coordinates": {
-        "lat": 35.101992,
-        "lng": -85.275501
-      },
+      "latitude": 35.101992,
+      "longitude": -85.275501,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -293,10 +273,8 @@
       "address": "3403 Jenkins Rd, Chattanooga, TN 37421, USA",
       "street": "3403 Jenkins Road",
       "zip": "37421",
-      "coordinates": {
-        "lat": 35.050213,
-        "lng": -85.129962
-      },
+      "latitude": 35.050213,
+      "longitude": -85.129962,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -321,10 +299,8 @@
       "address": "3550 Cummings Hwy, Chattanooga, TN 37419, USA",
       "street": "3550 Cummings Highway",
       "zip": "37419",
-      "coordinates": {
-        "lat": 35.015511,
-        "lng": -85.376432
-      },
+      "latitude": 35.015511,
+      "longitude": -85.376432,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -349,10 +325,8 @@
       "address": "4408 TN-58, Chattanooga, TN 37416, USA",
       "street": "Highway 58",
       "zip": "37336",
-      "coordinates": {
-        "lat": 35.083328,
-        "lng": -85.203106
-      },
+      "latitude": 35.083328,
+      "longitude": -85.203106,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -377,10 +351,8 @@
       "address": "4508 Bonny Oaks Dr, Chattanooga, TN 37416, USA",
       "street": "4508 Bonny Oaks Drive",
       "zip": "37416",
-      "coordinates": {
-        "lat": 35.075624,
-        "lng": -85.203442
-      },
+      "latitude": 35.075624,
+      "longitude": -85.203442,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -405,10 +377,8 @@
       "address": "4995 Alpha Ln, Chattanooga, TN 37415, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.133943,
-        "lng": -85.236901
-      },
+      "latitude": 35.133943,
+      "longitude": -85.236901,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -433,10 +403,8 @@
       "address": "5822 Lee Hwy., Chattanooga, TN 37421, USA",
       "street": "5822 Lee Highway",
       "zip": "37421",
-      "coordinates": {
-        "lat": 35.021506,
-        "lng": -85.19922
-      },
+      "latitude": 35.021506,
+      "longitude": -85.19922,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -461,10 +429,8 @@
       "address": "6435 Lee Hwy., Chattanooga, TN 37421, USA",
       "street": "6435 Lee Highway",
       "zip": "37421",
-      "coordinates": {
-        "lat": 35.035057,
-        "lng": -85.179677
-      },
+      "latitude": 35.035057,
+      "longitude": -85.179677,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -489,10 +455,8 @@
       "address": "1475 Gadd Rd, Hixson, TN 37343, USA",
       "street": "1475 Gadd Road",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.142124,
-        "lng": -85.235759
-      },
+      "latitude": 35.142124,
+      "longitude": -85.235759,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -517,10 +481,8 @@
       "address": "2124 Northpoint Blvd, Hixson, TN 37343, USA",
       "street": "2124 NorthPoint Boulevard",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.134391,
-        "lng": -85.238163
-      },
+      "latitude": 35.134391,
+      "longitude": -85.238163,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -545,10 +507,8 @@
       "address": "2130 Northpoint Blvd, Hixson, TN 37343, USA",
       "street": "2130 NorthPoint Boulevard",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.134272,
-        "lng": -85.236689
-      },
+      "latitude": 35.134272,
+      "longitude": -85.236689,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -573,10 +533,8 @@
       "address": "2142 Northpoint Blvd, Hixson, TN 37343, USA",
       "street": "2142 NorthPoint Boulevard",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.13352,
-        "lng": -85.236228
-      },
+      "latitude": 35.13352,
+      "longitude": -85.236228,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -601,10 +559,8 @@
       "address": "2146 Northpoint Blvd, Hixson, TN 37343, USA",
       "street": "2146 NorthPoint Boulevard",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.133429,
-        "lng": -85.235956
-      },
+      "latitude": 35.133429,
+      "longitude": -85.235956,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -629,10 +585,8 @@
       "address": "5010 Alpha Ln, Hixson, TN 37343, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.13381,
-        "lng": -85.236464
-      },
+      "latitude": 35.13381,
+      "longitude": -85.236464,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -657,10 +611,8 @@
       "address": "6402 Hixson Pike, Hixson, TN 37343, USA",
       "street": "Hixson Pike",
       "zip": "37343",
-      "coordinates": {
-        "lat": 35.155618,
-        "lng": -85.19752
-      },
+      "latitude": 35.155618,
+      "longitude": -85.19752,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -685,10 +637,8 @@
       "address": "2221 Spring Place Rd SE, Cleveland, TN 37323, USA",
       "street": "Spring Place Road Southeast",
       "zip": "37323",
-      "coordinates": {
-        "lat": 35.130132,
-        "lng": -84.853719
-      },
+      "latitude": 35.130132,
+      "longitude": -84.853719,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -713,10 +663,8 @@
       "address": "2303 N Ocoee St, Cleveland, TN 37311, USA",
       "street": "2303 North Ocoee Street",
       "zip": "37311",
-      "coordinates": {
-        "lat": 35.175899,
-        "lng": -84.867901
-      },
+      "latitude": 35.175899,
+      "longitude": -84.867901,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -741,10 +689,8 @@
       "address": "2508 Keith St NW, Cleveland, TN 37312, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.18305,
-        "lng": -84.87251
-      },
+      "latitude": 35.18305,
+      "longitude": -84.87251,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -769,10 +715,8 @@
       "address": "2550 Westside Dr NW, Cleveland, TN 37312, USA",
       "street": "2550 Westside Drive Northwest",
       "zip": "37312",
-      "coordinates": {
-        "lat": 35.192609,
-        "lng": -84.884974
-      },
+      "latitude": 35.192609,
+      "longitude": -84.884974,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -797,10 +741,8 @@
       "address": "4375 Keith St NW, Cleveland, TN 37312, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.200202,
-        "lng": -84.84873
-      },
+      "latitude": 35.200202,
+      "longitude": -84.84873,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -825,10 +767,8 @@
       "address": "5432 Waterlevel Hwy, Cleveland, TN 37323, USA",
       "street": "Waterlevel Highway",
       "zip": "37323",
-      "coordinates": {
-        "lat": 35.137958,
-        "lng": -84.78055
-      },
+      "latitude": 35.137958,
+      "longitude": -84.78055,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -853,10 +793,8 @@
       "address": "6300 N Lee Hwy, Cleveland, TN 37312, USA",
       "street": "North Lee Highway",
       "zip": "37312",
-      "coordinates": {
-        "lat": 35.231918,
-        "lng": -84.813835
-      },
+      "latitude": 35.231918,
+      "longitude": -84.813835,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -881,10 +819,8 @@
       "address": "185 Clinch Ave, Clinton, TN 37716, USA",
       "street": "185 Clinch Avenue",
       "zip": "37716",
-      "coordinates": {
-        "lat": 36.092193,
-        "lng": -84.129744
-      },
+      "latitude": 36.092193,
+      "longitude": -84.129744,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -909,10 +845,8 @@
       "address": "443 Hicks Cir, Clinton, TN 37716, USA",
       "street": "443 Hicks Circle",
       "zip": "37716",
-      "coordinates": {
-        "lat": 36.090892,
-        "lng": -84.14106
-      },
+      "latitude": 36.090892,
+      "longitude": -84.14106,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -937,10 +871,8 @@
       "address": "444 Hicks Cir, Clinton, TN 37716, USA",
       "street": "444 Hicks Circle",
       "zip": "37716",
-      "coordinates": {
-        "lat": 36.090892,
-        "lng": -84.14106
-      },
+      "latitude": 36.090892,
+      "longitude": -84.14106,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -965,10 +897,8 @@
       "address": "3697 Rhea County Hwy, Dayton, TN 37321, USA",
       "street": "Rhea County Highway",
       "zip": "37321",
-      "coordinates": {
-        "lat": 35.467154,
-        "lng": -85.039463
-      },
+      "latitude": 35.467154,
+      "longitude": -85.039463,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -993,10 +923,8 @@
       "address": "4537 Rhea County Hwy, Dayton, TN 37321, USA",
       "street": "4537 Rhea County Highway",
       "zip": "37321",
-      "coordinates": {
-        "lat": 35.476555,
-        "lng": -85.029822
-      },
+      "latitude": 35.476555,
+      "longitude": -85.029822,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1021,10 +949,8 @@
       "address": "1942 TN-46, Dickson, TN 37055, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.029785,
-        "lng": -87.34908
-      },
+      "latitude": 36.029785,
+      "longitude": -87.34908,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1049,10 +975,8 @@
       "address": "593 TN-46, Dickson, TN 37055, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.056662,
-        "lng": -87.370333
-      },
+      "latitude": 36.056662,
+      "longitude": -87.370333,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1077,10 +1001,8 @@
       "address": "140 Cherry St, Dunlap, TN 37327, USA",
       "street": "Cherry Street",
       "zip": "37327",
-      "coordinates": {
-        "lat": 35.371484,
-        "lng": -85.389527
-      },
+      "latitude": 35.371484,
+      "longitude": -85.389527,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1105,10 +1027,8 @@
       "address": "6401 TN-28, Dunlap, TN 37327, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.348497,
-        "lng": -85.406802
-      },
+      "latitude": 35.348497,
+      "longitude": -85.406802,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1133,10 +1053,8 @@
       "address": "4101 Ringgold Rd, East Ridge, TN 37412, USA",
       "street": "4101 Ringgold Road",
       "zip": "37412",
-      "coordinates": {
-        "lat": 34.997803,
-        "lng": -85.248264
-      },
+      "latitude": 34.997803,
+      "longitude": -85.248264,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1161,10 +1079,8 @@
       "address": "105 Co Rd 576, Englewood, TN 37329, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.425003,
-        "lng": -84.548735
-      },
+      "latitude": 35.425003,
+      "longitude": -84.548735,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1189,10 +1105,8 @@
       "address": "231 Pennsylvania Ave, Etowah, TN 37331, USA",
       "street": "231 Pennsylvania Avenue",
       "zip": "37331",
-      "coordinates": {
-        "lat": 35.331073,
-        "lng": -84.524717
-      },
+      "latitude": 35.331073,
+      "longitude": -84.524717,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1217,10 +1131,8 @@
       "address": "231 Pennsylvania Ave, Etowah, TN 37331, USA",
       "street": "231 Pennsylvania Avenue",
       "zip": "37331",
-      "coordinates": {
-        "lat": 35.331073,
-        "lng": -84.524717
-      },
+      "latitude": 35.331073,
+      "longitude": -84.524717,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1245,10 +1157,8 @@
       "address": "6651 US-411, Greenback, TN 37742, USA",
       "street": "Greenback Road",
       "zip": "37742",
-      "coordinates": {
-        "lat": 35.639975,
-        "lng": -84.151964
-      },
+      "latitude": 35.639975,
+      "longitude": -84.151964,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1273,10 +1183,8 @@
       "address": "TN-156, Guild, TN 37340, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.020463,
-        "lng": -85.53724
-      },
+      "latitude": 35.020463,
+      "longitude": -85.53724,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1301,10 +1209,8 @@
       "address": "6308 TN-58, Harrison, TN 37341, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.123878,
-        "lng": -85.124475
-      },
+      "latitude": 35.123878,
+      "longitude": -85.124475,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1329,10 +1235,8 @@
       "address": "3361 Main St, Jasper, TN 37347, USA",
       "street": "3361 Main Street",
       "zip": "37347",
-      "coordinates": {
-        "lat": 35.066411,
-        "lng": -85.639834
-      },
+      "latitude": 35.066411,
+      "longitude": -85.639834,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1357,10 +1261,8 @@
       "address": "165 Main St, Kimball, TN 37347, USA",
       "street": "165 Main Street",
       "zip": "37347",
-      "coordinates": {
-        "lat": 35.043567,
-        "lng": -85.686042
-      },
+      "latitude": 35.043567,
+      "longitude": -85.686042,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1385,10 +1287,8 @@
       "address": "10760 Kingston Pike, Knoxville, TN 37934, USA",
       "street": "10760 Kingston Pike",
       "zip": "37934",
-      "coordinates": {
-        "lat": 35.893733,
-        "lng": -84.140422
-      },
+      "latitude": 35.893733,
+      "longitude": -84.140422,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1413,10 +1313,8 @@
       "address": "10784 Kingston Pike, Knoxville, TN 37934, USA",
       "street": "10784 Kingston Pike",
       "zip": "37934",
-      "coordinates": {
-        "lat": 35.894187,
-        "lng": -84.140981
-      },
+      "latitude": 35.894187,
+      "longitude": -84.140981,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1441,10 +1339,8 @@
       "address": "1325 E Beaver Creek Dr, Knoxville, TN 37918, USA",
       "street": "East Beaver Creek Drive",
       "zip": "37918",
-      "coordinates": {
-        "lat": 36.05584,
-        "lng": -83.971078
-      },
+      "latitude": 36.05584,
+      "longitude": -83.971078,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1469,10 +1365,8 @@
       "address": "2014 W Governor John Sevier Hwy, Knoxville, TN 37920, USA",
       "street": "West Governor John Sevier Highway",
       "zip": "37920",
-      "coordinates": {
-        "lat": 35.891772,
-        "lng": -83.902984
-      },
+      "latitude": 35.891772,
+      "longitude": -83.902984,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1497,10 +1391,8 @@
       "address": "2924 Asbury Rd, Knoxville, TN 37914, USA",
       "street": "2924 Asbury Road",
       "zip": "37914",
-      "coordinates": {
-        "lat": 35.956985,
-        "lng": -83.820809
-      },
+      "latitude": 35.956985,
+      "longitude": -83.820809,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1525,10 +1417,8 @@
       "address": "5306 N Broadway St, Knoxville, TN 37918, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.035593,
-        "lng": -83.931852
-      },
+      "latitude": 36.035593,
+      "longitude": -83.931852,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1553,10 +1443,8 @@
       "address": "5504 Wallwood Rd, Knoxville, TN 37912, USA",
       "street": "5504 Wallwood Road",
       "zip": "37912",
-      "coordinates": {
-        "lat": 36.005463,
-        "lng": -83.98455
-      },
+      "latitude": 36.005463,
+      "longitude": -83.98455,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1581,10 +1469,8 @@
       "address": "5515 Strawberry Plains Pike, Knoxville, TN 37914, USA",
       "street": "5515 Strawberry Plains Pike",
       "zip": "37914",
-      "coordinates": {
-        "lat": 35.980741,
-        "lng": -83.82603
-      },
+      "latitude": 35.980741,
+      "longitude": -83.82603,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1609,10 +1495,8 @@
       "address": "613 Tipton Station Rd, Knoxville, TN 37920, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.892171,
-        "lng": -83.843055
-      },
+      "latitude": 35.892171,
+      "longitude": -83.843055,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1637,10 +1521,8 @@
       "address": "6409 Chapman Hwy, Knoxville, TN 37920, USA",
       "street": "6409 Chapman Highway",
       "zip": "37418",
-      "coordinates": {
-        "lat": 35.920994,
-        "lng": -83.869159
-      },
+      "latitude": 35.920994,
+      "longitude": -83.869159,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1665,10 +1547,8 @@
       "address": "6735 Chapman Hwy, Knoxville, TN 37920, USA",
       "street": "6735 Chapman Highway",
       "zip": "37920",
-      "coordinates": {
-        "lat": 35.917188,
-        "lng": -83.859908
-      },
+      "latitude": 35.917188,
+      "longitude": -83.859908,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1693,10 +1573,8 @@
       "address": "1020 Murfreesboro Rd, Lebanon, TN 37090, USA",
       "street": "1020 Murfreesboro Road",
       "zip": "37090",
-      "coordinates": {
-        "lat": 36.176988,
-        "lng": -86.302689
-      },
+      "latitude": 36.176988,
+      "longitude": -86.302689,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1721,10 +1599,8 @@
       "address": "1137 N Castle Heights Ave, Lebanon, TN 37087, USA",
       "street": "North Castle Heights Avenue",
       "zip": "37087",
-      "coordinates": {
-        "lat": 36.225783,
-        "lng": -86.291411
-      },
+      "latitude": 36.225783,
+      "longitude": -86.291411,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1749,10 +1625,8 @@
       "address": "1137 Sparta Pike, Lebanon, TN 37087, USA",
       "street": "1137 Sparta Pike",
       "zip": "37087",
-      "coordinates": {
-        "lat": 36.191018,
-        "lng": -86.270831
-      },
+      "latitude": 36.191018,
+      "longitude": -86.270831,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1777,10 +1651,8 @@
       "address": "201 W Main St, Lebanon, TN 37087, USA",
       "street": "201 West Main Street",
       "zip": "37087",
-      "coordinates": {
-        "lat": 36.208448,
-        "lng": -86.292858
-      },
+      "latitude": 36.208448,
+      "longitude": -86.292858,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1805,10 +1677,8 @@
       "address": "1631 McMinnville Hwy, Manchester, TN 37355, USA",
       "street": "1631 McMinnville Highway",
       "zip": "37355",
-      "coordinates": {
-        "lat": 35.497948,
-        "lng": -86.067318
-      },
+      "latitude": 35.497948,
+      "longitude": -86.067318,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1833,10 +1703,8 @@
       "address": "21 Interstate Dr, Manchester, TN 37355, USA",
       "street": "21 Interstate Drive",
       "zip": "37355",
-      "coordinates": {
-        "lat": 35.494301,
-        "lng": -86.071088
-      },
+      "latitude": 35.494301,
+      "longitude": -86.071088,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1861,10 +1729,8 @@
       "address": "2352 Hillsboro Hwy, Manchester, TN 37355, USA",
       "street": "Hillsboro Highway",
       "zip": "37355",
-      "coordinates": {
-        "lat": 35.454256,
-        "lng": -86.045302
-      },
+      "latitude": 35.454256,
+      "longitude": -86.045302,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1889,10 +1755,8 @@
       "address": "6735 Murfreesboro Hwy, Manchester, TN 37355, USA",
       "street": "Murfreesboro Highway",
       "zip": "37355",
-      "coordinates": {
-        "lat": 35.539636,
-        "lng": -86.167168
-      },
+      "latitude": 35.539636,
+      "longitude": -86.167168,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1917,10 +1781,8 @@
       "address": "1116 E Broadway Ave, Maryville, TN 37804, USA",
       "street": "1116 East Broadway Avenue",
       "zip": "37804",
-      "coordinates": {
-        "lat": 35.763407,
-        "lng": -83.962917
-      },
+      "latitude": 35.763407,
+      "longitude": -83.962917,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1945,10 +1807,8 @@
       "address": "1225 William Blount Dr, Maryville, TN 37801, USA",
       "street": "1225 William Blount Drive",
       "zip": "37801",
-      "coordinates": {
-        "lat": 35.738566,
-        "lng": -84.038302
-      },
+      "latitude": 35.738566,
+      "longitude": -84.038302,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1973,10 +1833,8 @@
       "address": "1402 Oleary Ln, Maryville, TN 37803, USA",
       "street": "1402 Oleary Lane",
       "zip": "37803",
-      "coordinates": {
-        "lat": 35.737451,
-        "lng": -83.977878
-      },
+      "latitude": 35.737451,
+      "longitude": -83.977878,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2001,10 +1859,8 @@
       "address": "2729 US-411, Maryville, TN 37801, USA",
       "street": "2729 US 129;US 411",
       "zip": "37801",
-      "coordinates": {
-        "lat": 35.713019,
-        "lng": -84.023961
-      },
+      "latitude": 35.713019,
+      "longitude": -84.023961,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2029,10 +1885,8 @@
       "address": "5005 US-411, Maryville, TN 37801, USA",
       "street": "West Broadway Avenue",
       "zip": "37801",
-      "coordinates": {
-        "lat": 35.670801,
-        "lng": -84.092994
-      },
+      "latitude": 35.670801,
+      "longitude": -84.092994,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2057,10 +1911,8 @@
       "address": "609 E Broadway Ave, Maryville, TN 37804, USA",
       "street": "609 East Broadway Avenue",
       "zip": "37804",
-      "coordinates": {
-        "lat": 35.76008,
-        "lng": -83.967603
-      },
+      "latitude": 35.76008,
+      "longitude": -83.967603,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2085,10 +1937,8 @@
       "address": "1820 W Morris Blvd, Morristown, TN 37813, USA",
       "street": "1820 West Morris Boulevard",
       "zip": "37813",
-      "coordinates": {
-        "lat": 36.202573,
-        "lng": -83.315203
-      },
+      "latitude": 36.202573,
+      "longitude": -83.315203,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2113,10 +1963,8 @@
       "address": "1824 Old Fort Pkwy, Murfreesboro, TN 37129, USA",
       "street": "1824 Old Fort Parkway",
       "zip": "37128",
-      "coordinates": {
-        "lat": 35.847392,
-        "lng": -86.423278
-      },
+      "latitude": 35.847392,
+      "longitude": -86.423278,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2141,10 +1989,8 @@
       "address": "1935 S Church St, Murfreesboro, TN 37130, USA",
       "street": "1935 South Church Street",
       "zip": "37130",
-      "coordinates": {
-        "lat": 35.817879,
-        "lng": -86.395275
-      },
+      "latitude": 35.817879,
+      "longitude": -86.395275,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2169,10 +2015,8 @@
       "address": "2010 E Main St, Murfreesboro, TN 37130, USA",
       "street": "2010 East Main Street",
       "zip": "37130",
-      "coordinates": {
-        "lat": 35.840719,
-        "lng": -86.358843
-      },
+      "latitude": 35.840719,
+      "longitude": -86.358843,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2197,10 +2041,8 @@
       "address": "2880 S Rutherford Blvd, Murfreesboro, TN 37130, USA",
       "street": "2880 South Rutherford Boulevard",
       "zip": "37130",
-      "coordinates": {
-        "lat": 35.830427,
-        "lng": -86.349333
-      },
+      "latitude": 35.830427,
+      "longitude": -86.349333,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2225,10 +2067,8 @@
       "address": "574 W Jefferson Pike, Murfreesboro, TN 37129, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.955804,
-        "lng": -86.38287
-      },
+      "latitude": 35.955804,
+      "longitude": -86.38287,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2253,10 +2093,8 @@
       "address": "6044 Lebanon Rd, Murfreesboro, TN 37129, USA",
       "street": "Memorial Boulevard",
       "zip": "37129",
-      "coordinates": {
-        "lat": 35.948934,
-        "lng": -86.377341
-      },
+      "latitude": 35.948934,
+      "longitude": -86.377341,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2281,10 +2119,8 @@
       "address": "2789 Murfreesboro Pike, Antioch, TN 37013, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.067956,
-        "lng": -86.63179
-      },
+      "latitude": 36.067956,
+      "longitude": -86.63179,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2309,10 +2145,8 @@
       "address": "3679 Murfreesboro Pike, Antioch, TN 37013, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.045812,
-        "lng": -86.610664
-      },
+      "latitude": 36.045812,
+      "longitude": -86.610664,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2337,10 +2171,8 @@
       "address": "3441 Lebanon Pike, Hermitage, TN 37076, USA",
       "street": "3441 Lebanon Pike",
       "zip": "37076",
-      "coordinates": {
-        "lat": 36.188982,
-        "lng": -86.625295
-      },
+      "latitude": 36.188982,
+      "longitude": -86.625295,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2365,10 +2197,8 @@
       "address": "4201 Lebanon Pike, Hermitage, TN 37076, USA",
       "street": "4201 Lebanon Pike",
       "zip": "37076",
-      "coordinates": {
-        "lat": 36.201296,
-        "lng": -86.616973
-      },
+      "latitude": 36.201296,
+      "longitude": -86.616973,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2393,10 +2223,8 @@
       "address": "5108 Old Hickory Blvd, Hermitage, TN 37076, USA",
       "street": "5108 Old Hickory Boulevard",
       "zip": "37076",
-      "coordinates": {
-        "lat": 36.19253,
-        "lng": -86.614626
-      },
+      "latitude": 36.19253,
+      "longitude": -86.614626,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2421,10 +2249,8 @@
       "address": "1248 Gallatin Pike S, Madison, TN 37115, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.244929,
-        "lng": -86.723129
-      },
+      "latitude": 36.244929,
+      "longitude": -86.723129,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2449,10 +2275,8 @@
       "address": "1451 Donelson Pike, Nashville, TN 37217, USA",
       "street": "1451 Donelson Pike",
       "zip": "37217",
-      "coordinates": {
-        "lat": 36.093221,
-        "lng": -86.678263
-      },
+      "latitude": 36.093221,
+      "longitude": -86.678263,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2477,10 +2301,8 @@
       "address": "14910 Old Hickory Blvd, Nashville, TN 37211, USA",
       "street": "14910 Old Hickory Boulevard",
       "zip": "37013",
-      "coordinates": {
-        "lat": 36.045861,
-        "lng": -86.704257
-      },
+      "latitude": 36.045861,
+      "longitude": -86.704257,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2505,10 +2327,8 @@
       "address": "1801 12th Ave S, Nashville, TN 37203, USA",
       "street": "1801 12th Avenue South",
       "zip": "37203",
-      "coordinates": {
-        "lat": 36.135891,
-        "lng": -86.789363
-      },
+      "latitude": 36.135891,
+      "longitude": -86.789363,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2533,10 +2353,8 @@
       "address": "3407 Gallatin Pike, Nashville, TN 37216, USA",
       "street": "3407 Gallatin Pike",
       "zip": "37216",
-      "coordinates": {
-        "lat": 36.210625,
-        "lng": -86.733855
-      },
+      "latitude": 36.210625,
+      "longitude": -86.733855,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2561,10 +2379,8 @@
       "address": "591 W Trinity Ln, Nashville, TN 37207, USA",
       "street": "591 West Trinity Lane",
       "zip": "37207",
-      "coordinates": {
-        "lat": 36.207378,
-        "lng": -86.791496
-      },
+      "latitude": 36.207378,
+      "longitude": -86.791496,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2589,10 +2405,8 @@
       "address": "1480 Robinson Rd, Old Hickory, TN 37138, USA",
       "street": "1480 Robinson Road",
       "zip": "37138",
-      "coordinates": {
-        "lat": 36.255886,
-        "lng": -86.654559
-      },
+      "latitude": 36.255886,
+      "longitude": -86.654559,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2617,10 +2431,8 @@
       "address": "1020 Oak Ridge Turnpike, Oak Ridge, TN 37830, USA",
       "street": "1020 Oak Ridge Turnpike",
       "zip": "37830",
-      "coordinates": {
-        "lat": 36.022783,
-        "lng": -84.245228
-      },
+      "latitude": 36.022783,
+      "longitude": -84.245228,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2645,10 +2457,8 @@
       "address": "550 Oak Ridge Turnpike, Oak Ridge, TN 37830, USA",
       "street": "550 Oak Ridge Turnpike",
       "zip": "37830",
-      "coordinates": {
-        "lat": 36.033686,
-        "lng": -84.226171
-      },
+      "latitude": 36.033686,
+      "longitude": -84.226171,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2673,10 +2483,8 @@
       "address": "3845 US-411, Ocoee, TN 37361, USA",
       "street": "3845 US 411",
       "zip": "37361",
-      "coordinates": {
-        "lat": 35.121052,
-        "lng": -84.721087
-      },
+      "latitude": 35.121052,
+      "longitude": -84.721087,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2701,10 +2509,8 @@
       "address": "4147 US-411, Ocoee, TN 37361, USA",
       "street": "4147 US 411",
       "zip": "37361",
-      "coordinates": {
-        "lat": 35.131006,
-        "lng": -84.715454
-      },
+      "latitude": 35.131006,
+      "longitude": -84.715454,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2729,10 +2535,8 @@
       "address": "1922 E Raccoon Valley Dr, Powell, TN 37849, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.110562,
-        "lng": -84.018077
-      },
+      "latitude": 36.110562,
+      "longitude": -84.018077,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2757,10 +2561,8 @@
       "address": "11941 Chapman Hwy, Seymour, TN 37865, USA",
       "street": "11941 Chapman Highway",
       "zip": "37865",
-      "coordinates": {
-        "lat": 35.859484,
-        "lng": -83.737885
-      },
+      "latitude": 35.859484,
+      "longitude": -83.737885,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2785,10 +2587,8 @@
       "address": "1219 Hazelwood Dr, Smyrna, TN 37167, USA",
       "street": "1219 Hazelwood Drive",
       "zip": "37167",
-      "coordinates": {
-        "lat": 35.959803,
-        "lng": -86.520003
-      },
+      "latitude": 35.959803,
+      "longitude": -86.520003,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2813,10 +2613,8 @@
       "address": "305 N Lowry St, Smyrna, TN 37167, USA",
       "street": "305 North Lowry Street",
       "zip": "37167",
-      "coordinates": {
-        "lat": 35.991968,
-        "lng": -86.526531
-      },
+      "latitude": 35.991968,
+      "longitude": -86.526531,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2841,10 +2639,8 @@
       "address": "120 N Cedar Ave, South Pittsburg, TN 37380, USA",
       "street": "120 North Cedar Avenue",
       "zip": "37380",
-      "coordinates": {
-        "lat": 35.01591,
-        "lng": -85.701764
-      },
+      "latitude": 35.01591,
+      "longitude": -85.701764,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2869,10 +2665,8 @@
       "address": "2232 S Cedar Ave, South Pittsburg, AL 37380, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.987606,
-        "lng": -85.726758
-      },
+      "latitude": 34.987606,
+      "longitude": -85.726758,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2897,10 +2691,8 @@
       "address": "2256 S Cedar Ave, South Pittsburg, AL 37380, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.986373,
-        "lng": -85.727902
-      },
+      "latitude": 34.986373,
+      "longitude": -85.727902,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2925,10 +2717,8 @@
       "address": "2194 Hiwassee Rd, Sweetwater, TN 37874, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.600241,
-        "lng": -84.367821
-      },
+      "latitude": 35.600241,
+      "longitude": -84.367821,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2953,10 +2743,8 @@
       "address": "321 TN-68, Sweetwater, TN 37874, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.598045,
-        "lng": -84.503688
-      },
+      "latitude": 35.598045,
+      "longitude": -84.503688,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2981,10 +2769,8 @@
       "address": "522 S Main St, Sweetwater, TN 37874, USA",
       "street": "522 South Main Street",
       "zip": "37874",
-      "coordinates": {
-        "lat": 35.59483,
-        "lng": -84.467783
-      },
+      "latitude": 35.59483,
+      "longitude": -84.467783,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3009,10 +2795,8 @@
       "address": "645 Bank St, Tellico Plains, TN 37385, USA",
       "street": "645 Bank Street",
       "zip": "37385",
-      "coordinates": {
-        "lat": 35.385731,
-        "lng": -84.314708
-      },
+      "latitude": 35.385731,
+      "longitude": -84.314708,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3037,10 +2821,8 @@
       "address": "1802 N Jackson St, Tullahoma, TN 37388, USA",
       "street": "1802 North Jackson Street",
       "zip": "37388",
-      "coordinates": {
-        "lat": 35.38228,
-        "lng": -86.228157
-      },
+      "latitude": 35.38228,
+      "longitude": -86.228157,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3065,10 +2847,8 @@
       "address": "2200 S Jackson St, Tullahoma, TN 37388, USA",
       "street": "South Jackson Street",
       "zip": "37388",
-      "coordinates": {
-        "lat": 35.336176,
-        "lng": -86.186447
-      },
+      "latitude": 35.336176,
+      "longitude": -86.186447,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3093,10 +2873,8 @@
       "address": "325 E Carroll St, Tullahoma, TN 37388, USA",
       "street": "325 East Carroll Street",
       "zip": "37388",
-      "coordinates": {
-        "lat": 35.359748,
-        "lng": -86.200621
-      },
+      "latitude": 35.359748,
+      "longitude": -86.200621,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3121,10 +2899,8 @@
       "address": "197 Tellico Port Rd, Vonore, TN 37885, USA",
       "street": "197 Tellico Port Road",
       "zip": "37885",
-      "coordinates": {
-        "lat": 35.60126,
-        "lng": -84.221393
-      },
+      "latitude": 35.60126,
+      "longitude": -84.221393,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3149,10 +2925,8 @@
       "address": "4109 E Hwy 70, White Bluff, TN 37187, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.104758,
-        "lng": -87.209201
-      },
+      "latitude": 36.104758,
+      "longitude": -87.209201,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3177,10 +2951,8 @@
       "address": "145 TN-283, Whitwell, TN 37397, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.184524,
-        "lng": -85.522171
-      },
+      "latitude": 35.184524,
+      "longitude": -85.522171,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3205,10 +2977,8 @@
       "address": "6580 Poplar Ave, Germantown, TN 38138, USA",
       "street": "6580 Poplar Avenue",
       "zip": "38138",
-      "coordinates": {
-        "lat": 35.101933,
-        "lng": -89.843113
-      },
+      "latitude": 35.101933,
+      "longitude": -89.843113,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3230,10 +3000,8 @@
       "address": "2310 N Germantown Pkwy, Cordova, TN 38016, USA",
       "street": "North Germantown Parkway",
       "zip": "38018",
-      "coordinates": {
-        "lat": 35.18882,
-        "lng": -89.791686
-      },
+      "latitude": 35.18882,
+      "longitude": -89.791686,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3255,10 +3023,8 @@
       "address": "577 N Germantown Pkwy, Cordova, TN 38018, USA",
       "street": "577 North Germantown Parkway",
       "zip": "38018",
-      "coordinates": {
-        "lat": 35.140806,
-        "lng": -89.798098
-      },
+      "latitude": 35.140806,
+      "longitude": -89.798098,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3280,10 +3046,8 @@
       "address": "8110 Dexter Rd, Cordova, TN 38016, USA",
       "street": "8110 Dexter Road",
       "zip": "38016",
-      "coordinates": {
-        "lat": 35.173694,
-        "lng": -89.792428
-      },
+      "latitude": 35.173694,
+      "longitude": -89.792428,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3305,10 +3069,8 @@
       "address": "2679 Kirby Whitten Rd, Memphis, TN 38133, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.197996,
-        "lng": -89.839163
-      },
+      "latitude": 35.197996,
+      "longitude": -89.839163,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3330,10 +3092,8 @@
       "address": "4741 Winchester Rd, Memphis, TN 38118, USA",
       "street": "4741 Winchester Road",
       "zip": "38118",
-      "coordinates": {
-        "lat": 35.05044,
-        "lng": -89.905208
-      },
+      "latitude": 35.05044,
+      "longitude": -89.905208,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3355,10 +3115,8 @@
       "address": "7910 Winchester Rd, Memphis, TN 38125, USA",
       "street": "7910 Winchester Road",
       "zip": "38125",
-      "coordinates": {
-        "lat": 35.049235,
-        "lng": -89.799781
-      },
+      "latitude": 35.049235,
+      "longitude": -89.799781,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3380,10 +3138,8 @@
       "address": "800 E Pkwy S, Memphis, TN 38104, USA",
       "street": "East Parkway South",
       "zip": "38104",
-      "coordinates": {
-        "lat": 35.123597,
-        "lng": -89.982302
-      },
+      "latitude": 35.123597,
+      "longitude": -89.982302,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3405,10 +3161,8 @@
       "address": "1052 Goodman Rd E, Southaven, MS 38671, USA",
       "street": "1052 Goodman Road East",
       "zip": "38671",
-      "coordinates": {
-        "lat": 34.963062,
-        "lng": -89.971179
-      },
+      "latitude": 34.963062,
+      "longitude": -89.971179,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -3430,10 +3184,8 @@
       "address": "145 N Calderwood St, Alcoa, TN 37701, USA",
       "street": "145 North Calderwood Street",
       "zip": "37701",
-      "coordinates": {
-        "lat": 35.76292,
-        "lng": -83.981025
-      },
+      "latitude": 35.76292,
+      "longitude": -83.981025,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3454,10 +3206,8 @@
       "address": "11615 US-70 #106, Arlington, TN 38002, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.292637,
-        "lng": -89.674458
-      },
+      "latitude": 35.292637,
+      "longitude": -89.674458,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3478,10 +3228,8 @@
       "address": "9733 US-64, Arlington, TN 38002, USA",
       "street": "US 64",
       "zip": "38028",
-      "coordinates": {
-        "lat": 35.204455,
-        "lng": -89.738308
-      },
+      "latitude": 35.204455,
+      "longitude": -89.738308,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3502,10 +3250,8 @@
       "address": "11680 US-51 H, Atoka, TN 38004, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.440434,
-        "lng": -89.791606
-      },
+      "latitude": 35.440434,
+      "longitude": -89.791606,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3526,10 +3272,8 @@
       "address": "449 MS-6, Batesville, MS 38606, USA",
       "street": "449 US 278;MS 6;MS 35",
       "zip": "38606",
-      "coordinates": {
-        "lat": 34.31147,
-        "lng": -89.940255
-      },
+      "latitude": 34.31147,
+      "longitude": -89.940255,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3550,10 +3294,8 @@
       "address": "472 N 2nd St, Booneville, MS 38829, USA",
       "street": "472 North 2nd Street",
       "zip": "38829",
-      "coordinates": {
-        "lat": 34.663245,
-        "lng": -88.566818
-      },
+      "latitude": 34.663245,
+      "longitude": -88.566818,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3574,10 +3316,8 @@
       "address": "1301 Wilson Pike, Brentwood, TN 37027, USA",
       "street": "1301 Wilson Pike",
       "zip": "37027",
-      "coordinates": {
-        "lat": 35.989476,
-        "lng": -86.778329
-      },
+      "latitude": 35.989476,
+      "longitude": -86.778329,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3598,10 +3338,8 @@
       "address": "1525 Owen Rd, Brentwood, TN 37027, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.968712,
-        "lng": -86.697516
-      },
+      "latitude": 35.968712,
+      "longitude": -86.697516,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3622,10 +3360,8 @@
       "address": "6708 Nolensville Pike, Brentwood, TN 37027, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.997814,
-        "lng": -86.691116
-      },
+      "latitude": 35.997814,
+      "longitude": -86.691116,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3646,10 +3382,8 @@
       "address": "3812 Hillsboro Rd, Brentwood, TN 37027, USA",
       "street": "Hillsboro Road",
       "zip": "37069",
-      "coordinates": {
-        "lat": 36.045188,
-        "lng": -86.864513
-      },
+      "latitude": 36.045188,
+      "longitude": -86.864513,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3670,10 +3404,8 @@
       "address": "1812 Volunteer Pkwy, Bristol, TN 37620, USA",
       "street": "1812 Volunteer Parkway",
       "zip": "37620",
-      "coordinates": {
-        "lat": 36.551103,
-        "lng": -82.223225
-      },
+      "latitude": 36.551103,
+      "longitude": -82.223225,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3694,10 +3426,8 @@
       "address": "1945 Madison St, Clarksville, TN 37043, USA",
       "street": "1945 Madison Street",
       "zip": "37043",
-      "coordinates": {
-        "lat": 36.516563,
-        "lng": -87.298386
-      },
+      "latitude": 36.516563,
+      "longitude": -87.298386,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3718,10 +3448,8 @@
       "address": "2001 Needmore Rd, Clarksville, TN 37042, USA",
       "street": "2001 Needmore Road",
       "zip": "37042",
-      "coordinates": {
-        "lat": 36.626326,
-        "lng": -87.35799
-      },
+      "latitude": 36.626326,
+      "longitude": -87.35799,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3742,10 +3470,8 @@
       "address": "2150 Lowe's Drive, Clarksville, TN 37040, USA",
       "street": "2150 Lowes Drive",
       "zip": "37040",
-      "coordinates": {
-        "lat": 36.57515,
-        "lng": -87.30513
-      },
+      "latitude": 36.57515,
+      "longitude": -87.30513,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3766,10 +3492,8 @@
       "address": "1115 N Charles G Seivers Blvd, Clinton, TN 37716, USA",
       "street": "1115 North Charles G Seivers Boulevard",
       "zip": "37716",
-      "coordinates": {
-        "lat": 36.121066,
-        "lng": -84.114568
-      },
+      "latitude": 36.121066,
+      "longitude": -84.114568,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3790,10 +3514,8 @@
       "address": "10217 E Shelby Dr, Collierville, TN 38017, USA",
       "street": "10217 East Shelby Drive",
       "zip": "38017",
-      "coordinates": {
-        "lat": 35.018617,
-        "lng": -89.720167
-      },
+      "latitude": 35.018617,
+      "longitude": -89.720167,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3814,10 +3536,8 @@
       "address": "330 Market Blvd, Collierville, TN 38017, USA",
       "street": "330 Market Boulevard",
       "zip": "38017",
-      "coordinates": {
-        "lat": 35.049243,
-        "lng": -89.693962
-      },
+      "latitude": 35.049243,
+      "longitude": -89.693962,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3838,10 +3558,8 @@
       "address": "783 W Poplar Ave, Collierville, TN 38017, USA",
       "street": "783 West Poplar Avenue",
       "zip": "38017",
-      "coordinates": {
-        "lat": 35.045776,
-        "lng": -89.688352
-      },
+      "latitude": 35.045776,
+      "longitude": -89.688352,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3862,10 +3580,8 @@
       "address": "405 S James Campbell Blvd, Columbia, TN 38401, USA",
       "street": "405 James M Campbell Boulevard South",
       "zip": "38401",
-      "coordinates": {
-        "lat": 35.591408,
-        "lng": -87.049643
-      },
+      "latitude": 35.591408,
+      "longitude": -87.049643,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3886,10 +3602,8 @@
       "address": "575 S Jefferson Ave C, Cookeville, TN 38501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.150217,
-        "lng": -85.502159
-      },
+      "latitude": 36.150217,
+      "longitude": -85.502159,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3910,10 +3624,8 @@
       "address": "1144 N Houston Levee Rd, Cordova, TN 38018, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.156391,
-        "lng": -89.726494
-      },
+      "latitude": 35.156391,
+      "longitude": -89.726494,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3934,10 +3646,8 @@
       "address": "1651 Virginia Ln, Corinth, MS 38834, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.91406,
-        "lng": -88.504208
-      },
+      "latitude": 34.91406,
+      "longitude": -88.504208,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3958,10 +3668,8 @@
       "address": "1655 US-51, Covington, TN 38019, USA",
       "street": "1655 US 51;TN 59",
       "zip": "38019",
-      "coordinates": {
-        "lat": 35.543694,
-        "lng": -89.666423
-      },
+      "latitude": 35.543694,
+      "longitude": -89.666423,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3982,10 +3690,8 @@
       "address": "1040 TN-92, Dandridge, TN 37725, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.017616,
-        "lng": -83.421676
-      },
+      "latitude": 36.017616,
+      "longitude": -83.421676,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4006,10 +3712,8 @@
       "address": "541 TN-46, Dickson, TN 37055, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.06034,
-        "lng": -87.372842
-      },
+      "latitude": 36.06034,
+      "longitude": -87.372842,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4030,10 +3734,8 @@
       "address": "2714 Fairview Blvd, Fairview, TN 37062, USA",
       "street": "2714 Fairview Boulevard",
       "zip": "37062",
-      "coordinates": {
-        "lat": 35.943032,
-        "lng": -87.150471
-      },
+      "latitude": 35.943032,
+      "longitude": -87.150471,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4054,10 +3756,8 @@
       "address": "1218 Huntsville Hwy C, Fayetteville, TN 37334, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.13875,
-        "lng": -86.565725
-      },
+      "latitude": 35.13875,
+      "longitude": -86.565725,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4078,10 +3778,8 @@
       "address": "1140 Mile End Rd, Franklin, TN 37064, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.888975,
-        "lng": -86.927246
-      },
+      "latitude": 35.888975,
+      "longitude": -86.927246,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4102,10 +3800,8 @@
       "address": "1203 Murfreesboro Rd, Franklin, TN 37064, USA",
       "street": "1203 Murfreesboro Road",
       "zip": "37064",
-      "coordinates": {
-        "lat": 35.917438,
-        "lng": -86.830506
-      },
+      "latitude": 35.917438,
+      "longitude": -86.830506,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4126,10 +3822,8 @@
       "address": "1495 Sneed Rd W, Franklin, TN 37069, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.020831,
-        "lng": -86.88909
-      },
+      "latitude": 36.020831,
+      "longitude": -86.88909,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4150,10 +3844,8 @@
       "address": "3004 Wilson Pike, Franklin, TN 37064, USA",
       "street": "Wilson Pike",
       "zip": "37014",
-      "coordinates": {
-        "lat": 35.905646,
-        "lng": -86.743723
-      },
+      "latitude": 35.905646,
+      "longitude": -86.743723,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4174,10 +3866,8 @@
       "address": "595 Hillsboro Rd, Franklin, TN 37064, USA",
       "street": "595 Hillsboro Road",
       "zip": "37064",
-      "coordinates": {
-        "lat": 35.932319,
-        "lng": -86.879424
-      },
+      "latitude": 35.932319,
+      "longitude": -86.879424,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4198,10 +3888,8 @@
       "address": "670 Nashville Pike, Gallatin, TN 37066, USA",
       "street": "670 Nashville Pike",
       "zip": "37066",
-      "coordinates": {
-        "lat": 36.383489,
-        "lng": -86.462923
-      },
+      "latitude": 36.383489,
+      "longitude": -86.462923,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4222,10 +3910,8 @@
       "address": "1825 Kirby Pkwy, Germantown, TN 38138, USA",
       "street": "1825 Kirby Parkway",
       "zip": "38138",
-      "coordinates": {
-        "lat": 35.099393,
-        "lng": -89.840297
-      },
+      "latitude": 35.099393,
+      "longitude": -89.840297,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4246,10 +3932,8 @@
       "address": "2059 S Houston Levee Rd #119, Germantown, TN 38139, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.09417,
-        "lng": -89.730733
-      },
+      "latitude": 35.09417,
+      "longitude": -89.730733,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4270,10 +3954,8 @@
       "address": "3190 E Andrew Johnson Hwy, Greeneville, TN 37745, USA",
       "street": "3190 East Andrew Johnson Highway",
       "zip": "37745",
-      "coordinates": {
-        "lat": 36.183743,
-        "lng": -82.768212
-      },
+      "latitude": 36.183743,
+      "longitude": -82.768212,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4294,10 +3976,8 @@
       "address": "1225 S Roane St, Harriman, TN 37748, USA",
       "street": "1225 South Roane Street",
       "zip": "37748",
-      "coordinates": {
-        "lat": 35.916115,
-        "lng": -84.57663
-      },
+      "latitude": 35.916115,
+      "longitude": -84.57663,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4318,10 +3998,8 @@
       "address": "205a Indian Lake Blvd, Hendersonville, TN 37075, USA",
       "street": "205a Indian Lake Boulevard",
       "zip": "37075",
-      "coordinates": {
-        "lat": 36.319868,
-        "lng": -86.602211
-      },
+      "latitude": 36.319868,
+      "longitude": -86.602211,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4342,10 +4020,8 @@
       "address": "327 W Main St, Hendersonville, TN 37075, USA",
       "street": "327 West Main Street",
       "zip": "37075",
-      "coordinates": {
-        "lat": 36.303627,
-        "lng": -86.624063
-      },
+      "latitude": 36.303627,
+      "longitude": -86.624063,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4366,10 +4042,8 @@
       "address": "2670 McIngvale Rd, Hernando, MS 38632, USA",
       "street": "2670 McIngvale Road",
       "zip": "38632",
-      "coordinates": {
-        "lat": 34.820463,
-        "lng": -89.970252
-      },
+      "latitude": 34.820463,
+      "longitude": -89.970252,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4390,10 +4064,8 @@
       "address": "480 E Commerce St, Hernando, MS 38632, USA",
       "street": "480 East Commerce Street",
       "zip": "38632",
-      "coordinates": {
-        "lat": 34.824632,
-        "lng": -89.981508
-      },
+      "latitude": 34.824632,
+      "longitude": -89.981508,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4414,10 +4086,8 @@
       "address": "6396 US-51, Horn Lake, MS 38637, USA",
       "street": "6396 US 51",
       "zip": "38637",
-      "coordinates": {
-        "lat": 34.95402,
-        "lng": -90.01567
-      },
+      "latitude": 34.95402,
+      "longitude": -90.01567,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4438,10 +4108,8 @@
       "address": "6396 US-51, Horn Lake, MS 38637, USA",
       "street": "6396 US 51",
       "zip": "38637",
-      "coordinates": {
-        "lat": 34.95402,
-        "lng": -90.01567
-      },
+      "latitude": 34.95402,
+      "longitude": -90.01567,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4462,10 +4130,8 @@
       "address": "2832 Appalachian Hwy, Jacksboro, TN 37757, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.334423,
-        "lng": -84.179525
-      },
+      "latitude": 36.334423,
+      "longitude": -84.179525,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4486,10 +4152,8 @@
       "address": "1320 S Highland Ave, Jackson, TN 38301, USA",
       "street": "1320 South Highland Avenue",
       "zip": "38301",
-      "coordinates": {
-        "lat": 35.577229,
-        "lng": -88.812343
-      },
+      "latitude": 35.577229,
+      "longitude": -88.812343,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4510,10 +4174,8 @@
       "address": "1495 Vann Dr, Jackson, TN 38305, USA",
       "street": "Vann Drive",
       "zip": "38305",
-      "coordinates": {
-        "lat": 35.66057,
-        "lng": -88.867593
-      },
+      "latitude": 35.66057,
+      "longitude": -88.867593,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4534,10 +4196,8 @@
       "address": "15 W University Pkwy, Jackson, TN 38305, USA",
       "street": "15 West University Parkway",
       "zip": "38305",
-      "coordinates": {
-        "lat": 35.696503,
-        "lng": -88.830239
-      },
+      "latitude": 35.696503,
+      "longitude": -88.830239,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4558,10 +4218,8 @@
       "address": "125 W Broadway Blvd, Jefferson City, TN 37760, USA",
       "street": "125 West Broadway Boulevard",
       "zip": "37760",
-      "coordinates": {
-        "lat": 36.113591,
-        "lng": -83.493857
-      },
+      "latitude": 36.113591,
+      "longitude": -83.493857,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4582,10 +4240,8 @@
       "address": "2004 S Roan St, Johnson City, TN 37604, USA",
       "street": "2004 South Roan Street",
       "zip": "37601",
-      "coordinates": {
-        "lat": 36.303503,
-        "lng": -82.337856
-      },
+      "latitude": 36.303503,
+      "longitude": -82.337856,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4606,10 +4262,8 @@
       "address": "2606 W Market St, Johnson City, TN 37604, USA",
       "street": "2606 West Market Street",
       "zip": "37604",
-      "coordinates": {
-        "lat": 36.310266,
-        "lng": -82.39489
-      },
+      "latitude": 36.310266,
+      "longitude": -82.39489,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4630,10 +4284,8 @@
       "address": "3010 Bristol Hwy, Johnson City, TN 37601, USA",
       "street": "3010 Bristol Highway",
       "zip": "37601",
-      "coordinates": {
-        "lat": 36.361913,
-        "lng": -82.382695
-      },
+      "latitude": 36.361913,
+      "longitude": -82.382695,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4654,10 +4306,8 @@
       "address": "105 Indian Center Ct, Kingsport, TN 37660, USA",
       "street": "105 Indian Center Court",
       "zip": "37660",
-      "coordinates": {
-        "lat": 36.54742,
-        "lng": -82.51239
-      },
+      "latitude": 36.54742,
+      "longitude": -82.51239,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4678,10 +4328,8 @@
       "address": "1185 N Eastman Rd, Kingsport, TN 37664, USA",
       "street": "1185 North Eastman Road",
       "zip": "37664",
-      "coordinates": {
-        "lat": 36.530182,
-        "lng": -82.529702
-      },
+      "latitude": 36.530182,
+      "longitude": -82.529702,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4702,10 +4350,8 @@
       "address": "2017 Brookside Ln, Kingsport, TN 37660, USA",
       "street": "2017 Brookside Lane",
       "zip": "37660",
-      "coordinates": {
-        "lat": 36.558088,
-        "lng": -82.51685
-      },
+      "latitude": 36.558088,
+      "longitude": -82.51685,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4726,10 +4372,8 @@
       "address": "300 Clinchfield St, Kingsport, TN 37660, USA",
       "street": "300 Clinchfield Street",
       "zip": "37660",
-      "coordinates": {
-        "lat": 36.551944,
-        "lng": -82.565221
-      },
+      "latitude": 36.551944,
+      "longitude": -82.565221,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4750,10 +4394,8 @@
       "address": "3020 Brookside Dr, Kingsport, TN 37660, USA",
       "street": "Brookside Drive",
       "zip": "37664",
-      "coordinates": {
-        "lat": 36.573116,
-        "lng": -82.508901
-      },
+      "latitude": 36.573116,
+      "longitude": -82.508901,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4774,10 +4416,8 @@
       "address": "3200 Fort Henry Dr, Kingsport, TN 37664, USA",
       "street": "3200 Fort Henry Drive",
       "zip": "37664",
-      "coordinates": {
-        "lat": 36.508585,
-        "lng": -82.519155
-      },
+      "latitude": 36.508585,
+      "longitude": -82.519155,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4798,10 +4438,8 @@
       "address": "4528 W Stone Dr, Kingsport, TN 37660, USA",
       "street": "4528 West Stone Drive",
       "zip": "37660",
-      "coordinates": {
-        "lat": 36.550807,
-        "lng": -82.637076
-      },
+      "latitude": 36.550807,
+      "longitude": -82.637076,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4822,10 +4460,8 @@
       "address": "5705 Western Ave, Knoxville, TN 37921, USA",
       "street": "Western Avenue",
       "zip": "37921",
-      "coordinates": {
-        "lat": 35.979871,
-        "lng": -84.013561
-      },
+      "latitude": 35.979871,
+      "longitude": -84.013561,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4846,10 +4482,8 @@
       "address": "5307 Kingston Pike, Knoxville, TN 37919, USA",
       "street": "5307 Kingston Pike",
       "zip": "37919",
-      "coordinates": {
-        "lat": 35.93867,
-        "lng": -83.9908
-      },
+      "latitude": 35.93867,
+      "longitude": -83.9908,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4870,10 +4504,8 @@
       "address": "5808 2041, N Broadway, Knoxville, TN 37917, USA",
       "street": "5808 North Broadway",
       "zip": "37918",
-      "coordinates": {
-        "lat": 35.99213,
-        "lng": -83.921945
-      },
+      "latitude": 35.99213,
+      "longitude": -83.921945,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4894,10 +4526,8 @@
       "address": "148 West End Ave, Knoxville, TN 37934, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.887392,
-        "lng": -84.154665
-      },
+      "latitude": 35.887392,
+      "longitude": -84.154665,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4918,10 +4548,8 @@
       "address": "11509 Hardin Valley Rd, Knoxville, TN 37932, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.931342,
-        "lng": -84.186843
-      },
+      "latitude": 35.931342,
+      "longitude": -84.186843,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4942,10 +4570,8 @@
       "address": "5412 Pleasant Ridge Rd, Knoxville, TN 37912, USA",
       "street": "5412 Pleasant Ridge Road",
       "zip": "37912",
-      "coordinates": {
-        "lat": 35.992105,
-        "lng": -84.000285
-      },
+      "latitude": 35.992105,
+      "longitude": -84.000285,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4966,10 +4592,8 @@
       "address": "713 S 17th St, Knoxville, TN 37916, USA",
       "street": "South 17th Street",
       "zip": "37916",
-      "coordinates": {
-        "lat": 35.956748,
-        "lng": -83.932784
-      },
+      "latitude": 35.956748,
+      "longitude": -83.932784,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -4990,10 +4614,8 @@
       "address": "4201 Chapman Hwy, Knoxville, TN 37920, USA",
       "street": "4201 Chapman Highway",
       "zip": "37920",
-      "coordinates": {
-        "lat": 35.935888,
-        "lng": -83.907545
-      },
+      "latitude": 35.935888,
+      "longitude": -83.907545,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5014,10 +4636,8 @@
       "address": "2006 N Locust Ave, Lawrenceburg, TN 38464, USA",
       "street": "2006 North Locust Avenue",
       "zip": "38464",
-      "coordinates": {
-        "lat": 35.266057,
-        "lng": -87.320792
-      },
+      "latitude": 35.266057,
+      "longitude": -87.320792,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5038,10 +4658,8 @@
       "address": "1414 W Main St, Lebanon, TN 37087, USA",
       "street": "1414 West Main Street",
       "zip": "37087",
-      "coordinates": {
-        "lat": 36.214441,
-        "lng": -86.33013
-      },
+      "latitude": 36.214441,
+      "longitude": -86.33013,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5062,10 +4680,8 @@
       "address": "1530 Powell Grove Rd, Lebanon, TN 37090, USA",
       "street": "1530 Powell Grove Road",
       "zip": "37090",
-      "coordinates": {
-        "lat": 36.231259,
-        "lng": -86.423472
-      },
+      "latitude": 36.231259,
+      "longitude": -86.423472,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5086,10 +4702,8 @@
       "address": "758 US-321, Lenoir City, TN 37771, USA",
       "street": "758 Lamar Alexander Parkway",
       "zip": "37771",
-      "coordinates": {
-        "lat": 35.813223,
-        "lng": -84.264422
-      },
+      "latitude": 35.813223,
+      "longitude": -84.264422,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5110,10 +4724,8 @@
       "address": "130 The Acres, Lewisburg, TN 37091, USA",
       "street": "The Acres",
       "zip": "37091",
-      "coordinates": {
-        "lat": 35.447432,
-        "lng": -86.778319
-      },
+      "latitude": 35.447432,
+      "longitude": -86.778319,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5134,10 +4746,8 @@
       "address": "657 W Church St, Lexington, TN 38351, USA",
       "street": "West Church Street",
       "zip": "38351",
-      "coordinates": {
-        "lat": 35.656042,
-        "lng": -88.414029
-      },
+      "latitude": 35.656042,
+      "longitude": -88.414029,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5158,10 +4768,8 @@
       "address": "1587 TN-72, Loudon, TN 37774, USA",
       "street": "1587 State Route 72",
       "zip": "37774",
-      "coordinates": {
-        "lat": 35.718174,
-        "lng": -84.363524
-      },
+      "latitude": 35.718174,
+      "longitude": -84.363524,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5182,10 +4790,8 @@
       "address": "1703 E Lamar Alexander Pkwy, Maryville, TN 37804, USA",
       "street": "East Lamar Alexander Parkway",
       "zip": "37882",
-      "coordinates": {
-        "lat": 35.756026,
-        "lng": -83.949577
-      },
+      "latitude": 35.756026,
+      "longitude": -83.949577,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5206,10 +4812,8 @@
       "address": "3049 Maynardville Hwy, Maynardville, TN 37807, USA",
       "street": "3049 Maynardville Highway",
       "zip": "37807",
-      "coordinates": {
-        "lat": 36.235149,
-        "lng": -83.830937
-      },
+      "latitude": 36.235149,
+      "longitude": -83.830937,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5230,10 +4834,8 @@
       "address": "7026 Maynardville Hwy, Maynardville, TN 37807, USA",
       "street": "Maynardville Highway",
       "zip": "37807",
-      "coordinates": {
-        "lat": 36.331055,
-        "lng": -83.744009
-      },
+      "latitude": 36.331055,
+      "longitude": -83.744009,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5254,10 +4856,8 @@
       "address": "8040 Walnut Run Rd, Cordova, TN 38018, USA",
       "street": "8040 Walnut Run Road",
       "zip": "38018",
-      "coordinates": {
-        "lat": 35.14731,
-        "lng": -89.794894
-      },
+      "latitude": 35.14731,
+      "longitude": -89.794894,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5278,10 +4878,8 @@
       "address": "1724 S White Station Rd, Memphis, TN 38117, USA",
       "street": "1724 South White Station Road",
       "zip": "38117",
-      "coordinates": {
-        "lat": 35.085345,
-        "lng": -89.894873
-      },
+      "latitude": 35.085345,
+      "longitude": -89.894873,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5302,10 +4900,8 @@
       "address": "1740 Whitten Rd, Memphis, TN 38134, USA",
       "street": "1740 Whitten Road",
       "zip": "38134",
-      "coordinates": {
-        "lat": 35.172357,
-        "lng": -89.836061
-      },
+      "latitude": 35.172357,
+      "longitude": -89.836061,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5326,10 +4922,8 @@
       "address": "1810 Union Ave, Memphis, TN 38104, USA",
       "street": "1810 Union Avenue",
       "zip": "38104",
-      "coordinates": {
-        "lat": 35.135904,
-        "lng": -90.000907
-      },
+      "latitude": 35.135904,
+      "longitude": -90.000907,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5350,10 +4944,8 @@
       "address": "2218 Central Ave, Memphis, TN 38104, USA",
       "street": "2218 Central Avenue",
       "zip": "38104",
-      "coordinates": {
-        "lat": 35.126211,
-        "lng": -89.987995
-      },
+      "latitude": 35.126211,
+      "longitude": -89.987995,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5374,10 +4966,8 @@
       "address": "2964 Covington Way, Memphis, TN 38128, USA",
       "street": "Covington Way",
       "zip": "38134",
-      "coordinates": {
-        "lat": 35.182629,
-        "lng": -89.897168
-      },
+      "latitude": 35.182629,
+      "longitude": -89.897168,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5398,10 +4988,8 @@
       "address": "3109 Poplar Ave, Memphis, TN 38111, USA",
       "street": "3109 Poplar Avenue",
       "zip": "38111",
-      "coordinates": {
-        "lat": 35.13119,
-        "lng": -89.958213
-      },
+      "latitude": 35.13119,
+      "longitude": -89.958213,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5422,10 +5010,8 @@
       "address": "3315 Hacks Cross Rd, Memphis, TN 38119, USA",
       "street": "3315 Hacks Cross Road",
       "zip": "38125",
-      "coordinates": {
-        "lat": 35.059377,
-        "lng": -89.793758
-      },
+      "latitude": 35.059377,
+      "longitude": -89.793758,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5446,10 +5032,8 @@
       "address": "3830 Austin Peay Hwy, Memphis, TN 38128, USA",
       "street": "3830 Austin Peay Highway",
       "zip": "38128",
-      "coordinates": {
-        "lat": 35.230859,
-        "lng": -89.898086
-      },
+      "latitude": 35.230859,
+      "longitude": -89.898086,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5470,10 +5054,8 @@
       "address": "4725 Summer Ave, Memphis, TN 38122, USA",
       "street": "4725 Summer Avenue",
       "zip": "38122",
-      "coordinates": {
-        "lat": 35.148196,
-        "lng": -89.903235
-      },
+      "latitude": 35.148196,
+      "longitude": -89.903235,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5494,10 +5076,8 @@
       "address": "5679 Quince Rd, Memphis, TN 38119, USA",
       "street": "5679 Quince Road",
       "zip": "38119",
-      "coordinates": {
-        "lat": 35.0892,
-        "lng": -89.873862
-      },
+      "latitude": 35.0892,
+      "longitude": -89.873862,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5518,10 +5098,8 @@
       "address": "6518 Quince Rd, Memphis, TN 38115, USA",
       "street": "6518 Quince Road",
       "zip": "38119",
-      "coordinates": {
-        "lat": 35.070323,
-        "lng": -89.84573
-      },
+      "latitude": 35.070323,
+      "longitude": -89.84573,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5542,10 +5120,8 @@
       "address": "6745 Winchester Rd, Memphis, TN 38115, USA",
       "street": "6745 Winchester Road",
       "zip": "38115",
-      "coordinates": {
-        "lat": 35.048819,
-        "lng": -89.838248
-      },
+      "latitude": 35.048819,
+      "longitude": -89.838248,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5566,10 +5142,8 @@
       "address": "6899 Stage Rd, Memphis, TN 38133, USA",
       "street": "Stage Road",
       "zip": "38133",
-      "coordinates": {
-        "lat": 35.204,
-        "lng": -89.833749
-      },
+      "latitude": 35.204,
+      "longitude": -89.833749,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5590,10 +5164,8 @@
       "address": "6899 Stage Rd, Memphis, TN 38133, USA",
       "street": "Stage Road",
       "zip": "38133",
-      "coordinates": {
-        "lat": 35.204,
-        "lng": -89.833749
-      },
+      "latitude": 35.204,
+      "longitude": -89.833749,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5614,10 +5186,8 @@
       "address": "700 Mt Moriah Rd, Memphis, TN 38117, USA",
       "street": "700 Mount Moriah Road",
       "zip": "38117",
-      "coordinates": {
-        "lat": 35.111962,
-        "lng": -89.894871
-      },
+      "latitude": 35.111962,
+      "longitude": -89.894871,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5638,10 +5208,8 @@
       "address": "7114 Winchester Rd #102, Memphis, TN 38125, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.051056,
-        "lng": -89.825171
-      },
+      "latitude": 35.051056,
+      "longitude": -89.825171,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5662,10 +5230,8 @@
       "address": "8059 US-51, Millington, TN 38053, USA",
       "street": "8059 US 51",
       "zip": "38053",
-      "coordinates": {
-        "lat": 35.347411,
-        "lng": -89.906039
-      },
+      "latitude": 35.347411,
+      "longitude": -89.906039,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5686,10 +5252,8 @@
       "address": "8061 TN-3, Millington, TN 38053, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.346375,
-        "lng": -89.90487
-      },
+      "latitude": 35.346375,
+      "longitude": -89.90487,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5710,10 +5274,8 @@
       "address": "2812 W Andrew Johnson Hwy, Morristown, TN 37814, USA",
       "street": "2812 West Andrew Johnson Highway",
       "zip": "37814",
-      "coordinates": {
-        "lat": 36.20246,
-        "lng": -83.334406
-      },
+      "latitude": 36.20246,
+      "longitude": -83.334406,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5734,10 +5296,8 @@
       "address": "1985 Providence Pkwy, Mt. Juliet, TN 37122, USA",
       "street": "Providence Parkway",
       "zip": "37122",
-      "coordinates": {
-        "lat": 36.165396,
-        "lng": -86.516483
-      },
+      "latitude": 36.165396,
+      "longitude": -86.516483,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5758,10 +5318,8 @@
       "address": "1825 Old Fort Pkwy, Murfreesboro, TN 37129, USA",
       "street": "1825 Old Fort Parkway",
       "zip": "37129",
-      "coordinates": {
-        "lat": 35.84346,
-        "lng": -86.424109
-      },
+      "latitude": 35.84346,
+      "longitude": -86.424109,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5782,10 +5340,8 @@
       "address": "2156 N Thompson Ln, Murfreesboro, TN 37129, USA",
       "street": "2156 North Thompson Lane",
       "zip": "37129",
-      "coordinates": {
-        "lat": 35.882846,
-        "lng": -86.421849
-      },
+      "latitude": 35.882846,
+      "longitude": -86.421849,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5806,10 +5362,8 @@
       "address": "2650 New Salem Hwy, Murfreesboro, TN 37128, USA",
       "street": "2650 New Salem Highway",
       "zip": "37128",
-      "coordinates": {
-        "lat": 35.812667,
-        "lng": -86.45761
-      },
+      "latitude": 35.812667,
+      "longitude": -86.45761,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5830,10 +5384,8 @@
       "address": "2955 S Church St, Murfreesboro, TN 37127, USA",
       "street": "South Church Street",
       "zip": "37127",
-      "coordinates": {
-        "lat": 35.788601,
-        "lng": -86.399572
-      },
+      "latitude": 35.788601,
+      "longitude": -86.399572,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5854,10 +5406,8 @@
       "address": "4183 Franklin Rd #13B, Murfreesboro, TN 37128, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.842065,
-        "lng": -86.472079
-      },
+      "latitude": 35.842065,
+      "longitude": -86.472079,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5878,10 +5428,8 @@
       "address": "710 Memorial Blvd #180, Murfreesboro, TN 37129, USA",
       "street": "Memorial Boulevard",
       "zip": "37130",
-      "coordinates": {
-        "lat": 35.851626,
-        "lng": -86.395473
-      },
+      "latitude": 35.851626,
+      "longitude": -86.395473,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5902,10 +5450,8 @@
       "address": "3540 Murfreesboro Pike, Antioch, TN 37013, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.051962,
-        "lng": -86.613718
-      },
+      "latitude": 36.051962,
+      "longitude": -86.613718,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5926,10 +5472,8 @@
       "address": "765 Bell Rd, Antioch, TN 37013, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.050969,
-        "lng": -86.647553
-      },
+      "latitude": 36.050969,
+      "longitude": -86.647553,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5950,10 +5494,8 @@
       "address": "247 Old Hickory Blvd, Nashville, TN 37221, USA",
       "street": "247 Old Hickory Boulevard",
       "zip": "37221",
-      "coordinates": {
-        "lat": 36.078382,
-        "lng": -86.920261
-      },
+      "latitude": 36.078382,
+      "longitude": -86.920261,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5974,10 +5516,8 @@
       "address": "4101 Lebanon Pike, Hermitage, TN 37076, USA",
       "street": "4101 Lebanon Pike",
       "zip": "37076",
-      "coordinates": {
-        "lat": 36.197424,
-        "lng": -86.618037
-      },
+      "latitude": 36.197424,
+      "longitude": -86.618037,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -5998,10 +5538,8 @@
       "address": "1501 Robinson Rd, Old Hickory, TN 37138, USA",
       "street": "1501 Robinson Road",
       "zip": "37138",
-      "coordinates": {
-        "lat": 36.254784,
-        "lng": -86.651525
-      },
+      "latitude": 36.254784,
+      "longitude": -86.651525,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6022,10 +5560,8 @@
       "address": "2101 Gallatin Pike N, Madison, TN 37115, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.301639,
-        "lng": -86.69085
-      },
+      "latitude": 36.301639,
+      "longitude": -86.69085,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6046,10 +5582,8 @@
       "address": "3519 Stewarts Ferry Pkwy, Nashville, TN 37214, USA",
       "street": "Stewarts Ferry Parkway",
       "zip": "37214",
-      "coordinates": {
-        "lat": 36.160726,
-        "lng": -86.625744
-      },
+      "latitude": 36.160726,
+      "longitude": -86.625744,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6070,10 +5604,8 @@
       "address": "15103 Old Hickory Blvd, Nashville, TN 37211, USA",
       "street": "15103 Old Hickory Boulevard",
       "zip": "37211",
-      "coordinates": {
-        "lat": 36.044807,
-        "lng": -86.71454
-      },
+      "latitude": 36.044807,
+      "longitude": -86.71454,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6094,10 +5626,8 @@
       "address": "3200 Gallatin Pike, Nashville, TN 37216, USA",
       "street": "3200 Gallatin Pike",
       "zip": "37216",
-      "coordinates": {
-        "lat": 36.205831,
-        "lng": -86.736648
-      },
+      "latitude": 36.205831,
+      "longitude": -86.736648,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6118,10 +5648,8 @@
       "address": "7237 Cockrill Bend Blvd, Nashville, TN 37209, USA",
       "street": "7237 Cockrill Bend Boulevard",
       "zip": "37209",
-      "coordinates": {
-        "lat": 36.168085,
-        "lng": -86.888421
-      },
+      "latitude": 36.168085,
+      "longitude": -86.888421,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6142,10 +5670,8 @@
       "address": "731 Lebanon Pike, Nashville, TN 37210, USA",
       "street": "731 Lebanon Pike",
       "zip": "37210",
-      "coordinates": {
-        "lat": 36.153739,
-        "lng": -86.74559
-      },
+      "latitude": 36.153739,
+      "longitude": -86.74559,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6166,10 +5692,8 @@
       "address": "7663 US-70S, Nashville, TN 37221, USA",
       "street": "7663 Memphis-Bristol Highway",
       "zip": "37221",
-      "coordinates": {
-        "lat": 36.077262,
-        "lng": -86.952352
-      },
+      "latitude": 36.077262,
+      "longitude": -86.952352,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6190,10 +5714,8 @@
       "address": "780 Berry Rd, Nashville, TN 37204, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.119717,
-        "lng": -86.771565
-      },
+      "latitude": 36.119717,
+      "longitude": -86.771565,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6214,10 +5736,8 @@
       "address": "780 Berry Rd, Nashville, TN 37204, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.119717,
-        "lng": -86.771565
-      },
+      "latitude": 36.119717,
+      "longitude": -86.771565,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6238,10 +5758,8 @@
       "address": "8056 TN-100, Nashville, TN 37221, USA",
       "street": "8056 State Highway 100",
       "zip": "37221",
-      "coordinates": {
-        "lat": 36.046255,
-        "lng": -86.953031
-      },
+      "latitude": 36.046255,
+      "longitude": -86.953031,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6262,10 +5780,8 @@
       "address": "201 W Bankhead St, New Albany, MS 38652, USA",
       "street": "201 West Bankhead Street",
       "zip": "38652",
-      "coordinates": {
-        "lat": 34.495724,
-        "lng": -89.014704
-      },
+      "latitude": 34.495724,
+      "longitude": -89.014704,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6286,10 +5802,8 @@
       "address": "511 Cross St, New Tazewell, TN 37825, USA",
       "street": "511 Cross Street",
       "zip": "37825",
-      "coordinates": {
-        "lat": 36.444782,
-        "lng": -83.592144
-      },
+      "latitude": 36.444782,
+      "longitude": -83.592144,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6310,10 +5824,8 @@
       "address": "452 Eastern Plaza Way, Newport, TN 37821, USA",
       "street": "452 Eastern Plaza Way",
       "zip": "37821",
-      "coordinates": {
-        "lat": 35.966863,
-        "lng": -83.180081
-      },
+      "latitude": 35.966863,
+      "longitude": -83.180081,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6334,10 +5846,8 @@
       "address": "695 Emory Valley Rd, Oak Ridge, TN 37830, USA",
       "street": "695 Emory Valley Road",
       "zip": "37830",
-      "coordinates": {
-        "lat": 36.020434,
-        "lng": -84.227414
-      },
+      "latitude": 36.020434,
+      "longitude": -84.227414,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6358,10 +5868,8 @@
       "address": "7275 US-64, Oakland, TN 38060, USA",
       "street": "7275 US 64",
       "zip": "38060",
-      "coordinates": {
-        "lat": 35.229439,
-        "lng": -89.514535
-      },
+      "latitude": 35.229439,
+      "longitude": -89.514535,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6382,10 +5890,8 @@
       "address": "6431 Goodman Rd, Olive Branch, MS 38654, USA",
       "street": "6431 Goodman Road",
       "zip": "38654",
-      "coordinates": {
-        "lat": 34.961735,
-        "lng": -89.875624
-      },
+      "latitude": 34.961735,
+      "longitude": -89.875624,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6406,10 +5912,8 @@
       "address": "7058 Hacks Cross Rd, Olive Branch, MS 38654, USA",
       "street": "7058 Hacks Cross Road",
       "zip": "38654",
-      "coordinates": {
-        "lat": 34.963518,
-        "lng": -89.794934
-      },
+      "latitude": 34.963518,
+      "longitude": -89.794934,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6430,10 +5934,8 @@
       "address": "18095 Alberta St, Oneida, TN 37841, USA",
       "street": "18095 South Alberta Street",
       "zip": "37841",
-      "coordinates": {
-        "lat": 36.496605,
-        "lng": -84.520435
-      },
+      "latitude": 36.496605,
+      "longitude": -84.520435,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6454,10 +5956,8 @@
       "address": "2540 Jackson Ave W, Oxford, MS 38655, USA",
       "street": "2540 Jackson Avenue West",
       "zip": "38655",
-      "coordinates": {
-        "lat": 34.360368,
-        "lng": -89.566049
-      },
+      "latitude": 34.360368,
+      "longitude": -89.566049,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6478,10 +5978,8 @@
       "address": "304 S Broadway, Portland, TN 37148, USA",
       "street": "South Broadway",
       "zip": "37148",
-      "coordinates": {
-        "lat": 36.577316,
-        "lng": -86.514478
-      },
+      "latitude": 36.577316,
+      "longitude": -86.514478,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6502,10 +6000,8 @@
       "address": "7623 Clinton Hwy, Powell, TN 37849, USA",
       "street": "7623 Clinton Highway",
       "zip": "37849",
-      "coordinates": {
-        "lat": 36.020173,
-        "lng": -84.056243
-      },
+      "latitude": 36.020173,
+      "longitude": -84.056243,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6526,10 +6022,8 @@
       "address": "2325 N Gateway Ave, Rockwood, TN 37854, USA",
       "street": "2325 North Gateway Avenue",
       "zip": "37748",
-      "coordinates": {
-        "lat": 35.894184,
-        "lng": -84.621299
-      },
+      "latitude": 35.894184,
+      "longitude": -84.621299,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6550,10 +6044,8 @@
       "address": "7805 Rutledge Pike, Rutledge, TN 37861, USA",
       "street": "7805 Rutledge Pike",
       "zip": "37861",
-      "coordinates": {
-        "lat": 36.279698,
-        "lng": -83.523887
-      },
+      "latitude": 36.279698,
+      "longitude": -83.523887,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6574,10 +6066,8 @@
       "address": "1046 Cross Creek Dr, Saltillo, MS 38866, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.319027,
-        "lng": -88.697879
-      },
+      "latitude": 34.319027,
+      "longitude": -88.697879,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6598,10 +6088,8 @@
       "address": "539 Winfield Dunn Pkwy, Sevierville, TN 37876, USA",
       "street": "539 Winfield Dunn Parkway",
       "zip": "37876",
-      "coordinates": {
-        "lat": 35.877719,
-        "lng": -83.570756
-      },
+      "latitude": 35.877719,
+      "longitude": -83.570756,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6622,10 +6110,8 @@
       "address": "108 Lane Pkwy, Shelbyville, TN 37160, USA",
       "street": "Lane Parkway",
       "zip": "37160",
-      "coordinates": {
-        "lat": 35.486031,
-        "lng": -86.461106
-      },
+      "latitude": 35.486031,
+      "longitude": -86.461106,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6646,10 +6132,8 @@
       "address": "135 Weakley Ln, Smyrna, TN 37167, USA",
       "street": "135 Weakley Lane",
       "zip": "37167",
-      "coordinates": {
-        "lat": 35.998907,
-        "lng": -86.497925
-      },
+      "latitude": 35.998907,
+      "longitude": -86.497925,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6670,10 +6154,8 @@
       "address": "201 S Lowry St, Smyrna, TN 37167, USA",
       "street": "201 South Lowry Street",
       "zip": "37167",
-      "coordinates": {
-        "lat": 35.97794,
-        "lng": -86.513313
-      },
+      "latitude": 35.97794,
+      "longitude": -86.513313,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6694,10 +6176,8 @@
       "address": "571 Almaville Rd, Smyrna, TN 37167, USA",
       "street": "571 Almaville Road",
       "zip": "37167",
-      "coordinates": {
-        "lat": 35.940976,
-        "lng": -86.528598
-      },
+      "latitude": 35.940976,
+      "longitude": -86.528598,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6718,10 +6198,8 @@
       "address": "722 President Pl, Smyrna, TN 37167, USA",
       "street": "722 President Place",
       "zip": "37167",
-      "coordinates": {
-        "lat": 35.979093,
-        "lng": -86.560045
-      },
+      "latitude": 35.979093,
+      "longitude": -86.560045,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6742,10 +6220,8 @@
       "address": "1514 Goodman Rd E, Southaven, MS 38671, USA",
       "street": "1514 Goodman Road East",
       "zip": "38671",
-      "coordinates": {
-        "lat": 34.963038,
-        "lng": -89.963026
-      },
+      "latitude": 34.963038,
+      "longitude": -89.963026,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6766,10 +6242,8 @@
       "address": "57 Stateline Rd E, Southaven, MS 38671, USA",
       "street": "57 Stateline Road East",
       "zip": "38671",
-      "coordinates": {
-        "lat": 34.991435,
-        "lng": -89.988405
-      },
+      "latitude": 34.991435,
+      "longitude": -89.988405,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6790,10 +6264,8 @@
       "address": "925 Stateline Rd W, Southaven, MS 38671, USA",
       "street": "925 Stateline Road West",
       "zip": "38671",
-      "coordinates": {
-        "lat": 34.99169,
-        "lng": -90.005786
-      },
+      "latitude": 34.99169,
+      "longitude": -90.005786,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6814,10 +6286,8 @@
       "address": "1008 Nasdaq St, Spring Hill, TN 37174, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.772141,
-        "lng": -86.914258
-      },
+      "latitude": 35.772141,
+      "longitude": -86.914258,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6838,10 +6308,8 @@
       "address": "1008 Nasdaq St, Spring Hill, TN 37174, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.772141,
-        "lng": -86.914258
-      },
+      "latitude": 35.772141,
+      "longitude": -86.914258,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6862,10 +6330,8 @@
       "address": "2008 Memorial Blvd, Springfield, TN 37172, USA",
       "street": "Memorial Boulevard",
       "zip": "37172",
-      "coordinates": {
-        "lat": 36.495848,
-        "lng": -86.877465
-      },
+      "latitude": 36.495848,
+      "longitude": -86.877465,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6886,10 +6352,8 @@
       "address": "1515b Thompson's Station Rd W, Thompson's Station, TN 37179, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.796287,
-        "lng": -86.910417
-      },
+      "latitude": 35.796287,
+      "longitude": -86.910417,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6910,10 +6374,8 @@
       "address": "1885 McCullough Blvd, Tupelo, MS 38801, USA",
       "street": "McCullough Boulevard",
       "zip": "38826",
-      "coordinates": {
-        "lat": 34.287532,
-        "lng": -88.743799
-      },
+      "latitude": 34.287532,
+      "longitude": -88.743799,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6934,10 +6396,8 @@
       "address": "1960 N Gloster St, Tupelo, MS 38804, USA",
       "street": "1960 North Gloster Street",
       "zip": "38804",
-      "coordinates": {
-        "lat": 34.288085,
-        "lng": -88.713266
-      },
+      "latitude": 34.288085,
+      "longitude": -88.713266,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -6958,10 +6418,8 @@
       "address": "1430 S 1st St, Union City, TN 38261, USA",
       "street": "1430 South 1st Street",
       "zip": "38261",
-      "coordinates": {
-        "lat": 36.413275,
-        "lng": -89.056303
-      },
+      "latitude": 36.413275,
+      "longitude": -89.056303,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",

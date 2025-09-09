@@ -13,10 +13,8 @@
       "address": "10448 W Overland Rd, Boise, ID 83709, USA",
       "street": "10448 West Overland Road",
       "zip": "83709",
-      "coordinates": {
-        "lat": 43.591765,
-        "lng": -116.312097
-      },
+      "latitude": 43.591765,
+      "longitude": -116.312097,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -39,10 +37,8 @@
       "address": "10485 W Fairview Ave, Boise, ID 83704, USA",
       "street": "10485 West Fairview Avenue",
       "zip": "83704",
-      "coordinates": {
-        "lat": 43.618303,
-        "lng": -116.312377
-      },
+      "latitude": 43.618303,
+      "longitude": -116.312377,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -65,10 +61,8 @@
       "address": "1417 Main St, Boise, ID 83702, USA",
       "street": "West University Drive",
       "zip": "83725",
-      "coordinates": {
-        "lat": 43.619453,
-        "lng": -116.21169
-      },
+      "latitude": 43.619453,
+      "longitude": -116.21169,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -91,10 +85,8 @@
       "address": "2141 Broadway Ave, Boise, ID 83706, USA",
       "street": "2141 South Broadway Avenue",
       "zip": "83706",
-      "coordinates": {
-        "lat": 43.584999,
-        "lng": -116.194501
-      },
+      "latitude": 43.584999,
+      "longitude": -116.194501,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -117,10 +109,8 @@
       "address": "250 N Orchard St, Boise, ID 83706, USA",
       "street": "250 North Orchard Street",
       "zip": "83706",
-      "coordinates": {
-        "lat": 43.606859,
-        "lng": -116.242607
-      },
+      "latitude": 43.606859,
+      "longitude": -116.242607,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -143,10 +133,8 @@
       "address": "5465 W Irving St #100, Boise, ID 83706, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.614807,
-        "lng": -116.249
-      },
+      "latitude": 43.614807,
+      "longitude": -116.249,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -169,10 +157,8 @@
       "address": "1324 Albion Ave, Burley, ID 83318, USA",
       "street": "1324 Albion Avenue",
       "zip": "83318",
-      "coordinates": {
-        "lat": 42.536328,
-        "lng": -113.792373
-      },
+      "latitude": 42.536328,
+      "longitude": -113.792373,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -195,10 +181,8 @@
       "address": "2804 Cleveland Blvd, Caldwell, ID 83605, USA",
       "street": "2804 Cleveland Boulevard",
       "zip": "83605",
-      "coordinates": {
-        "lat": 43.649219,
-        "lng": -116.668466
-      },
+      "latitude": 43.649219,
+      "longitude": -116.668466,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -221,10 +205,8 @@
       "address": "845 N 4th St, Coeur d'Alene, ID 83814, USA",
       "street": "845 North 4th Street",
       "zip": "83814",
-      "coordinates": {
-        "lat": 47.681551,
-        "lng": -116.781282
-      },
+      "latitude": 47.681551,
+      "longitude": -116.781282,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -247,10 +229,8 @@
       "address": "300 W State St, Eagle, ID 83616, USA",
       "street": "300 West State Street",
       "zip": "83616",
-      "coordinates": {
-        "lat": 43.696041,
-        "lng": -116.357626
-      },
+      "latitude": 43.696041,
+      "longitude": -116.357626,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -273,10 +253,8 @@
       "address": "255 N Woodruff Ave, Idaho Falls, ID 83401, USA",
       "street": "255 North Woodruff Avenue",
       "zip": "83401",
-      "coordinates": {
-        "lat": 43.498181,
-        "lng": -112.002137
-      },
+      "latitude": 43.498181,
+      "longitude": -112.002137,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -299,10 +277,8 @@
       "address": "233 E Main St, Jerome, ID 83338, USA",
       "street": "233 East Main Street",
       "zip": "83338",
-      "coordinates": {
-        "lat": 42.723766,
-        "lng": -114.51559
-      },
+      "latitude": 42.723766,
+      "longitude": -114.51559,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -325,10 +301,8 @@
       "address": "432 Thain Rd, Lewiston, ID 83501, USA",
       "street": "432 Thain Road",
       "zip": "83501",
-      "coordinates": {
-        "lat": 46.378172,
-        "lng": -116.973476
-      },
+      "latitude": 46.378172,
+      "longitude": -116.973476,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -351,10 +325,8 @@
       "address": "231 N Main St, Meridian, ID 83642, USA",
       "street": "231 North Main Street",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.605878,
-        "lng": -116.392792
-      },
+      "latitude": 43.605878,
+      "longitude": -116.392792,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -377,10 +349,8 @@
       "address": "228 E Main St, Middleton, ID 83644, USA",
       "street": "228 East Main Street",
       "zip": "83644",
-      "coordinates": {
-        "lat": 43.705627,
-        "lng": -116.620513
-      },
+      "latitude": 43.705627,
+      "longitude": -116.620513,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -403,10 +373,8 @@
       "address": "385 N 2nd E St, Mountain Home, ID 83647, USA",
       "street": "385 North 2nd East Street",
       "zip": "83647",
-      "coordinates": {
-        "lat": 43.133448,
-        "lng": -115.695414
-      },
+      "latitude": 43.133448,
+      "longitude": -115.695414,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -429,10 +397,8 @@
       "address": "1031 Caldwell Blvd, Nampa, ID 83651, USA",
       "street": "1031 Caldwell Boulevard",
       "zip": "83651",
-      "coordinates": {
-        "lat": 43.598834,
-        "lng": -116.59488
-      },
+      "latitude": 43.598834,
+      "longitude": -116.59488,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -455,10 +421,8 @@
       "address": "5520 E Franklin Rd, Nampa, ID 83687, USA",
       "street": "5520 East Franklin Road",
       "zip": "83687",
-      "coordinates": {
-        "lat": 43.605673,
-        "lng": -116.503832
-      },
+      "latitude": 43.605673,
+      "longitude": -116.503832,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -481,10 +445,8 @@
       "address": "2588 SW 4th Ave, Ontario, OR 97914, USA",
       "street": "2588 Southwest 4th Avenue",
       "zip": "97914",
-      "coordinates": {
-        "lat": 44.024325,
-        "lng": -117.000939
-      },
+      "latitude": 44.024325,
+      "longitude": -117.000939,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -507,10 +469,8 @@
       "address": "33 N Main St, Payette, ID 83661, USA",
       "street": "33 North Main Street",
       "zip": "83661",
-      "coordinates": {
-        "lat": 44.07575,
-        "lng": -116.935245
-      },
+      "latitude": 44.07575,
+      "longitude": -116.935245,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -533,10 +493,8 @@
       "address": "720 Yellowstone Ave, Pocatello, ID 83201, USA",
       "street": "720 Yellowstone Avenue",
       "zip": "83201",
-      "coordinates": {
-        "lat": 42.888241,
-        "lng": -112.449354
-      },
+      "latitude": 42.888241,
+      "longitude": -112.449354,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -559,10 +517,8 @@
       "address": "1600 W Seltice Way, Post Falls, ID 83854, USA",
       "street": "1600 West Seltice Way",
       "zip": "83854",
-      "coordinates": {
-        "lat": 47.715798,
-        "lng": -116.967186
-      },
+      "latitude": 47.715798,
+      "longitude": -116.967186,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -585,10 +541,8 @@
       "address": "6240 E Commerce Loop, Post Falls, ID 83854, USA",
       "street": "6240 East Commerce Loop",
       "zip": "83854",
-      "coordinates": {
-        "lat": 47.702849,
-        "lng": -116.864223
-      },
+      "latitude": 47.702849,
+      "longitude": -116.864223,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -611,10 +565,8 @@
       "address": "506 E St, Rupert, ID 83350, USA",
       "street": "E Street",
       "zip": "83350",
-      "coordinates": {
-        "lat": 42.616731,
-        "lng": -113.673111
-      },
+      "latitude": 42.616731,
+      "longitude": -113.673111,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -637,10 +589,8 @@
       "address": "1293 SW 4th Ave, Ontario, OR 97914, USA",
       "street": "1293 Southwest 4th Avenue",
       "zip": "97914",
-      "coordinates": {
-        "lat": 44.025132,
-        "lng": -116.984223
-      },
+      "latitude": 44.025132,
+      "longitude": -116.984223,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -662,10 +612,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -684,10 +632,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -706,10 +652,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -728,10 +672,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -750,10 +692,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -772,10 +712,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -794,10 +732,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -816,10 +752,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -838,10 +772,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -860,10 +792,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -882,10 +812,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -904,10 +832,8 @@
       "address": "2760 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "2760 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.627376,
-        "lng": -116.362007
-      },
+      "latitude": 43.627376,
+      "longitude": -116.362007,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -926,10 +852,8 @@
       "address": "1465 S Vinnell Way, Boise, ID 83709, USA",
       "street": "1465 South Vinnell Way",
       "zip": "83709",
-      "coordinates": {
-        "lat": 43.591317,
-        "lng": -116.287581
-      },
+      "latitude": 43.591317,
+      "longitude": -116.287581,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -950,10 +874,8 @@
       "address": "7000 W State St, Boise, ID 83714, USA",
       "street": "7000 West State Street",
       "zip": "83714",
-      "coordinates": {
-        "lat": 43.66741,
-        "lng": -116.275677
-      },
+      "latitude": 43.66741,
+      "longitude": -116.275677,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -974,10 +896,8 @@
       "address": "540 E 17th St, Idaho Falls, ID 83404, USA",
       "street": "540 East 17th Street",
       "zip": "83404",
-      "coordinates": {
-        "lat": 43.481263,
-        "lng": -112.022877
-      },
+      "latitude": 43.481263,
+      "longitude": -112.022877,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -998,10 +918,8 @@
       "address": "1375 E Fairview Ave, Meridian, ID 83642, USA",
       "street": "1375 East Fairview Avenue",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.618598,
-        "lng": -116.376803
-      },
+      "latitude": 43.618598,
+      "longitude": -116.376803,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1022,10 +940,8 @@
       "address": "1105 Caldwell Blvd, Nampa, ID 83651, USA",
       "street": "1105 Caldwell Boulevard",
       "zip": "83651",
-      "coordinates": {
-        "lat": 43.599197,
-        "lng": -116.595244
-      },
+      "latitude": 43.599197,
+      "longitude": -116.595244,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1046,10 +962,8 @@
       "address": "1570 Yellowstone Ave, Pocatello, ID 83201, USA",
       "street": "1570 Yellowstone Avenue",
       "zip": "83201",
-      "coordinates": {
-        "lat": 42.904248,
-        "lng": -112.450742
-      },
+      "latitude": 42.904248,
+      "longitude": -112.450742,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1070,10 +984,8 @@
       "address": "870 Blue Lakes Blvd N, Twin Falls, ID 83301, USA",
       "street": "870 Blue Lakes Boulevard North",
       "zip": "83301",
-      "coordinates": {
-        "lat": 42.577222,
-        "lng": -114.458354
-      },
+      "latitude": 42.577222,
+      "longitude": -114.458354,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1094,10 +1006,8 @@
       "address": "2160 Broadway Ave, Boise, ID 83706, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.585246,
-        "lng": -116.192689
-      },
+      "latitude": 43.585246,
+      "longitude": -116.192689,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1117,10 +1027,8 @@
       "address": "251 N Orchard St, Boise, ID 83706, USA",
       "street": "251 North Orchard Street",
       "zip": "83706",
-      "coordinates": {
-        "lat": 43.606672,
-        "lng": -116.243979
-      },
+      "latitude": 43.606672,
+      "longitude": -116.243979,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1140,10 +1048,8 @@
       "address": "6464 W State St, Boise, ID 83714, USA",
       "street": "6464 West State Street",
       "zip": "83714",
-      "coordinates": {
-        "lat": 43.662823,
-        "lng": -116.269102
-      },
+      "latitude": 43.662823,
+      "longitude": -116.269102,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1163,10 +1069,8 @@
       "address": "3719 Cleveland Blvd, Caldwell, ID 83605, USA",
       "street": "3719 Cleveland Boulevard",
       "zip": "83605",
-      "coordinates": {
-        "lat": 43.642995,
-        "lng": -116.657528
-      },
+      "latitude": 43.642995,
+      "longitude": -116.657528,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1186,10 +1090,8 @@
       "address": "213 N Main St, Meridian, ID 83642, USA",
       "street": "213 North Main Street",
       "zip": "83642",
-      "coordinates": {
-        "lat": 43.605449,
-        "lng": -116.392459
-      },
+      "latitude": 43.605449,
+      "longitude": -116.392459,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1209,10 +1111,8 @@
       "address": "1403 2nd St S, Nampa, ID 83651, USA",
       "street": "1403 2nd Street South",
       "zip": "83651",
-      "coordinates": {
-        "lat": 43.576355,
-        "lng": -116.558699
-      },
+      "latitude": 43.576355,
+      "longitude": -116.558699,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"

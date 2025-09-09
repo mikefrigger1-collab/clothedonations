@@ -60,7 +60,7 @@ const Header = () => {
   ];
 
   return (
-    <header className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white">
+    <header className="bg-gradient-to-r from-blue-700 to-blue-800 text-white">
       <div className="container mx-auto px-4 py-6">
         <div className="flex items-center justify-between">
           <div>

@@ -13,10 +13,8 @@
       "address": "103 MS-145, Aberdeen, MS 39730, USA",
       "street": "103 East Commerce Street",
       "zip": "39730",
-      "coordinates": {
-        "lat": 33.8276,
-        "lng": -88.562483
-      },
+      "latitude": 33.8276,
+      "longitude": -88.562483,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -41,10 +39,8 @@
       "address": "172 E Canal St, Aberdeen, MS 39730, USA",
       "street": "172 East Canal Street",
       "zip": "39730",
-      "coordinates": {
-        "lat": 33.827074,
-        "lng": -88.542721
-      },
+      "latitude": 33.827074,
+      "longitude": -88.542721,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -69,10 +65,8 @@
       "address": "297 US-90, Bay St Louis, MS 39520, USA",
       "street": "297 US 90",
       "zip": "39576",
-      "coordinates": {
-        "lat": 30.320234,
-        "lng": -89.336869
-      },
+      "latitude": 30.320234,
+      "longitude": -89.336869,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -97,10 +91,8 @@
       "address": "2 3rd St, Belmont, MS 38827, USA",
       "street": "2 3rd Street",
       "zip": "38827",
-      "coordinates": {
-        "lat": 34.507355,
-        "lng": -88.20838
-      },
+      "latitude": 34.507355,
+      "longitude": -88.20838,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -125,10 +117,8 @@
       "address": "14491 Lamey Bridge Rd, Biloxi, MS 39532, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.494437,
-        "lng": -88.907427
-      },
+      "latitude": 30.494437,
+      "longitude": -88.907427,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -153,10 +143,8 @@
       "address": "Burnsville, MS 38833, USA",
       "street": "",
       "zip": "38833",
-      "coordinates": {
-        "lat": 34.840645,
-        "lng": -88.314767
-      },
+      "latitude": 34.840645,
+      "longitude": -88.314767,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -181,10 +169,8 @@
       "address": "Old Hwy 72, Mississippi, USA",
       "street": "Old Hwy 72",
       "zip": "",
-      "coordinates": {
-        "lat": 34.926616,
-        "lng": -89.08858
-      },
+      "latitude": 34.926616,
+      "longitude": -89.08858,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -209,10 +195,8 @@
       "address": "599 S Tate St, Corinth, MS 38834, USA",
       "street": "599 South Tate Street",
       "zip": "38834",
-      "coordinates": {
-        "lat": 34.929106,
-        "lng": -88.527217
-      },
+      "latitude": 34.929106,
+      "longitude": -88.527217,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -237,10 +221,8 @@
       "address": "609 S Tate St, Corinth, MS 38834, USA",
       "street": "609 South Tate Street",
       "zip": "38834",
-      "coordinates": {
-        "lat": 34.929092,
-        "lng": -88.52724
-      },
+      "latitude": 34.929092,
+      "longitude": -88.52724,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -265,10 +247,8 @@
       "address": "609 S Tate St, Corinth, MS 38834, USA",
       "street": "609 South Tate Street",
       "zip": "38834",
-      "coordinates": {
-        "lat": 34.929092,
-        "lng": -88.52724
-      },
+      "latitude": 34.929092,
+      "longitude": -88.52724,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -293,10 +273,8 @@
       "address": "3609 US-90, Del Rio, TX 78840, USA",
       "street": "3609 Veterans Boulevard",
       "zip": "78840",
-      "coordinates": {
-        "lat": 29.368533,
-        "lng": -100.847991
-      },
+      "latitude": 29.368533,
+      "longitude": -100.847991,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -321,10 +299,8 @@
       "address": "1409 S Adams St, Fulton, MS 38843, USA",
       "street": "1409 South Adams Street",
       "zip": "38843",
-      "coordinates": {
-        "lat": 34.251336,
-        "lng": -88.402741
-      },
+      "latitude": 34.251336,
+      "longitude": -88.402741,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -349,10 +325,8 @@
       "address": "1409 S Adams St, Fulton, MS 38843, USA",
       "street": "1409 South Adams Street",
       "zip": "38843",
-      "coordinates": {
-        "lat": 34.251336,
-        "lng": -88.402741
-      },
+      "latitude": 34.251336,
+      "longitude": -88.402741,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -377,10 +351,8 @@
       "address": "1013 MS-178, Fulton, MS 38843, USA",
       "street": "1013 East Main Street",
       "zip": "38843",
-      "coordinates": {
-        "lat": 34.26427,
-        "lng": -88.446576
-      },
+      "latitude": 34.26427,
+      "longitude": -88.446576,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -405,10 +377,8 @@
       "address": "2715 US-90, Gautier, MS 39553, USA",
       "street": "2715 US 90",
       "zip": "39553",
-      "coordinates": {
-        "lat": 30.391401,
-        "lng": -88.656688
-      },
+      "latitude": 30.391401,
+      "longitude": -88.656688,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -433,10 +403,8 @@
       "address": "2967 Old Spanish Trail, Gautier, MS 39553, USA",
       "street": "2967 Old Spanish Trail",
       "zip": "39553",
-      "coordinates": {
-        "lat": 30.388312,
-        "lng": -88.659186
-      },
+      "latitude": 30.388312,
+      "longitude": -88.659186,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -461,10 +429,8 @@
       "address": "2971 Old Spanish Trail, Gautier, MS 39553, USA",
       "street": "2971 Old Spanish Trail",
       "zip": "39553",
-      "coordinates": {
-        "lat": 30.388335,
-        "lng": -88.659298
-      },
+      "latitude": 30.388335,
+      "longitude": -88.659298,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -489,10 +455,8 @@
       "address": "5302 Gautier Vancleave Rd, Gautier, MS 39553, USA",
       "street": "5302 Gautier Vancleave Road",
       "zip": "39553",
-      "coordinates": {
-        "lat": 30.417778,
-        "lng": -88.650409
-      },
+      "latitude": 30.417778,
+      "longitude": -88.650409,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -517,10 +481,8 @@
       "address": "5508 Gautier Vancleave Rd, Gautier, MS 39553, USA",
       "street": "5508 Gautier Vancleave Road",
       "zip": "39553",
-      "coordinates": {
-        "lat": 30.421916,
-        "lng": -88.648592
-      },
+      "latitude": 30.421916,
+      "longitude": -88.648592,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -545,10 +507,8 @@
       "address": "28140 MS-25, Golden, MS 38847, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.404988,
-        "lng": -88.295318
-      },
+      "latitude": 34.404988,
+      "longitude": -88.295318,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -573,10 +533,8 @@
       "address": "50004 Splunge Rd, Greenwood Springs, MS 38848, USA",
       "street": "50004 Splunge Road",
       "zip": "38848",
-      "coordinates": {
-        "lat": 33.887222,
-        "lng": -88.309011
-      },
+      "latitude": 33.887222,
+      "longitude": -88.309011,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -601,10 +559,8 @@
       "address": "10239 Three Rivers Rd, Gulfport, MS 39503, USA",
       "street": "10239 Three Rivers Road",
       "zip": "39503",
-      "coordinates": {
-        "lat": 30.432954,
-        "lng": -89.087084
-      },
+      "latitude": 30.432954,
+      "longitude": -89.087084,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -629,10 +585,8 @@
       "address": "11548 Dedeaux Rd, Gulfport, MS 39503, USA",
       "street": "11548 Dedeaux Road",
       "zip": "39503",
-      "coordinates": {
-        "lat": 30.450083,
-        "lng": -89.035443
-      },
+      "latitude": 30.450083,
+      "longitude": -89.035443,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -657,10 +611,8 @@
       "address": "15472 Duckworth Rd, Gulfport, MS 39503, USA",
       "street": "15472 Duckworth Road",
       "zip": "39503",
-      "coordinates": {
-        "lat": 30.48244,
-        "lng": -89.101522
-      },
+      "latitude": 30.48244,
+      "longitude": -89.101522,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -685,10 +637,8 @@
       "address": "16266 Robinson Rd, Gulfport, MS 39503, USA",
       "street": "16266 Robinson Road",
       "zip": "39503",
-      "coordinates": {
-        "lat": 30.464215,
-        "lng": -89.112187
-      },
+      "latitude": 30.464215,
+      "longitude": -89.112187,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -713,10 +663,8 @@
       "address": "4408 W Railroad St, Gulfport, MS 39501, USA",
       "street": "4408 West Railroad Street",
       "zip": "39501",
-      "coordinates": {
-        "lat": 30.362658,
-        "lng": -89.116276
-      },
+      "latitude": 30.362658,
+      "longitude": -89.116276,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -741,10 +689,8 @@
       "address": "615 Battleground Dr, Iuka, MS 38852, USA",
       "street": "615 Battleground Drive",
       "zip": "38852",
-      "coordinates": {
-        "lat": 34.80837,
-        "lng": -88.199414
-      },
+      "latitude": 34.80837,
+      "longitude": -88.199414,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -769,10 +715,8 @@
       "address": "615 Battleground Dr, Iuka, MS 38852, USA",
       "street": "615 Battleground Drive",
       "zip": "38852",
-      "coordinates": {
-        "lat": 34.80837,
-        "lng": -88.199414
-      },
+      "latitude": 34.80837,
+      "longitude": -88.199414,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -797,10 +741,8 @@
       "address": "17046 MS-603, Kiln, MS 39556, USA",
       "street": "17046 MS 43;MS 603",
       "zip": "39556",
-      "coordinates": {
-        "lat": 30.411445,
-        "lng": -89.434646
-      },
+      "latitude": 30.411445,
+      "longitude": -89.434646,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -825,10 +767,8 @@
       "address": "17048 MS-603, Kiln, MS 39556, USA",
       "street": "17048 MS 43;MS 603",
       "zip": "39556",
-      "coordinates": {
-        "lat": 30.411452,
-        "lng": -89.434644
-      },
+      "latitude": 30.411452,
+      "longitude": -89.434644,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -853,10 +793,8 @@
       "address": "18593 MS-43, Kiln, MS 39556, USA",
       "street": "18593 MS 43",
       "zip": "39556",
-      "coordinates": {
-        "lat": 30.428811,
-        "lng": -89.443138
-      },
+      "latitude": 30.428811,
+      "longitude": -89.443138,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -881,10 +819,8 @@
       "address": "18601 MS-43, Kiln, MS 39556, USA",
       "street": "MS 43;MS 603",
       "zip": "39556",
-      "coordinates": {
-        "lat": 30.428811,
-        "lng": -89.443138
-      },
+      "latitude": 30.428811,
+      "longitude": -89.443138,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -909,10 +845,8 @@
       "address": "18953 Commission Rd, Long Beach, MS 39560, USA",
       "street": "Commission Road",
       "zip": "39560",
-      "coordinates": {
-        "lat": 30.369123,
-        "lng": -89.153338
-      },
+      "latitude": 30.369123,
+      "longitude": -89.153338,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -937,10 +871,8 @@
       "address": "19192 Commission Rd, Long Beach, MS 39560, USA",
       "street": "19192 Commission Road",
       "zip": "39560",
-      "coordinates": {
-        "lat": 30.369471,
-        "lng": -89.169036
-      },
+      "latitude": 30.369471,
+      "longitude": -89.169036,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -965,10 +897,8 @@
       "address": "5112 Beatline Rd, Long Beach, MS 39560, USA",
       "street": "5112 Beatline Road",
       "zip": "39560",
-      "coordinates": {
-        "lat": 30.362157,
-        "lng": -89.187037
-      },
+      "latitude": 30.362157,
+      "longitude": -89.187037,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -993,10 +923,8 @@
       "address": "MS-63, Mississippi, USA",
       "street": "MS 63",
       "zip": "39452",
-      "coordinates": {
-        "lat": 30.925149,
-        "lng": -88.627989
-      },
+      "latitude": 30.925149,
+      "longitude": -88.627989,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1021,10 +949,8 @@
       "address": "New Albany, MS 38652, USA",
       "street": "",
       "zip": "38652",
-      "coordinates": {
-        "lat": 34.494268,
-        "lng": -89.007842
-      },
+      "latitude": 34.494268,
+      "longitude": -89.007842,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1049,10 +975,8 @@
       "address": "3009 Pabst Rd, Ocean Springs, MS 39564, USA",
       "street": "3009 Pabst Road",
       "zip": "39564",
-      "coordinates": {
-        "lat": 30.409718,
-        "lng": -88.777112
-      },
+      "latitude": 30.409718,
+      "longitude": -88.777112,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1077,10 +1001,8 @@
       "address": "3011 Pabst Rd, Ocean Springs, MS 39564, USA",
       "street": "3011 Pabst Road",
       "zip": "39564",
-      "coordinates": {
-        "lat": 30.409693,
-        "lng": -88.776955
-      },
+      "latitude": 30.409693,
+      "longitude": -88.776955,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1105,10 +1027,8 @@
       "address": "3176 Bienville Blvd, Ocean Springs, MS 39564, USA",
       "street": "3176 Bienville Boulevard",
       "zip": "39564",
-      "coordinates": {
-        "lat": 30.410806,
-        "lng": -88.781664
-      },
+      "latitude": 30.410806,
+      "longitude": -88.781664,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1133,10 +1053,8 @@
       "address": "6391 Campbell Rd, Ocean Springs, MS 39564, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.433753,
-        "lng": -88.71448
-      },
+      "latitude": 30.433753,
+      "longitude": -88.71448,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1161,10 +1079,8 @@
       "address": "6436 MS-57, Ocean Springs, MS 39564, USA",
       "street": "Mississippi Highway 57",
       "zip": "39564",
-      "coordinates": {
-        "lat": 30.434349,
-        "lng": -88.714715
-      },
+      "latitude": 30.434349,
+      "longitude": -88.714715,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1189,10 +1105,8 @@
       "address": "416 N Church St, Okolona, MS 38860, USA",
       "street": "416 North Church Street",
       "zip": "38860",
-      "coordinates": {
-        "lat": 34.011423,
-        "lng": -88.755033
-      },
+      "latitude": 34.011423,
+      "longitude": -88.755033,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1217,10 +1131,8 @@
       "address": "499 N Church St, Okolona, MS 38860, USA",
       "street": "499 North Church Street",
       "zip": "38860",
-      "coordinates": {
-        "lat": 34.013213,
-        "lng": -88.756217
-      },
+      "latitude": 34.013213,
+      "longitude": -88.756217,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1245,10 +1157,8 @@
       "address": "499 S Church St, Okolona, MS 38860, USA",
       "street": "499 South Church Street",
       "zip": "38860",
-      "coordinates": {
-        "lat": 33.993745,
-        "lng": -88.755906
-      },
+      "latitude": 33.993745,
+      "longitude": -88.755906,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1273,10 +1183,8 @@
       "address": "1830 E St, Pascagoula, MS 39567, USA",
       "street": "1830 E Street",
       "zip": "39567",
-      "coordinates": {
-        "lat": 30.354832,
-        "lng": -88.545428
-      },
+      "latitude": 30.354832,
+      "longitude": -88.545428,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1301,10 +1209,8 @@
       "address": "1025 Ridge Rd, Perkinston, MS 39573, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.714999,
-        "lng": -89.320759
-      },
+      "latitude": 30.714999,
+      "longitude": -89.320759,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1329,10 +1235,8 @@
       "address": "1552 Palestine Rd, Picayune, MS 39466, USA",
       "street": "1552 Palestine Road",
       "zip": "39466",
-      "coordinates": {
-        "lat": 30.526848,
-        "lng": -89.698018
-      },
+      "latitude": 30.526848,
+      "longitude": -89.698018,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1357,10 +1261,8 @@
       "address": "18 Stafford Rd, Picayune, MS 39466, USA",
       "street": "18 Stafford Road",
       "zip": "39466",
-      "coordinates": {
-        "lat": 30.517862,
-        "lng": -89.650132
-      },
+      "latitude": 30.517862,
+      "longitude": -89.650132,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1385,10 +1287,8 @@
       "address": "360 MS-26, Poplarville, MS 39470, USA",
       "street": "360 MS 26",
       "zip": "39470",
-      "coordinates": {
-        "lat": 30.843924,
-        "lng": -89.511269
-      },
+      "latitude": 30.843924,
+      "longitude": -89.511269,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1413,10 +1313,8 @@
       "address": "17067 W Wortham Rd, Saucier, MS 39574, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.555124,
-        "lng": -89.122668
-      },
+      "latitude": 30.555124,
+      "longitude": -89.122668,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1441,10 +1339,8 @@
       "address": "20384 US 49, Saucier, MS 39574, USA",
       "street": "US 49",
       "zip": "39574",
-      "coordinates": {
-        "lat": 30.584747,
-        "lng": -89.126562
-      },
+      "latitude": 30.584747,
+      "longitude": -89.126562,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1469,10 +1365,8 @@
       "address": "23481 Central Dr, Saucier, MS 39574, USA",
       "street": "23481 Central Drive",
       "zip": "39574",
-      "coordinates": {
-        "lat": 30.63001,
-        "lng": -89.132747
-      },
+      "latitude": 30.63001,
+      "longitude": -89.132747,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1497,10 +1391,8 @@
       "address": "1480 MS-25, Tishomingo, MS 38873, USA",
       "street": "1480 MS 25",
       "zip": "38873",
-      "coordinates": {
-        "lat": 34.665279,
-        "lng": -88.226072
-      },
+      "latitude": 34.665279,
+      "longitude": -88.226072,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1525,10 +1417,8 @@
       "address": "13815 Jericho Rd, Vancleave, MS 39565, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.546634,
-        "lng": -88.714234
-      },
+      "latitude": 30.546634,
+      "longitude": -88.714234,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1553,10 +1443,8 @@
       "address": "1793 S Azalea Dr, Wiggins, MS 39577, USA",
       "street": "1793 South Azalea Drive",
       "zip": "39577",
-      "coordinates": {
-        "lat": 30.829487,
-        "lng": -89.136404
-      },
+      "latitude": 30.829487,
+      "longitude": -89.136404,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1581,10 +1469,8 @@
       "address": "1923 Spillway Rd, Brandon, MS 39047, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.379059,
-        "lng": -90.033009
-      },
+      "latitude": 32.379059,
+      "longitude": -90.033009,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1605,10 +1491,8 @@
       "address": "941 US-80, Clinton, MS 39056, USA",
       "street": "941 US 80",
       "zip": "39056",
-      "coordinates": {
-        "lat": 32.32996,
-        "lng": -90.304792
-      },
+      "latitude": 32.32996,
+      "longitude": -90.304792,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1629,10 +1513,8 @@
       "address": "5916 US 49, Hattiesburg, MS 39401, USA",
       "street": "5916 US 49",
       "zip": "39401",
-      "coordinates": {
-        "lat": 31.311847,
-        "lng": -89.320138
-      },
+      "latitude": 31.311847,
+      "longitude": -89.320138,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1653,10 +1535,8 @@
       "address": "2 Twelve Oak Cir, Jackson, MS 39209, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.299765,
-        "lng": -90.260611
-      },
+      "latitude": 32.299765,
+      "longitude": -90.260611,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1677,10 +1557,8 @@
       "address": "4950 I-55, Jackson, MS 39211, USA",
       "street": "I 55",
       "zip": "39211",
-      "coordinates": {
-        "lat": 32.364857,
-        "lng": -90.147846
-      },
+      "latitude": 32.364857,
+      "longitude": -90.147846,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1701,10 +1579,8 @@
       "address": "5708 US-80, Pearl, MS 39208, USA",
       "street": "US 80",
       "zip": "39208",
-      "coordinates": {
-        "lat": 32.284622,
-        "lng": -90.042404
-      },
+      "latitude": 32.284622,
+      "longitude": -90.042404,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1725,10 +1601,8 @@
       "address": "637 US-51, Ridgeland, MS 39157, USA",
       "street": "637 United States Highway 51",
       "zip": "39157",
-      "coordinates": {
-        "lat": 32.436222,
-        "lng": -90.125663
-      },
+      "latitude": 32.436222,
+      "longitude": -90.125663,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1749,10 +1623,8 @@
       "address": "863 Centre St, Ridgeland, MS 39157, USA",
       "street": "863 Centre Street",
       "zip": "39157",
-      "coordinates": {
-        "lat": 32.401743,
-        "lng": -90.137469
-      },
+      "latitude": 32.401743,
+      "longitude": -90.137469,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",

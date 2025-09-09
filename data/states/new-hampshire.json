@@ -13,10 +13,8 @@
       "address": "93 S Maple St, Manchester, NH 03103, USA",
       "street": "93 South Maple Street",
       "zip": "3103",
-      "coordinates": {
-        "lat": 42.971042,
-        "lng": -71.453962
-      },
+      "latitude": 42.971042,
+      "longitude": -71.453962,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -40,10 +38,8 @@
       "address": "224 Daniel Webster Hwy, Nashua, NH 03060, USA",
       "street": "224 Daniel Webster Highway",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.712392,
-        "lng": -71.440975
-      },
+      "latitude": 42.712392,
+      "longitude": -71.440975,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -67,10 +63,8 @@
       "address": "292 Daniel Webster Hwy, Nashua, NH 03060, USA",
       "street": "292 Daniel Webster Highway",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.704478,
-        "lng": -71.436653
-      },
+      "latitude": 42.704478,
+      "longitude": -71.436653,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -94,10 +88,8 @@
       "address": "2064 Woodbury Ave, Newington, NH 03801, USA",
       "street": "2064 Woodbury Avenue",
       "zip": "3801",
-      "coordinates": {
-        "lat": 43.095955,
-        "lng": -70.801961
-      },
+      "latitude": 43.095955,
+      "longitude": -70.801961,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -121,10 +113,8 @@
       "address": "9 Plaistow Rd Unit 9-A, Plaistow, NH 03865, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.817573,
-        "lng": -71.100659
-      },
+      "latitude": 42.817573,
+      "longitude": -71.100659,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -148,10 +138,8 @@
       "address": "66 Goodell Rd, Antrim, NH 03440, USA",
       "street": "66 Goodell Road",
       "zip": "3440",
-      "coordinates": {
-        "lat": 43.047774,
-        "lng": -71.932097
-      },
+      "latitude": 43.047774,
+      "longitude": -71.932097,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -173,10 +161,8 @@
       "address": "108 Greenhill Rd, Barrington, NH 03825, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.243369,
-        "lng": -70.997445
-      },
+      "latitude": 43.243369,
+      "longitude": -70.997445,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -198,10 +184,8 @@
       "address": "585 Calef Hwy, Barrington, NH 03825, USA",
       "street": "585 Calef Highway",
       "zip": "3825",
-      "coordinates": {
-        "lat": 43.207597,
-        "lng": -70.995939
-      },
+      "latitude": 43.207597,
+      "longitude": -70.995939,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -223,10 +207,8 @@
       "address": "186 N Bennington Rd, Bennington, NH 03442, USA",
       "street": "186 North Bennington Road",
       "zip": "3442",
-      "coordinates": {
-        "lat": 43.030581,
-        "lng": -71.912477
-      },
+      "latitude": 43.030581,
+      "longitude": -71.912477,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -248,10 +230,8 @@
       "address": "500 Todd Rd, Francestown, NH 03043, USA",
       "street": "500 Todd Road",
       "zip": "3043",
-      "coordinates": {
-        "lat": 43.005247,
-        "lng": -71.818906
-      },
+      "latitude": 43.005247,
+      "longitude": -71.818906,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -273,10 +253,8 @@
       "address": "332 Sawmill Rd, Greenfield, NH 03047, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.970922,
-        "lng": -71.894807
-      },
+      "latitude": 42.970922,
+      "longitude": -71.894807,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -298,10 +276,8 @@
       "address": "44 Bennington Rd, Hancock, NH 03449, USA",
       "street": "44 Bennington Road",
       "zip": "3449",
-      "coordinates": {
-        "lat": 42.979642,
-        "lng": -71.978735
-      },
+      "latitude": 42.979642,
+      "longitude": -71.978735,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -323,10 +299,8 @@
       "address": "22 Municipal Dr, Hillsboro, NH 03244, USA",
       "street": "22 Municipal Drive",
       "zip": "3244",
-      "coordinates": {
-        "lat": 43.112406,
-        "lng": -71.909521
-      },
+      "latitude": 43.112406,
+      "longitude": -71.909521,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -348,10 +322,8 @@
       "address": "87 Calef Hwy, Lee, NH 03824, USA",
       "street": "87 Calef Highway",
       "zip": "3861",
-      "coordinates": {
-        "lat": 43.144016,
-        "lng": -71.008633
-      },
+      "latitude": 43.144016,
+      "longitude": -71.008633,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -373,10 +345,8 @@
       "address": "121 Cedar St, Manchester, NH 03101, USA",
       "street": "121 Cedar Street",
       "zip": "3103",
-      "coordinates": {
-        "lat": 42.985553,
-        "lng": -71.459898
-      },
+      "latitude": 42.985553,
+      "longitude": -71.459898,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -398,10 +368,8 @@
       "address": "369 Water St, West Newfield, ME 04095, USA",
       "street": "369 Water Street",
       "zip": "4095",
-      "coordinates": {
-        "lat": 43.641818,
-        "lng": -70.891147
-      },
+      "latitude": 43.641818,
+      "longitude": -70.891147,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -423,10 +391,8 @@
       "address": "28 Signal St, Rochester, NH 03867, USA",
       "street": "28 Signal Street",
       "zip": "3867",
-      "coordinates": {
-        "lat": 43.306216,
-        "lng": -70.973873
-      },
+      "latitude": 43.306216,
+      "longitude": -70.973873,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -448,10 +414,8 @@
       "address": "369 Rochester Hill Rd, Rochester, NH 03867, USA",
       "street": "369 Rochester Hill Road",
       "zip": "3867",
-      "coordinates": {
-        "lat": 43.272271,
-        "lng": -70.91239
-      },
+      "latitude": 43.272271,
+      "longitude": -70.91239,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -473,10 +437,8 @@
       "address": "Isinglass River, New Hampshire, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.241547,
-        "lng": -71.050917
-      },
+      "latitude": 43.241547,
+      "longitude": -71.050917,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -498,10 +460,8 @@
       "address": "22 Back Rd, Shapleigh, ME 04076, USA",
       "street": "22 Back Road",
       "zip": "4076",
-      "coordinates": {
-        "lat": 43.539855,
-        "lng": -70.845962
-      },
+      "latitude": 43.539855,
+      "longitude": -70.845962,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -523,10 +483,8 @@
       "address": "131 NH-101A, Amherst, NH 03031, USA",
       "street": "131 State Route 101A",
       "zip": "3031",
-      "coordinates": {
-        "lat": 42.805926,
-        "lng": -71.566229
-      },
+      "latitude": 42.805926,
+      "longitude": -71.566229,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -547,10 +505,8 @@
       "address": "43 Industrial Dr, Belmont, NH 03220, USA",
       "street": "43 Industrial Drive",
       "zip": "3220",
-      "coordinates": {
-        "lat": 43.447469,
-        "lng": -71.520556
-      },
+      "latitude": 43.447469,
+      "longitude": -71.520556,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -571,10 +527,8 @@
       "address": "95 Daniel Webster Hwy, Belmont, NH 03220, USA",
       "street": "95 Daniel Webster Highway",
       "zip": "3220",
-      "coordinates": {
-        "lat": 43.51341,
-        "lng": -71.49164
-      },
+      "latitude": 43.51341,
+      "longitude": -71.49164,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -595,10 +549,8 @@
       "address": "204 Loudon Rd, Concord, NH 03301, USA",
       "street": "204 Loudon Road",
       "zip": "3301",
-      "coordinates": {
-        "lat": 43.219843,
-        "lng": -71.496999
-      },
+      "latitude": 43.219843,
+      "longitude": -71.496999,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -619,10 +571,8 @@
       "address": "28 Manchester Rd #19C, Derry, NH 03038, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.89772,
-        "lng": -71.333587
-      },
+      "latitude": 42.89772,
+      "longitude": -71.333587,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -643,10 +593,8 @@
       "address": "1292 Hooksett Rd, Hooksett, NH 03106, USA",
       "street": "1292 Hooksett Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.05103,
-        "lng": -71.439143
-      },
+      "latitude": 43.05103,
+      "longitude": -71.439143,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -667,10 +615,8 @@
       "address": "9 Wason Rd, Hudson, NH 03051, USA",
       "street": "9 Wason Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.730792,
-        "lng": -71.423443
-      },
+      "latitude": 42.730792,
+      "longitude": -71.423443,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -691,10 +637,8 @@
       "address": "9 Wason Rd, Hudson, NH 03051, USA",
       "street": "9 Wason Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.730792,
-        "lng": -71.423443
-      },
+      "latitude": 42.730792,
+      "longitude": -71.423443,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -715,10 +659,8 @@
       "address": "165 John E Devine Dr, Manchester, NH 03103, USA",
       "street": "165 John E. Devine Drive",
       "zip": "3103",
-      "coordinates": {
-        "lat": 42.958782,
-        "lng": -71.440419
-      },
+      "latitude": 42.958782,
+      "longitude": -71.440419,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -739,10 +681,8 @@
       "address": "50 Bridge St #106, Manchester, NH 03101, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.995116,
-        "lng": -71.461522
-      },
+      "latitude": 42.995116,
+      "longitude": -71.461522,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -763,10 +703,8 @@
       "address": "720 Lafayette Rd, Portsmouth, NH 03801, USA",
       "street": "720 Lafayette Road",
       "zip": "3801",
-      "coordinates": {
-        "lat": 43.05489,
-        "lng": -70.770649
-      },
+      "latitude": 43.05489,
+      "longitude": -70.770649,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -787,10 +725,8 @@
       "address": "140 Prescott Rd, Raymond, NH 03077, USA",
       "street": "140 Prescott Road",
       "zip": "3077",
-      "coordinates": {
-        "lat": 43.012225,
-        "lng": -71.161996
-      },
+      "latitude": 43.012225,
+      "longitude": -71.161996,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -811,10 +747,8 @@
       "address": "23 S Broadway, Salem, NH 03079, USA",
       "street": "23 South Broadway",
       "zip": "3079",
-      "coordinates": {
-        "lat": 42.77972,
-        "lng": -71.227095
-      },
+      "latitude": 42.77972,
+      "longitude": -71.227095,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -835,10 +769,8 @@
       "address": "21 Chevy Chase Rd, Seabrook, NH 03874, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.891465,
-        "lng": -70.870131
-      },
+      "latitude": 42.891465,
+      "longitude": -70.870131,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -859,10 +791,8 @@
       "address": "450 High St, Somersworth, NH 03878, USA",
       "street": "450 High Street",
       "zip": "3878",
-      "coordinates": {
-        "lat": 43.230565,
-        "lng": -70.881439
-      },
+      "latitude": 43.230565,
+      "longitude": -70.881439,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -883,10 +813,8 @@
       "address": "432 Boston Post Rd, Amherst, NH 03031, USA",
       "street": "432 Boston Post Road",
       "zip": "3031",
-      "coordinates": {
-        "lat": 42.81983,
-        "lng": -71.580392
-      },
+      "latitude": 42.81983,
+      "longitude": -71.580392,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -907,10 +835,8 @@
       "address": "111 State Rte 101A, Amherst, NH 03031, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.80836,
-        "lng": -71.572521
-      },
+      "latitude": 42.80836,
+      "longitude": -71.572521,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -931,10 +857,8 @@
       "address": "76 Main St, Antrim, NH 03440, USA",
       "street": "76 Main Street",
       "zip": "3440",
-      "coordinates": {
-        "lat": 43.030654,
-        "lng": -71.938768
-      },
+      "latitude": 43.030654,
+      "longitude": -71.938768,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -955,10 +879,8 @@
       "address": "4 Main St, Atkinson, NH 03811, USA",
       "street": "4 Main Street",
       "zip": "3811",
-      "coordinates": {
-        "lat": 42.819773,
-        "lng": -71.11631
-      },
+      "latitude": 42.819773,
+      "longitude": -71.11631,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -979,10 +901,8 @@
       "address": "1 Commerce Dr, Bedford, NH 03110, USA",
       "street": "1 Commerce Drive",
       "zip": "3110",
-      "coordinates": {
-        "lat": 42.929326,
-        "lng": -71.462238
-      },
+      "latitude": 42.929326,
+      "longitude": -71.462238,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1003,10 +923,8 @@
       "address": "15 Iron Horse Dr, Bedford, NH 03110, USA",
       "street": "15 Iron Horse Drive",
       "zip": "3110",
-      "coordinates": {
-        "lat": 42.918133,
-        "lng": -71.456098
-      },
+      "latitude": 42.918133,
+      "longitude": -71.456098,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1027,10 +945,8 @@
       "address": "148 Route 202, Bennington, NH 03442, USA",
       "street": "State Route 202",
       "zip": "3442",
-      "coordinates": {
-        "lat": 43.002936,
-        "lng": -71.908029
-      },
+      "latitude": 43.002936,
+      "longitude": -71.908029,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1051,10 +967,8 @@
       "address": "29 N Main St, Boscawen, NH 03303, USA",
       "street": "29 North Main Street",
       "zip": "3303",
-      "coordinates": {
-        "lat": 43.283301,
-        "lng": -71.602676
-      },
+      "latitude": 43.283301,
+      "longitude": -71.602676,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1075,10 +989,8 @@
       "address": "519 South St, Bow, NH 03304, USA",
       "street": "519 South Street",
       "zip": "3304",
-      "coordinates": {
-        "lat": 43.169743,
-        "lng": -71.533938
-      },
+      "latitude": 43.169743,
+      "longitude": -71.533938,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1099,10 +1011,8 @@
       "address": "520 South St, Bow, NH 03304, USA",
       "street": "520 South Street",
       "zip": "3304",
-      "coordinates": {
-        "lat": 43.170062,
-        "lng": -71.535561
-      },
+      "latitude": 43.170062,
+      "longitude": -71.535561,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1123,10 +1033,8 @@
       "address": "75 Route 13, Brookline, NH 03033, USA",
       "street": "75 Route 13",
       "zip": "3033",
-      "coordinates": {
-        "lat": 42.73481,
-        "lng": -71.65813
-      },
+      "latitude": 42.73481,
+      "longitude": -71.65813,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1147,10 +1055,8 @@
       "address": "102 Route 13, Brookline, NH 03033, USA",
       "street": "102 Route 13",
       "zip": "3033",
-      "coordinates": {
-        "lat": 42.73481,
-        "lng": -71.65813
-      },
+      "latitude": 42.73481,
+      "longitude": -71.65813,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1171,10 +1077,8 @@
       "address": "38 N Mason Rd, Brookline, NH 03033, USA",
       "street": "38 North Mason Road",
       "zip": "3033",
-      "coordinates": {
-        "lat": 42.763197,
-        "lng": -71.686003
-      },
+      "latitude": 42.763197,
+      "longitude": -71.686003,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1195,10 +1099,8 @@
       "address": "181 Dover Rd, Chichester, NH 03258, USA",
       "street": "181 Dover Road",
       "zip": "3258",
-      "coordinates": {
-        "lat": 43.246644,
-        "lng": -71.411055
-      },
+      "latitude": 43.246644,
+      "longitude": -71.411055,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1219,10 +1121,8 @@
       "address": "83 Dover Rd, Chichester, NH 03258, USA",
       "street": "83 Dover Road",
       "zip": "3234",
-      "coordinates": {
-        "lat": 43.238571,
-        "lng": -71.397239
-      },
+      "latitude": 43.238571,
+      "longitude": -71.397239,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1243,10 +1143,8 @@
       "address": "1 Ferrin Rd, Chichester, NH 03258, USA",
       "street": "1 Ferrin Road",
       "zip": "3258",
-      "coordinates": {
-        "lat": 43.274935,
-        "lng": -71.394341
-      },
+      "latitude": 43.274935,
+      "longitude": -71.394341,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1267,10 +1165,8 @@
       "address": "339 Mountain Road, Concord, NH 03301, USA",
       "street": "339 Mountain Road",
       "zip": "3301",
-      "coordinates": {
-        "lat": 43.230314,
-        "lng": -71.536101
-      },
+      "latitude": 43.230314,
+      "longitude": -71.536101,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1291,10 +1187,8 @@
       "address": "2 Quincy St, Concord, NH 03301, USA",
       "street": "2 Quincy Street",
       "zip": "3301",
-      "coordinates": {
-        "lat": 43.210107,
-        "lng": -71.515723
-      },
+      "latitude": 43.210107,
+      "longitude": -71.515723,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1315,10 +1209,8 @@
       "address": "131 Old Turnpike Rd, Concord, NH 03301, USA",
       "street": "131 Old Turnpike Road",
       "zip": "3301",
-      "coordinates": {
-        "lat": 43.205177,
-        "lng": -71.51304
-      },
+      "latitude": 43.205177,
+      "longitude": -71.51304,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1339,10 +1231,8 @@
       "address": "201 S Main St, Concord, NH 03301, USA",
       "street": "201 South Main Street",
       "zip": "3301",
-      "coordinates": {
-        "lat": 43.196733,
-        "lng": -71.530514
-      },
+      "latitude": 43.196733,
+      "longitude": -71.530514,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1363,10 +1253,8 @@
       "address": "172-174 Loudon Rd, Concord, NH 03301, USA",
       "street": "Loudon Road",
       "zip": "3301",
-      "coordinates": {
-        "lat": 43.218016,
-        "lng": -71.502264
-      },
+      "latitude": 43.218016,
+      "longitude": -71.502264,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1387,10 +1275,8 @@
       "address": "8 Raymond Rd, Deerfield, NH 03037, USA",
       "street": "8 Raymond Road",
       "zip": "3037",
-      "coordinates": {
-        "lat": 43.131551,
-        "lng": -71.238565
-      },
+      "latitude": 43.131551,
+      "longitude": -71.238565,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1411,10 +1297,8 @@
       "address": "51 Brown Rd, Deerfield, NH 03037, USA",
       "street": "51 Brown Road",
       "zip": "3037",
-      "coordinates": {
-        "lat": 43.092259,
-        "lng": -71.221659
-      },
+      "latitude": 43.092259,
+      "longitude": -71.221659,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1435,10 +1319,8 @@
       "address": "65 East Broadway, Derry, NH 03038, USA",
       "street": "65 East Broadway",
       "zip": "3038",
-      "coordinates": {
-        "lat": 42.88973,
-        "lng": -71.27786
-      },
+      "latitude": 42.88973,
+      "longitude": -71.27786,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1459,10 +1341,8 @@
       "address": "133 East Broadway, Derry, NH 03038, USA",
       "street": "133 East Broadway",
       "zip": "3038",
-      "coordinates": {
-        "lat": 42.88973,
-        "lng": -71.27786
-      },
+      "latitude": 42.88973,
+      "longitude": -71.27786,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1483,10 +1363,8 @@
       "address": "150 Rockingham Rd, Derry, NH 03038, USA",
       "street": "150 Rockingham Road",
       "zip": "3038",
-      "coordinates": {
-        "lat": 42.863612,
-        "lng": -71.288223
-      },
+      "latitude": 42.863612,
+      "longitude": -71.288223,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1507,10 +1385,8 @@
       "address": "158 Rockingham Rd, Derry, NH 03038, USA",
       "street": "158 Rockingham Road",
       "zip": "3038",
-      "coordinates": {
-        "lat": 42.862333,
-        "lng": -71.286598
-      },
+      "latitude": 42.862333,
+      "longitude": -71.286598,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1531,10 +1407,8 @@
       "address": "37 Birch St, Derry, NH 03038, USA",
       "street": "37 Birch Street",
       "zip": "3038",
-      "coordinates": {
-        "lat": 42.877694,
-        "lng": -71.32098
-      },
+      "latitude": 42.877694,
+      "longitude": -71.32098,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1555,10 +1429,8 @@
       "address": "223 Rockingham Rd, Derry, NH 03038, USA",
       "street": "223 Rockingham Road",
       "zip": "3038",
-      "coordinates": {
-        "lat": 42.85287,
-        "lng": -71.276798
-      },
+      "latitude": 42.85287,
+      "longitude": -71.276798,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1579,10 +1451,8 @@
       "address": "221 County Farm Rd, Dover, NH 03820, USA",
       "street": "221 County Farm Road",
       "zip": "3820",
-      "coordinates": {
-        "lat": 43.218076,
-        "lng": -70.930555
-      },
+      "latitude": 43.218076,
+      "longitude": -70.930555,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1603,10 +1473,8 @@
       "address": "869 Central Ave, Dover, NH 03820, USA",
       "street": "869 Central Avenue",
       "zip": "3820",
-      "coordinates": {
-        "lat": 43.21774,
-        "lng": -70.882086
-      },
+      "latitude": 43.21774,
+      "longitude": -70.882086,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1627,10 +1495,8 @@
       "address": "130 Cobb Meadow Rd, Dublin, NH 03444, USA",
       "street": "130 Cobb Meadow Road",
       "zip": "3444",
-      "coordinates": {
-        "lat": 42.910971,
-        "lng": -72.030601
-      },
+      "latitude": 42.910971,
+      "longitude": -72.030601,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1651,10 +1517,8 @@
       "address": "5 Dennison Rd, Durham, NH 03824, USA",
       "street": "5 Dennison Road",
       "zip": "3824",
-      "coordinates": {
-        "lat": 43.136809,
-        "lng": -70.924375
-      },
+      "latitude": 43.136809,
+      "longitude": -70.924375,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1675,10 +1539,8 @@
       "address": "223 E Main St, East Hampstead, NH 03826, USA",
       "street": "223 East Main Street",
       "zip": "3826",
-      "coordinates": {
-        "lat": 42.890498,
-        "lng": -71.136715
-      },
+      "latitude": 42.890498,
+      "longitude": -71.136715,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1699,10 +1561,8 @@
       "address": "306 Sandown Rd, East Hampstead, NH 03826, USA",
       "street": "306 Sandown Road",
       "zip": "3826",
-      "coordinates": {
-        "lat": 42.892945,
-        "lng": -71.143916
-      },
+      "latitude": 42.892945,
+      "longitude": -71.143916,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1723,10 +1583,8 @@
       "address": "7 Exeter Rd, Epping, NH 03042, USA",
       "street": "7 Exeter Road",
       "zip": "3042",
-      "coordinates": {
-        "lat": 43.035661,
-        "lng": -71.069077
-      },
+      "latitude": 43.035661,
+      "longitude": -71.069077,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1747,10 +1605,8 @@
       "address": "135 Old Hedding Rd, Epping, NH 03042, USA",
       "street": "Old Hedding Road",
       "zip": "3042",
-      "coordinates": {
-        "lat": 43.048863,
-        "lng": -71.044828
-      },
+      "latitude": 43.048863,
+      "longitude": -71.044828,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1771,10 +1627,8 @@
       "address": "36 Fresh River Rd, Epping, NH 03042, USA",
       "street": "36 Fresh River Road",
       "zip": "3042",
-      "coordinates": {
-        "lat": 43.031667,
-        "lng": -71.06925
-      },
+      "latitude": 43.031667,
+      "longitude": -71.06925,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1795,10 +1649,8 @@
       "address": "15 Hampton Rd, Exeter, NH 03833, USA",
       "street": "15 Hampton Road",
       "zip": "3833",
-      "coordinates": {
-        "lat": 42.976074,
-        "lng": -70.912878
-      },
+      "latitude": 42.976074,
+      "longitude": -70.912878,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1819,10 +1671,8 @@
       "address": "2 Pine Rd, Exeter, NH 03833, USA",
       "street": "2 Jubal Martin Road",
       "zip": "3833",
-      "coordinates": {
-        "lat": 43.013415,
-        "lng": -71.008043
-      },
+      "latitude": 43.013415,
+      "longitude": -71.008043,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1843,10 +1693,8 @@
       "address": "128 Rt. 12, Fitzwilliam, NH 03447, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.78064,
-        "lng": -72.14175
-      },
+      "latitude": 42.78064,
+      "longitude": -72.14175,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1867,10 +1715,8 @@
       "address": "27 Rhododendron Rd, Fitzwilliam, NH 03447, USA",
       "street": "27 Rhododendron Road",
       "zip": "3447",
-      "coordinates": {
-        "lat": 42.772176,
-        "lng": -72.153507
-      },
+      "latitude": 42.772176,
+      "longitude": -72.153507,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1891,10 +1737,8 @@
       "address": "249 Route 12, Fitzwilliam, NH 03447, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.78064,
-        "lng": -72.14175
-      },
+      "latitude": 42.78064,
+      "longitude": -72.14175,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1915,10 +1759,8 @@
       "address": "425 Main St, Fremont, NH 03044, USA",
       "street": "425 Main Street",
       "zip": "3044",
-      "coordinates": {
-        "lat": 42.984836,
-        "lng": -71.132118
-      },
+      "latitude": 42.984836,
+      "longitude": -71.132118,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1939,10 +1781,8 @@
       "address": "295 Main St, Fremont, NH 03044, USA",
       "street": "295 Main Street",
       "zip": "3044",
-      "coordinates": {
-        "lat": 42.990133,
-        "lng": -71.141326
-      },
+      "latitude": 42.990133,
+      "longitude": -71.141326,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1963,10 +1803,8 @@
       "address": "64 Daniel Plummer Rd, Goffstown, NH 03045, USA",
       "street": "64 Daniel Plummer Road",
       "zip": "3045",
-      "coordinates": {
-        "lat": 42.99593,
-        "lng": -71.521074
-      },
+      "latitude": 42.99593,
+      "longitude": -71.521074,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1987,10 +1825,8 @@
       "address": "783 Forest Rd, Greenfield, NH 03047, USA",
       "street": "783 Forest Road",
       "zip": "3047",
-      "coordinates": {
-        "lat": 42.950136,
-        "lng": -71.872858
-      },
+      "latitude": 42.950136,
+      "longitude": -71.872858,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2011,10 +1847,8 @@
       "address": "19 McElwain, Greenfield, NH 03047, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.929346,
-        "lng": -71.859087
-      },
+      "latitude": 42.929346,
+      "longitude": -71.859087,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2035,10 +1869,8 @@
       "address": "650 Portsmouth Ave, Greenland, NH 03840, USA",
       "street": "650 Portsmouth Avenue",
       "zip": "3840",
-      "coordinates": {
-        "lat": 43.036529,
-        "lng": -70.843298
-      },
+      "latitude": 43.036529,
+      "longitude": -70.843298,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2059,10 +1891,8 @@
       "address": "40 Stickney Ter, Hampton, NH 03842, USA",
       "street": "40 Stickney Terrace",
       "zip": "3842",
-      "coordinates": {
-        "lat": 42.936222,
-        "lng": -70.840179
-      },
+      "latitude": 42.936222,
+      "longitude": -70.840179,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2083,10 +1913,8 @@
       "address": "644 Lafayette Rd, Hampton, NH 03842, USA",
       "street": "644 Lafayette Road",
       "zip": "3842",
-      "coordinates": {
-        "lat": 42.945935,
-        "lng": -70.833862
-      },
+      "latitude": 42.945935,
+      "longitude": -70.833862,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2107,10 +1935,8 @@
       "address": "747 Lafayette Rd, Hampton, NH 03842, USA",
       "street": "747 Lafayette Road",
       "zip": "3842",
-      "coordinates": {
-        "lat": 42.948235,
-        "lng": -70.831971
-      },
+      "latitude": 42.948235,
+      "longitude": -70.831971,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2131,10 +1957,8 @@
       "address": "235 Landing Rd, Hampton, NH 03842, USA",
       "street": "235 Landing Road",
       "zip": "3842",
-      "coordinates": {
-        "lat": 42.929521,
-        "lng": -70.827126
-      },
+      "latitude": 42.929521,
+      "longitude": -70.827126,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2155,10 +1979,8 @@
       "address": "100 Bradford Rd, Henniker, NH 03242, USA",
       "street": "100 Bradford Road",
       "zip": "3242",
-      "coordinates": {
-        "lat": 43.190721,
-        "lng": -71.827521
-      },
+      "latitude": 43.190721,
+      "longitude": -71.827521,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2179,10 +2001,8 @@
       "address": "275 W Main St, Hillsborough, NH 03244, USA",
       "street": "275 West Main Street",
       "zip": "3244",
-      "coordinates": {
-        "lat": 43.112511,
-        "lng": -71.91491
-      },
+      "latitude": 43.112511,
+      "longitude": -71.91491,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2203,10 +2023,8 @@
       "address": "356 W Main St, Hillsborough, NH 03244, USA",
       "street": "356 West Main Street",
       "zip": "3244",
-      "coordinates": {
-        "lat": 43.112449,
-        "lng": -71.923853
-      },
+      "latitude": 43.112449,
+      "longitude": -71.923853,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2227,10 +2045,8 @@
       "address": "99 Henniker St, Hillsborough, NH 03244, USA",
       "street": "99 Henniker Street",
       "zip": "3244",
-      "coordinates": {
-        "lat": 43.11881,
-        "lng": -71.887589
-      },
+      "latitude": 43.11881,
+      "longitude": -71.887589,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2251,10 +2067,8 @@
       "address": "188 W Main St, Hillsborough, NH 03244, USA",
       "street": "188 West Main Street",
       "zip": "3244",
-      "coordinates": {
-        "lat": 43.110335,
-        "lng": -71.908507
-      },
+      "latitude": 43.110335,
+      "longitude": -71.908507,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2275,10 +2089,8 @@
       "address": "6 Ash St, Hollis, NH 03049, USA",
       "street": "6 Ash Street",
       "zip": "3049",
-      "coordinates": {
-        "lat": 42.743407,
-        "lng": -71.59011
-      },
+      "latitude": 42.743407,
+      "longitude": -71.59011,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2299,10 +2111,8 @@
       "address": "85 Runnells Bridge Rd, Hollis, NH 03049, USA",
       "street": "85 Runnells Bridge Road",
       "zip": "3049",
-      "coordinates": {
-        "lat": 42.711336,
-        "lng": -71.551568
-      },
+      "latitude": 42.711336,
+      "longitude": -71.551568,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2323,10 +2133,8 @@
       "address": "124 Mammoth Rd, Hooksett, NH 03106, USA",
       "street": "124 Mammoth Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.033803,
-        "lng": -71.433562
-      },
+      "latitude": 43.033803,
+      "longitude": -71.433562,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2347,10 +2155,8 @@
       "address": "1115 Hooksett Rd, Hooksett, NH 03106, USA",
       "street": "1115 Hooksett Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.030197,
-        "lng": -71.43671
-      },
+      "latitude": 43.030197,
+      "longitude": -71.43671,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2371,10 +2177,8 @@
       "address": "36 W River Rd, Hooksett, NH 03106, USA",
       "street": "36 West River Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.041161,
-        "lng": -71.469151
-      },
+      "latitude": 43.041161,
+      "longitude": -71.469151,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2395,10 +2199,8 @@
       "address": "254 W River Rd, Hooksett, NH 03106, USA",
       "street": "254 West River Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.06845,
-        "lng": -71.469208
-      },
+      "latitude": 43.06845,
+      "longitude": -71.469208,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2419,10 +2221,8 @@
       "address": "1371 Hooksett Road, Hooksett, NH 03106, USA",
       "street": "1371 Hooksett Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.065097,
-        "lng": -71.443616
-      },
+      "latitude": 43.065097,
+      "longitude": -71.443616,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2443,10 +2243,8 @@
       "address": "1369 Hooksett Rd, Hooksett, NH 03106, USA",
       "street": "1369 Hooksett Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.063772,
-        "lng": -71.444739
-      },
+      "latitude": 43.063772,
+      "longitude": -71.444739,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2467,10 +2265,8 @@
       "address": "1338 Hooksett Road, Hooksett, NH 03106, USA",
       "street": "1338 Hooksett Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.065097,
-        "lng": -71.443616
-      },
+      "latitude": 43.065097,
+      "longitude": -71.443616,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2491,10 +2287,8 @@
       "address": "63 Mammoth Rd, Hooksett, NH 03106, USA",
       "street": "63 Mammoth Road",
       "zip": "3106",
-      "coordinates": {
-        "lat": 43.02574,
-        "lng": -71.43422
-      },
+      "latitude": 43.02574,
+      "longitude": -71.43422,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2515,10 +2309,8 @@
       "address": "230 Central St, Hudson, NH 03051, USA",
       "street": "230 Central Street",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.77154,
-        "lng": -71.410122
-      },
+      "latitude": 42.77154,
+      "longitude": -71.410122,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2539,10 +2331,8 @@
       "address": "83 River Rd, Hudson, NH 03051, USA",
       "street": "83 River Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.702403,
-        "lng": -71.422016
-      },
+      "latitude": 42.702403,
+      "longitude": -71.422016,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2563,10 +2353,8 @@
       "address": "99 River Rd, Hudson, NH 03051, USA",
       "street": "99 River Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.76386,
-        "lng": -71.43139
-      },
+      "latitude": 42.76386,
+      "longitude": -71.43139,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2587,10 +2375,8 @@
       "address": "250 Lowell Rd, Hudson, NH 03051, USA",
       "street": "250 Lowell Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.728031,
-        "lng": -71.42412
-      },
+      "latitude": 42.728031,
+      "longitude": -71.42412,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2611,10 +2397,8 @@
       "address": "10 Pelham Rd, Hudson, NH 03051, USA",
       "street": "10 Pelham Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.750103,
-        "lng": -71.424285
-      },
+      "latitude": 42.750103,
+      "longitude": -71.424285,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2635,10 +2419,8 @@
       "address": "193 Lowell Rd, Hudson, NH 03051, USA",
       "street": "193 Lowell Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.737418,
-        "lng": -71.426202
-      },
+      "latitude": 42.737418,
+      "longitude": -71.426202,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2659,10 +2441,8 @@
       "address": "297 Derry Rd, Hudson, NH 03051, USA",
       "street": "297 Derry Road",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.813366,
-        "lng": -71.421042
-      },
+      "latitude": 42.813366,
+      "longitude": -71.421042,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2683,10 +2463,8 @@
       "address": "15 Derry Rd, Hudson, NH 03051, USA",
       "street": "15 Derry Street",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.766764,
-        "lng": -71.439946
-      },
+      "latitude": 42.766764,
+      "longitude": -71.439946,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2707,10 +2485,8 @@
       "address": "27 Library St, Hudson, NH 03051, USA",
       "street": "27 Library Street",
       "zip": "3051",
-      "coordinates": {
-        "lat": 42.763422,
-        "lng": -71.438092
-      },
+      "latitude": 42.763422,
+      "longitude": -71.438092,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2731,10 +2507,8 @@
       "address": "28 Peterborough St, Jaffrey, NH 03452, USA",
       "street": "28 Peterborough Street",
       "zip": "3452",
-      "coordinates": {
-        "lat": 42.81593,
-        "lng": -72.021129
-      },
+      "latitude": 42.81593,
+      "longitude": -72.021129,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2755,10 +2529,8 @@
       "address": "261 North St, Jaffrey, NH 03452, USA",
       "street": "261 North Street",
       "zip": "3452",
-      "coordinates": {
-        "lat": 42.832576,
-        "lng": -72.02508
-      },
+      "latitude": 42.832576,
+      "longitude": -72.02508,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2779,10 +2551,8 @@
       "address": "100 Old Sharon Rd, Jaffrey, NH 03452, USA",
       "street": "Old Sharon Road",
       "zip": "3452",
-      "coordinates": {
-        "lat": 42.820789,
-        "lng": -71.991354
-      },
+      "latitude": 42.820789,
+      "longitude": -71.991354,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2803,10 +2573,8 @@
       "address": "62 River St, Jaffrey, NH 03452, USA",
       "street": "62 River Street",
       "zip": "3452",
-      "coordinates": {
-        "lat": 42.812188,
-        "lng": -72.027942
-      },
+      "latitude": 42.812188,
+      "longitude": -72.027942,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2827,10 +2595,8 @@
       "address": "110 Old Sharon Rd, Jaffrey, NH 03452, USA",
       "street": "110 Old Sharon Road",
       "zip": "3452",
-      "coordinates": {
-        "lat": 42.816257,
-        "lng": -71.994524
-      },
+      "latitude": 42.816257,
+      "longitude": -71.994524,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2851,10 +2617,8 @@
       "address": "797 Court St, Keene, NH 03431, USA",
       "street": "797 Court Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.961901,
-        "lng": -72.302821
-      },
+      "latitude": 42.961901,
+      "longitude": -72.302821,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2875,10 +2639,8 @@
       "address": "443 Winchester St, Keene, NH 03431, USA",
       "street": "443 Winchester Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.918207,
-        "lng": -72.293105
-      },
+      "latitude": 42.918207,
+      "longitude": -72.293105,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2899,10 +2661,8 @@
       "address": "200 Summit Rd, Keene, NH 03431, USA",
       "street": "200 Summit Road",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.949445,
-        "lng": -72.328951
-      },
+      "latitude": 42.949445,
+      "longitude": -72.328951,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2923,10 +2683,8 @@
       "address": "379 West St, Keene, NH 03431, USA",
       "street": "379 West Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.933917,
-        "lng": -72.29186
-      },
+      "latitude": 42.933917,
+      "longitude": -72.29186,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2947,10 +2705,8 @@
       "address": "601 Main St, Keene, NH 03431, USA",
       "street": "601 Main Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.917512,
-        "lng": -72.274769
-      },
+      "latitude": 42.917512,
+      "longitude": -72.274769,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2971,10 +2727,8 @@
       "address": "121 Railroad St, Keene, NH 03431, USA",
       "street": "121 Railroad Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.932246,
-        "lng": -72.274327
-      },
+      "latitude": 42.932246,
+      "longitude": -72.274327,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2995,10 +2749,8 @@
       "address": "445 West St, Keene, NH 03431, USA",
       "street": "445 West Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.933857,
-        "lng": -72.294693
-      },
+      "latitude": 42.933857,
+      "longitude": -72.294693,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3019,10 +2771,8 @@
       "address": "185 Main St, Keene, NH 03431, USA",
       "street": "185 Main Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.929726,
-        "lng": -72.277936
-      },
+      "latitude": 42.929726,
+      "longitude": -72.277936,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3043,10 +2793,8 @@
       "address": "33 Arch St, Keene, NH 03431, USA",
       "street": "33 Arch Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.938706,
-        "lng": -72.308863
-      },
+      "latitude": 42.938706,
+      "longitude": -72.308863,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3067,10 +2815,8 @@
       "address": "317 Maple Ave, Keene, NH 03431, USA",
       "street": "317 Maple Avenue",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.962611,
-        "lng": -72.308913
-      },
+      "latitude": 42.962611,
+      "longitude": -72.308913,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3091,10 +2837,8 @@
       "address": "7 Optical Ave, Keene, NH 03431, USA",
       "street": "7 Optical Avenue",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.921067,
-        "lng": -72.264079
-      },
+      "latitude": 42.921067,
+      "longitude": -72.264079,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3115,10 +2859,8 @@
       "address": "170 Marlboro St, Keene, NH 03431, USA",
       "street": "170 Marlboro Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.926979,
-        "lng": -72.271958
-      },
+      "latitude": 42.926979,
+      "longitude": -72.271958,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3139,10 +2881,8 @@
       "address": "17 Danville Rd, Kingston, NH 03848, USA",
       "street": "17 Danville Road",
       "zip": "3848",
-      "coordinates": {
-        "lat": 42.912506,
-        "lng": -71.072652
-      },
+      "latitude": 42.912506,
+      "longitude": -71.072652,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3163,10 +2903,8 @@
       "address": "274 Derry Rd, Litchfield, NH 03052, USA",
       "street": "274 Derry Road",
       "zip": "3052",
-      "coordinates": {
-        "lat": 42.810887,
-        "lng": -71.427139
-      },
+      "latitude": 42.810887,
+      "longitude": -71.427139,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3187,10 +2925,8 @@
       "address": "242 Derry Rd, Litchfield, NH 03052, USA",
       "street": "242 Derry Road",
       "zip": "3052",
-      "coordinates": {
-        "lat": 42.804185,
-        "lng": -71.432687
-      },
+      "latitude": 42.804185,
+      "longitude": -71.432687,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3211,10 +2947,8 @@
       "address": "103 Nashua Rd, Londonderry, NH 03053, USA",
       "street": "103 Nashua Road",
       "zip": "3053",
-      "coordinates": {
-        "lat": 42.850676,
-        "lng": -71.357271
-      },
+      "latitude": 42.850676,
+      "longitude": -71.357271,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3235,10 +2969,8 @@
       "address": "6 Hampton Dr, Londonderry, NH 03053, USA",
       "street": "6 Hampton Drive",
       "zip": "3053",
-      "coordinates": {
-        "lat": 42.866161,
-        "lng": -71.343545
-      },
+      "latitude": 42.866161,
+      "longitude": -71.343545,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3259,10 +2991,8 @@
       "address": "276 Elm St, Manchester, NH 03101, USA",
       "street": "276 Elm Street",
       "zip": "3101",
-      "coordinates": {
-        "lat": 42.982086,
-        "lng": -71.463388
-      },
+      "latitude": 42.982086,
+      "longitude": -71.463388,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3283,10 +3013,8 @@
       "address": "218 Bremer St, Manchester, NH 03102, USA",
       "street": "218 Bremer Street",
       "zip": "3102",
-      "coordinates": {
-        "lat": 42.996637,
-        "lng": -71.483672
-      },
+      "latitude": 42.996637,
+      "longitude": -71.483672,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3307,10 +3035,8 @@
       "address": "1 Highlander Way, Manchester, NH 03103, USA",
       "street": "1 Highlander Way",
       "zip": "3103",
-      "coordinates": {
-        "lat": 42.925932,
-        "lng": -71.447602
-      },
+      "latitude": 42.925932,
+      "longitude": -71.447602,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3331,10 +3057,8 @@
       "address": "1086 Candia Rd, Manchester, NH 03109, USA",
       "street": "1086 Candia Road",
       "zip": "3109",
-      "coordinates": {
-        "lat": 42.987655,
-        "lng": -71.409132
-      },
+      "latitude": 42.987655,
+      "longitude": -71.409132,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3355,10 +3079,8 @@
       "address": "403 2nd St, Manchester, NH 03102, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.97794,
-        "lng": -71.473543
-      },
+      "latitude": 42.97794,
+      "longitude": -71.473543,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3379,10 +3101,8 @@
       "address": "425 Lake Ave, Manchester, NH 03103, USA",
       "street": "425 Lake Avenue",
       "zip": "3103",
-      "coordinates": {
-        "lat": 42.987053,
-        "lng": -71.446616
-      },
+      "latitude": 42.987053,
+      "longitude": -71.446616,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3403,10 +3123,8 @@
       "address": "210 Eddy Rd, Manchester, NH 03102, USA",
       "street": "210 Eddy Road",
       "zip": "3102",
-      "coordinates": {
-        "lat": 43.005105,
-        "lng": -71.476583
-      },
+      "latitude": 43.005105,
+      "longitude": -71.476583,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3427,10 +3145,8 @@
       "address": "1536 Candia Rd, Manchester, NH 03109, USA",
       "street": "1536 Candia Road",
       "zip": "3109",
-      "coordinates": {
-        "lat": 42.994777,
-        "lng": -71.4036
-      },
+      "latitude": 42.994777,
+      "longitude": -71.4036,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3451,10 +3167,8 @@
       "address": "2281 Candia Rd, Manchester, NH 03109, USA",
       "street": "2281 Candia Road",
       "zip": "3109",
-      "coordinates": {
-        "lat": 43.004222,
-        "lng": -71.391673
-      },
+      "latitude": 43.004222,
+      "longitude": -71.391673,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3475,10 +3189,8 @@
       "address": "1104 Hanover St, Manchester, NH 03104, USA",
       "street": "1104 Hanover Street",
       "zip": "3104",
-      "coordinates": {
-        "lat": 42.987608,
-        "lng": -71.41748
-      },
+      "latitude": 42.987608,
+      "longitude": -71.41748,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3499,10 +3211,8 @@
       "address": "80 Wellington Ter Dr, Manchester, NH 03104, USA",
       "street": "80 Wellington Terrace Drive",
       "zip": "3104",
-      "coordinates": {
-        "lat": 43.011418,
-        "lng": -71.436022
-      },
+      "latitude": 43.011418,
+      "longitude": -71.436022,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3523,10 +3233,8 @@
       "address": "1107 Bodwell Rd, Manchester, NH 03109, USA",
       "street": "Bodwell Road",
       "zip": "3109",
-      "coordinates": {
-        "lat": 42.951454,
-        "lng": -71.397189
-      },
+      "latitude": 42.951454,
+      "longitude": -71.397189,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3547,10 +3255,8 @@
       "address": "1445 Bodwell Rd, Manchester, NH 03109, USA",
       "street": "Bodwell Road",
       "zip": "3109",
-      "coordinates": {
-        "lat": 42.948259,
-        "lng": -71.391576
-      },
+      "latitude": 42.948259,
+      "longitude": -71.391576,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3571,10 +3277,8 @@
       "address": "314 Main St, Marlborough, NH 03455, USA",
       "street": "314 Main Street",
       "zip": "3455",
-      "coordinates": {
-        "lat": 42.906815,
-        "lng": -72.195383
-      },
+      "latitude": 42.906815,
+      "longitude": -72.195383,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3595,10 +3299,8 @@
       "address": "95 Main St, Marlborough, NH 03455, USA",
       "street": "95 Main Street",
       "zip": "3455",
-      "coordinates": {
-        "lat": 42.907263,
-        "lng": -72.214167
-      },
+      "latitude": 42.907263,
+      "longitude": -72.214167,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3619,10 +3321,8 @@
       "address": "605 Daniel Webster Dr, Merrimack, NH 03054, USA",
       "street": "Daniel Webster Drive",
       "zip": "3054",
-      "coordinates": {
-        "lat": 42.883503,
-        "lng": -71.475911
-      },
+      "latitude": 42.883503,
+      "longitude": -71.475911,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3643,10 +3343,8 @@
       "address": "392 Daniel Webster Hwy, Merrimack, NH 03054, USA",
       "street": "392 Daniel Webster Highway",
       "zip": "3054",
-      "coordinates": {
-        "lat": 42.853886,
-        "lng": -71.491655
-      },
+      "latitude": 42.853886,
+      "longitude": -71.491655,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3667,10 +3365,8 @@
       "address": "1 Peachtree Ln, Merrimack, NH 03054, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.839213,
-        "lng": -71.497954
-      },
+      "latitude": 42.839213,
+      "longitude": -71.497954,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3691,10 +3387,8 @@
       "address": "6 Henry Clay Dr, Merrimack, NH 03054, USA",
       "street": "6 Henry Clay Drive",
       "zip": "3054",
-      "coordinates": {
-        "lat": 42.805081,
-        "lng": -71.482811
-      },
+      "latitude": 42.805081,
+      "longitude": -71.482811,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3715,10 +3409,8 @@
       "address": "244 Elm St, Milford, NH 03055, USA",
       "street": "Elm Street",
       "zip": "3055",
-      "coordinates": {
-        "lat": 42.838959,
-        "lng": -71.671537
-      },
+      "latitude": 42.838959,
+      "longitude": -71.671537,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3739,10 +3431,8 @@
       "address": "112 Elm St, Milford, NH 03055, USA",
       "street": "112 Elm Street",
       "zip": "3055",
-      "coordinates": {
-        "lat": 42.836028,
-        "lng": -71.661051
-      },
+      "latitude": 42.836028,
+      "longitude": -71.661051,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3763,10 +3453,8 @@
       "address": "589 Elm St, Milford, NH 03055, USA",
       "street": "589 Elm Street",
       "zip": "3055",
-      "coordinates": {
-        "lat": 42.843512,
-        "lng": -71.699689
-      },
+      "latitude": 42.843512,
+      "longitude": -71.699689,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3787,10 +3475,8 @@
       "address": "212 South St, Milford, NH 03055, USA",
       "street": "212 South Street",
       "zip": "3055",
-      "coordinates": {
-        "lat": 42.829838,
-        "lng": -71.648259
-      },
+      "latitude": 42.829838,
+      "longitude": -71.648259,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3811,10 +3497,8 @@
       "address": "489 Elm St, Milford, NH 03055, USA",
       "street": "Elm Street",
       "zip": "3055",
-      "coordinates": {
-        "lat": 42.841008,
-        "lng": -71.690098
-      },
+      "latitude": 42.841008,
+      "longitude": -71.690098,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3835,10 +3519,8 @@
       "address": "76 N River Rd, Milford, NH 03055, USA",
       "street": "76 North River Road",
       "zip": "3055",
-      "coordinates": {
-        "lat": 42.842729,
-        "lng": -71.663762
-      },
+      "latitude": 42.842729,
+      "longitude": -71.663762,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3859,10 +3541,8 @@
       "address": "147 Lake St, Nashua, NH 03060, USA",
       "street": "147 Lake Street",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.748233,
-        "lng": -71.473134
-      },
+      "latitude": 42.748233,
+      "longitude": -71.473134,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3883,10 +3563,8 @@
       "address": "427 Amherst St, Nashua, NH 03063, USA",
       "street": "427 Amherst Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.787711,
-        "lng": -71.513075
-      },
+      "latitude": 42.787711,
+      "longitude": -71.513075,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3907,10 +3585,8 @@
       "address": "485 Amherst St, Nashua, NH 03063, USA",
       "street": "485 Amherst Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.7919,
-        "lng": -71.520762
-      },
+      "latitude": 42.7919,
+      "longitude": -71.520762,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3931,10 +3607,8 @@
       "address": "390 Broad St, Nashua, NH 03063, USA",
       "street": "390 Broad Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.758142,
-        "lng": -71.51305
-      },
+      "latitude": 42.758142,
+      "longitude": -71.51305,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3955,10 +3629,8 @@
       "address": "727 Manhattan Ave, Nashua, NH 03063, USA",
       "street": "727 Manhattan Avenue",
       "zip": "3062",
-      "coordinates": {
-        "lat": 42.774427,
-        "lng": -71.511111
-      },
+      "latitude": 42.774427,
+      "longitude": -71.511111,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3979,10 +3651,8 @@
       "address": "30 Broad St, Nashua, NH 03064, USA",
       "street": "30 Broad Street",
       "zip": "3064",
-      "coordinates": {
-        "lat": 42.769102,
-        "lng": -71.485564
-      },
+      "latitude": 42.769102,
+      "longitude": -71.485564,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4003,10 +3673,8 @@
       "address": "350 Amherst St, Nashua, NH 03063, USA",
       "street": "350 Amherst Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.782335,
-        "lng": -71.503929
-      },
+      "latitude": 42.782335,
+      "longitude": -71.503929,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4027,10 +3695,8 @@
       "address": "590 S Main St, Nashua, NH 03060, USA",
       "street": "590 South Main Street",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.731359,
-        "lng": -71.445001
-      },
+      "latitude": 42.731359,
+      "longitude": -71.445001,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4051,10 +3717,8 @@
       "address": "121 Allds St, Nashua, NH 03060, USA",
       "street": "121 Allds Street",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.759623,
-        "lng": -71.452393
-      },
+      "latitude": 42.759623,
+      "longitude": -71.452393,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4075,10 +3739,8 @@
       "address": "1081 W Hollis St, Nashua, NH 03062, USA",
       "street": "1081 West Hollis Street",
       "zip": "3062",
-      "coordinates": {
-        "lat": 42.719211,
-        "lng": -71.53528
-      },
+      "latitude": 42.719211,
+      "longitude": -71.53528,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4099,10 +3761,8 @@
       "address": "125 Concord St, Nashua, NH 03064, USA",
       "street": "125 Concord Street",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.783874,
-        "lng": -71.466734
-      },
+      "latitude": 42.783874,
+      "longitude": -71.466734,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4123,10 +3783,8 @@
       "address": "4 Taggart Dr, Nashua, NH 03060, USA",
       "street": "4 Taggart Drive",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.718052,
-        "lng": -71.441826
-      },
+      "latitude": 42.718052,
+      "longitude": -71.441826,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4147,10 +3805,8 @@
       "address": "340 Amherst St, Nashua, NH 03063, USA",
       "street": "340 Amherst Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.782029,
-        "lng": -71.503446
-      },
+      "latitude": 42.782029,
+      "longitude": -71.503446,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4171,10 +3827,8 @@
       "address": "120 Spit Brook Rd, Nashua, NH 03062, USA",
       "street": "120 Spit Brook Road",
       "zip": "3062",
-      "coordinates": {
-        "lat": 42.708521,
-        "lng": -71.460668
-      },
+      "latitude": 42.708521,
+      "longitude": -71.460668,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4195,10 +3849,8 @@
       "address": "505 Amherst St, Nashua, NH 03063, USA",
       "street": "505 Amherst Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.796069,
-        "lng": -71.524679
-      },
+      "latitude": 42.796069,
+      "longitude": -71.524679,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4219,10 +3871,8 @@
       "address": "125 Daniel Webster Hwy, Nashua, NH 03060, USA",
       "street": "125 Daniel Webster Highway",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.727346,
-        "lng": -71.447833
-      },
+      "latitude": 42.727346,
+      "longitude": -71.447833,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4243,10 +3893,8 @@
       "address": "274 Amherst St, Nashua, NH 03063, USA",
       "street": "274 Amherst Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.77859,
-        "lng": -71.498838
-      },
+      "latitude": 42.77859,
+      "longitude": -71.498838,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4267,10 +3915,8 @@
       "address": "450 Amherst St, Nashua, NH 03063, USA",
       "street": "450 Amherst Street",
       "zip": "3063",
-      "coordinates": {
-        "lat": 42.789319,
-        "lng": -71.517019
-      },
+      "latitude": 42.789319,
+      "longitude": -71.517019,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4291,10 +3937,8 @@
       "address": "20 Robinson Rd, Nashua, NH 03060, USA",
       "street": "20 Robinson Road",
       "zip": "3060",
-      "coordinates": {
-        "lat": 42.736955,
-        "lng": -71.45885
-      },
+      "latitude": 42.736955,
+      "longitude": -71.45885,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4315,10 +3959,8 @@
       "address": "24 Stadium Dr, Nashua, NH 03062, USA",
       "street": "24 Stadium Drive",
       "zip": "3062",
-      "coordinates": {
-        "lat": 42.746979,
-        "lng": -71.504919
-      },
+      "latitude": 42.746979,
+      "longitude": -71.504919,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4339,10 +3981,8 @@
       "address": "2200 Woodbury Ave, Newington, NH 03801, USA",
       "street": "2200 Woodbury Avenue",
       "zip": "3801",
-      "coordinates": {
-        "lat": 43.101678,
-        "lng": -70.809834
-      },
+      "latitude": 43.101678,
+      "longitude": -70.809834,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4363,10 +4003,8 @@
       "address": "9 W Main St, Newton, NH 03858, USA",
       "street": "9 West Main Street",
       "zip": "3859",
-      "coordinates": {
-        "lat": 42.868453,
-        "lng": -71.067588
-      },
+      "latitude": 42.868453,
+      "longitude": -71.067588,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4387,10 +4025,8 @@
       "address": "191 S Main St, Newton, NH 03858, USA",
       "street": "191 South Main Street",
       "zip": "3858",
-      "coordinates": {
-        "lat": 42.835655,
-        "lng": -71.057008
-      },
+      "latitude": 42.835655,
+      "longitude": -71.057008,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4411,10 +4047,8 @@
       "address": "17 Lafayette Rd, North Hampton, NH 03862, USA",
       "street": "Lafayette Road",
       "zip": "3862",
-      "coordinates": {
-        "lat": 42.962458,
-        "lng": -70.83333
-      },
+      "latitude": 42.962458,
+      "longitude": -70.83333,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4435,10 +4069,8 @@
       "address": "32 Lake St, North Swanzey, NH 03431, USA",
       "street": "32 Lake Street",
       "zip": "3431",
-      "coordinates": {
-        "lat": 42.906537,
-        "lng": -72.262544
-      },
+      "latitude": 42.906537,
+      "longitude": -72.262544,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4459,10 +4091,8 @@
       "address": "2 Cooper Hill Rd, Northwood, NH 03261, USA",
       "street": "2 Cooper Hill Road",
       "zip": "3261",
-      "coordinates": {
-        "lat": 43.187301,
-        "lng": -71.139375
-      },
+      "latitude": 43.187301,
+      "longitude": -71.139375,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4483,10 +4113,8 @@
       "address": "1335 1 Nh Turnpike, Northwood, NH 03261, USA",
       "street": "First New Hampshire Turnpike",
       "zip": "3261",
-      "coordinates": {
-        "lat": 43.222592,
-        "lng": -71.250807
-      },
+      "latitude": 43.222592,
+      "longitude": -71.250807,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4507,10 +4135,8 @@
       "address": "511 1 Nh Turnpike, Northwood, NH 03261, USA",
       "street": "First New Hampshire Turnpike",
       "zip": "3261",
-      "coordinates": {
-        "lat": 43.20785,
-        "lng": -71.176943
-      },
+      "latitude": 43.20785,
+      "longitude": -71.176943,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4531,10 +4157,8 @@
       "address": "23 Town Works Way, Northwood, NH 03261, USA",
       "street": "Town Works Way",
       "zip": "3261",
-      "coordinates": {
-        "lat": 43.209887,
-        "lng": -71.197174
-      },
+      "latitude": 43.209887,
+      "longitude": -71.197174,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4555,10 +4179,8 @@
       "address": "368 Stage Rd, Nottingham, NH 03290, USA",
       "street": "Stage Road",
       "zip": "3290",
-      "coordinates": {
-        "lat": 43.173383,
-        "lng": -71.140333
-      },
+      "latitude": 43.173383,
+      "longitude": -71.140333,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4579,10 +4201,8 @@
       "address": "118 Stage Rd, Nottingham, NH 03290, USA",
       "street": "118 Stage Road",
       "zip": "3290",
-      "coordinates": {
-        "lat": 43.113889,
-        "lng": -71.098837
-      },
+      "latitude": 43.113889,
+      "longitude": -71.098837,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4603,10 +4223,8 @@
       "address": "1183 Mammoth Rd, Pelham, NH 03076, USA",
       "street": "1183 Mammoth Road",
       "zip": "3076",
-      "coordinates": {
-        "lat": 42.76693,
-        "lng": -71.349414
-      },
+      "latitude": 42.76693,
+      "longitude": -71.349414,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4627,10 +4245,8 @@
       "address": "71 Bridge St, Pelham, NH 03076, USA",
       "street": "71 Bridge Street",
       "zip": "3076",
-      "coordinates": {
-        "lat": 42.710144,
-        "lng": -71.317869
-      },
+      "latitude": 42.710144,
+      "longitude": -71.317869,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4651,10 +4267,8 @@
       "address": "203 Mammoth Rd, Pelham, NH 03076, USA",
       "street": "203 Mammoth Road",
       "zip": "3076",
-      "coordinates": {
-        "lat": 42.710341,
-        "lng": -71.35097
-      },
+      "latitude": 42.710341,
+      "longitude": -71.35097,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4675,10 +4289,8 @@
       "address": "85 Marsh Rd, Pelham, NH 03076, USA",
       "street": "85 Marsh Road",
       "zip": "3076",
-      "coordinates": {
-        "lat": 42.722933,
-        "lng": -71.331746
-      },
+      "latitude": 42.722933,
+      "longitude": -71.331746,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4699,10 +4311,8 @@
       "address": "301 Pembroke St, Pembroke, NH 03275, USA",
       "street": "301 Pembroke Street",
       "zip": "3275",
-      "coordinates": {
-        "lat": 43.150302,
-        "lng": -71.458728
-      },
+      "latitude": 43.150302,
+      "longitude": -71.458728,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4723,10 +4333,8 @@
       "address": "715 Riverwood Dr, Pembroke, NH 03275, USA",
       "street": "715 Riverwood Drive",
       "zip": "3275",
-      "coordinates": {
-        "lat": 43.195404,
-        "lng": -71.483902
-      },
+      "latitude": 43.195404,
+      "longitude": -71.483902,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4747,10 +4355,8 @@
       "address": "8 Exchange St, Pembroke, NH 03275, USA",
       "street": "8 Exchange Street",
       "zip": "3275",
-      "coordinates": {
-        "lat": 43.132022,
-        "lng": -71.458667
-      },
+      "latitude": 43.132022,
+      "longitude": -71.458667,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4771,10 +4377,8 @@
       "address": "5 Community Ln, Peterborough, NH 03458, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.837803,
-        "lng": -71.982098
-      },
+      "latitude": 42.837803,
+      "longitude": -71.982098,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4795,10 +4399,8 @@
       "address": "175 Jaffrey Rd, Peterborough, NH 03458, USA",
       "street": "175 Old Jaffrey Road",
       "zip": "3458",
-      "coordinates": {
-        "lat": 42.850381,
-        "lng": -71.96844
-      },
+      "latitude": 42.850381,
+      "longitude": -71.96844,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4819,10 +4421,8 @@
       "address": "45 Jaffrey Rd, Peterborough, NH 03458, USA",
       "street": "45 Jaffrey Road",
       "zip": "3458",
-      "coordinates": {
-        "lat": 42.860289,
-        "lng": -71.962506
-      },
+      "latitude": 42.860289,
+      "longitude": -71.962506,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4843,10 +4443,8 @@
       "address": "301 Jaffrey Rd, Peterborough, NH 03458, USA",
       "street": "301 Jaffrey Road",
       "zip": "3458",
-      "coordinates": {
-        "lat": 42.846999,
-        "lng": -71.965595
-      },
+      "latitude": 42.846999,
+      "longitude": -71.965595,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4867,10 +4465,8 @@
       "address": "70 Hancock Rd, Peterborough, NH 03458, USA",
       "street": "70 Hancock Road",
       "zip": "3458",
-      "coordinates": {
-        "lat": 42.903952,
-        "lng": -71.937272
-      },
+      "latitude": 42.903952,
+      "longitude": -71.937272,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4891,10 +4487,8 @@
       "address": "37 Plaistow Rd, Plaistow, NH 03865, USA",
       "street": "37 Plaistow Road",
       "zip": "3865",
-      "coordinates": {
-        "lat": 42.822789,
-        "lng": -71.10391
-      },
+      "latitude": 42.822789,
+      "longitude": -71.10391,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4915,10 +4509,8 @@
       "address": "955 US-1, Portsmouth, NH 03801, USA",
       "street": "955 Middle Street",
       "zip": "3801",
-      "coordinates": {
-        "lat": 43.065573,
-        "lng": -70.766789
-      },
+      "latitude": 43.065573,
+      "longitude": -70.766789,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4939,10 +4531,8 @@
       "address": "600 Lafayette Rd, Portsmouth, NH 03801, USA",
       "street": "600 Lafayette Road",
       "zip": "3801",
-      "coordinates": {
-        "lat": 43.055499,
-        "lng": -70.770856
-      },
+      "latitude": 43.055499,
+      "longitude": -70.770856,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4963,10 +4553,8 @@
       "address": "680 Peverly Hill Rd, Portsmouth, NH 03801, USA",
       "street": "680 Peverly Hill Road",
       "zip": "3801",
-      "coordinates": {
-        "lat": 43.046531,
-        "lng": -70.776507
-      },
+      "latitude": 43.046531,
+      "longitude": -70.776507,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4987,10 +4575,8 @@
       "address": "856 US Route 1st Byp, Portsmouth, NH 03801, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.077195,
-        "lng": -70.774063
-      },
+      "latitude": 43.077195,
+      "longitude": -70.774063,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5011,10 +4597,8 @@
       "address": "20 Longmeadow Rd, Portsmouth, NH 03801, USA",
       "street": "20 Longmeadow Road",
       "zip": "3801",
-      "coordinates": {
-        "lat": 43.024372,
-        "lng": -70.793404
-      },
+      "latitude": 43.024372,
+      "longitude": -70.793404,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5035,10 +4619,8 @@
       "address": "454 Route 202, Rindge, NH 03461, USA",
       "street": "454 Route 202",
       "zip": "3461",
-      "coordinates": {
-        "lat": 42.76509,
-        "lng": -72.00912
-      },
+      "latitude": 42.76509,
+      "longitude": -72.00912,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5059,10 +4641,8 @@
       "address": "1210 Route 202, Rindge, NH 03461, USA",
       "street": "1210 Route 202",
       "zip": "3461",
-      "coordinates": {
-        "lat": 42.76509,
-        "lng": -72.00912
-      },
+      "latitude": 42.76509,
+      "longitude": -72.00912,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5083,10 +4663,8 @@
       "address": "40 University Dr, Rindge, NH 03461, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.770785,
-        "lng": -72.05706
-      },
+      "latitude": 42.770785,
+      "longitude": -72.05706,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5107,10 +4685,8 @@
       "address": "113 W Main St, Rindge, NH 03461, USA",
       "street": "113 West Main Street",
       "zip": "3461",
-      "coordinates": {
-        "lat": 42.763338,
-        "lng": -72.03502
-      },
+      "latitude": 42.763338,
+      "longitude": -72.03502,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5131,10 +4707,8 @@
       "address": "1044 Rt. 119, Rindge, NH 03461, USA",
       "street": "Route 119",
       "zip": "3461",
-      "coordinates": {
-        "lat": 42.76509,
-        "lng": -72.00912
-      },
+      "latitude": 42.76509,
+      "longitude": -72.00912,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5155,10 +4729,8 @@
       "address": "309 Grove Rd, Rye, NH 03870, USA",
       "street": "Grove Road",
       "zip": "3870",
-      "coordinates": {
-        "lat": 43.002633,
-        "lng": -70.789809
-      },
+      "latitude": 43.002633,
+      "longitude": -70.789809,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5179,10 +4751,8 @@
       "address": "162 Main St, Salem, NH 03079, USA",
       "street": "162 Main Street",
       "zip": "3079",
-      "coordinates": {
-        "lat": 42.782189,
-        "lng": -71.223142
-      },
+      "latitude": 42.782189,
+      "longitude": -71.223142,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5203,10 +4773,8 @@
       "address": "99 Cluff Crossing Rd, Salem, NH 03079, USA",
       "street": "99 Cluff Crossing Road",
       "zip": "3079",
-      "coordinates": {
-        "lat": 42.765124,
-        "lng": -71.218063
-      },
+      "latitude": 42.765124,
+      "longitude": -71.218063,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5227,10 +4795,8 @@
       "address": "335 Main St, Sandown, NH 03873, USA",
       "street": "335 Main Street",
       "zip": "3873",
-      "coordinates": {
-        "lat": 42.92912,
-        "lng": -71.187205
-      },
+      "latitude": 42.92912,
+      "longitude": -71.187205,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5251,10 +4817,8 @@
       "address": "26 Depot Rd, Sandown, NH 03873, USA",
       "street": "26 Depot Road",
       "zip": "3873",
-      "coordinates": {
-        "lat": 42.93084,
-        "lng": -71.182474
-      },
+      "latitude": 42.93084,
+      "longitude": -71.182474,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5275,10 +4839,8 @@
       "address": "5 Main St, Seabrook, NH 03874, USA",
       "street": "5 Main Street",
       "zip": "3874",
-      "coordinates": {
-        "lat": 42.875718,
-        "lng": -70.872544
-      },
+      "latitude": 42.875718,
+      "longitude": -70.872544,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5299,10 +4861,8 @@
       "address": "311 Lafayette Rd, Seabrook, NH 03874, USA",
       "street": "311 Lafayette Road",
       "zip": "3874",
-      "coordinates": {
-        "lat": 42.883664,
-        "lng": -70.869509
-      },
+      "latitude": 42.883664,
+      "longitude": -70.869509,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5323,10 +4883,8 @@
       "address": "410 Roller Coaster Rd, Strafford, NH 03884, USA",
       "street": "410 Roller Coaster Road",
       "zip": "3884",
-      "coordinates": {
-        "lat": 43.245734,
-        "lng": -71.144369
-      },
+      "latitude": 43.245734,
+      "longitude": -71.144369,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5347,10 +4905,8 @@
       "address": "44 Portsmouth Ave, Stratham, NH 03885, USA",
       "street": "44 Portsmouth Avenue",
       "zip": "3885",
-      "coordinates": {
-        "lat": 43.003055,
-        "lng": -70.919517
-      },
+      "latitude": 43.003055,
+      "longitude": -70.919517,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5371,10 +4927,8 @@
       "address": "101 W Swanzey Rd, Swanzey, NH 03446, USA",
       "street": "101 West Swanzey Road",
       "zip": "3446",
-      "coordinates": {
-        "lat": 42.908874,
-        "lng": -72.300957
-      },
+      "latitude": 42.908874,
+      "longitude": -72.300957,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5395,10 +4949,8 @@
       "address": "600 Old Homestead Hwy, Swanzey, NH 03446, USA",
       "street": "600 Old Homestead Highway",
       "zip": "3446",
-      "coordinates": {
-        "lat": 42.871326,
-        "lng": -72.279387
-      },
+      "latitude": 42.871326,
+      "longitude": -72.279387,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5419,10 +4971,8 @@
       "address": "97 Pine St, Swanzey, NH 03446, USA",
       "street": "97 Pine Street",
       "zip": "3446",
-      "coordinates": {
-        "lat": 42.878159,
-        "lng": -72.321754
-      },
+      "latitude": 42.878159,
+      "longitude": -72.321754,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5443,10 +4993,8 @@
       "address": "639 W Swanzey Rd, Swanzey, NH 03446, USA",
       "street": "639 West Swanzey Road",
       "zip": "3446",
-      "coordinates": {
-        "lat": 42.841079,
-        "lng": -72.330145
-      },
+      "latitude": 42.841079,
+      "longitude": -72.330145,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5467,10 +5015,8 @@
       "address": "121 Old Homestead, Swanzey, NH 03446, USA",
       "street": "Old Homestead Highway",
       "zip": "3446",
-      "coordinates": {
-        "lat": 42.841079,
-        "lng": -72.330145
-      },
+      "latitude": 42.841079,
+      "longitude": -72.330145,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5491,10 +5037,8 @@
       "address": "423 Rt. 45, Temple, NH 03084, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.822275,
-        "lng": -71.860983
-      },
+      "latitude": 42.822275,
+      "longitude": -71.860983,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5515,10 +5059,8 @@
       "address": "60 Quarry Rd, Troy, NH 03465, USA",
       "street": "60 Quarry Road",
       "zip": "3465",
-      "coordinates": {
-        "lat": 42.820252,
-        "lng": -72.170465
-      },
+      "latitude": 42.820252,
+      "longitude": -72.170465,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5539,10 +5081,8 @@
       "address": "63 Forest St, Wilton, NH 03086, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.847193,
-        "lng": -71.74286
-      },
+      "latitude": 42.847193,
+      "longitude": -71.74286,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5563,10 +5103,8 @@
       "address": "57 School Rd, Wilton, NH 03086, USA",
       "street": "57 School Road",
       "zip": "3086",
-      "coordinates": {
-        "lat": 42.846352,
-        "lng": -71.747676
-      },
+      "latitude": 42.846352,
+      "longitude": -71.747676,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5587,10 +5125,8 @@
       "address": "18 Mammoth Rd, Windham, NH 03087, USA",
       "street": "18 Mammoth Road",
       "zip": "3087",
-      "coordinates": {
-        "lat": 42.801524,
-        "lng": -71.352369
-      },
+      "latitude": 42.801524,
+      "longitude": -71.352369,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5611,10 +5147,8 @@
       "address": "3 Cobbetts Pond Rd, Windham, NH 03087, USA",
       "street": "3 Cobbetts Pond Road",
       "zip": "3087",
-      "coordinates": {
-        "lat": 42.793308,
-        "lng": -71.304424
-      },
+      "latitude": 42.793308,
+      "longitude": -71.304424,
       "acceptedMaterials": [
         "Clothing",
         "Linen",

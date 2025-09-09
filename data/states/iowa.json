@@ -13,10 +13,8 @@
       "address": "620 Lincoln Way, Ames, IA 50010, USA",
       "street": "620 Lincoln Way",
       "zip": "50010",
-      "coordinates": {
-        "lat": 42.021479,
-        "lng": -93.618139
-      },
+      "latitude": 42.021479,
+      "longitude": -93.618139,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "703 E Lincoln Way, Ames, IA 50010, USA",
       "street": "703 East Lincoln Way",
       "zip": "50010",
-      "coordinates": {
-        "lat": 42.023101,
-        "lng": -93.602171
-      },
+      "latitude": 42.023101,
+      "longitude": -93.602171,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "801 S Ankeny Blvd, Ankeny, IA 50023, USA",
       "street": "801 South Ankeny Boulevard",
       "zip": "50021",
-      "coordinates": {
-        "lat": 41.722792,
-        "lng": -93.599573
-      },
+      "latitude": 41.722792,
+      "longitude": -93.599573,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "5824 Council St NE, Cedar Rapids, IA 52402, USA",
       "street": "5824 Council Street Northeast",
       "zip": "52402",
-      "coordinates": {
-        "lat": 42.036726,
-        "lng": -91.657093
-      },
+      "latitude": 42.036726,
+      "longitude": -91.657093,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "2808 S 25th St, Clinton, IA 52732, USA",
       "street": "2808 South 25th Street",
       "zip": "52732",
-      "coordinates": {
-        "lat": 41.817346,
-        "lng": -90.245944
-      },
+      "latitude": 41.817346,
+      "longitude": -90.245944,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "9997 University Ave, Clive, IA 50325, USA",
       "street": "9997 University Avenue",
       "zip": "50325",
-      "coordinates": {
-        "lat": 41.601934,
-        "lng": -93.754543
-      },
+      "latitude": 41.601934,
+      "longitude": -93.754543,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -163,10 +151,8 @@
       "address": "4001 N Brady St, Davenport, IA 52806, USA",
       "street": "North Brady Street",
       "zip": "52806",
-      "coordinates": {
-        "lat": 41.561881,
-        "lng": -90.566418
-      },
+      "latitude": 41.561881,
+      "longitude": -90.566418,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -188,10 +174,8 @@
       "address": "4303 N Brady St, Davenport, IA 52806, USA",
       "street": "North Brady Street",
       "zip": "52806",
-      "coordinates": {
-        "lat": 41.564416,
-        "lng": -90.566751
-      },
+      "latitude": 41.564416,
+      "longitude": -90.566751,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -213,10 +197,8 @@
       "address": "105 E Euclid Ave, Des Moines, IA 50313, USA",
       "street": "105 East Euclid Avenue",
       "zip": "50313",
-      "coordinates": {
-        "lat": 41.627388,
-        "lng": -93.618377
-      },
+      "latitude": 41.627388,
+      "longitude": -93.618377,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -238,10 +220,8 @@
       "address": "1216 E 25th Ct, Des Moines, IA 50317, USA",
       "street": "1216 East 25th Court",
       "zip": "50317",
-      "coordinates": {
-        "lat": 41.601496,
-        "lng": -93.569802
-      },
+      "latitude": 41.601496,
+      "longitude": -93.569802,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -263,10 +243,8 @@
       "address": "211 E Court Ave, Des Moines, IA 50309, USA",
       "street": "211 East Court Avenue",
       "zip": "50309",
-      "coordinates": {
-        "lat": 41.58632,
-        "lng": -93.613785
-      },
+      "latitude": 41.58632,
+      "longitude": -93.613785,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -288,10 +266,8 @@
       "address": "4353 Merle Hay Rd, Des Moines, IA 50310, USA",
       "street": "4353 Merle Hay Road",
       "zip": "50310",
-      "coordinates": {
-        "lat": 41.640359,
-        "lng": -93.695109
-      },
+      "latitude": 41.640359,
+      "longitude": -93.695109,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -313,10 +289,8 @@
       "address": "4620 SE 14th St, Des Moines, IA 50320, USA",
       "street": "4620 Southeast 14th Street",
       "zip": "50320",
-      "coordinates": {
-        "lat": 41.542094,
-        "lng": -93.598198
-      },
+      "latitude": 41.542094,
+      "longitude": -93.598198,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -338,10 +312,8 @@
       "address": "1725 Boyrum St, Iowa City, IA 52240, USA",
       "street": "1725 Boyrum Street",
       "zip": "52240",
-      "coordinates": {
-        "lat": 41.643819,
-        "lng": -91.528655
-      },
+      "latitude": 41.643819,
+      "longitude": -91.528655,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -363,10 +335,8 @@
       "address": "114 E 3rd St N, Newton, IA 50208, USA",
       "street": "114 East 3rd Street North",
       "zip": "50208",
-      "coordinates": {
-        "lat": 41.700139,
-        "lng": -93.050678
-      },
+      "latitude": 41.700139,
+      "longitude": -93.050678,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -388,10 +358,8 @@
       "address": "3718 Lincoln Way, Ames, IA 50014, USA",
       "street": "3718 Lincoln Way",
       "zip": "50014",
-      "coordinates": {
-        "lat": 42.021597,
-        "lng": -93.668613
-      },
+      "latitude": 42.021597,
+      "longitude": -93.668613,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -412,10 +380,8 @@
       "address": "509 N Ankeny Blvd, Ankeny, IA 50023, USA",
       "street": "509 North Ankeny Boulevard",
       "zip": "50021",
-      "coordinates": {
-        "lat": 41.735893,
-        "lng": -93.599028
-      },
+      "latitude": 41.735893,
+      "longitude": -93.599028,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -436,10 +402,8 @@
       "address": "2333 Cumberland Square Dr, Bettendorf, IA 52722, USA",
       "street": "2333 Cumberland Square Drive",
       "zip": "52722",
-      "coordinates": {
-        "lat": 41.550403,
-        "lng": -90.500314
-      },
+      "latitude": 41.550403,
+      "longitude": -90.500314,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -460,10 +424,8 @@
       "address": "1504 S Story St, Boone, IA 50036, USA",
       "street": "South Story Street",
       "zip": "50036",
-      "coordinates": {
-        "lat": 42.039256,
-        "lng": -93.878735
-      },
+      "latitude": 42.039256,
+      "longitude": -93.878735,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -484,10 +446,8 @@
       "address": "2000 Scotty Dr, Cedar Rapids, IA 52404, USA",
       "street": "2000 Scotty Drive Southwest",
       "zip": "52404",
-      "coordinates": {
-        "lat": 41.959723,
-        "lng": -91.720506
-      },
+      "latitude": 41.959723,
+      "longitude": -91.720506,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -508,10 +468,8 @@
       "address": "2405 Mt Vernon Rd SE, Cedar Rapids, IA 52403, USA",
       "street": "2405 Mount Vernon Road Southeast",
       "zip": "52403",
-      "coordinates": {
-        "lat": 41.97664,
-        "lng": -91.632892
-      },
+      "latitude": 41.97664,
+      "longitude": -91.632892,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -532,10 +490,8 @@
       "address": "2405 Mt Vernon Rd SE, Cedar Rapids, IA 52403, USA",
       "street": "2405 Mount Vernon Road Southeast",
       "zip": "52403",
-      "coordinates": {
-        "lat": 41.97664,
-        "lng": -91.632892
-      },
+      "latitude": 41.97664,
+      "longitude": -91.632892,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -556,10 +512,8 @@
       "address": "3235 Oakland Rd NE, Cedar Rapids, IA 52402, USA",
       "street": "3235 Oakland Road Northeast",
       "zip": "52402",
-      "coordinates": {
-        "lat": 42.011315,
-        "lng": -91.659825
-      },
+      "latitude": 42.011315,
+      "longitude": -91.659825,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -580,10 +534,8 @@
       "address": "5050 Edgewood Rd NE, Cedar Rapids, IA 52411, USA",
       "street": "5050 Edgewood Road Northeast",
       "zip": "52411",
-      "coordinates": {
-        "lat": 42.029318,
-        "lng": -91.698363
-      },
+      "latitude": 42.029318,
+      "longitude": -91.698363,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -604,10 +556,8 @@
       "address": "5520 Council St NE, Cedar Rapids, IA 52402, USA",
       "street": "5520 Council Street Northeast",
       "zip": "52402",
-      "coordinates": {
-        "lat": 42.034325,
-        "lng": -91.657321
-      },
+      "latitude": 42.034325,
+      "longitude": -91.657321,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -628,10 +578,8 @@
       "address": "5520 Council St NE, Cedar Rapids, IA 52402, USA",
       "street": "5520 Council Street Northeast",
       "zip": "52402",
-      "coordinates": {
-        "lat": 42.034325,
-        "lng": -91.657321
-      },
+      "latitude": 42.034325,
+      "longitude": -91.657321,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -652,10 +600,8 @@
       "address": "1015 13th Ave N, Clinton, IA 52732, USA",
       "street": "1015 13th Avenue North",
       "zip": "52732",
-      "coordinates": {
-        "lat": 41.858877,
-        "lng": -90.209886
-      },
+      "latitude": 41.858877,
+      "longitude": -90.209886,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -676,10 +622,8 @@
       "address": "2551 Heartland Pl, Coralville, IA 52241, USA",
       "street": "2551 Heartland Place",
       "zip": "52241",
-      "coordinates": {
-        "lat": 41.69866,
-        "lng": -91.609469
-      },
+      "latitude": 41.69866,
+      "longitude": -91.609469,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -700,10 +644,8 @@
       "address": "761 Camp Cardinal Blvd, Coralville, IA 52241, USA",
       "street": "Camp Cardinal Boulevard",
       "zip": "52241",
-      "coordinates": {
-        "lat": 41.680221,
-        "lng": -91.595062
-      },
+      "latitude": 41.680221,
+      "longitude": -91.595062,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -724,10 +666,8 @@
       "address": "5360 Villa Dr, Davenport, IA 52806, USA",
       "street": "Villa Drive",
       "zip": "52806",
-      "coordinates": {
-        "lat": 41.575649,
-        "lng": -90.598032
-      },
+      "latitude": 41.575649,
+      "longitude": -90.598032,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -748,10 +688,8 @@
       "address": "3251 E Euclid Ave, Des Moines, IA 50317, USA",
       "street": "3251 East Euclid Avenue",
       "zip": "50317",
-      "coordinates": {
-        "lat": 41.627145,
-        "lng": -93.553499
-      },
+      "latitude": 41.627145,
+      "longitude": -93.553499,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -772,10 +710,8 @@
       "address": "3333 SE 14th St, Des Moines, IA 50320, USA",
       "street": "3333 Southeast 14th Street",
       "zip": "50320",
-      "coordinates": {
-        "lat": 41.553541,
-        "lng": -93.594835
-      },
+      "latitude": 41.553541,
+      "longitude": -93.594835,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -796,10 +732,8 @@
       "address": "6345 SE 14th St, Des Moines, IA 50320, USA",
       "street": "6345 Southeast 14th Street",
       "zip": "50320",
-      "coordinates": {
-        "lat": 41.527367,
-        "lng": -93.594736
-      },
+      "latitude": 41.527367,
+      "longitude": -93.594736,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -820,10 +754,8 @@
       "address": "4520 NW Urbandale Dr, Des Moines, IA 50322, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.642723,
-        "lng": -93.766445
-      },
+      "latitude": 41.642723,
+      "longitude": -93.766445,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -844,10 +776,8 @@
       "address": "2005 W Burlington Ave, Fairfield, IA 52556, USA",
       "street": "West Burlington Avenue",
       "zip": "52556",
-      "coordinates": {
-        "lat": 41.007019,
-        "lng": -91.984559
-      },
+      "latitude": 41.007019,
+      "longitude": -91.984559,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -868,10 +798,8 @@
       "address": "465 US-6, Geneseo, IL 61254, USA",
       "street": "465 West Main Street",
       "zip": "61254",
-      "coordinates": {
-        "lat": 41.439826,
-        "lng": -90.148548
-      },
+      "latitude": 41.439826,
+      "longitude": -90.148548,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -892,10 +820,8 @@
       "address": "230 West St, Grinnell, IA 50112, USA",
       "street": "230 West Street",
       "zip": "50112",
-      "coordinates": {
-        "lat": 41.734223,
-        "lng": -92.726886
-      },
+      "latitude": 41.734223,
+      "longitude": -92.726886,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -916,10 +842,8 @@
       "address": "1510 N Jefferson Way, Indianola, IA 50125, USA",
       "street": "1510 North Jefferson Way",
       "zip": "50125",
-      "coordinates": {
-        "lat": 41.37508,
-        "lng": -93.556488
-      },
+      "latitude": 41.37508,
+      "longitude": -93.556488,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -940,10 +864,8 @@
       "address": "1410 S 1st Ave, Iowa City, IA 52240, USA",
       "street": "1410 South 1st Avenue",
       "zip": "52240",
-      "coordinates": {
-        "lat": 41.643552,
-        "lng": -91.501577
-      },
+      "latitude": 41.643552,
+      "longitude": -91.501577,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -964,10 +886,8 @@
       "address": "1410 S 1st Ave, Iowa City, IA 52240, USA",
       "street": "1410 South 1st Avenue",
       "zip": "52240",
-      "coordinates": {
-        "lat": 41.643552,
-        "lng": -91.501577
-      },
+      "latitude": 41.643552,
+      "longitude": -91.501577,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -988,10 +908,8 @@
       "address": "445 US-6, Iowa City, IA 52240, USA",
       "street": "445 South Riverside Drive",
       "zip": "52246",
-      "coordinates": {
-        "lat": 41.644109,
-        "lng": -91.53032
-      },
+      "latitude": 41.644109,
+      "longitude": -91.53032,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1012,10 +930,8 @@
       "address": "445 US-6, Iowa City, IA 52240, USA",
       "street": "445 South Riverside Drive",
       "zip": "52246",
-      "coordinates": {
-        "lat": 41.644109,
-        "lng": -91.53032
-      },
+      "latitude": 41.644109,
+      "longitude": -91.53032,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1036,10 +952,8 @@
       "address": "5355 NW 86th St, Johnston, IA 50131, USA",
       "street": "5355 Northwest 86th Street",
       "zip": "50131",
-      "coordinates": {
-        "lat": 41.657519,
-        "lng": -93.73494
-      },
+      "latitude": 41.657519,
+      "longitude": -93.73494,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1060,10 +974,8 @@
       "address": "1226 Main St, Keokuk, IA 52632, USA",
       "street": "1226 Main Street",
       "zip": "52632",
-      "coordinates": {
-        "lat": 40.40143,
-        "lng": -91.389772
-      },
+      "latitude": 40.40143,
+      "longitude": -91.389772,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1084,10 +996,8 @@
       "address": "1954 County Home Rd, Marion, IA 52302, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.093108,
-        "lng": -91.554842
-      },
+      "latitude": 42.093108,
+      "longitude": -91.554842,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1108,10 +1018,8 @@
       "address": "3202 7th Ave, Marion, IA 52302, USA",
       "street": "3202 7th Avenue",
       "zip": "52302",
-      "coordinates": {
-        "lat": 42.035555,
-        "lng": -91.578244
-      },
+      "latitude": 42.035555,
+      "longitude": -91.578244,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1132,10 +1040,8 @@
       "address": "3202 7th Ave, Marion, IA 52302, USA",
       "street": "3202 7th Avenue",
       "zip": "52302",
-      "coordinates": {
-        "lat": 42.035555,
-        "lng": -91.578244
-      },
+      "latitude": 42.035555,
+      "longitude": -91.578244,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1156,10 +1062,8 @@
       "address": "100 Lafrentz Dr, Marshalltown, IA 50158, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.010872,
-        "lng": -92.910206
-      },
+      "latitude": 42.010872,
+      "longitude": -92.910206,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1180,10 +1084,8 @@
       "address": "4805 22nd Ave, Moline, IL 61265, USA",
       "street": "4805 22nd Avenue",
       "zip": "61265",
-      "coordinates": {
-        "lat": 41.491034,
-        "lng": -90.467856
-      },
+      "latitude": 41.491034,
+      "longitude": -90.467856,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1204,10 +1106,8 @@
       "address": "715 1st Ave S, Mt Vernon, IA 52314, USA",
       "street": "715 1st Avenue South",
       "zip": "52314",
-      "coordinates": {
-        "lat": 41.917139,
-        "lng": -91.423161
-      },
+      "latitude": 41.917139,
+      "longitude": -91.423161,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1228,10 +1128,8 @@
       "address": "2001 Cedar Plaza Dr, Muscatine, IA 52761, USA",
       "street": "2001 Cedar Plaza Drive",
       "zip": "52761",
-      "coordinates": {
-        "lat": 41.434595,
-        "lng": -91.08028
-      },
+      "latitude": 41.434595,
+      "longitude": -91.08028,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1252,10 +1150,8 @@
       "address": "1118 1st Ave E, Newton, IA 50208, USA",
       "street": "1118 1st Avenue East",
       "zip": "50208",
-      "coordinates": {
-        "lat": 41.699888,
-        "lng": -93.039259
-      },
+      "latitude": 41.699888,
+      "longitude": -93.039259,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1276,10 +1172,8 @@
       "address": "980 W Penn St, North Liberty, IA 52317, USA",
       "street": "West Penn Street",
       "zip": "52317",
-      "coordinates": {
-        "lat": 41.752698,
-        "lng": -91.613783
-      },
+      "latitude": 41.752698,
+      "longitude": -91.613783,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1300,10 +1194,8 @@
       "address": "200 High Ave W # 1, Oskaloosa, IA 52577, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.295351,
-        "lng": -92.647522
-      },
+      "latitude": 41.295351,
+      "longitude": -92.647522,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1324,10 +1216,8 @@
       "address": "850 N Quincy Ave, Ottumwa, IA 52501, USA",
       "street": "850 North Quincy Avenue",
       "zip": "52501",
-      "coordinates": {
-        "lat": 41.011953,
-        "lng": -92.437501
-      },
+      "latitude": 41.011953,
+      "longitude": -92.437501,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1348,10 +1238,8 @@
       "address": "4664 44th St, Rock Island, IL 61201, USA",
       "street": "4664 44th Street",
       "zip": "61201",
-      "coordinates": {
-        "lat": 41.467265,
-        "lng": -90.542105
-      },
+      "latitude": 41.467265,
+      "longitude": -90.542105,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1372,10 +1260,8 @@
       "address": "103 Village Dr, Tiffin, IA 52340, USA",
       "street": "Village Drive",
       "zip": "52340",
-      "coordinates": {
-        "lat": 41.697023,
-        "lng": -91.664645
-      },
+      "latitude": 41.697023,
+      "longitude": -91.664645,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1396,10 +1282,8 @@
       "address": "312 E Washington St, Washington, IA 52353, USA",
       "street": "312 East Washington Street",
       "zip": "52353",
-      "coordinates": {
-        "lat": 41.298862,
-        "lng": -91.688598
-      },
+      "latitude": 41.298862,
+      "longitude": -91.688598,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1420,10 +1304,8 @@
       "address": "170 Laurel St, Waukee, IA 50263, USA",
       "street": "170 Laurel Street",
       "zip": "50263",
-      "coordinates": {
-        "lat": 41.613153,
-        "lng": -93.877256
-      },
+      "latitude": 41.613153,
+      "longitude": -93.877256,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1444,10 +1326,8 @@
       "address": "165 W Burlington Ave, West Burlington, IA 52655, USA",
       "street": "165 West Burlington Avenue",
       "zip": "52655",
-      "coordinates": {
-        "lat": 40.812141,
-        "lng": -91.152322
-      },
+      "latitude": 40.812141,
+      "longitude": -91.152322,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1468,10 +1348,8 @@
       "address": "1600 Valley W Dr, West Des Moines, IA 50266, USA",
       "street": "1600 Valley West Drive",
       "zip": "50266",
-      "coordinates": {
-        "lat": 41.596973,
-        "lng": -93.753825
-      },
+      "latitude": 41.596973,
+      "longitude": -93.753825,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1492,10 +1370,8 @@
       "address": "Bldg 5000, 6630 Mills Civic Pkwy, West Des Moines, IA 50266, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.561073,
-        "lng": -93.797452
-      },
+      "latitude": 41.561073,
+      "longitude": -93.797452,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1516,10 +1392,8 @@
       "address": "928 7th St SE, Cedar Rapids, IA 52401, USA",
       "street": "928 7th Street Southeast",
       "zip": "52401",
-      "coordinates": {
-        "lat": 41.974655,
-        "lng": -91.65531
-      },
+      "latitude": 41.974655,
+      "longitude": -91.65531,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1539,10 +1413,8 @@
       "address": "1426 6th Ave, Des Moines, IA 50314, USA",
       "street": "1426 6th Avenue",
       "zip": "50313",
-      "coordinates": {
-        "lat": 41.604993,
-        "lng": -93.626174
-      },
+      "latitude": 41.604993,
+      "longitude": -93.626174,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1562,10 +1434,8 @@
       "address": "520 Army Post Rd, Des Moines, IA 50315, USA",
       "street": "520 Army Post Road",
       "zip": "50315",
-      "coordinates": {
-        "lat": 41.525764,
-        "lng": -93.620534
-      },
+      "latitude": 41.525764,
+      "longitude": -93.620534,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"

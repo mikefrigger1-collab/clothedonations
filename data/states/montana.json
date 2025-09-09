@@ -13,10 +13,8 @@
       "address": "2910 S 30th St W, Billings, MT 59102, USA",
       "street": "South 30th Street West",
       "zip": "59102",
-      "coordinates": {
-        "lat": 45.741178,
-        "lng": -108.591345
-      },
+      "latitude": 45.741178,
+      "longitude": -108.591345,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "425 E Babcock St, Bozeman, MT 59715, USA",
       "street": "425 East Babcock Street",
       "zip": "59715",
-      "coordinates": {
-        "lat": 45.678694,
-        "lng": -111.031302
-      },
+      "latitude": 45.678694,
+      "longitude": -111.031302,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "1229 Harrison Ave, Butte, MT 59701, USA",
       "street": "1229 Harrison Avenue",
       "zip": "59701",
-      "coordinates": {
-        "lat": 46.002047,
-        "lng": -112.521944
-      },
+      "latitude": 46.002047,
+      "longitude": -112.521944,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "4910 10th Ave S, Great Falls, MT 59405, USA",
       "street": "4910 10th Avenue South",
       "zip": "59405",
-      "coordinates": {
-        "lat": 47.492716,
-        "lng": -111.225107
-      },
+      "latitude": 47.492716,
+      "longitude": -111.225107,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "616 1st Ave NW, Great Falls, MT 59404, USA",
       "street": "616 1st Avenue Northwest",
       "zip": "59404",
-      "coordinates": {
-        "lat": 47.508565,
-        "lng": -111.322872
-      },
+      "latitude": 47.508565,
+      "longitude": -111.322872,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "1500 US-93, Kalispell, MT 59901, USA",
       "street": "1500 US 93",
       "zip": "59901",
-      "coordinates": {
-        "lat": 48.215742,
-        "lng": -114.329564
-      },
+      "latitude": 48.215742,
+      "longitude": -114.329564,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -163,10 +151,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -185,10 +171,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -207,10 +191,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -229,10 +211,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -251,10 +231,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -273,10 +251,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -295,10 +271,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -317,10 +291,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -339,10 +311,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -361,10 +331,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -383,10 +351,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -405,10 +371,8 @@
       "address": "333 N 31st St, Billings, MT 59101, USA",
       "street": "333 North 31st Street",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.787561,
-        "lng": -108.511462
-      },
+      "latitude": 45.787561,
+      "longitude": -108.511462,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -427,10 +391,8 @@
       "address": "6161 Jackrabbit Ln, Belgrade, MT 59714, USA",
       "street": "6161 Jackrabbit Lane",
       "zip": "59714",
-      "coordinates": {
-        "lat": 45.760659,
-        "lng": -111.187833
-      },
+      "latitude": 45.760659,
+      "longitude": -111.187833,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -451,10 +413,8 @@
       "address": "1636 Main St, Billings, MT 59105, USA",
       "street": "1636 Main Street",
       "zip": "59105",
-      "coordinates": {
-        "lat": 45.829345,
-        "lng": -108.471655
-      },
+      "latitude": 45.829345,
+      "longitude": -108.471655,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -475,10 +435,8 @@
       "address": "951 S 29th St W, Billings, MT 59102, USA",
       "street": "South 29th Street West",
       "zip": "59102",
-      "coordinates": {
-        "lat": 45.752677,
-        "lng": -108.586162
-      },
+      "latitude": 45.752677,
+      "longitude": -108.586162,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -499,10 +457,8 @@
       "address": "2130 Simmental Way, Bozeman, MT 59715, USA",
       "street": "Simmental Way",
       "zip": "59715",
-      "coordinates": {
-        "lat": 45.700687,
-        "lng": -111.061537
-      },
+      "latitude": 45.700687,
+      "longitude": -111.061537,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -523,10 +479,8 @@
       "address": "3703 Harrison Ave, Butte, MT 59701, USA",
       "street": "3703 Harrison Avenue",
       "zip": "59701",
-      "coordinates": {
-        "lat": 45.969536,
-        "lng": -112.509201
-      },
+      "latitude": 45.969536,
+      "longitude": -112.509201,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -547,10 +501,8 @@
       "address": "Hwy 2 E, Creston, MT 59901, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 48.365092,
-        "lng": -114.146607
-      },
+      "latitude": 48.365092,
+      "longitude": -114.146607,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -571,10 +523,8 @@
       "address": "1201 7th St S, Great Falls, MT 59405, USA",
       "street": "1201 7th Street South",
       "zip": "59405",
-      "coordinates": {
-        "lat": 47.492027,
-        "lng": -111.294657
-      },
+      "latitude": 47.492027,
+      "longitude": -111.294657,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -595,10 +545,8 @@
       "address": "2124 N 1st St, Hamilton, MT 59840, USA",
       "street": "2124 North 1st Street",
       "zip": "59840",
-      "coordinates": {
-        "lat": 46.27388,
-        "lng": -114.15749
-      },
+      "latitude": 46.27388,
+      "longitude": -114.15749,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -619,10 +567,8 @@
       "address": "3575 Ptarmigan Ln, Helena, MT 59602, USA",
       "street": "3575 Ptarmigan Lane",
       "zip": "59601",
-      "coordinates": {
-        "lat": 46.622895,
-        "lng": -112.022269
-      },
+      "latitude": 46.622895,
+      "longitude": -112.022269,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -643,10 +589,8 @@
       "address": "2501 S Reserve St, Missoula, MT 59801, USA",
       "street": "2501 South Reserve Street",
       "zip": "59801",
-      "coordinates": {
-        "lat": 46.847418,
-        "lng": -114.040304
-      },
+      "latitude": 46.847418,
+      "longitude": -114.040304,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -667,10 +611,8 @@
       "address": "1136 W Broadway St, Missoula, MT 59802, USA",
       "street": "West Broadway Street",
       "zip": "59807",
-      "coordinates": {
-        "lat": 46.87724,
-        "lng": -114.010009
-      },
+      "latitude": 46.87724,
+      "longitude": -114.010009,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -691,10 +633,8 @@
       "address": "920 Kensington Ave, Missoula, MT 59801, USA",
       "street": "920 Kensington Avenue",
       "zip": "59801",
-      "coordinates": {
-        "lat": 46.853614,
-        "lng": -114.012627
-      },
+      "latitude": 46.853614,
+      "longitude": -114.012627,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -715,10 +655,8 @@
       "address": "3005 1st Ave S, Billings, MT 59101, USA",
       "street": "3005 1st Avenue South",
       "zip": "59101",
-      "coordinates": {
-        "lat": 45.778459,
-        "lng": -108.506177
-      },
+      "latitude": 45.778459,
+      "longitude": -108.506177,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -738,10 +676,8 @@
       "address": "426 Central Ave W, Great Falls, MT 59404, USA",
       "street": "426 Central Avenue West",
       "zip": "59404",
-      "coordinates": {
-        "lat": 47.507579,
-        "lng": -111.319685
-      },
+      "latitude": 47.507579,
+      "longitude": -111.319685,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"

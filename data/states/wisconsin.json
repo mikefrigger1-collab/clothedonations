@@ -13,10 +13,8 @@
       "address": "2833 Mall Dr, Eau Claire, WI 54701, USA",
       "street": "2833 Mall Drive",
       "zip": "54701",
-      "coordinates": {
-        "lat": 44.789976,
-        "lng": -91.460462
-      },
+      "latitude": 44.789976,
+      "longitude": -91.460462,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -40,10 +38,8 @@
       "address": "248 S Pine St, Burlington, WI 53105, USA",
       "street": "248 South Pine Street",
       "zip": "53105",
-      "coordinates": {
-        "lat": 42.674515,
-        "lng": -88.27083
-      },
+      "latitude": 42.674515,
+      "longitude": -88.27083,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -65,10 +61,8 @@
       "address": "5656 S Packard Ave, Cudahy, WI 53110, USA",
       "street": "5656 South Packard Avenue",
       "zip": "53110",
-      "coordinates": {
-        "lat": 42.942191,
-        "lng": -87.859042
-      },
+      "latitude": 42.942191,
+      "longitude": -87.859042,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -90,10 +84,8 @@
       "address": "6341 S 27th St, Franklin, WI 53132, USA",
       "street": "6341 South 27th Street",
       "zip": "53132",
-      "coordinates": {
-        "lat": 42.929417,
-        "lng": -87.950096
-      },
+      "latitude": 42.929417,
+      "longitude": -87.950096,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -115,10 +107,8 @@
       "address": "1125 W Mason St, Green Bay, WI 54304, USA",
       "street": "1125 West Mason Street",
       "zip": "54303",
-      "coordinates": {
-        "lat": 44.516464,
-        "lng": -88.045152
-      },
+      "latitude": 44.516464,
+      "longitude": -88.045152,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -140,10 +130,8 @@
       "address": "2717 Milton Ave, Janesville, WI 53545, USA",
       "street": "2717 Milton Avenue",
       "zip": "53545",
-      "coordinates": {
-        "lat": 42.716334,
-        "lng": -89.001724
-      },
+      "latitude": 42.716334,
+      "longitude": -89.001724,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -165,10 +153,8 @@
       "address": "324 N Jackson St, Milwaukee, WI 53202, USA",
       "street": "324 North Jackson Street",
       "zip": "53202",
-      "coordinates": {
-        "lat": 43.034723,
-        "lng": -87.903214
-      },
+      "latitude": 43.034723,
+      "longitude": -87.903214,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -190,10 +176,8 @@
       "address": "841 E Centennial Dr, Oak Creek, WI 53154, USA",
       "street": "East Centennial Drive",
       "zip": "53154",
-      "coordinates": {
-        "lat": 42.88096,
-        "lng": -87.904459
-      },
+      "latitude": 42.88096,
+      "longitude": -87.904459,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -215,10 +199,8 @@
       "address": "4901 Washington Ave, Racine, WI 53406, USA",
       "street": "4901 Washington Avenue",
       "zip": "53406",
-      "coordinates": {
-        "lat": 42.716968,
-        "lng": -87.838748
-      },
+      "latitude": 42.716968,
+      "longitude": -87.838748,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -240,10 +222,8 @@
       "address": "11315 W Watertown Plank Rd, Wauwatosa, WI 53226, USA",
       "street": "11315 West Watertown Plank Road",
       "zip": "53226",
-      "coordinates": {
-        "lat": 43.045125,
-        "lng": -88.054695
-      },
+      "latitude": 43.045125,
+      "longitude": -88.054695,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -265,10 +245,8 @@
       "address": "7713 W Greenfield Ave, West Allis, WI 53214, USA",
       "street": "7713 West Greenfield Avenue",
       "zip": "53214",
-      "coordinates": {
-        "lat": 43.016383,
-        "lng": -88.008827
-      },
+      "latitude": 43.016383,
+      "longitude": -88.008827,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -290,10 +268,8 @@
       "address": "405 WI-64, Antigo, WI 54409, USA",
       "street": "State Highway 64",
       "zip": "54409",
-      "coordinates": {
-        "lat": 45.160837,
-        "lng": -89.144588
-      },
+      "latitude": 45.160837,
+      "longitude": -89.144588,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -314,10 +290,8 @@
       "address": "1033 W Northland Ave, Appleton, WI 54914, USA",
       "street": "1033 West Northland Avenue",
       "zip": "54914",
-      "coordinates": {
-        "lat": 44.286842,
-        "lng": -88.422137
-      },
+      "latitude": 44.286842,
+      "longitude": -88.422137,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -338,10 +312,8 @@
       "address": "1341 W Spencer St, Appleton, WI 54914, USA",
       "street": "1341 West Spencer Street",
       "zip": "54914",
-      "coordinates": {
-        "lat": 44.25795,
-        "lng": -88.426924
-      },
+      "latitude": 44.25795,
+      "longitude": -88.426924,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -362,10 +334,8 @@
       "address": "1341 W Spencer St, Appleton, WI 54914, USA",
       "street": "1341 West Spencer Street",
       "zip": "54914",
-      "coordinates": {
-        "lat": 44.25795,
-        "lng": -88.426924
-      },
+      "latitude": 44.25795,
+      "longitude": -88.426924,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -386,10 +356,8 @@
       "address": "1835 E Edgewood Dr, Appleton, WI 54913, USA",
       "street": "1835 East Edgewood Drive",
       "zip": "54913",
-      "coordinates": {
-        "lat": 44.31607,
-        "lng": -88.376209
-      },
+      "latitude": 44.31607,
+      "longitude": -88.376209,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -410,10 +378,8 @@
       "address": "2411 S Kensington Dr, Appleton, WI 54915, USA",
       "street": "2411 South Kensington Drive",
       "zip": "54915",
-      "coordinates": {
-        "lat": 44.240687,
-        "lng": -88.361944
-      },
+      "latitude": 44.240687,
+      "longitude": -88.361944,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -434,10 +400,8 @@
       "address": "2701 N Ballard Rd, Appleton, WI 54911, USA",
       "street": "2701 North Ballard Road",
       "zip": "54911",
-      "coordinates": {
-        "lat": 44.286079,
-        "lng": -88.375488
-      },
+      "latitude": 44.286079,
+      "longitude": -88.375488,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -458,10 +422,8 @@
       "address": "2851 E Apple Creek Rd, Appleton, WI 54913, USA",
       "street": "2851 East Apple Creek Road",
       "zip": "54913",
-      "coordinates": {
-        "lat": 44.333279,
-        "lng": -88.359978
-      },
+      "latitude": 44.333279,
+      "longitude": -88.359978,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -482,10 +444,8 @@
       "address": "4759 W Michaels Dr, Appleton, WI 54913, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.266894,
-        "lng": -88.478759
-      },
+      "latitude": 44.266894,
+      "longitude": -88.478759,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -506,10 +466,8 @@
       "address": "N189 Stoney Brook Rd, Appleton, WI 54915, USA",
       "street": "N189 Stoney Brook Road",
       "zip": "54915",
-      "coordinates": {
-        "lat": 44.247094,
-        "lng": -88.352695
-      },
+      "latitude": 44.247094,
+      "longitude": -88.352695,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -530,10 +488,8 @@
       "address": "2814 S Oneida St, Ashwaubenon, WI 54304, USA",
       "street": "2814 South Oneida Street",
       "zip": "54304",
-      "coordinates": {
-        "lat": 44.473015,
-        "lng": -88.075953
-      },
+      "latitude": 44.473015,
+      "longitude": -88.075953,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -554,10 +510,8 @@
       "address": "130 Frances Ln, Beaver Dam, WI 53916, USA",
       "street": "Frances Lane",
       "zip": "53916",
-      "coordinates": {
-        "lat": 43.490728,
-        "lng": -88.810016
-      },
+      "latitude": 43.490728,
+      "longitude": -88.810016,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -578,10 +532,8 @@
       "address": "18605 W Bluemound Rd, Brookfield, WI 53045, USA",
       "street": "18605 West Bluemound Road",
       "zip": "53045",
-      "coordinates": {
-        "lat": 43.035512,
-        "lng": -88.14294
-      },
+      "latitude": 43.035512,
+      "longitude": -88.14294,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -602,10 +554,8 @@
       "address": "9305 N Green Bay Rd, Brown Deer, WI 53209, USA",
       "street": "9305 North Green Bay Road",
       "zip": "53223",
-      "coordinates": {
-        "lat": 43.187189,
-        "lng": -87.966176
-      },
+      "latitude": 43.187189,
+      "longitude": -87.966176,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -626,10 +576,8 @@
       "address": "2759 S Prairie View Rd, Chippewa Falls, WI 54729, USA",
       "street": "2759 South Prairie View Road",
       "zip": "",
-      "coordinates": {
-        "lat": 44.883053,
-        "lng": -91.423992
-      },
+      "latitude": 44.883053,
+      "longitude": -91.423992,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -650,10 +598,8 @@
       "address": "575 Swan Rd, De Pere, WI 54115, USA",
       "street": "575 Swan Road",
       "zip": "54115",
-      "coordinates": {
-        "lat": 44.436869,
-        "lng": -88.034627
-      },
+      "latitude": 44.436869,
+      "longitude": -88.034627,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -674,10 +620,8 @@
       "address": "1402 Geneva St, Delavan, WI 53115, USA",
       "street": "1402 East Geneva Street",
       "zip": "53115",
-      "coordinates": {
-        "lat": 42.624557,
-        "lng": -88.624361
-      },
+      "latitude": 42.624557,
+      "longitude": -88.624361,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -698,10 +642,8 @@
       "address": "3605 Gateway Dr, Eau Claire, WI 54701, USA",
       "street": "3605 Gateway Drive",
       "zip": "54701",
-      "coordinates": {
-        "lat": 44.779959,
-        "lng": -91.43071
-      },
+      "latitude": 44.779959,
+      "longitude": -91.43071,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -722,10 +664,8 @@
       "address": "6291 McKee Rd, Fitchburg, WI 53719, USA",
       "street": "6291 McKee Road",
       "zip": "53719",
-      "coordinates": {
-        "lat": 43.015049,
-        "lng": -89.480199
-      },
+      "latitude": 43.015049,
+      "longitude": -89.480199,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -746,10 +686,8 @@
       "address": "904 S Main St, Fond du Lac, WI 54935, USA",
       "street": "904 South Main Street",
       "zip": "54935",
-      "coordinates": {
-        "lat": 43.754424,
-        "lng": -88.4497
-      },
+      "latitude": 43.754424,
+      "longitude": -88.4497,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -770,10 +708,8 @@
       "address": "1530 Madison Ave, Fort Atkinson, WI 53538, USA",
       "street": "Madison Avenue",
       "zip": "53538",
-      "coordinates": {
-        "lat": 42.941903,
-        "lng": -88.860725
-      },
+      "latitude": 42.941903,
+      "longitude": -88.860725,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -794,10 +730,8 @@
       "address": "6941 S Riverwood Blvd, Franklin, WI 53132, USA",
       "street": "6941 South Riverwood Boulevard",
       "zip": "53132",
-      "coordinates": {
-        "lat": 42.919603,
-        "lng": -87.954075
-      },
+      "latitude": 42.919603,
+      "longitude": -87.954075,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -818,10 +752,8 @@
       "address": "1715 Wisconsin Ave, Grafton, WI 53024, USA",
       "street": "1715 Wisconsin Avenue",
       "zip": "53024",
-      "coordinates": {
-        "lat": 43.311977,
-        "lng": -87.957908
-      },
+      "latitude": 43.311977,
+      "longitude": -87.957908,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -842,10 +774,8 @@
       "address": "1301 Brosig St, Green Bay, WI 54311, USA",
       "street": "1301 Brosig Street",
       "zip": "54311",
-      "coordinates": {
-        "lat": 44.476869,
-        "lng": -87.966482
-      },
+      "latitude": 44.476869,
+      "longitude": -87.966482,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -866,10 +796,8 @@
       "address": "1660 W Mason St, Green Bay, WI 54303, USA",
       "street": "1660 West Mason Street",
       "zip": "54303",
-      "coordinates": {
-        "lat": 44.526395,
-        "lng": -88.06763
-      },
+      "latitude": 44.526395,
+      "longitude": -88.06763,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -890,10 +818,8 @@
       "address": "2465 Lineville Rd, Green Bay, WI 54313, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.589351,
-        "lng": -88.079898
-      },
+      "latitude": 44.589351,
+      "longitude": -88.079898,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -914,10 +840,8 @@
       "address": "N1230 County Rd CB, Greenville, WI 54942, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.28511,
-        "lng": -88.505417
-      },
+      "latitude": 44.28511,
+      "longitude": -88.505417,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -938,10 +862,8 @@
       "address": "N1858 Greenville Dr, Greenville, WI 54942, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.308977,
-        "lng": -88.550074
-      },
+      "latitude": 44.308977,
+      "longitude": -88.550074,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -962,10 +884,8 @@
       "address": "W6931 School Rd, Greenville, WI 54942, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.285554,
-        "lng": -88.539725
-      },
+      "latitude": 44.285554,
+      "longitude": -88.539725,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -986,10 +906,8 @@
       "address": "213 E Towne Dr, Hortonville, WI 54944, USA",
       "street": "213 East Towne Drive",
       "zip": "54944",
-      "coordinates": {
-        "lat": 44.336378,
-        "lng": -88.634652
-      },
+      "latitude": 44.336378,
+      "longitude": -88.634652,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1010,10 +928,8 @@
       "address": "2003 Holiday Dr, Janesville, WI 53545, USA",
       "street": "2003 Holiday Drive",
       "zip": "53545",
-      "coordinates": {
-        "lat": 42.715231,
-        "lng": -88.997839
-      },
+      "latitude": 42.715231,
+      "longitude": -88.997839,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1034,10 +950,8 @@
       "address": "211 E Ann St, Kaukauna, WI 54130, USA",
       "street": "211 East Ann Street",
       "zip": "54130",
-      "coordinates": {
-        "lat": 44.259358,
-        "lng": -88.2733
-      },
+      "latitude": 44.259358,
+      "longitude": -88.2733,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1058,10 +972,8 @@
       "address": "1901 E Main St, Kaukauna, WI 54130, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.284076,
-        "lng": -88.291197
-      },
+      "latitude": 44.284076,
+      "longitude": -88.291197,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1082,10 +994,8 @@
       "address": "6100 75th St, Kenosha, WI 53142, USA",
       "street": "75th Street",
       "zip": "53142",
-      "coordinates": {
-        "lat": 42.567675,
-        "lng": -87.882054
-      },
+      "latitude": 42.567675,
+      "longitude": -87.882054,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1106,10 +1016,8 @@
       "address": "3954 Mormon Coulee Rd, La Crosse, WI 54601, USA",
       "street": "3954 Mormon Coulee Road",
       "zip": "54601",
-      "coordinates": {
-        "lat": 43.77403,
-        "lng": -91.220995
-      },
+      "latitude": 43.77403,
+      "longitude": -91.220995,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1130,10 +1038,8 @@
       "address": "1302 Mendota St, Madison, WI 53714, USA",
       "street": "1302 Mendota Street",
       "zip": "53714",
-      "coordinates": {
-        "lat": 43.116511,
-        "lng": -89.316898
-      },
+      "latitude": 43.116511,
+      "longitude": -89.316898,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1154,10 +1060,8 @@
       "address": "2127 E Springs Dr, Madison, WI 53704, USA",
       "street": "2127 East Springs Drive",
       "zip": "53704",
-      "coordinates": {
-        "lat": 43.127185,
-        "lng": -89.292515
-      },
+      "latitude": 43.127185,
+      "longitude": -89.292515,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1178,10 +1082,8 @@
       "address": "2901 N Sherman Ave, Madison, WI 53704, USA",
       "street": "2901 North Sherman Avenue",
       "zip": "53704",
-      "coordinates": {
-        "lat": 43.128583,
-        "lng": -89.363109
-      },
+      "latitude": 43.128583,
+      "longitude": -89.363109,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1202,10 +1104,8 @@
       "address": "4530 Verona Rd, Madison, WI 53711, USA",
       "street": "4530 Verona Road",
       "zip": "53711",
-      "coordinates": {
-        "lat": 43.038016,
-        "lng": -89.457304
-      },
+      "latitude": 43.038016,
+      "longitude": -89.457304,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1226,10 +1126,8 @@
       "address": "4335 Calumet Ave, Manitowoc, WI 54220, USA",
       "street": "Calumet Avenue",
       "zip": "54220",
-      "coordinates": {
-        "lat": 44.071901,
-        "lng": -87.703021
-      },
+      "latitude": 44.071901,
+      "longitude": -87.703021,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1250,10 +1148,8 @@
       "address": "2220 N Central Ave, Marshfield, WI 54449, USA",
       "street": "2220 North Central Avenue",
       "zip": "54449",
-      "coordinates": {
-        "lat": 44.691928,
-        "lng": -90.155716
-      },
+      "latitude": 44.691928,
+      "longitude": -90.155716,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1274,10 +1170,8 @@
       "address": "1800 Appleton Rd, Menasha, WI 54952, USA",
       "street": "1800 Appleton Road",
       "zip": "54952",
-      "coordinates": {
-        "lat": 44.235469,
-        "lng": -88.426303
-      },
+      "latitude": 44.235469,
+      "longitude": -88.426303,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1298,10 +1192,8 @@
       "address": "Water Tower Pl, Menomonee Falls, WI 53051, USA",
       "street": "Water Tower Place",
       "zip": "53022",
-      "coordinates": {
-        "lat": 43.187362,
-        "lng": -88.131542
-      },
+      "latitude": 43.187362,
+      "longitude": -88.131542,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1322,10 +1214,8 @@
       "address": "2500 Hils Ct, Menomonie, WI 54751, USA",
       "street": "2500 Hils Court",
       "zip": "54751",
-      "coordinates": {
-        "lat": 44.912924,
-        "lng": -91.931377
-      },
+      "latitude": 44.912924,
+      "longitude": -91.931377,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1346,10 +1236,8 @@
       "address": "6280 Century Ave, Middleton, WI 53562, USA",
       "street": "6280 Century Avenue",
       "zip": "53562",
-      "coordinates": {
-        "lat": 43.104665,
-        "lng": -89.488836
-      },
+      "latitude": 43.104665,
+      "longitude": -89.488836,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1370,10 +1258,8 @@
       "address": "153 W Oklahoma Ave, Milwaukee, WI 53207, USA",
       "street": "153 West Oklahoma Avenue",
       "zip": "53207",
-      "coordinates": {
-        "lat": 42.9863,
-        "lng": -87.911338
-      },
+      "latitude": 42.9863,
+      "longitude": -87.911338,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1394,10 +1280,8 @@
       "address": "2830 N Oakland Ave, Milwaukee, WI 53211, USA",
       "street": "2830 North Oakland Avenue",
       "zip": "53211",
-      "coordinates": {
-        "lat": 43.070227,
-        "lng": -87.887575
-      },
+      "latitude": 43.070227,
+      "longitude": -87.887575,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1418,10 +1302,8 @@
       "address": "3900 N Palmer St, Milwaukee, WI 53212, USA",
       "street": "3900 North Palmer Street",
       "zip": "53212",
-      "coordinates": {
-        "lat": 43.088054,
-        "lng": -87.909192
-      },
+      "latitude": 43.088054,
+      "longitude": -87.909192,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1442,10 +1324,8 @@
       "address": "6055 N 91st St, Milwaukee, WI 53225, USA",
       "street": "6055 North 91st Street",
       "zip": "53225",
-      "coordinates": {
-        "lat": 43.127172,
-        "lng": -88.027615
-      },
+      "latitude": 43.127172,
+      "longitude": -88.027615,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1466,10 +1346,8 @@
       "address": "190 N Broadway St, Milwaukee, WI 53202, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.03254,
-        "lng": -87.906749
-      },
+      "latitude": 43.03254,
+      "longitude": -87.906749,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1490,10 +1368,8 @@
       "address": "2501 Royal Ave, Monona, WI 53713, USA",
       "street": "2501 Royal Avenue",
       "zip": "53713",
-      "coordinates": {
-        "lat": 43.041728,
-        "lng": -89.353446
-      },
+      "latitude": 43.041728,
+      "longitude": -89.353446,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1514,10 +1390,8 @@
       "address": "3131 S Oakes Rd, Mt Pleasant, WI 53406, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 42.694398,
-        "lng": -87.871771
-      },
+      "latitude": 42.694398,
+      "longitude": -87.871771,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1538,10 +1412,8 @@
       "address": "1350 W American Dr, Neenah, WI 54956, USA",
       "street": "1350 West American Drive",
       "zip": "54956",
-      "coordinates": {
-        "lat": 44.222885,
-        "lng": -88.492752
-      },
+      "latitude": 44.222885,
+      "longitude": -88.492752,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1562,10 +1434,8 @@
       "address": "907 S Green Bay Rd, Neenah, WI 54956, USA",
       "street": "907 South Green Bay Road",
       "zip": "54956",
-      "coordinates": {
-        "lat": 44.17501,
-        "lng": -88.486475
-      },
+      "latitude": 44.17501,
+      "longitude": -88.486475,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1586,10 +1456,8 @@
       "address": "3540 S Moorland Rd, New Berlin, WI 53151, USA",
       "street": "3540 South Moorland Road",
       "zip": "53151",
-      "coordinates": {
-        "lat": 42.980268,
-        "lng": -88.106484
-      },
+      "latitude": 42.980268,
+      "longitude": -88.106484,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1610,10 +1478,8 @@
       "address": "8201 S Howell Ave, Oak Creek, WI 53154, USA",
       "street": "8201 South Howell Avenue",
       "zip": "53154",
-      "coordinates": {
-        "lat": 42.895299,
-        "lng": -87.913637
-      },
+      "latitude": 42.895299,
+      "longitude": -87.913637,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1634,10 +1500,8 @@
       "address": "1408 Summit Ave, Oconomowoc, WI 53066, USA",
       "street": "1408 Summit Avenue",
       "zip": "53066",
-      "coordinates": {
-        "lat": 43.085984,
-        "lng": -88.47382
-      },
+      "latitude": 43.085984,
+      "longitude": -88.47382,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1658,10 +1522,8 @@
       "address": "200 Theater Rd, Onalaska, WI 54650, USA",
       "street": "200 Theater Road",
       "zip": "54650",
-      "coordinates": {
-        "lat": 43.879029,
-        "lng": -91.199593
-      },
+      "latitude": 43.879029,
+      "longitude": -91.199593,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1682,10 +1544,8 @@
       "address": "1600 W 20th Ave, Oshkosh, WI 54902, USA",
       "street": "1600 West 20th Avenue",
       "zip": "54902",
-      "coordinates": {
-        "lat": 43.996702,
-        "lng": -88.575178
-      },
+      "latitude": 43.996702,
+      "longitude": -88.575178,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1706,10 +1566,8 @@
       "address": "2303 Westowne Ave, Oshkosh, WI 54904, USA",
       "street": "2303 Westowne Avenue",
       "zip": "54904",
-      "coordinates": {
-        "lat": 44.028427,
-        "lng": -88.587765
-      },
+      "latitude": 44.028427,
+      "longitude": -88.587765,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1730,10 +1588,8 @@
       "address": "2015 Meadow Ln, Pewaukee, WI 53072, USA",
       "street": "2015 Meadow Lane",
       "zip": "53072",
-      "coordinates": {
-        "lat": 43.041133,
-        "lng": -88.259578
-      },
+      "latitude": 43.041133,
+      "longitude": -88.259578,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1754,10 +1610,8 @@
       "address": "2001 Progressive Pkwy, Platteville, WI 53818, USA",
       "street": "2001 Progressive Parkway",
       "zip": "53818",
-      "coordinates": {
-        "lat": 42.736032,
-        "lng": -90.434541
-      },
+      "latitude": 42.736032,
+      "longitude": -90.434541,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1778,10 +1632,8 @@
       "address": "1017 Commons Cir, Plover, WI 54467, USA",
       "street": "1017 Commons Circle",
       "zip": "54467",
-      "coordinates": {
-        "lat": 44.490723,
-        "lng": -89.511511
-      },
+      "latitude": 44.490723,
+      "longitude": -89.511511,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1802,10 +1654,8 @@
       "address": "2902 American Legion Dr, Portage, WI 53901, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.568376,
-        "lng": -89.473156
-      },
+      "latitude": 43.568376,
+      "longitude": -89.473156,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1826,10 +1676,8 @@
       "address": "2181 Lincoln St, Rhinelander, WI 54501, USA",
       "street": "2181 Lincoln Street",
       "zip": "54501",
-      "coordinates": {
-        "lat": 45.63501,
-        "lng": -89.380453
-      },
+      "latitude": 45.63501,
+      "longitude": -89.380453,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1850,10 +1698,8 @@
       "address": "2850 College Dr, Rice Lake, WI 54868, USA",
       "street": "2850 College Drive",
       "zip": "54868",
-      "coordinates": {
-        "lat": 45.47354,
-        "lng": -91.744874
-      },
+      "latitude": 45.47354,
+      "longitude": -91.744874,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1874,10 +1720,8 @@
       "address": "2496 US-14, Richland Center, WI 53581, USA",
       "street": "2496 US Highway 14",
       "zip": "53581",
-      "coordinates": {
-        "lat": 43.314114,
-        "lng": -90.345958
-      },
+      "latitude": 43.314114,
+      "longitude": -90.345958,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1898,10 +1742,8 @@
       "address": "2713 Schofield Ave, Schofield, WI 54476, USA",
       "street": "Schofield Avenue",
       "zip": "54476",
-      "coordinates": {
-        "lat": 44.906153,
-        "lng": -89.590262
-      },
+      "latitude": 44.906153,
+      "longitude": -89.590262,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1922,10 +1764,8 @@
       "address": "300 Lakeland Rd, Shawano, WI 54166, USA",
       "street": "300 Lakeland Road",
       "zip": "54166",
-      "coordinates": {
-        "lat": 44.780132,
-        "lng": -88.583178
-      },
+      "latitude": 44.780132,
+      "longitude": -88.583178,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1946,10 +1786,8 @@
       "address": "3657 Greenwing Dr, Sheboygan, WI 53081, USA",
       "street": "3657 Greenwing Drive",
       "zip": "53081",
-      "coordinates": {
-        "lat": 43.715786,
-        "lng": -87.751806
-      },
+      "latitude": 43.715786,
+      "longitude": -87.751806,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1970,10 +1808,8 @@
       "address": "5373 US-10 A, Stevens Point, WI 54482, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.522623,
-        "lng": -89.519754
-      },
+      "latitude": 44.522623,
+      "longitude": -89.519754,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1994,10 +1830,8 @@
       "address": "1780 US-51, Stoughton, WI 53589, USA",
       "street": "1780 US Highway 51",
       "zip": "53589",
-      "coordinates": {
-        "lat": 42.919576,
-        "lng": -89.242642
-      },
+      "latitude": 42.919576,
+      "longitude": -89.242642,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2018,10 +1852,8 @@
       "address": "1630 Enterprise Dr, Sturtevant, WI 53177, USA",
       "street": "1630 Enterprise Drive",
       "zip": "53177",
-      "coordinates": {
-        "lat": 42.714736,
-        "lng": -87.907507
-      },
+      "latitude": 42.714736,
+      "longitude": -87.907507,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2042,10 +1874,8 @@
       "address": "2111 McCoy Rd, Sun Prairie, WI 53590, USA",
       "street": "2111 McCoy Road",
       "zip": "53590",
-      "coordinates": {
-        "lat": 43.174305,
-        "lng": -89.24917
-      },
+      "latitude": 43.174305,
+      "longitude": -89.24917,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2066,10 +1896,8 @@
       "address": "1516 N Superior Ave, Tomah, WI 54660, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.01013,
-        "lng": -90.506403
-      },
+      "latitude": 44.01013,
+      "longitude": -90.506403,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2090,10 +1918,8 @@
       "address": "1400 Nike Dr, Waukesha, WI 53186, USA",
       "street": "1400 Nike Drive",
       "zip": "53186",
-      "coordinates": {
-        "lat": 43.02099,
-        "lng": -88.198176
-      },
+      "latitude": 43.02099,
+      "longitude": -88.198176,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2114,10 +1940,8 @@
       "address": "805 W Fulton St, Waupaca, WI 54981, USA",
       "street": "805 West Fulton Street",
       "zip": "54981",
-      "coordinates": {
-        "lat": 44.356765,
-        "lng": -89.10061
-      },
+      "latitude": 44.356765,
+      "longitude": -89.10061,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2138,10 +1962,8 @@
       "address": "1100 Morning Glory Ln, Wausau, WI 54401, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.916576,
-        "lng": -89.647112
-      },
+      "latitude": 44.916576,
+      "longitude": -89.647112,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2162,10 +1984,8 @@
       "address": "12121 W Feerick St, Wauwatosa, WI 53222, USA",
       "street": "12121 West Feerick Street",
       "zip": "53222",
-      "coordinates": {
-        "lat": 43.085516,
-        "lng": -88.062382
-      },
+      "latitude": 43.085516,
+      "longitude": -88.062382,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2186,10 +2006,8 @@
       "address": "10909 W Oklahoma Ave, West Allis, WI 53227, USA",
       "street": "10909 West Oklahoma Avenue",
       "zip": "53227",
-      "coordinates": {
-        "lat": 42.98758,
-        "lng": -88.048667
-      },
+      "latitude": 42.98758,
+      "longitude": -88.048667,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2210,10 +2028,8 @@
       "address": "1717 Clarence Ct, West Bend, WI 53095, USA",
       "street": "1717 Clarence Court",
       "zip": "53095",
-      "coordinates": {
-        "lat": 43.399461,
-        "lng": -88.194451
-      },
+      "latitude": 43.399461,
+      "longitude": -88.194451,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2234,10 +2050,8 @@
       "address": "1716 Miller Park Way, West Milwaukee, WI 53214, USA",
       "street": "1716 Miller Park Way",
       "zip": "53215",
-      "coordinates": {
-        "lat": 43.011832,
-        "lng": -87.966858
-      },
+      "latitude": 43.011832,
+      "longitude": -87.966858,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2258,10 +2072,8 @@
       "address": "2561 8th St S, Wisconsin Rapids, WI 54494, USA",
       "street": "2561 8th Street South",
       "zip": "54494",
-      "coordinates": {
-        "lat": 44.371014,
-        "lng": -89.815891
-      },
+      "latitude": 44.371014,
+      "longitude": -89.815891,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2282,10 +2094,8 @@
       "address": "434 N Main St, Cottage Grove, WI 53527, USA",
       "street": "434 North Main Street",
       "zip": "53527",
-      "coordinates": {
-        "lat": 43.08343,
-        "lng": -89.199054
-      },
+      "latitude": 43.08343,
+      "longitude": -89.199054,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2305,10 +2115,8 @@
       "address": "2947 Thinnes St, Cross Plains, WI 53528, USA",
       "street": "2947 Thinnes Street",
       "zip": "53528",
-      "coordinates": {
-        "lat": 43.119837,
-        "lng": -89.632659
-      },
+      "latitude": 43.119837,
+      "longitude": -89.632659,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2328,10 +2136,8 @@
       "address": "3673 County Rd P, Cross Plains, WI 53528, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.05559,
-        "lng": -89.656453
-      },
+      "latitude": 43.05559,
+      "longitude": -89.656453,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2351,10 +2157,8 @@
       "address": "4476 S 108th St, Greenfield, WI 53228, USA",
       "street": "4476 South 108th Street",
       "zip": "53228",
-      "coordinates": {
-        "lat": 42.96199,
-        "lng": -88.045788
-      },
+      "latitude": 42.96199,
+      "longitude": -88.045788,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2374,10 +2178,8 @@
       "address": "1128 St James Ct, Madison, WI 53715, USA",
       "street": "1128 St James Court",
       "zip": "53715",
-      "coordinates": {
-        "lat": 43.066092,
-        "lng": -89.405297
-      },
+      "latitude": 43.066092,
+      "longitude": -89.405297,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2397,10 +2199,8 @@
       "address": "1309 Williamson St, Madison, WI 53703, USA",
       "street": "1309 Williamson Street",
       "zip": "53703",
-      "coordinates": {
-        "lat": 43.084588,
-        "lng": -89.361926
-      },
+      "latitude": 43.084588,
+      "longitude": -89.361926,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2420,10 +2220,8 @@
       "address": "1501 W Badger Rd, Madison, WI 53713, USA",
       "street": "1501 West Badger Road",
       "zip": "53713",
-      "coordinates": {
-        "lat": 43.038159,
-        "lng": -89.409329
-      },
+      "latitude": 43.038159,
+      "longitude": -89.409329,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2443,10 +2241,8 @@
       "address": "1900 S Park St, Madison, WI 53713, USA",
       "street": "1900 South Park Street",
       "zip": "53713",
-      "coordinates": {
-        "lat": 43.044725,
-        "lng": -89.395236
-      },
+      "latitude": 43.044725,
+      "longitude": -89.395236,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2466,10 +2262,8 @@
       "address": "313 Dempsey Rd, Madison, WI 53714, USA",
       "street": "313 Dempsey Road",
       "zip": "53714",
-      "coordinates": {
-        "lat": 43.091233,
-        "lng": -89.316069
-      },
+      "latitude": 43.091233,
+      "longitude": -89.316069,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2489,10 +2283,8 @@
       "address": "405 S Owen Dr, Madison, WI 53711, USA",
       "street": "405 South Owen Drive",
       "zip": "53711",
-      "coordinates": {
-        "lat": 43.060067,
-        "lng": -89.44659
-      },
+      "latitude": 43.060067,
+      "longitude": -89.44659,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2512,10 +2304,8 @@
       "address": "602 Everglade Dr, Madison, WI 53717, USA",
       "street": "602 Everglade Drive",
       "zip": "53717",
-      "coordinates": {
-        "lat": 43.074462,
-        "lng": -89.499824
-      },
+      "latitude": 43.074462,
+      "longitude": -89.499824,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2535,10 +2325,8 @@
       "address": "6301 Odana Rd, Madison, WI 53719, USA",
       "street": "6301 Odana Road",
       "zip": "53719",
-      "coordinates": {
-        "lat": 43.053333,
-        "lng": -89.488467
-      },
+      "latitude": 43.053333,
+      "longitude": -89.488467,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2558,10 +2346,8 @@
       "address": "2320 W Lincoln Ave, Milwaukee, WI 53215, USA",
       "street": "2320,2326 West Lincoln Avenue",
       "zip": "53215",
-      "coordinates": {
-        "lat": 43.003196,
-        "lng": -87.943132
-      },
+      "latitude": 43.003196,
+      "longitude": -87.943132,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2581,10 +2367,8 @@
       "address": "1509 US-51, Stoughton, WI 53589, USA",
       "street": "1509 US Highway 51",
       "zip": "53589",
-      "coordinates": {
-        "lat": 42.917808,
-        "lng": -89.238772
-      },
+      "latitude": 42.917808,
+      "longitude": -89.238772,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2604,10 +2388,8 @@
       "address": "1110 W Main St, Sun Prairie, WI 53590, USA",
       "street": "1110 West Main Street",
       "zip": "53590",
-      "coordinates": {
-        "lat": 43.181337,
-        "lng": -89.231184
-      },
+      "latitude": 43.181337,
+      "longitude": -89.231184,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2627,10 +2409,8 @@
       "address": "513 W Verona Ave, Verona, WI 53593, USA",
       "street": "513 West Verona Avenue",
       "zip": "53593",
-      "coordinates": {
-        "lat": 42.987833,
-        "lng": -89.544382
-      },
+      "latitude": 42.987833,
+      "longitude": -89.544382,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2650,10 +2430,8 @@
       "address": "213 S Klein Dr, Waunakee, WI 53597, USA",
       "street": "South Klein Drive",
       "zip": "53597",
-      "coordinates": {
-        "lat": 43.190187,
-        "lng": -89.463952
-      },
+      "latitude": 43.190187,
+      "longitude": -89.463952,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"

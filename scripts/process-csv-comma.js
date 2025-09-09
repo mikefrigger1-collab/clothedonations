@@ -224,10 +224,8 @@ function processLocationData() {
         address: address.address || '',
         street: address.street || '',
         zip: address.zip || '',
-        coordinates: {
-          lat: parseFloat(address.lat) || 0,
-          lng: parseFloat(address.lng) || 0
-        },
+        latitude: parseFloat(address.lat) || 0,    // Direct properties
+        longitude: parseFloat(address.lng) || 0,
         acceptedMaterials: materials,
         logo: getCompanyLogo(company),
         permalink: location.Permalink || '',

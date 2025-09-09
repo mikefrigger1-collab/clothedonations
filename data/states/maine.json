@@ -13,10 +13,8 @@
       "address": "17 Elm St, Damariscotta, ME 04543, USA",
       "street": "17 Elm Street",
       "zip": "4543",
-      "coordinates": {
-        "lat": 44.03284,
-        "lng": -69.531446
-      },
+      "latitude": 44.03284,
+      "longitude": -69.531446,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "712 Main St, Richmond, ME 04357, USA",
       "street": "712 Main Street",
       "zip": "4357",
-      "coordinates": {
-        "lat": 44.098452,
-        "lng": -69.865169
-      },
+      "latitude": 44.098452,
+      "longitude": -69.865169,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "26 Pleasant Hill Rd, Sabattus, ME 04280, USA",
       "street": "26 Pleasant Hill Road",
       "zip": "4280",
-      "coordinates": {
-        "lat": 44.115611,
-        "lng": -70.086801
-      },
+      "latitude": 44.115611,
+      "longitude": -70.086801,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "30 Pleasant Hill Rd, Sabattus, ME 04280, USA",
       "street": "30 Pleasant Hill Road",
       "zip": "4280",
-      "coordinates": {
-        "lat": 44.119649,
-        "lng": -70.085569
-      },
+      "latitude": 44.119649,
+      "longitude": -70.085569,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "78 Fowle Hill Rd, Wiscasset, ME 04578, USA",
       "street": "78 Fowle Hill Road",
       "zip": "4578",
-      "coordinates": {
-        "lat": 44.036282,
-        "lng": -69.664225
-      },
+      "latitude": 44.036282,
+      "longitude": -69.664225,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "97 Fowle Hill Rd, Wiscasset, ME 04578, USA",
       "street": "97 Fowle Hill Road",
       "zip": "4578",
-      "coordinates": {
-        "lat": 44.037839,
-        "lng": -69.664552
-      },
+      "latitude": 44.037839,
+      "longitude": -69.664552,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -163,10 +151,8 @@
       "address": "939 Turner St, Auburn, ME 04210, USA",
       "street": "939 Turner Street",
       "zip": "4210",
-      "coordinates": {
-        "lat": 44.12222,
-        "lng": -70.232305
-      },
+      "latitude": 44.12222,
+      "longitude": -70.232305,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -187,10 +173,8 @@
       "address": "5 Senator Way, Augusta, ME 04330, USA",
       "street": "5 Senator Way",
       "zip": "4330",
-      "coordinates": {
-        "lat": 44.314507,
-        "lng": -69.805046
-      },
+      "latitude": 44.314507,
+      "longitude": -69.805046,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -211,10 +195,8 @@
       "address": "805 Stillwater Ave, Bangor, ME 04401, USA",
       "street": "805 Stillwater Avenue",
       "zip": "4401",
-      "coordinates": {
-        "lat": 44.835835,
-        "lng": -68.747921
-      },
+      "latitude": 44.835835,
+      "longitude": -68.747921,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -235,10 +217,8 @@
       "address": "64 Arthur J Reno Sr Rd, Bath, ME 04530, USA",
       "street": "64 Arthur J Reno Sr Road",
       "zip": "4530",
-      "coordinates": {
-        "lat": 43.907405,
-        "lng": -69.854335
-      },
+      "latitude": 43.907405,
+      "longitude": -69.854335,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -259,10 +239,8 @@
       "address": "13 Goodwill Dr, Belfast, ME 04915, USA",
       "street": "13 Goodwill Drive",
       "zip": "4915",
-      "coordinates": {
-        "lat": 44.42432,
-        "lng": -69.02581
-      },
+      "latitude": 44.42432,
+      "longitude": -69.02581,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -283,10 +261,8 @@
       "address": "420 Alfred St, Biddeford, ME 04005, USA",
       "street": "420 Alfred Street",
       "zip": "4005",
-      "coordinates": {
-        "lat": 43.482649,
-        "lng": -70.479298
-      },
+      "latitude": 43.482649,
+      "longitude": -70.479298,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -307,10 +283,8 @@
       "address": "610 Wilson St, Brewer, ME 04412, USA",
       "street": "610 Wilson Street",
       "zip": "4412",
-      "coordinates": {
-        "lat": 44.778824,
-        "lng": -68.737671
-      },
+      "latitude": 44.778824,
+      "longitude": -68.737671,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -331,10 +305,8 @@
       "address": "21 Gurnet Rd, Brunswick, ME 04011, USA",
       "street": "21 Gurnet Road",
       "zip": "4011",
-      "coordinates": {
-        "lat": 43.902787,
-        "lng": -69.913056
-      },
+      "latitude": 43.902787,
+      "longitude": -69.913056,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -355,10 +327,8 @@
       "address": "Longfellow Ave, Brunswick, ME 04011, USA",
       "street": "Longfellow Avenue",
       "zip": "4011",
-      "coordinates": {
-        "lat": 43.904601,
-        "lng": -69.961559
-      },
+      "latitude": 43.904601,
+      "longitude": -69.961559,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -379,10 +349,8 @@
       "address": "21 Dennison Dr, Cape Elizabeth, ME 04107, USA",
       "street": "21 Dennison Drive",
       "zip": "4107",
-      "coordinates": {
-        "lat": 43.586239,
-        "lng": -70.242564
-      },
+      "latitude": 43.586239,
+      "longitude": -70.242564,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -403,10 +371,8 @@
       "address": "15 Downeast Highway, Ellsworth, ME 04605, USA",
       "street": "15 Downeast Highway",
       "zip": "4605",
-      "coordinates": {
-        "lat": 44.530849,
-        "lng": -68.405125
-      },
+      "latitude": 44.530849,
+      "longitude": -68.405125,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -427,10 +393,8 @@
       "address": "251 US-1, Falmouth, ME 04105, USA",
       "street": "251 Route 1",
       "zip": "4105",
-      "coordinates": {
-        "lat": 43.724132,
-        "lng": -70.230627
-      },
+      "latitude": 43.724132,
+      "longitude": -70.230627,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -451,10 +415,8 @@
       "address": "34 Hutcherson Dr, Gorham, ME 04038, USA",
       "street": "34 Hutcherson Drive",
       "zip": "4038",
-      "coordinates": {
-        "lat": 43.681295,
-        "lng": -70.39552
-      },
+      "latitude": 43.681295,
+      "longitude": -70.39552,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -475,10 +437,8 @@
       "address": "36 Sea Rd, Kennebunk, ME 04043, USA",
       "street": "36 Sea Road",
       "zip": "4043",
-      "coordinates": {
-        "lat": 43.376432,
-        "lng": -70.525581
-      },
+      "latitude": 43.376432,
+      "longitude": -70.525581,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -499,10 +459,8 @@
       "address": "1 Vallee Ln, Old Orchard Beach, ME 04064, USA",
       "street": "1 Vallee Lane",
       "zip": "4064",
-      "coordinates": {
-        "lat": 43.517876,
-        "lng": -70.407519
-      },
+      "latitude": 43.517876,
+      "longitude": -70.407519,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -523,10 +481,8 @@
       "address": "202 Camden St, Rockland, ME 04841, USA",
       "street": "202 Camden Street",
       "zip": "4841",
-      "coordinates": {
-        "lat": 44.122596,
-        "lng": -69.10045
-      },
+      "latitude": 44.122596,
+      "longitude": -69.10045,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -547,10 +503,8 @@
       "address": "180 Waterman Dr, South Portland, ME 04106, USA",
       "street": "180 Waterman Drive",
       "zip": "4106",
-      "coordinates": {
-        "lat": 43.635417,
-        "lng": -70.254357
-      },
+      "latitude": 43.635417,
+      "longitude": -70.254357,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -571,10 +525,8 @@
       "address": "555 Maine Mall Rd, South Portland, ME 04106, USA",
       "street": "555 Maine Mall Road",
       "zip": "4106",
-      "coordinates": {
-        "lat": 43.629447,
-        "lng": -70.343754
-      },
+      "latitude": 43.629447,
+      "longitude": -70.343754,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -595,10 +547,8 @@
       "address": "106 Park Dr, Topsham, ME 04086, USA",
       "street": "106 Park Drive",
       "zip": "4086",
-      "coordinates": {
-        "lat": 43.930881,
-        "lng": -69.978278
-      },
+      "latitude": 43.930881,
+      "longitude": -69.978278,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -619,10 +569,8 @@
       "address": "10 Concourse W, Waterville, ME 04901, USA",
       "street": "10 Concourse West",
       "zip": "4901",
-      "coordinates": {
-        "lat": 44.549507,
-        "lng": -69.632587
-      },
+      "latitude": 44.549507,
+      "longitude": -69.632587,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -643,10 +591,8 @@
       "address": "200 Larrabee Rd, Westbrook, ME 04092, USA",
       "street": "200 Larrabee Road",
       "zip": "4092",
-      "coordinates": {
-        "lat": 43.681211,
-        "lng": -70.333462
-      },
+      "latitude": 43.681211,
+      "longitude": -70.333462,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -667,10 +613,8 @@
       "address": "594 County Rd, Westbrook, ME 04092, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 43.648807,
-        "lng": -70.369769
-      },
+      "latitude": 43.648807,
+      "longitude": -70.369769,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -691,10 +635,8 @@
       "address": "31 Landing Rd, Windham, ME 04062, USA",
       "street": "31 Landing Road",
       "zip": "4062",
-      "coordinates": {
-        "lat": 43.839702,
-        "lng": -70.446533
-      },
+      "latitude": 43.839702,
+      "longitude": -70.446533,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -715,10 +657,8 @@
       "address": "162 State Rd, Kittery, ME 03904, USA",
       "street": "162 State Road",
       "zip": "3904",
-      "coordinates": {
-        "lat": 43.099247,
-        "lng": -70.74419
-      },
+      "latitude": 43.099247,
+      "longitude": -70.74419,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -739,10 +679,8 @@
       "address": "7 Route 236, Kittery, ME 03904, USA",
       "street": "7 Route 236",
       "zip": "3904",
-      "coordinates": {
-        "lat": 43.09161,
-        "lng": -70.73741
-      },
+      "latitude": 43.09161,
+      "longitude": -70.73741,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -763,10 +701,8 @@
       "address": "103 State Rd, Kittery, ME 03904, USA",
       "street": "103 State Road",
       "zip": "3904",
-      "coordinates": {
-        "lat": 43.093088,
-        "lng": -70.74799
-      },
+      "latitude": 43.093088,
+      "longitude": -70.74799,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -787,10 +723,8 @@
       "address": "139 State Rd, Kittery, ME 03904, USA",
       "street": "139 State Road",
       "zip": "3904",
-      "coordinates": {
-        "lat": 43.097411,
-        "lng": -70.745907
-      },
+      "latitude": 43.097411,
+      "longitude": -70.745907,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -811,10 +745,8 @@
       "address": "26 Sea Mist Ln, York, ME 03909, USA",
       "street": "26 Sea Mist Lane",
       "zip": "3909",
-      "coordinates": {
-        "lat": 43.166321,
-        "lng": -70.62029
-      },
+      "latitude": 43.166321,
+      "longitude": -70.62029,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -835,10 +767,8 @@
       "address": "61 Witchtrot Rd, York, ME 03909, USA",
       "street": "61 Witchtrot Road",
       "zip": "3909",
-      "coordinates": {
-        "lat": 43.194274,
-        "lng": -70.748119
-      },
+      "latitude": 43.194274,
+      "longitude": -70.748119,
       "acceptedMaterials": [
         "Clothing",
         "Linen",

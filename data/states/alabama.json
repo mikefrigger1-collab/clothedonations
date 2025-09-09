@@ -13,10 +13,8 @@
       "address": "100 W Washington St, Abbeville, AL 36310, USA",
       "street": "West Washington Street",
       "zip": "36310",
-      "coordinates": {
-        "lat": 31.572379,
-        "lng": -85.25078
-      },
+      "latitude": 31.572379,
+      "longitude": -85.25078,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -41,10 +39,8 @@
       "address": "401 Columbia Rd, Abbeville, AL 36310, USA",
       "street": "401 Columbia Road",
       "zip": "36310",
-      "coordinates": {
-        "lat": 31.562943,
-        "lng": -85.24526
-      },
+      "latitude": 31.562943,
+      "longitude": -85.24526,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -69,10 +65,8 @@
       "address": "32193 AL-74, Addison, AL 35540, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.191993,
-        "lng": -87.156372
-      },
+      "latitude": 34.191993,
+      "longitude": -87.156372,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -97,10 +91,8 @@
       "address": "218 2nd St SW, Alabaster, AL 35007, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.241594,
-        "lng": -86.819077
-      },
+      "latitude": 33.241594,
+      "longitude": -86.819077,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -125,10 +117,8 @@
       "address": "1009 Section Line Rd, Albertville, AL 35950, USA",
       "street": "1009 Section Line Road",
       "zip": "35950",
-      "coordinates": {
-        "lat": 34.258522,
-        "lng": -86.233734
-      },
+      "latitude": 34.258522,
+      "longitude": -86.233734,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -153,10 +143,8 @@
       "address": "1084 Section Line Rd, Albertville, AL 35950, USA",
       "street": "1084 Section Line Road",
       "zip": "35950",
-      "coordinates": {
-        "lat": 34.258186,
-        "lng": -86.23423
-      },
+      "latitude": 34.258186,
+      "longitude": -86.23423,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -181,10 +169,8 @@
       "address": "355 Bolinger St, Albertville, AL 35950, USA",
       "street": "Bolinger Street",
       "zip": "35950",
-      "coordinates": {
-        "lat": 34.27614,
-        "lng": -86.208625
-      },
+      "latitude": 34.27614,
+      "longitude": -86.208625,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -209,10 +195,8 @@
       "address": "4085 Horton Rd, Albertville, AL 35950, USA",
       "street": "4085 Horton Road",
       "zip": "35950",
-      "coordinates": {
-        "lat": 34.222111,
-        "lng": -86.266138
-      },
+      "latitude": 34.222111,
+      "longitude": -86.266138,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -237,10 +221,8 @@
       "address": "112 Sand Mountain Dr, Albertville, AL 35950, USA",
       "street": "112 Sand Mountain Drive",
       "zip": "35950",
-      "coordinates": {
-        "lat": 34.26899,
-        "lng": -86.20904
-      },
+      "latitude": 34.26899,
+      "longitude": -86.20904,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -265,10 +247,8 @@
       "address": "18 Big Valley Dr, Alexandria, AL 36250, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.78101,
-        "lng": -85.896847
-      },
+      "latitude": 33.78101,
+      "longitude": -85.896847,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -293,10 +273,8 @@
       "address": "11174 AL-74, Altoona, AL 35952, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.051489,
-        "lng": -86.184455
-      },
+      "latitude": 34.051489,
+      "longitude": -86.184455,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -321,10 +299,8 @@
       "address": "4250 Cleveland Ave, Altoona, AL 35952, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.06762,
-        "lng": -86.302294
-      },
+      "latitude": 34.06762,
+      "longitude": -86.302294,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -349,10 +325,8 @@
       "address": "1218 E 3 Notch St, Andalusia, AL 36420, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.311669,
-        "lng": -86.467091
-      },
+      "latitude": 31.311669,
+      "longitude": -86.467091,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -377,10 +351,8 @@
       "address": "305 E 3 Notch St, Andalusia, AL 36420, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.309011,
-        "lng": -86.478409
-      },
+      "latitude": 31.309011,
+      "longitude": -86.478409,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -405,10 +377,8 @@
       "address": "500 Western Bypass, Andalusia, AL 36420, USA",
       "street": "Western Bypass",
       "zip": "36420",
-      "coordinates": {
-        "lat": 31.305323,
-        "lng": -86.499516
-      },
+      "latitude": 31.305323,
+      "longitude": -86.499516,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -433,10 +403,8 @@
       "address": "1395 US-431, Anniston, AL 36206, USA",
       "street": "1395 Old Gadsden Highway",
       "zip": "36206",
-      "coordinates": {
-        "lat": 33.712583,
-        "lng": -85.842752
-      },
+      "latitude": 33.712583,
+      "longitude": -85.842752,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -461,10 +429,8 @@
       "address": "22 Reneau St, Anniston, AL 36207, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.660885,
-        "lng": -85.705766
-      },
+      "latitude": 33.660885,
+      "longitude": -85.705766,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -489,10 +455,8 @@
       "address": "1868 US Hwy 78 E, Anniston, AL 36207, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.614793,
-        "lng": -85.785942
-      },
+      "latitude": 33.614793,
+      "longitude": -85.785942,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -517,10 +481,8 @@
       "address": "2276 US-231, Arab, AL 35016, USA",
       "street": "North Brindlee Mountain Parkway",
       "zip": "35016",
-      "coordinates": {
-        "lat": 34.284897,
-        "lng": -86.496141
-      },
+      "latitude": 34.284897,
+      "longitude": -86.496141,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -545,10 +507,8 @@
       "address": "557 N Brindlee Mountain Pkwy, Arab, AL 35016, USA",
       "street": "557 North Brindlee Mountain Parkway",
       "zip": "35016",
-      "coordinates": {
-        "lat": 34.324206,
-        "lng": -86.503597
-      },
+      "latitude": 34.324206,
+      "longitude": -86.503597,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -573,10 +533,8 @@
       "address": "594 1st Ave NW, Arab, AL 35016, USA",
       "street": "594 1st Avenue Northwest",
       "zip": "35016",
-      "coordinates": {
-        "lat": 34.316987,
-        "lng": -86.502878
-      },
+      "latitude": 34.316987,
+      "longitude": -86.502878,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -601,10 +559,8 @@
       "address": "1916 Old Hwy 84, Ashford, AL 36312, USA",
       "street": "Old Highway 84",
       "zip": "36312",
-      "coordinates": {
-        "lat": 31.182868,
-        "lng": -85.237778
-      },
+      "latitude": 31.182868,
+      "longitude": -85.237778,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -629,10 +585,8 @@
       "address": "13799 Greensport Rd, Ashville, AL 35953, USA",
       "street": "Greensport Road",
       "zip": "35953",
-      "coordinates": {
-        "lat": 33.8789,
-        "lng": -86.111916
-      },
+      "latitude": 33.8789,
+      "longitude": -86.111916,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -657,10 +611,8 @@
       "address": "34 Porter Dr, Ashville, AL 35953, USA",
       "street": "34 Porter Drive",
       "zip": "35953",
-      "coordinates": {
-        "lat": 33.787078,
-        "lng": -86.275097
-      },
+      "latitude": 33.787078,
+      "longitude": -86.275097,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -685,10 +637,8 @@
       "address": "1036 US Hwy 72 E, Athens, AL 35611, USA",
       "street": "1036 US Highway 72 East",
       "zip": "35611",
-      "coordinates": {
-        "lat": 34.784361,
-        "lng": -86.954522
-      },
+      "latitude": 34.784361,
+      "longitude": -86.954522,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -713,10 +663,8 @@
       "address": "1113 Market St W, Athens, AL 35611, USA",
       "street": "1113 Market Street West",
       "zip": "35611",
-      "coordinates": {
-        "lat": 34.80506,
-        "lng": -86.983005
-      },
+      "latitude": 34.80506,
+      "longitude": -86.983005,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -741,10 +689,8 @@
       "address": "12797 Brownsferry Rd, Athens, AL 35611, USA",
       "street": "12797 Brownsferry Road",
       "zip": "35611",
-      "coordinates": {
-        "lat": 34.77493,
-        "lng": -87.017299
-      },
+      "latitude": 34.77493,
+      "longitude": -87.017299,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -769,10 +715,8 @@
       "address": "14976 Brownsferry Rd, Athens, AL 35611, USA",
       "street": "Brownsferry Road",
       "zip": "35611",
-      "coordinates": {
-        "lat": 34.748459,
-        "lng": -87.039011
-      },
+      "latitude": 34.748459,
+      "longitude": -87.039011,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -797,10 +741,8 @@
       "address": "15220 Greenfield Dr, Athens, AL 35613, USA",
       "street": "15220 Greenfield Drive",
       "zip": "35613",
-      "coordinates": {
-        "lat": 34.778164,
-        "lng": -86.927376
-      },
+      "latitude": 34.778164,
+      "longitude": -86.927376,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -825,10 +767,8 @@
       "address": "1606 Market St W, Athens, AL 35611, USA",
       "street": "1606 Market Street West",
       "zip": "35611",
-      "coordinates": {
-        "lat": 34.812308,
-        "lng": -86.992071
-      },
+      "latitude": 34.812308,
+      "longitude": -86.992071,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -853,10 +793,8 @@
       "address": "19300 AL-99, Athens, AL 35614, USA",
       "street": "19300 Alabama Highway 99",
       "zip": "35614",
-      "coordinates": {
-        "lat": 34.834349,
-        "lng": -87.018811
-      },
+      "latitude": 34.834349,
+      "longitude": -87.018811,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -881,10 +819,8 @@
       "address": "204 E Elm St, Athens, AL 35611, USA",
       "street": "204 Elm Street East",
       "zip": "35611",
-      "coordinates": {
-        "lat": 34.819027,
-        "lng": -86.966755
-      },
+      "latitude": 34.819027,
+      "longitude": -86.966755,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -909,10 +845,8 @@
       "address": "19017 AL-127, Athens, AL 35614, USA",
       "street": "19017 Alabama Highway 127",
       "zip": "35614",
-      "coordinates": {
-        "lat": 34.83416,
-        "lng": -86.973354
-      },
+      "latitude": 34.83416,
+      "longitude": -86.973354,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -937,10 +871,8 @@
       "address": "102 Burke Ave SE, Attalla, AL 35954, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.99721,
-        "lng": -86.104263
-      },
+      "latitude": 33.99721,
+      "longitude": -86.104263,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -965,10 +897,8 @@
       "address": "3020 Noccalula Pkwy, Attalla, AL 35954, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.078102,
-        "lng": -86.028997
-      },
+      "latitude": 34.078102,
+      "longitude": -86.028997,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -993,10 +923,8 @@
       "address": "3036 US-431, Attalla, AL 35954, USA",
       "street": "US 278;US 431",
       "zip": "35954",
-      "coordinates": {
-        "lat": 34.055642,
-        "lng": -86.114731
-      },
+      "latitude": 34.055642,
+      "longitude": -86.114731,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1021,10 +949,8 @@
       "address": "317 Gilbert Ferry Rd SW, Attalla, AL 35954, USA",
       "street": "317 Gilbert Ferry Road Southwest",
       "zip": "35954",
-      "coordinates": {
-        "lat": 34.005329,
-        "lng": -86.11496
-      },
+      "latitude": 34.005329,
+      "longitude": -86.11496,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1049,10 +975,8 @@
       "address": "603 Gilbert Ferry Rd SE, Attalla, AL 35954, USA",
       "street": "603 Gilbert Ferry Road Southeast",
       "zip": "35954",
-      "coordinates": {
-        "lat": 33.996873,
-        "lng": -86.103879
-      },
+      "latitude": 33.996873,
+      "longitude": -86.103879,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1077,10 +1001,8 @@
       "address": "605 Gilbert Ferry Rd SE, Attalla, AL 35954, USA",
       "street": "605 Gilbert Ferry Road Southeast",
       "zip": "35954",
-      "coordinates": {
-        "lat": 33.996851,
-        "lng": -86.103511
-      },
+      "latitude": 33.996851,
+      "longitude": -86.103511,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1105,10 +1027,8 @@
       "address": "6574 Duck Springs Rd, Attalla, AL 35954, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.104,
-        "lng": -86.038689
-      },
+      "latitude": 34.104,
+      "longitude": -86.038689,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1133,10 +1053,8 @@
       "address": "696 Opelika Rd, Auburn, AL 36830, USA",
       "street": "696 Opelika Road",
       "zip": "36830",
-      "coordinates": {
-        "lat": 32.615902,
-        "lng": -85.465494
-      },
+      "latitude": 32.615902,
+      "longitude": -85.465494,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1161,10 +1079,8 @@
       "address": "2001 US-31, Bay Minette, AL 36507, USA",
       "street": "2001 Bay Minette Bypass",
       "zip": "36507",
-      "coordinates": {
-        "lat": 30.852484,
-        "lng": -87.776122
-      },
+      "latitude": 30.852484,
+      "longitude": -87.776122,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1189,10 +1105,8 @@
       "address": "620 E 2nd St, Bay Minette, AL 36507, USA",
       "street": "620 East 2nd Street",
       "zip": "36507",
-      "coordinates": {
-        "lat": 30.88657,
-        "lng": -87.765026
-      },
+      "latitude": 30.88657,
+      "longitude": -87.765026,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1217,10 +1131,8 @@
       "address": "628 E 2nd St, Bay Minette, AL 36507, USA",
       "street": "628 East 2nd Street",
       "zip": "36507",
-      "coordinates": {
-        "lat": 30.8866,
-        "lng": -87.764988
-      },
+      "latitude": 30.8866,
+      "longitude": -87.764988,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1245,10 +1157,8 @@
       "address": "692 US-31, Bay Minette, AL 36507, USA",
       "street": "692 D Olive Street",
       "zip": "36507",
-      "coordinates": {
-        "lat": 30.882582,
-        "lng": -87.774437
-      },
+      "latitude": 30.882582,
+      "longitude": -87.774437,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1273,10 +1183,8 @@
       "address": "13350 Wintzell Ave, Bayou La Batre, AL 36509, USA",
       "street": "13350 Wintzell Avenue",
       "zip": "36509",
-      "coordinates": {
-        "lat": 30.413343,
-        "lng": -88.246134
-      },
+      "latitude": 30.413343,
+      "longitude": -88.246134,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1301,10 +1209,8 @@
       "address": "13845 S Wintzell Ave, Bayou La Batre, AL 36509, USA",
       "street": "13845 South Wintzell Avenue",
       "zip": "36509",
-      "coordinates": {
-        "lat": 30.403012,
-        "lng": -88.248168
-      },
+      "latitude": 30.403012,
+      "longitude": -88.248168,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1329,10 +1235,8 @@
       "address": "1 Owen Ave, Bessemer, AL 35020, USA",
       "street": "1 Owen Avenue",
       "zip": "35020",
-      "coordinates": {
-        "lat": 33.376607,
-        "lng": -86.958791
-      },
+      "latitude": 33.376607,
+      "longitude": -86.958791,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1357,10 +1261,8 @@
       "address": "2197 Eastern Valley Rd, Bessemer, AL 35022, USA",
       "street": "2197 Eastern Valley Road",
       "zip": "35022",
-      "coordinates": {
-        "lat": 33.334199,
-        "lng": -86.995211
-      },
+      "latitude": 33.334199,
+      "longitude": -86.995211,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1385,10 +1287,8 @@
       "address": "3057 Allison-Bonnett Memorial Dr, Bessemer, AL 35023, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.449884,
-        "lng": -86.982605
-      },
+      "latitude": 33.449884,
+      "longitude": -86.982605,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1413,10 +1313,8 @@
       "address": "6021 Warrior River Rd, Bessemer, AL 35023, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.469448,
-        "lng": -87.040919
-      },
+      "latitude": 33.469448,
+      "longitude": -87.040919,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1441,10 +1339,8 @@
       "address": "1097 Huffman Rd, Birmingham, AL 35215, USA",
       "street": "1097 Huffman Road",
       "zip": "35215",
-      "coordinates": {
-        "lat": 33.607465,
-        "lng": -86.687252
-      },
+      "latitude": 33.607465,
+      "longitude": -86.687252,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1469,10 +1365,8 @@
       "address": "1143 Forestdale Blvd, Birmingham, AL 35214, USA",
       "street": "Forestdale Boulevard",
       "zip": "35214",
-      "coordinates": {
-        "lat": 33.559292,
-        "lng": -86.88969
-      },
+      "latitude": 33.559292,
+      "longitude": -86.88969,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1497,10 +1391,8 @@
       "address": "1165 Gadsden Hwy, Birmingham, AL 35235, USA",
       "street": "1165 Gadsden Highway",
       "zip": "35235",
-      "coordinates": {
-        "lat": 33.589564,
-        "lng": -86.652647
-      },
+      "latitude": 33.589564,
+      "longitude": -86.652647,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1525,10 +1417,8 @@
       "address": "117 Grace Baker Rd, Birmingham, AL 35210, USA",
       "street": "117 Grace Baker Road",
       "zip": "35210",
-      "coordinates": {
-        "lat": 33.521068,
-        "lng": -86.728496
-      },
+      "latitude": 33.521068,
+      "longitude": -86.728496,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1553,10 +1443,8 @@
       "address": "1254 Hiawatha Dr NE, Birmingham, AL 35215, USA",
       "street": "1254 Hiawatha Drive Northeast",
       "zip": "35215",
-      "coordinates": {
-        "lat": 33.61727,
-        "lng": -86.686701
-      },
+      "latitude": 33.61727,
+      "longitude": -86.686701,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1581,10 +1469,8 @@
       "address": "1926 Mini-Warehouse Rd, Birmingham, AL 35244, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.348612,
-        "lng": -86.795727
-      },
+      "latitude": 33.348612,
+      "longitude": -86.795727,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1609,10 +1495,8 @@
       "address": "2421 20th Pl S, Birmingham, AL 35223, USA",
       "street": "2421 20th Place South",
       "zip": "35223",
-      "coordinates": {
-        "lat": 33.488414,
-        "lng": -86.78602
-      },
+      "latitude": 33.488414,
+      "longitude": -86.78602,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1637,10 +1521,8 @@
       "address": "2510 3rd Pl W, Birmingham, AL 35204, USA",
       "street": "2510 3rd Place West",
       "zip": "35204",
-      "coordinates": {
-        "lat": 33.536749,
-        "lng": -86.84384
-      },
+      "latitude": 33.536749,
+      "longitude": -86.84384,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1665,10 +1547,8 @@
       "address": "2516 3rd Pl W, Birmingham, AL 35204, USA",
       "street": "2516 3rd Place West",
       "zip": "35204",
-      "coordinates": {
-        "lat": 33.536682,
-        "lng": -86.844114
-      },
+      "latitude": 33.536682,
+      "longitude": -86.844114,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1693,10 +1573,8 @@
       "address": "2564 3rd Pl W, Birmingham, AL 35204, USA",
       "street": "2564 3rd Place West",
       "zip": "35204",
-      "coordinates": {
-        "lat": 33.537085,
-        "lng": -86.844402
-      },
+      "latitude": 33.537085,
+      "longitude": -86.844402,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1721,10 +1599,8 @@
       "address": "261 W Oxmoor Rd, Birmingham, AL 35209, USA",
       "street": "261 West Oxmoor Road",
       "zip": "35209",
-      "coordinates": {
-        "lat": 33.439315,
-        "lng": -86.84299
-      },
+      "latitude": 33.439315,
+      "longitude": -86.84299,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1749,10 +1625,8 @@
       "address": "423 W Oxmoor Rd, Birmingham, AL 35209, USA",
       "street": "423 West Oxmoor Road",
       "zip": "35209",
-      "coordinates": {
-        "lat": 33.434844,
-        "lng": -86.842818
-      },
+      "latitude": 33.434844,
+      "longitude": -86.842818,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1777,10 +1651,8 @@
       "address": "4500 5th Ave S, Birmingham, AL 35222, USA",
       "street": "4500 5th Avenue South",
       "zip": "35222",
-      "coordinates": {
-        "lat": 33.528614,
-        "lng": -86.764891
-      },
+      "latitude": 33.528614,
+      "longitude": -86.764891,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1805,10 +1677,8 @@
       "address": "4748 Cahaba River Rd, Birmingham, AL 35243, USA",
       "street": "4748 Cahaba River Road",
       "zip": "35243",
-      "coordinates": {
-        "lat": 33.432469,
-        "lng": -86.736783
-      },
+      "latitude": 33.432469,
+      "longitude": -86.736783,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1833,10 +1703,8 @@
       "address": "504 University Blvd, Birmingham, AL 35209, USA",
       "street": "University Boulevard",
       "zip": "35233",
-      "coordinates": {
-        "lat": 33.49272,
-        "lng": -86.821196
-      },
+      "latitude": 33.49272,
+      "longitude": -86.821196,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1861,10 +1729,8 @@
       "address": "4416 Montevallo Rd, Birmingham, AL 35213, USA",
       "street": "4416 Montevallo Road",
       "zip": "35213",
-      "coordinates": {
-        "lat": 33.517057,
-        "lng": -86.729943
-      },
+      "latitude": 33.517057,
+      "longitude": -86.729943,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1889,10 +1755,8 @@
       "address": "4422 Montevallo Rd, Birmingham, AL 35213, USA",
       "street": "4422 Montevallo Road",
       "zip": "35213",
-      "coordinates": {
-        "lat": 33.51738,
-        "lng": -86.729903
-      },
+      "latitude": 33.51738,
+      "longitude": -86.729903,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1917,10 +1781,8 @@
       "address": "65580 US-231, Blountsville, AL 35031, USA",
       "street": "Main Street",
       "zip": "35031",
-      "coordinates": {
-        "lat": 34.034421,
-        "lng": -86.576413
-      },
+      "latitude": 34.034421,
+      "longitude": -86.576413,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1945,10 +1807,8 @@
       "address": "67263 Main St, Blountsville, AL 35031, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.056723,
-        "lng": -86.584981
-      },
+      "latitude": 34.056723,
+      "longitude": -86.584981,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -1973,10 +1833,8 @@
       "address": "1024 Bruce Rd, Boaz, AL 35957, USA",
       "street": "1024 Bruce Road",
       "zip": "35957",
-      "coordinates": {
-        "lat": 34.207027,
-        "lng": -86.150273
-      },
+      "latitude": 34.207027,
+      "longitude": -86.150273,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2001,10 +1859,8 @@
       "address": "13730 AL-168, Boaz, AL 35957, USA",
       "street": "13730 AL 168",
       "zip": "35957",
-      "coordinates": {
-        "lat": 34.232049,
-        "lng": -86.12399
-      },
+      "latitude": 34.232049,
+      "longitude": -86.12399,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2029,10 +1885,8 @@
       "address": "4000 Sardis Rd, Boaz, AL 35956, USA",
       "street": "Sardis Road",
       "zip": "35956",
-      "coordinates": {
-        "lat": 34.174812,
-        "lng": -86.077829
-      },
+      "latitude": 34.174812,
+      "longitude": -86.077829,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2057,10 +1911,8 @@
       "address": "4198 Beulah Rd, Boaz, AL 35957, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.232203,
-        "lng": -86.125113
-      },
+      "latitude": 34.232203,
+      "longitude": -86.125113,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2085,10 +1937,8 @@
       "address": "266 County Rd 4435, Brundidge, AL 36010, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.644202,
-        "lng": -85.80796
-      },
+      "latitude": 31.644202,
+      "longitude": -85.80796,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2113,10 +1963,8 @@
       "address": "11971 Sipsey Valley Rd, Buhl, AL 35446, USA",
       "street": "Sipsey Valley Road",
       "zip": "",
-      "coordinates": {
-        "lat": 33.255182,
-        "lng": -87.752814
-      },
+      "latitude": 33.255182,
+      "longitude": -87.752814,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2141,10 +1989,8 @@
       "address": "13646 AL-25, Calera, AL 35040, USA",
       "street": "13646 AL 25",
       "zip": "35040",
-      "coordinates": {
-        "lat": 33.116157,
-        "lng": -86.709346
-      },
+      "latitude": 33.116157,
+      "longitude": -86.709346,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2169,10 +2015,8 @@
       "address": "3845 AL-9, Cedar Bluff, AL 35959, USA",
       "street": "3845 Alabama Highway 9 North",
       "zip": "35959",
-      "coordinates": {
-        "lat": 34.21973,
-        "lng": -85.600155
-      },
+      "latitude": 34.21973,
+      "longitude": -85.600155,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2197,10 +2041,8 @@
       "address": "4720 N Weiss Lake Dr, Cedar Bluff, AL 35959, USA",
       "street": "4720 North Weiss Lake Drive",
       "zip": "35959",
-      "coordinates": {
-        "lat": 34.22198,
-        "lng": -85.60788
-      },
+      "latitude": 34.22198,
+      "longitude": -85.60788,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2225,10 +2067,8 @@
       "address": "1568 W Main St, Centre, AL 35960, USA",
       "street": "1568 West Main Street",
       "zip": "35960",
-      "coordinates": {
-        "lat": 34.158521,
-        "lng": -85.705343
-      },
+      "latitude": 34.158521,
+      "longitude": -85.705343,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2253,10 +2093,8 @@
       "address": "1568 W Main St, Centre, AL 35960, USA",
       "street": "1568 West Main Street",
       "zip": "35960",
-      "coordinates": {
-        "lat": 34.158521,
-        "lng": -85.705343
-      },
+      "latitude": 34.158521,
+      "longitude": -85.705343,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2281,10 +2119,8 @@
       "address": "32121 US-280, Childersburg, AL 35044, USA",
       "street": "32121 US 231;US 280;AL 76",
       "zip": "35044",
-      "coordinates": {
-        "lat": 33.285941,
-        "lng": -86.362545
-      },
+      "latitude": 33.285941,
+      "longitude": -86.362545,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2309,10 +2145,8 @@
       "address": "19498 N 3rd St, Citronelle, AL 36522, USA",
       "street": "19498 North 3rd Street",
       "zip": "36522",
-      "coordinates": {
-        "lat": 31.097501,
-        "lng": -88.237064
-      },
+      "latitude": 31.097501,
+      "longitude": -88.237064,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2337,10 +2171,8 @@
       "address": "19504 N 3rd St, Citronelle, AL 36522, USA",
       "street": "19504 North 3rd Street",
       "zip": "36522",
-      "coordinates": {
-        "lat": 31.09829,
-        "lng": -88.237861
-      },
+      "latitude": 31.09829,
+      "longitude": -88.237861,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2365,10 +2197,8 @@
       "address": "2280 7th St S, Clanton, AL 35046, USA",
       "street": "2280 7th Street South",
       "zip": "35046",
-      "coordinates": {
-        "lat": 32.800892,
-        "lng": -86.574593
-      },
+      "latitude": 32.800892,
+      "longitude": -86.574593,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2393,10 +2223,8 @@
       "address": "351 6th St S, Clanton, AL 35045, USA",
       "street": "351 6th Street South",
       "zip": "35045",
-      "coordinates": {
-        "lat": 32.835106,
-        "lng": -86.62777
-      },
+      "latitude": 32.835106,
+      "longitude": -86.62777,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2421,10 +2249,8 @@
       "address": "4000 7th St N, Clanton, AL 35045, USA",
       "street": "4000 7th Street North",
       "zip": "35045",
-      "coordinates": {
-        "lat": 32.87763,
-        "lng": -86.658806
-      },
+      "latitude": 32.87763,
+      "longitude": -86.658806,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2449,10 +2275,8 @@
       "address": "500 7th St S, Clanton, AL 35045, USA",
       "street": "500 7th Street South",
       "zip": "35045",
-      "coordinates": {
-        "lat": 32.834463,
-        "lng": -86.628474
-      },
+      "latitude": 32.834463,
+      "longitude": -86.628474,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2477,10 +2301,8 @@
       "address": "335 Head Dr, Cleveland, AL 35049, USA",
       "street": "335 Head Drive",
       "zip": "35049",
-      "coordinates": {
-        "lat": 33.989356,
-        "lng": -86.582898
-      },
+      "latitude": 33.989356,
+      "longitude": -86.582898,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2505,10 +2327,8 @@
       "address": "3977 AL-68, Collinsville, AL 35961, USA",
       "street": "AL 68",
       "zip": "35961",
-      "coordinates": {
-        "lat": 34.256991,
-        "lng": -85.865353
-      },
+      "latitude": 34.256991,
+      "longitude": -85.865353,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2533,10 +2353,8 @@
       "address": "5573 AL-68, Collinsville, AL 35961, USA",
       "street": "AL 68",
       "zip": "35961",
-      "coordinates": {
-        "lat": 34.275584,
-        "lng": -85.880052
-      },
+      "latitude": 34.275584,
+      "longitude": -85.880052,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2561,10 +2379,8 @@
       "address": "592 S Valley Ave, Collinsville, AL 35961, USA",
       "street": "592 South Valley Avenue",
       "zip": "35961",
-      "coordinates": {
-        "lat": 34.257406,
-        "lng": -85.867363
-      },
+      "latitude": 34.257406,
+      "longitude": -85.867363,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2589,10 +2405,8 @@
       "address": "204 E Church St, Columbia, AL 36319, USA",
       "street": "204 East Church Street",
       "zip": "36319",
-      "coordinates": {
-        "lat": 31.292289,
-        "lng": -85.108302
-      },
+      "latitude": 31.292289,
+      "longitude": -85.108302,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2617,10 +2431,8 @@
       "address": "17913 AL-25, Columbiana, AL 35051, USA",
       "street": "17913 AL 25",
       "zip": "35051",
-      "coordinates": {
-        "lat": 33.153637,
-        "lng": -86.6563
-      },
+      "latitude": 33.153637,
+      "longitude": -86.6563,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2645,10 +2457,8 @@
       "address": "21665 AL-25, Columbiana, AL 35051, USA",
       "street": "21665 AL 25",
       "zip": "35051",
-      "coordinates": {
-        "lat": 33.186391,
-        "lng": -86.610002
-      },
+      "latitude": 33.186391,
+      "longitude": -86.610002,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2673,10 +2483,8 @@
       "address": "218 W College St, Columbiana, AL 35051, USA",
       "street": "218 West College Street",
       "zip": "35051",
-      "coordinates": {
-        "lat": 33.180352,
-        "lng": -86.612936
-      },
+      "latitude": 33.180352,
+      "longitude": -86.612936,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2701,10 +2509,8 @@
       "address": "12221 Jessie Jackson Pkwy, Courtland, AL 35618, USA",
       "street": "12221 Jessie Jackson Parkway",
       "zip": "35618",
-      "coordinates": {
-        "lat": 34.671649,
-        "lng": -87.30936
-      },
+      "latitude": 34.671649,
+      "longitude": -87.30936,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2729,10 +2535,8 @@
       "address": "6322 E U.S. Hwy 84, Cowarts, AL 36321, USA",
       "street": "",
       "zip": "36321",
-      "coordinates": {
-        "lat": 31.192058,
-        "lng": -85.301304
-      },
+      "latitude": 31.192058,
+      "longitude": -85.301304,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2757,10 +2561,8 @@
       "address": "19430 AL-68, Crossville, AL 35962, USA",
       "street": "19430 AL 68",
       "zip": "35962",
-      "coordinates": {
-        "lat": 34.26886,
-        "lng": -86.07269
-      },
+      "latitude": 34.26886,
+      "longitude": -86.07269,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2785,10 +2587,8 @@
       "address": "120 Wesley Ave N, Cullman, AL 35058, USA",
       "street": "Wesley Avenue North",
       "zip": "",
-      "coordinates": {
-        "lat": 34.24732,
-        "lng": -86.68263
-      },
+      "latitude": 34.24732,
+      "longitude": -86.68263,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2813,10 +2613,8 @@
       "address": "3596 AL-69, Cullman, AL 35058, USA",
       "street": "3596 State Route 69",
       "zip": "35058",
-      "coordinates": {
-        "lat": 34.218765,
-        "lng": -86.754695
-      },
+      "latitude": 34.218765,
+      "longitude": -86.754695,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2841,10 +2639,8 @@
       "address": "2 Old Newton Rd, Daleville, AL 36322, USA",
       "street": "2 Old Newton Road",
       "zip": "36322",
-      "coordinates": {
-        "lat": 31.310009,
-        "lng": -85.711226
-      },
+      "latitude": 31.310009,
+      "longitude": -85.711226,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2869,10 +2665,8 @@
       "address": "2190 Joe Bruer Rd, Daleville, AL 36322, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.299656,
-        "lng": -85.781341
-      },
+      "latitude": 31.299656,
+      "longitude": -85.781341,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2897,10 +2691,8 @@
       "address": "35 US-84, Daleville, AL 36322, USA",
       "street": "US 84",
       "zip": "36322",
-      "coordinates": {
-        "lat": 31.296267,
-        "lng": -85.722551
-      },
+      "latitude": 31.296267,
+      "longitude": -85.722551,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2925,10 +2717,8 @@
       "address": "354 AL-134, Daleville, AL 36322, USA",
       "street": "354 Daleville Avenue",
       "zip": "36322",
-      "coordinates": {
-        "lat": 31.30872,
-        "lng": -85.722642
-      },
+      "latitude": 31.30872,
+      "longitude": -85.722642,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2953,10 +2743,8 @@
       "address": "3724 US-84, Daleville, AL 36322, USA",
       "street": "US 84",
       "zip": "36322",
-      "coordinates": {
-        "lat": 31.299032,
-        "lng": -85.778658
-      },
+      "latitude": 31.299032,
+      "longitude": -85.778658,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -2981,10 +2769,8 @@
       "address": "5702 AL-36, Danville, AL 35619, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.414437,
-        "lng": -87.086286
-      },
+      "latitude": 34.414437,
+      "longitude": -87.086286,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3009,10 +2795,8 @@
       "address": "2116 Co Rd 327, Danville, AL 35619, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.501419,
-        "lng": -87.122124
-      },
+      "latitude": 34.501419,
+      "longitude": -87.122124,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3037,10 +2821,8 @@
       "address": "1101 Johnson Rd, Daphne, AL 36526, USA",
       "street": "1101 Johnson Road",
       "zip": "36526",
-      "coordinates": {
-        "lat": 30.589513,
-        "lng": -87.896296
-      },
+      "latitude": 30.589513,
+      "longitude": -87.896296,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3065,10 +2847,8 @@
       "address": "3414 Co Rd 843, Dawson, AL 35963, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.364942,
-        "lng": -85.937262
-      },
+      "latitude": 34.364942,
+      "longitude": -85.937262,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3093,10 +2873,8 @@
       "address": "2019 6th Ave SE, Decatur, AL 35601, USA",
       "street": "2019 6th Avenue Southeast",
       "zip": "35601",
-      "coordinates": {
-        "lat": 34.573998,
-        "lng": -86.975861
-      },
+      "latitude": 34.573998,
+      "longitude": -86.975861,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3121,10 +2899,8 @@
       "address": "2466 N Bethel Rd, Decatur, AL 35603, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.543654,
-        "lng": -86.894583
-      },
+      "latitude": 34.543654,
+      "longitude": -86.894583,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3149,10 +2925,8 @@
       "address": "2640 Kirby Bridge Rd, Decatur, AL 35603, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.516587,
-        "lng": -87.080161
-      },
+      "latitude": 34.516587,
+      "longitude": -87.080161,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3177,10 +2951,8 @@
       "address": "3704 Spring Ave SW, Decatur, AL 35603, USA",
       "street": "3704 Spring Avenue Southwest",
       "zip": "35603",
-      "coordinates": {
-        "lat": 34.538027,
-        "lng": -87.000174
-      },
+      "latitude": 34.538027,
+      "longitude": -87.000174,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3205,10 +2977,8 @@
       "address": "10139 AL-9, Delta, AL 36258, USA",
       "street": "State Route 9",
       "zip": "36258",
-      "coordinates": {
-        "lat": 33.521466,
-        "lng": -85.640448
-      },
+      "latitude": 33.521466,
+      "longitude": -85.640448,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3233,10 +3003,8 @@
       "address": "605 N Walnut Ave, Demopolis, AL 36732, USA",
       "street": "605 North Walnut Avenue",
       "zip": "36732",
-      "coordinates": {
-        "lat": 32.522354,
-        "lng": -87.837899
-      },
+      "latitude": 32.522354,
+      "longitude": -87.837899,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3261,10 +3029,8 @@
       "address": "401 US-80, Demopolis, AL 36732, USA",
       "street": "401 US 80",
       "zip": "36732",
-      "coordinates": {
-        "lat": 32.503987,
-        "lng": -87.833524
-      },
+      "latitude": 32.503987,
+      "longitude": -87.833524,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3289,10 +3055,8 @@
       "address": "605 N Walnut Ave, Demopolis, AL 36732, USA",
       "street": "605 North Walnut Avenue",
       "zip": "36732",
-      "coordinates": {
-        "lat": 32.522354,
-        "lng": -87.837899
-      },
+      "latitude": 32.522354,
+      "longitude": -87.837899,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3317,10 +3081,8 @@
       "address": "65424 AL-17, Detroit, AL 35552, USA",
       "street": "65424 AL 17",
       "zip": "35552",
-      "coordinates": {
-        "lat": 34.027947,
-        "lng": -88.169834
-      },
+      "latitude": 34.027947,
+      "longitude": -88.169834,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3345,10 +3107,8 @@
       "address": "1006 Woodland Dr, Dothan, AL 36301, USA",
       "street": "1006 Woodland Drive",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.213356,
-        "lng": -85.414079
-      },
+      "latitude": 31.213356,
+      "longitude": -85.414079,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3373,10 +3133,8 @@
       "address": "1058 E Cottonwood Rd, Dothan, AL 36301, USA",
       "street": "1058 East Cottonwood Road",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.200654,
-        "lng": -85.380184
-      },
+      "latitude": 31.200654,
+      "longitude": -85.380184,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3401,10 +3159,8 @@
       "address": "108 Zenith Rd, Dothan, AL 36303, USA",
       "street": "108 Zenith Road",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.254206,
-        "lng": -85.406519
-      },
+      "latitude": 31.254206,
+      "longitude": -85.406519,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3429,10 +3185,8 @@
       "address": "1112 Fortner St, Dothan, AL 36301, USA",
       "street": "1112 Fortner Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.215356,
-        "lng": -85.409463
-      },
+      "latitude": 31.215356,
+      "longitude": -85.409463,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3457,10 +3211,8 @@
       "address": "1140 Montgomery Hwy, Dothan, AL 36303, USA",
       "street": "1140 Montgomery Highway",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.239267,
-        "lng": -85.397971
-      },
+      "latitude": 31.239267,
+      "longitude": -85.397971,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3485,10 +3237,8 @@
       "address": "1152 3rd Ave, Dothan, AL 36301, USA",
       "street": "1152 3rd Avenue",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.207519,
-        "lng": -85.379942
-      },
+      "latitude": 31.207519,
+      "longitude": -85.379942,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3513,10 +3263,8 @@
       "address": "1210 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "1210 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.210933,
-        "lng": -85.363157
-      },
+      "latitude": 31.210933,
+      "longitude": -85.363157,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3541,10 +3289,8 @@
       "address": "1581 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "1581 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.196282,
-        "lng": -85.371788
-      },
+      "latitude": 31.196282,
+      "longitude": -85.371788,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3569,10 +3315,8 @@
       "address": "175 Bob Hall Rd, Dothan, AL 36305, USA",
       "street": "175 Bob Hall Road",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.206009,
-        "lng": -85.460643
-      },
+      "latitude": 31.206009,
+      "longitude": -85.460643,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3597,10 +3341,8 @@
       "address": "1765 Montgomery Hwy, Dothan, AL 36303, USA",
       "street": "1765 Montgomery Highway",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.23857,
-        "lng": -85.408455
-      },
+      "latitude": 31.23857,
+      "longitude": -85.408455,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3625,10 +3367,8 @@
       "address": "178 Earline Rd, Dothan, AL 36305, USA",
       "street": "178 Earline Road",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.201188,
-        "lng": -85.438776
-      },
+      "latitude": 31.201188,
+      "longitude": -85.438776,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3653,10 +3393,8 @@
       "address": "1862 W Main St, Dothan, AL 36301, USA",
       "street": "1862 West Main Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.22849,
-        "lng": -85.417143
-      },
+      "latitude": 31.22849,
+      "longitude": -85.417143,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3681,10 +3419,8 @@
       "address": "2013 S Oates St, Dothan, AL 36301, USA",
       "street": "2013 South Oates Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.19729,
-        "lng": -85.39783
-      },
+      "latitude": 31.19729,
+      "longitude": -85.39783,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3709,10 +3445,8 @@
       "address": "2086 Montgomery Hwy, Dothan, AL 36303, USA",
       "street": "2086 Montgomery Highway",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.240734,
-        "lng": -85.412849
-      },
+      "latitude": 31.240734,
+      "longitude": -85.412849,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3737,10 +3471,8 @@
       "address": "2185 Reeves St, Dothan, AL 36303, USA",
       "street": "2185 Reeves Street",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.254453,
-        "lng": -85.390953
-      },
+      "latitude": 31.254453,
+      "longitude": -85.390953,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3765,10 +3497,8 @@
       "address": "2200 E Main St, Dothan, AL 36301, USA",
       "street": "2200 East Main Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.213545,
-        "lng": -85.359465
-      },
+      "latitude": 31.213545,
+      "longitude": -85.359465,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3793,10 +3523,8 @@
       "address": "230 Zenith Rd, Dothan, AL 36303, USA",
       "street": "230 Zenith Road",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.256612,
-        "lng": -85.406011
-      },
+      "latitude": 31.256612,
+      "longitude": -85.406011,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3821,10 +3549,8 @@
       "address": "2331 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "2331 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.1942,
-        "lng": -85.410713
-      },
+      "latitude": 31.1942,
+      "longitude": -85.410713,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3849,10 +3575,8 @@
       "address": "2413 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "2413 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.197301,
-        "lng": -85.413817
-      },
+      "latitude": 31.197301,
+      "longitude": -85.413817,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3877,10 +3601,8 @@
       "address": "2423 Montgomery Hwy, Dothan, AL 36303, USA",
       "street": "2423 Montgomery Highway",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.242262,
-        "lng": -85.418171
-      },
+      "latitude": 31.242262,
+      "longitude": -85.418171,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3905,10 +3627,8 @@
       "address": "2437 E Cottonwood Rd, Dothan, AL 36301, USA",
       "street": "2437 East Cottonwood Road",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.183213,
-        "lng": -85.369916
-      },
+      "latitude": 31.183213,
+      "longitude": -85.369916,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3933,10 +3653,8 @@
       "address": "2438 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "2438 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.199097,
-        "lng": -85.414045
-      },
+      "latitude": 31.199097,
+      "longitude": -85.414045,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3961,10 +3679,8 @@
       "address": "2552 AL-109, Dothan, AL 36301, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.097456,
-        "lng": -85.445455
-      },
+      "latitude": 31.097456,
+      "longitude": -85.445455,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -3989,10 +3705,8 @@
       "address": "2741 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "2741 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.210665,
-        "lng": -85.428167
-      },
+      "latitude": 31.210665,
+      "longitude": -85.428167,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4017,10 +3731,8 @@
       "address": "2747 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "2747 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.211067,
-        "lng": -85.42835
-      },
+      "latitude": 31.211067,
+      "longitude": -85.42835,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4045,10 +3757,8 @@
       "address": "2794 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "2794 Ross Clark Circle",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.21278,
-        "lng": -85.428026
-      },
+      "latitude": 31.21278,
+      "longitude": -85.428026,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4073,10 +3783,8 @@
       "address": "2808 E Main St, Dothan, AL 36301, USA",
       "street": "2808 East Main Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.206094,
-        "lng": -85.352079
-      },
+      "latitude": 31.206094,
+      "longitude": -85.352079,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4101,10 +3809,8 @@
       "address": "2869 Montgomery Hwy, Dothan, AL 36303, USA",
       "street": "2869 Montgomery Highway",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.248107,
-        "lng": -85.424459
-      },
+      "latitude": 31.248107,
+      "longitude": -85.424459,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4129,10 +3835,8 @@
       "address": "2940 Hartford Hwy, Dothan, AL 36305, USA",
       "street": "2940 Hartford Highway",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.199167,
-        "lng": -85.437763
-      },
+      "latitude": 31.199167,
+      "longitude": -85.437763,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4157,10 +3861,8 @@
       "address": "3090 Denton Rd, Dothan, AL 36303, USA",
       "street": "3090 Denton Road",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.268396,
-        "lng": -85.417166
-      },
+      "latitude": 31.268396,
+      "longitude": -85.417166,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4185,10 +3887,8 @@
       "address": "3102 Ross Clark Cir, Dothan, AL 36303, USA",
       "street": "3102 Ross Clark Circle",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.228893,
-        "lng": -85.43123
-      },
+      "latitude": 31.228893,
+      "longitude": -85.43123,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4213,10 +3913,8 @@
       "address": "3118 E Main St, Dothan, AL 36301, USA",
       "street": "3118 East Main Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.203975,
-        "lng": -85.348386
-      },
+      "latitude": 31.203975,
+      "longitude": -85.348386,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4241,10 +3939,8 @@
       "address": "3178 Hartford Hwy, Dothan, AL 36305, USA",
       "street": "3178 Hartford Highway",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.197401,
-        "lng": -85.441204
-      },
+      "latitude": 31.197401,
+      "longitude": -85.441204,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4269,10 +3965,8 @@
       "address": "3300 E Cottonwood Rd, Dothan, AL 36301, USA",
       "street": "3300 East Cottonwood Road",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.173254,
-        "lng": -85.359243
-      },
+      "latitude": 31.173254,
+      "longitude": -85.359243,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4297,10 +3991,8 @@
       "address": "3340 Ross Clark Cir, Dothan, AL 36303, USA",
       "street": "3340 Ross Clark Circle",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.239657,
-        "lng": -85.430263
-      },
+      "latitude": 31.239657,
+      "longitude": -85.430263,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4325,10 +4017,8 @@
       "address": "3356 Reeves St, Dothan, AL 36303, USA",
       "street": "3356 Reeves Street",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.268025,
-        "lng": -85.378146
-      },
+      "latitude": 31.268025,
+      "longitude": -85.378146,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4353,10 +4043,8 @@
       "address": "3371 S Oates St, Dothan, AL 36301, USA",
       "street": "3371 South Oates Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.177813,
-        "lng": -85.401177
-      },
+      "latitude": 31.177813,
+      "longitude": -85.401177,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4381,10 +4069,8 @@
       "address": "3371 S Oates St, Dothan, AL 36301, USA",
       "street": "3371 South Oates Street",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.177813,
-        "lng": -85.401177
-      },
+      "latitude": 31.177813,
+      "longitude": -85.401177,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4409,10 +4095,8 @@
       "address": "3376 W Main St, Dothan, AL 36305, USA",
       "street": "3376 West Main Street",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.230402,
-        "lng": -85.442258
-      },
+      "latitude": 31.230402,
+      "longitude": -85.442258,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4437,10 +4121,8 @@
       "address": "3439 Denton Rd, Dothan, AL 36303, USA",
       "street": "3439 Denton Road",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.272182,
-        "lng": -85.422141
-      },
+      "latitude": 31.272182,
+      "longitude": -85.422141,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4465,10 +4147,8 @@
       "address": "3731 S Park Ave, Dothan, AL 36301, USA",
       "street": "3731 South Park Avenue",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.184172,
-        "lng": -85.421819
-      },
+      "latitude": 31.184172,
+      "longitude": -85.421819,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4493,10 +4173,8 @@
       "address": "3820 Ross Clark Cir, Dothan, AL 36303, USA",
       "street": "Ross Clark Circle",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.252179,
-        "lng": -85.409745
-      },
+      "latitude": 31.252179,
+      "longitude": -85.409745,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4521,10 +4199,8 @@
       "address": "4332 Montgomery Hwy, Dothan, AL 36303, USA",
       "street": "4332 Montgomery Highway",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.264796,
-        "lng": -85.440277
-      },
+      "latitude": 31.264796,
+      "longitude": -85.440277,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4549,10 +4225,8 @@
       "address": "4468 W Main St, Dothan, AL 36305, USA",
       "street": "4468 West Main Street",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.237259,
-        "lng": -85.459636
-      },
+      "latitude": 31.237259,
+      "longitude": -85.459636,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4577,10 +4251,8 @@
       "address": "489 Southgate Rd, Dothan, AL 36301, USA",
       "street": "489 Southgate Road",
       "zip": "36301",
-      "coordinates": {
-        "lat": 31.181601,
-        "lng": -85.40914
-      },
+      "latitude": 31.181601,
+      "longitude": -85.40914,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4605,10 +4277,8 @@
       "address": "4894 Murphy Mill Rd, Dothan, AL 36303, USA",
       "street": "4894 Murphy Mill Road",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.259079,
-        "lng": -85.476501
-      },
+      "latitude": 31.259079,
+      "longitude": -85.476501,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4633,10 +4303,8 @@
       "address": "Buyers Dr, Dothan, AL 36303, USA",
       "street": "Buyers Drive",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.251052,
-        "lng": -85.425526
-      },
+      "latitude": 31.251052,
+      "longitude": -85.425526,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4661,10 +4329,8 @@
       "address": "Southview Shopping Center, 2141 Ross Clark Cir, Dothan, AL 36301, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.189562,
-        "lng": -85.399543
-      },
+      "latitude": 31.189562,
+      "longitude": -85.399543,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4689,10 +4355,8 @@
       "address": "11 Blake Dr, Double Springs, AL 35553, USA",
       "street": "11 Blake Drive",
       "zip": "35553",
-      "coordinates": {
-        "lat": 34.146735,
-        "lng": -87.402187
-      },
+      "latitude": 34.146735,
+      "longitude": -87.402187,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4717,10 +4381,8 @@
       "address": "15472 US-278, Double Springs, AL 35553, USA",
       "street": "US 278",
       "zip": "35553",
-      "coordinates": {
-        "lat": 34.155081,
-        "lng": -87.407155
-      },
+      "latitude": 34.155081,
+      "longitude": -87.407155,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4745,10 +4407,8 @@
       "address": "Hope Dr, Alabama 36260, USA",
       "street": "Hope Drive",
       "zip": "36260",
-      "coordinates": {
-        "lat": 33.587045,
-        "lng": -86.005965
-      },
+      "latitude": 33.587045,
+      "longitude": -86.005965,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4773,10 +4433,8 @@
       "address": "3606 Lott Rd, Eight Mile, AL 36613, USA",
       "street": "Lott Road",
       "zip": "36613",
-      "coordinates": {
-        "lat": 30.774729,
-        "lng": -88.175179
-      },
+      "latitude": 30.774729,
+      "longitude": -88.175179,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4801,10 +4459,8 @@
       "address": "603 Claxton Ave, Elba, AL 36323, USA",
       "street": "603 Claxton Avenue",
       "zip": "36323",
-      "coordinates": {
-        "lat": 31.417879,
-        "lng": -86.068791
-      },
+      "latitude": 31.417879,
+      "longitude": -86.068791,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4829,10 +4485,8 @@
       "address": "17945 US-82, Elrod, AL 35458, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.281946,
-        "lng": -87.801577
-      },
+      "latitude": 33.281946,
+      "longitude": -87.801577,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4857,10 +4511,8 @@
       "address": "1105 Boll Weevil Cir, Enterprise, AL 36330, USA",
       "street": "1105 Boll Weevil Circle",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.334185,
-        "lng": -85.855641
-      },
+      "latitude": 31.334185,
+      "longitude": -85.855641,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4885,10 +4537,8 @@
       "address": "1114 Rucker Blvd, Enterprise, AL 36330, USA",
       "street": "1114 Rucker Boulevard",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.326401,
-        "lng": -85.820445
-      },
+      "latitude": 31.326401,
+      "longitude": -85.820445,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4913,10 +4563,8 @@
       "address": "1202 Boll Weevil Cir, Enterprise, AL 36330, USA",
       "street": "1202 Boll Weevil Circle",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.334797,
-        "lng": -85.859069
-      },
+      "latitude": 31.334797,
+      "longitude": -85.859069,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4941,10 +4589,8 @@
       "address": "200 Dixie Dr, Enterprise, AL 36330, USA",
       "street": "200 Dixie Drive",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.326292,
-        "lng": -85.826696
-      },
+      "latitude": 31.326292,
+      "longitude": -85.826696,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4969,10 +4615,8 @@
       "address": "200 W College St, Enterprise, AL 36330, USA",
       "street": "200 West College Street",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.313844,
-        "lng": -85.855291
-      },
+      "latitude": 31.313844,
+      "longitude": -85.855291,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -4997,10 +4641,8 @@
       "address": "3681 Rucker Blvd, Enterprise, AL 36330, USA",
       "street": "3681 Rucker Boulevard",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.337646,
-        "lng": -85.783547
-      },
+      "latitude": 31.337646,
+      "longitude": -85.783547,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5025,10 +4667,8 @@
       "address": "4087 Rucker Blvd, Enterprise, AL 36330, USA",
       "street": "4087 Rucker Boulevard",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.341733,
-        "lng": -85.763271
-      },
+      "latitude": 31.341733,
+      "longitude": -85.763271,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5053,10 +4693,8 @@
       "address": "43 Co Rd 17, Enterprise, AL 36330, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.336885,
-        "lng": -85.783583
-      },
+      "latitude": 31.336885,
+      "longitude": -85.783583,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5081,10 +4719,8 @@
       "address": "4800 Rucker Blvd, Enterprise, AL 36330, USA",
       "street": "4800 Rucker Boulevard",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.338908,
-        "lng": -85.758624
-      },
+      "latitude": 31.338908,
+      "longitude": -85.758624,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5109,10 +4745,8 @@
       "address": "515 N Main St, Enterprise, AL 36330, USA",
       "street": "515 North Main Street",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.319175,
-        "lng": -85.85842
-      },
+      "latitude": 31.319175,
+      "longitude": -85.85842,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5137,10 +4771,8 @@
       "address": "536 Boll Weevil Cir, Enterprise, AL 36330, USA",
       "street": "536 Boll Weevil Circle",
       "zip": "36330",
-      "coordinates": {
-        "lat": 31.313859,
-        "lng": -85.829146
-      },
+      "latitude": 31.313859,
+      "longitude": -85.829146,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5165,10 +4797,8 @@
       "address": "1140 S Eufaula Ave, Eufaula, AL 36027, USA",
       "street": "South Eufaula Avenue",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.878018,
-        "lng": -85.149901
-      },
+      "latitude": 31.878018,
+      "longitude": -85.149901,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5193,10 +4823,8 @@
       "address": "126 State Docks Rd, Eufaula, AL 36027, USA",
       "street": "126 State Docks Road",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.870984,
-        "lng": -85.153324
-      },
+      "latitude": 31.870984,
+      "longitude": -85.153324,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5221,10 +4849,8 @@
       "address": "15 Mack St, Eufaula, AL 36027, USA",
       "street": "Mack Street",
       "zip": "36072",
-      "coordinates": {
-        "lat": 31.857481,
-        "lng": -85.16587
-      },
+      "latitude": 31.857481,
+      "longitude": -85.16587,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5249,10 +4875,8 @@
       "address": "159 Old Abbeville Rd, Eufaula, AL 36027, USA",
       "street": "159 Old Abbeville Road",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.84799,
-        "lng": -85.166246
-      },
+      "latitude": 31.84799,
+      "longitude": -85.166246,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5277,10 +4901,8 @@
       "address": "2908 S Eufaula Ave, Eufaula, AL 36027, USA",
       "street": "2908 South Eufaula Avenue",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.8582,
-        "lng": -85.166435
-      },
+      "latitude": 31.8582,
+      "longitude": -85.166435,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5305,10 +4927,8 @@
       "address": "3207 S Eufaula Ave, Eufaula, AL 36027, USA",
       "street": "3207 South Eufaula Avenue",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.842114,
-        "lng": -85.16689
-      },
+      "latitude": 31.842114,
+      "longitude": -85.16689,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5333,10 +4953,8 @@
       "address": "3514 S Eufaula Ave, Eufaula, AL 36027, USA",
       "street": "3514 South Eufaula Avenue",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.825579,
-        "lng": -85.163531
-      },
+      "latitude": 31.825579,
+      "longitude": -85.163531,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5361,10 +4979,8 @@
       "address": "410 E Broad St, Eufaula, AL 36027, USA",
       "street": "410 East Broad Street",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.893623,
-        "lng": -85.138618
-      },
+      "latitude": 31.893623,
+      "longitude": -85.138618,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5389,10 +5005,8 @@
       "address": "410 E Broad St, Eufaula, AL 36027, USA",
       "street": "410 East Broad Street",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.893623,
-        "lng": -85.138618
-      },
+      "latitude": 31.893623,
+      "longitude": -85.138618,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5417,10 +5031,8 @@
       "address": "53 Lake Dr, Eufaula, AL 36027, USA",
       "street": "53 Lake Drive",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.916418,
-        "lng": -85.146886
-      },
+      "latitude": 31.916418,
+      "longitude": -85.146886,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5445,10 +5057,8 @@
       "address": "622 AL-30, Eufaula, AL 36027, USA",
       "street": "622 AL 30",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.871718,
-        "lng": -85.215023
-      },
+      "latitude": 31.871718,
+      "longitude": -85.215023,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5473,10 +5083,8 @@
       "address": "215 Boligee St, Eutaw, AL 35462, USA",
       "street": "Boligee Street",
       "zip": "34562",
-      "coordinates": {
-        "lat": 32.839965,
-        "lng": -87.888744
-      },
+      "latitude": 32.839965,
+      "longitude": -87.888744,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5501,10 +5109,8 @@
       "address": "314 Greensboro St, Eutaw, AL 35462, USA",
       "street": "Greensboro Street",
       "zip": "35462",
-      "coordinates": {
-        "lat": 32.837118,
-        "lng": -87.881147
-      },
+      "latitude": 32.837118,
+      "longitude": -87.881147,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5529,10 +5135,8 @@
       "address": "5530 Hwy 55 E, Eva, AL 35621, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.312646,
-        "lng": -86.733635
-      },
+      "latitude": 34.312646,
+      "longitude": -86.733635,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5557,10 +5161,8 @@
       "address": "119 Desplous St, Evergreen, AL 36401, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.431937,
-        "lng": -86.955047
-      },
+      "latitude": 31.431937,
+      "longitude": -86.955047,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5585,10 +5187,8 @@
       "address": "303 Dr Martin Luther King Jr Dr, Evergreen, AL 36401, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.43218,
-        "lng": -86.952617
-      },
+      "latitude": 31.43218,
+      "longitude": -86.952617,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5613,10 +5213,8 @@
       "address": "320 W Front St, Evergreen, AL 36401, USA",
       "street": "320 West Front Street",
       "zip": "36401",
-      "coordinates": {
-        "lat": 31.431556,
-        "lng": -86.959202
-      },
+      "latitude": 31.431556,
+      "longitude": -86.959202,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5641,10 +5239,8 @@
       "address": "10525 US-98, Fairhope, AL 36532, USA",
       "street": "Greeno Road",
       "zip": "36532",
-      "coordinates": {
-        "lat": 30.419319,
-        "lng": -87.843483
-      },
+      "latitude": 30.419319,
+      "longitude": -87.843483,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5669,10 +5265,8 @@
       "address": "13530 S Greeno Rd, Fairhope, AL 36532, USA",
       "street": "13530 South Greeno Road",
       "zip": "36532",
-      "coordinates": {
-        "lat": 30.421787,
-        "lng": -87.885613
-      },
+      "latitude": 30.421787,
+      "longitude": -87.885613,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5697,10 +5291,8 @@
       "address": "16151 S Greeno Rd, Fairhope, AL 36532, USA",
       "street": "16151 South Greeno Road",
       "zip": "36532",
-      "coordinates": {
-        "lat": 30.460814,
-        "lng": -87.887383
-      },
+      "latitude": 30.460814,
+      "longitude": -87.887383,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5725,10 +5317,8 @@
       "address": "20559 Co Rd 13, Fairhope, AL 36532, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.491726,
-        "lng": -87.869281
-      },
+      "latitude": 30.491726,
+      "longitude": -87.869281,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5753,10 +5343,8 @@
       "address": "19 Railroad Ave, Falkville, AL 35622, USA",
       "street": "19 Railroad Avenue",
       "zip": "35622",
-      "coordinates": {
-        "lat": 34.365933,
-        "lng": -86.907226
-      },
+      "latitude": 34.365933,
+      "longitude": -86.907226,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5781,10 +5369,8 @@
       "address": "1673 AL-117, Flat Rock, AL 35966, USA",
       "street": "1673 AL 117",
       "zip": "35966",
-      "coordinates": {
-        "lat": 34.76723,
-        "lng": -85.703126
-      },
+      "latitude": 34.76723,
+      "longitude": -85.703126,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5809,10 +5395,8 @@
       "address": "21365 AL-71, Flat Rock, AL 35966, USA",
       "street": "AL 71",
       "zip": "36966",
-      "coordinates": {
-        "lat": 34.791807,
-        "lng": -85.686747
-      },
+      "latitude": 34.791807,
+      "longitude": -85.686747,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5837,10 +5421,8 @@
       "address": "131 Cox Creek Pkwy, Florence, AL 35630, USA",
       "street": "131 Cox Creek Parkway",
       "zip": "35633",
-      "coordinates": {
-        "lat": 34.833079,
-        "lng": -87.700702
-      },
+      "latitude": 34.833079,
+      "longitude": -87.700702,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5865,10 +5447,8 @@
       "address": "3657 Old Chisholm Rd, Florence, AL 35633, USA",
       "street": "3657 Old Chisholm Road",
       "zip": "35633",
-      "coordinates": {
-        "lat": 34.856391,
-        "lng": -87.67649
-      },
+      "latitude": 34.856391,
+      "longitude": -87.67649,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5893,10 +5473,8 @@
       "address": "Florence, AL 35634, USA",
       "street": "",
       "zip": "35631",
-      "coordinates": {
-        "lat": 34.904989,
-        "lng": -87.598888
-      },
+      "latitude": 34.904989,
+      "longitude": -87.598888,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5921,10 +5499,8 @@
       "address": "N Broadway St, Florence, AL 35630, USA",
       "street": "North Broadway Street",
       "zip": "35630",
-      "coordinates": {
-        "lat": 34.822039,
-        "lng": -87.639227
-      },
+      "latitude": 34.822039,
+      "longitude": -87.639227,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5949,10 +5525,8 @@
       "address": "512 N McKenzie St, Foley, AL 36535, USA",
       "street": "McKenzie Street",
       "zip": "36535",
-      "coordinates": {
-        "lat": 30.41128,
-        "lng": -87.683403
-      },
+      "latitude": 30.41128,
+      "longitude": -87.683403,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -5977,10 +5551,8 @@
       "address": "101 Cracker Barrel Rd, Fort Payne, AL 35968, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.439593,
-        "lng": -85.750482
-      },
+      "latitude": 34.439593,
+      "longitude": -85.750482,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6005,10 +5577,8 @@
       "address": "18115 AL-176, Fort Payne, AL 35967, USA",
       "street": "Little River Canyon Parkway",
       "zip": "",
-      "coordinates": {
-        "lat": 34.328208,
-        "lng": -85.765235
-      },
+      "latitude": 34.328208,
+      "longitude": -85.765235,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6033,10 +5603,8 @@
       "address": "1709 Decatur Hwy, Fultondale, AL 35068, USA",
       "street": "1709 Decatur Highway",
       "zip": "35068",
-      "coordinates": {
-        "lat": 33.610995,
-        "lng": -86.796179
-      },
+      "latitude": 33.610995,
+      "longitude": -86.796179,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6061,10 +5629,8 @@
       "address": "1147 Main St, Fyffe, AL 35971, USA",
       "street": "Main Street",
       "zip": "35971",
-      "coordinates": {
-        "lat": 34.445029,
-        "lng": -85.906402
-      },
+      "latitude": 34.445029,
+      "longitude": -85.906402,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6089,10 +5655,8 @@
       "address": "3666 Main St, Fyffe, AL 35971, USA",
       "street": "3666 Main Street",
       "zip": "35986",
-      "coordinates": {
-        "lat": 34.456884,
-        "lng": -85.889558
-      },
+      "latitude": 34.456884,
+      "longitude": -85.889558,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6117,10 +5681,8 @@
       "address": "10299 Centre Rd, Gadsden, AL 35903, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.053283,
-        "lng": -85.80905
-      },
+      "latitude": 34.053283,
+      "longitude": -85.80905,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6145,10 +5707,8 @@
       "address": "104 E Lake Dr, Gadsden, AL 35901, USA",
       "street": "104 East Lake Drive",
       "zip": "35901",
-      "coordinates": {
-        "lat": 34.049691,
-        "lng": -85.960249
-      },
+      "latitude": 34.049691,
+      "longitude": -85.960249,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6173,10 +5733,8 @@
       "address": "1140 Pulltight Rd, Gadsden, AL 35901, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.084005,
-        "lng": -85.871672
-      },
+      "latitude": 34.084005,
+      "longitude": -85.871672,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6201,10 +5759,8 @@
       "address": "16371 US-431, Gadsden, AL 35905, USA",
       "street": "East Meighan Boulevard",
       "zip": "35905",
-      "coordinates": {
-        "lat": 33.9062,
-        "lng": -85.9133
-      },
+      "latitude": 33.9062,
+      "longitude": -85.9133,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6229,10 +5785,8 @@
       "address": "1678 Piedmont Cutoff Hwy, Gadsden, AL 35903, USA",
       "street": "1678 Piedmont Cutoff Highway",
       "zip": "35903",
-      "coordinates": {
-        "lat": 34.000292,
-        "lng": -85.953027
-      },
+      "latitude": 34.000292,
+      "longitude": -85.953027,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6257,10 +5811,8 @@
       "address": "1700 Piedmont Cutoff Hwy, Gadsden, AL 35903, USA",
       "street": "1700 Piedmont Cutoff Highway",
       "zip": "35903",
-      "coordinates": {
-        "lat": 34.001038,
-        "lng": -85.948418
-      },
+      "latitude": 34.001038,
+      "longitude": -85.948418,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6285,10 +5837,8 @@
       "address": "1700 Piedmont Cutoff Hwy, Gadsden, AL 35903, USA",
       "street": "1700 Piedmont Cutoff Highway",
       "zip": "35903",
-      "coordinates": {
-        "lat": 34.001038,
-        "lng": -85.948418
-      },
+      "latitude": 34.001038,
+      "longitude": -85.948418,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6313,10 +5863,8 @@
       "address": "1900 E Meighan Blvd, Gadsden, AL 35903, USA",
       "street": "East Meighan Boulevard",
       "zip": "35903",
-      "coordinates": {
-        "lat": 33.995567,
-        "lng": -85.967689
-      },
+      "latitude": 33.995567,
+      "longitude": -85.967689,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6341,10 +5889,8 @@
       "address": "206 Pineview Ave, Gadsden, AL 35905, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.952504,
-        "lng": -85.928718
-      },
+      "latitude": 33.952504,
+      "longitude": -85.928718,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6369,10 +5915,8 @@
       "address": "2625 W Meighan Blvd, Gadsden, AL 35904, USA",
       "street": "2625 West Meighan Boulevard",
       "zip": "35904",
-      "coordinates": {
-        "lat": 34.024264,
-        "lng": -86.044775
-      },
+      "latitude": 34.024264,
+      "longitude": -86.044775,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6397,10 +5941,8 @@
       "address": "332 E Meighan Blvd, Gadsden, AL 35903, USA",
       "street": "332 East Meighan Boulevard",
       "zip": "35903",
-      "coordinates": {
-        "lat": 34.01242,
-        "lng": -85.988563
-      },
+      "latitude": 34.01242,
+      "longitude": -85.988563,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6425,10 +5967,8 @@
       "address": "550 E Meighan Blvd, Gadsden, AL 35903, USA",
       "street": "550 East Meighan Boulevard",
       "zip": "35903",
-      "coordinates": {
-        "lat": 34.011045,
-        "lng": -85.983522
-      },
+      "latitude": 34.011045,
+      "longitude": -85.983522,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6453,10 +5993,8 @@
       "address": "6388 AL-77, Gadsden, AL 35907, USA",
       "street": "West Grand Avenue",
       "zip": "35906",
-      "coordinates": {
-        "lat": 33.871374,
-        "lng": -86.038234
-      },
+      "latitude": 33.871374,
+      "longitude": -86.038234,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6481,10 +6019,8 @@
       "address": "N 5th St & Locust St, Gadsden, AL 35901, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.014813,
-        "lng": -86.003726
-      },
+      "latitude": 34.014813,
+      "longitude": -86.003726,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6509,10 +6045,8 @@
       "address": "1224 Decatur Hwy, Gardendale, AL 35071, USA",
       "street": "1224 Decatur Highway",
       "zip": "35071",
-      "coordinates": {
-        "lat": 33.656469,
-        "lng": -86.811912
-      },
+      "latitude": 33.656469,
+      "longitude": -86.811912,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6537,10 +6071,8 @@
       "address": "12970 US-90, Grand Bay, AL 36541, USA",
       "street": "12970 Government Boulevard",
       "zip": "36541",
-      "coordinates": {
-        "lat": 30.475573,
-        "lng": -88.349869
-      },
+      "latitude": 30.475573,
+      "longitude": -88.349869,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6565,10 +6097,8 @@
       "address": "13350 US-90, Grand Bay, AL 36541, USA",
       "street": "13350 Government Boulevard",
       "zip": "36541",
-      "coordinates": {
-        "lat": 30.472928,
-        "lng": -88.358987
-      },
+      "latitude": 30.472928,
+      "longitude": -88.358987,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6593,10 +6123,8 @@
       "address": "29583 US-431, Grant, AL 35747, USA",
       "street": "Florida Short Route",
       "zip": "35747",
-      "coordinates": {
-        "lat": 34.459066,
-        "lng": -86.34958
-      },
+      "latitude": 34.459066,
+      "longitude": -86.34958,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6621,10 +6149,8 @@
       "address": "4442 Main St, Grant, AL 35747, USA",
       "street": "Main Street",
       "zip": "35747",
-      "coordinates": {
-        "lat": 34.514963,
-        "lng": -86.258256
-      },
+      "latitude": 34.514963,
+      "longitude": -86.258256,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6649,10 +6175,8 @@
       "address": "1474 Aztec Rd, Greenville, AL 36037, USA",
       "street": "Aztec Road",
       "zip": "36037",
-      "coordinates": {
-        "lat": 31.802842,
-        "lng": -86.640818
-      },
+      "latitude": 31.802842,
+      "longitude": -86.640818,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6677,10 +6201,8 @@
       "address": "205 Cedar St, Greenville, AL 36037, USA",
       "street": "205 Cedar Street",
       "zip": "36037",
-      "coordinates": {
-        "lat": 31.830918,
-        "lng": -86.622764
-      },
+      "latitude": 31.830918,
+      "longitude": -86.622764,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6705,10 +6227,8 @@
       "address": "401 W Commerce St, Greenville, AL 36037, USA",
       "street": "401 West Commerce Street",
       "zip": "36037",
-      "coordinates": {
-        "lat": 31.829308,
-        "lng": -86.629091
-      },
+      "latitude": 31.829308,
+      "longitude": -86.629091,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6733,10 +6253,8 @@
       "address": "6788 US-43, Guin, AL 35563, USA",
       "street": "6788 US 43;AL 118;AL 171",
       "zip": "35563",
-      "coordinates": {
-        "lat": 33.966989,
-        "lng": -87.901719
-      },
+      "latitude": 33.966989,
+      "longitude": -87.901719,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6761,10 +6279,8 @@
       "address": "6800 Foley Beach Express, Gulf Shores, AL 36542, USA",
       "street": "Foley Beach Express",
       "zip": "36547",
-      "coordinates": {
-        "lat": 30.323468,
-        "lng": -87.653283
-      },
+      "latitude": 30.323468,
+      "longitude": -87.653283,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6789,10 +6305,8 @@
       "address": "2104 Gunter Ave, Guntersville, AL 35976, USA",
       "street": "2104 Gunter Avenue",
       "zip": "35976",
-      "coordinates": {
-        "lat": 34.336832,
-        "lng": -86.314009
-      },
+      "latitude": 34.336832,
+      "longitude": -86.314009,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6817,10 +6331,8 @@
       "address": "3700 AL-69, Guntersville, AL 35976, USA",
       "street": "3700 AL 69",
       "zip": "35976",
-      "coordinates": {
-        "lat": 34.362914,
-        "lng": -86.34951
-      },
+      "latitude": 34.362914,
+      "longitude": -86.34951,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6845,10 +6357,8 @@
       "address": "6106 Hwy 72 E, Gurley, AL 35748, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.697298,
-        "lng": -86.379642
-      },
+      "latitude": 34.697298,
+      "longitude": -86.379642,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6873,10 +6383,8 @@
       "address": "6270 Hwy 72 E, Gurley, AL 35748, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.694466,
-        "lng": -86.373747
-      },
+      "latitude": 34.694466,
+      "longitude": -86.373747,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6901,10 +6409,8 @@
       "address": "1112 23rd St, Haleyville, AL 35565, USA",
       "street": "1112 23rd Street",
       "zip": "35565",
-      "coordinates": {
-        "lat": 34.229645,
-        "lng": -87.619816
-      },
+      "latitude": 34.229645,
+      "longitude": -87.619816,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6929,10 +6435,8 @@
       "address": "405 AL-13, Haleyville, AL 35565, USA",
       "street": "AL 13",
       "zip": "35565",
-      "coordinates": {
-        "lat": 34.234149,
-        "lng": -87.629628
-      },
+      "latitude": 34.234149,
+      "longitude": -87.629628,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6957,10 +6461,8 @@
       "address": "405 AL-13, Haleyville, AL 35565, USA",
       "street": "AL 13",
       "zip": "35565",
-      "coordinates": {
-        "lat": 34.234149,
-        "lng": -87.629628
-      },
+      "latitude": 34.234149,
+      "longitude": -87.629628,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -6985,10 +6487,8 @@
       "address": "481 Military St S, Hamilton, AL 35570, USA",
       "street": "Military Street South",
       "zip": "35570",
-      "coordinates": {
-        "lat": 34.137709,
-        "lng": -87.988941
-      },
+      "latitude": 34.137709,
+      "longitude": -87.988941,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7013,10 +6513,8 @@
       "address": "14500 AL-91, Hanceville, AL 35077, USA",
       "street": "Arkadelphia Road",
       "zip": "35077",
-      "coordinates": {
-        "lat": 33.947837,
-        "lng": -86.871686
-      },
+      "latitude": 33.947837,
+      "longitude": -86.871686,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7041,10 +6539,8 @@
       "address": "2057 US-280, Harpersville, AL 35078, USA",
       "street": "2057 US 231;US 280",
       "zip": "35078",
-      "coordinates": {
-        "lat": 33.315361,
-        "lng": -86.39296
-      },
+      "latitude": 33.315361,
+      "longitude": -86.39296,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7069,10 +6565,8 @@
       "address": "4702 Danville Rd, Hartselle, AL 35640, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.514486,
-        "lng": -87.01805
-      },
+      "latitude": 34.514486,
+      "longitude": -87.01805,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7097,10 +6591,8 @@
       "address": "1820 Nick Davis Rd, Harvest, AL 35749, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.805697,
-        "lng": -86.779693
-      },
+      "latitude": 34.805697,
+      "longitude": -86.779693,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7125,10 +6617,8 @@
       "address": "14311 US-231, Hazel Green, AL 35750, USA",
       "street": "14311 US 231;US 431",
       "zip": "35750",
-      "coordinates": {
-        "lat": 34.935684,
-        "lng": -86.572366
-      },
+      "latitude": 34.935684,
+      "longitude": -86.572366,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7153,10 +6643,8 @@
       "address": "13960 US-231, Hazel Green, AL 35750, USA",
       "street": "13960 US 231;US 431",
       "zip": "35750",
-      "coordinates": {
-        "lat": 34.923517,
-        "lng": -86.57191
-      },
+      "latitude": 34.923517,
+      "longitude": -86.57191,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7181,10 +6669,8 @@
       "address": "16566 US-431, Headland, AL 36345, USA",
       "street": "US 431",
       "zip": "36345",
-      "coordinates": {
-        "lat": 31.335305,
-        "lng": -85.335771
-      },
+      "latitude": 31.335305,
+      "longitude": -85.335771,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7209,10 +6695,8 @@
       "address": "302 Main St, Headland, AL 36345, USA",
       "street": "302 Main Street",
       "zip": "36345",
-      "coordinates": {
-        "lat": 31.347696,
-        "lng": -85.343704
-      },
+      "latitude": 31.347696,
+      "longitude": -85.343704,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7237,10 +6721,8 @@
       "address": "1959 Almon St, Heflin, AL 36264, USA",
       "street": "1959 Almon Street",
       "zip": "36264",
-      "coordinates": {
-        "lat": 33.624206,
-        "lng": -85.59528
-      },
+      "latitude": 33.624206,
+      "longitude": -85.59528,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7265,10 +6747,8 @@
       "address": "335 Helena Marketplace, Helena, AL 35080, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.279591,
-        "lng": -86.850737
-      },
+      "latitude": 33.279591,
+      "longitude": -86.850737,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7293,10 +6773,8 @@
       "address": "17611 AL-75, Henagar, AL 35978, USA",
       "street": "State Highway 75",
       "zip": "35988",
-      "coordinates": {
-        "lat": 34.627232,
-        "lng": -85.750902
-      },
+      "latitude": 34.627232,
+      "longitude": -85.750902,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7321,10 +6799,8 @@
       "address": "17289 State Hwy 20, Hillsboro, AL 35643, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.648739,
-        "lng": -87.162955
-      },
+      "latitude": 34.648739,
+      "longitude": -87.162955,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7349,10 +6825,8 @@
       "address": "1481 AL-172, Hodges, AL 35571, USA",
       "street": "1481 Alabama Highway 172",
       "zip": "35571",
-      "coordinates": {
-        "lat": 34.327753,
-        "lng": -87.925954
-      },
+      "latitude": 34.327753,
+      "longitude": -87.925954,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7377,10 +6851,8 @@
       "address": "32800 US-72, Hollywood, AL 35752, USA",
       "street": "32800 John T Reid Parkway",
       "zip": "35752",
-      "coordinates": {
-        "lat": 34.749818,
-        "lng": -85.911897
-      },
+      "latitude": 34.749818,
+      "longitude": -85.911897,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7405,10 +6877,8 @@
       "address": "6412 AL-75, Horton, AL 35980, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.20174,
-        "lng": -86.29593
-      },
+      "latitude": 34.20174,
+      "longitude": -86.29593,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7433,10 +6903,8 @@
       "address": "2015 Drake Ave SW, Huntsville, AL 35801, USA",
       "street": "2015 Drake Avenue Southwest",
       "zip": "35801",
-      "coordinates": {
-        "lat": 34.704953,
-        "lng": -86.591286
-      },
+      "latitude": 34.704953,
+      "longitude": -86.591286,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7461,10 +6929,8 @@
       "address": "139 Countess Rd NE, Huntsville, AL 35810, USA",
       "street": "139 Countess Road Northeast",
       "zip": "35810",
-      "coordinates": {
-        "lat": 34.829702,
-        "lng": -86.569527
-      },
+      "latitude": 34.829702,
+      "longitude": -86.569527,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7489,10 +6955,8 @@
       "address": "1812 Winchester Rd NE, Huntsville, AL 35811, USA",
       "street": "1812 Winchester Road Northeast",
       "zip": "35811",
-      "coordinates": {
-        "lat": 34.810436,
-        "lng": -86.50614
-      },
+      "latitude": 34.810436,
+      "longitude": -86.50614,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7517,10 +6981,8 @@
       "address": "3310 Meridian St N, Huntsville, AL 35811, USA",
       "street": "3310 Meridian Street North",
       "zip": "35811",
-      "coordinates": {
-        "lat": 34.768349,
-        "lng": -86.572189
-      },
+      "latitude": 34.768349,
+      "longitude": -86.572189,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7545,10 +7007,8 @@
       "address": "20077 AL-117, Ider, AL 35981, USA",
       "street": "20077 AL 117",
       "zip": "35981",
-      "coordinates": {
-        "lat": 34.696625,
-        "lng": -85.669542
-      },
+      "latitude": 34.696625,
+      "longitude": -85.669542,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7573,10 +7033,8 @@
       "address": "505 Deering St, Irondale, AL 35210, USA",
       "street": "505 Deering Street",
       "zip": "35210",
-      "coordinates": {
-        "lat": 33.534231,
-        "lng": -86.704181
-      },
+      "latitude": 33.534231,
+      "longitude": -86.704181,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7601,10 +7059,8 @@
       "address": "538 Grants Mill Rd, Irondale, AL 35210, USA",
       "street": "Grants Mill Road",
       "zip": "35210",
-      "coordinates": {
-        "lat": 33.534162,
-        "lng": -86.689585
-      },
+      "latitude": 33.534162,
+      "longitude": -86.689585,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7629,10 +7085,8 @@
       "address": "12762 McKee Rd, Irvington, AL 36544, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.426941,
-        "lng": -88.241258
-      },
+      "latitude": 30.426941,
+      "longitude": -88.241258,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7657,10 +7111,8 @@
       "address": "23690 AL-167, Jack, AL 36346, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.542871,
-        "lng": -85.918256
-      },
+      "latitude": 31.542871,
+      "longitude": -85.918256,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7685,10 +7137,8 @@
       "address": "10140 AL-195, Jasper, AL 35503, USA",
       "street": "AL 195",
       "zip": "35503",
-      "coordinates": {
-        "lat": 33.973406,
-        "lng": -87.346888
-      },
+      "latitude": 33.973406,
+      "longitude": -87.346888,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7713,10 +7163,8 @@
       "address": "2405 Hwy 78, Jasper, AL 35501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.841937,
-        "lng": -87.245516
-      },
+      "latitude": 33.841937,
+      "longitude": -87.245516,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7741,10 +7189,8 @@
       "address": "270 AL-5, Jasper, AL 35503, USA",
       "street": "270 State Route 5",
       "zip": "35503",
-      "coordinates": {
-        "lat": 33.855803,
-        "lng": -87.291069
-      },
+      "latitude": 33.855803,
+      "longitude": -87.291069,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7769,10 +7215,8 @@
       "address": "2901 Hwy 78, Jasper, AL 35501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.842281,
-        "lng": -87.241926
-      },
+      "latitude": 33.842281,
+      "longitude": -87.241926,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7797,10 +7241,8 @@
       "address": "300 Hwy 78, Jasper, AL 35501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.851701,
-        "lng": -87.271937
-      },
+      "latitude": 33.851701,
+      "longitude": -87.271937,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7825,10 +7267,8 @@
       "address": "4121 Hwy 78 E, Jasper, AL 35501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.836244,
-        "lng": -87.22687
-      },
+      "latitude": 33.836244,
+      "longitude": -87.22687,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7853,10 +7293,8 @@
       "address": "2082 AL-195, Jasper, AL 35504, USA",
       "street": "2082 Brakefield Dairy Road",
       "zip": "35503",
-      "coordinates": {
-        "lat": 33.878211,
-        "lng": -87.283981
-      },
+      "latitude": 33.878211,
+      "longitude": -87.283981,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7881,10 +7319,8 @@
       "address": "6621 AL-195, Jasper, AL 35503, USA",
       "street": "AL 195",
       "zip": "35503",
-      "coordinates": {
-        "lat": 33.929635,
-        "lng": -87.321552
-      },
+      "latitude": 33.929635,
+      "longitude": -87.321552,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7909,10 +7345,8 @@
       "address": "118 Patton St, Jemison, AL 35085, USA",
       "street": "118 Patton Street",
       "zip": "35085",
-      "coordinates": {
-        "lat": 32.961513,
-        "lng": -86.746254
-      },
+      "latitude": 32.961513,
+      "longitude": -86.746254,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7937,10 +7371,8 @@
       "address": "151 Co Rd 746, Jemison, AL 35085, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.98244,
-        "lng": -86.685562
-      },
+      "latitude": 32.98244,
+      "longitude": -86.685562,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7965,10 +7397,8 @@
       "address": "24571 US-31, Jemison, AL 35085, USA",
       "street": "24571 US 31",
       "zip": "35085",
-      "coordinates": {
-        "lat": 32.957686,
-        "lng": -86.743641
-      },
+      "latitude": 32.957686,
+      "longitude": -86.743641,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -7993,10 +7423,8 @@
       "address": "24744 US-31, Jemison, AL 35085, USA",
       "street": "24744 US 31",
       "zip": "35085",
-      "coordinates": {
-        "lat": 32.959859,
-        "lng": -86.743165
-      },
+      "latitude": 32.959859,
+      "longitude": -86.743165,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8021,10 +7449,8 @@
       "address": "26047 US-31, Jemison, AL 35085, USA",
       "street": "26047 US 31",
       "zip": "35085",
-      "coordinates": {
-        "lat": 32.977066,
-        "lng": -86.752141
-      },
+      "latitude": 32.977066,
+      "longitude": -86.752141,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8049,10 +7475,8 @@
       "address": "315 Chevy Dr, Kinsey, AL 36303, USA",
       "street": "315 Chevy Drive",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.287595,
-        "lng": -85.342892
-      },
+      "latitude": 31.287595,
+      "longitude": -85.342892,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8077,10 +7501,8 @@
       "address": "16130 AL-52, Kinston, AL 36453, USA",
       "street": "16130 AL 52",
       "zip": "36453",
-      "coordinates": {
-        "lat": 31.114985,
-        "lng": -86.116889
-      },
+      "latitude": 31.114985,
+      "longitude": -86.116889,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8105,10 +7527,8 @@
       "address": "22344 US-431, La Fayette, AL 36862, USA",
       "street": "22344 US 431",
       "zip": "36862",
-      "coordinates": {
-        "lat": 32.979209,
-        "lng": -85.402564
-      },
+      "latitude": 32.979209,
+      "longitude": -85.402564,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8133,10 +7553,8 @@
       "address": "2855 Hwy 231, Laceys Spring, AL 35754, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.50287,
-        "lng": -86.602569
-      },
+      "latitude": 34.50287,
+      "longitude": -86.602569,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8161,10 +7579,8 @@
       "address": "665 Hwy 231, Laceys Spring, AL 35754, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.56003,
-        "lng": -86.581153
-      },
+      "latitude": 34.56003,
+      "longitude": -86.581153,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8189,10 +7605,8 @@
       "address": "21288 Phyllis Dr, Lake View, AL 35111, USA",
       "street": "Phyllis Drive",
       "zip": "35111",
-      "coordinates": {
-        "lat": 33.27471,
-        "lng": -87.134317
-      },
+      "latitude": 33.27471,
+      "longitude": -87.134317,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8217,10 +7631,8 @@
       "address": "38220 AL-75, Lakeview, AL 35971, USA",
       "street": "AL 75",
       "zip": "35962",
-      "coordinates": {
-        "lat": 34.398275,
-        "lng": -85.971864
-      },
+      "latitude": 34.398275,
+      "longitude": -85.971864,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8245,10 +7657,8 @@
       "address": "38224 AL-75, Lakeview, AL 35971, USA",
       "street": "AL 75",
       "zip": "35962",
-      "coordinates": {
-        "lat": 34.398229,
-        "lng": -85.971907
-      },
+      "latitude": 34.398229,
+      "longitude": -85.971907,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8273,10 +7683,8 @@
       "address": "1011 Riverside St, Leesburg, AL 35983, USA",
       "street": "1011 Riverside Street",
       "zip": "35983",
-      "coordinates": {
-        "lat": 34.176046,
-        "lng": -85.760019
-      },
+      "latitude": 34.176046,
+      "longitude": -85.760019,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8301,10 +7709,8 @@
       "address": "359 Industrial Blvd, Leesburg, AL 35983, USA",
       "street": "Industrial Boulevard",
       "zip": "35983",
-      "coordinates": {
-        "lat": 34.182524,
-        "lng": -85.762412
-      },
+      "latitude": 34.182524,
+      "longitude": -85.762412,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8329,10 +7735,8 @@
       "address": "County Rd 7, Leesburg, AL, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.169038,
-        "lng": -85.756259
-      },
+      "latitude": 34.169038,
+      "longitude": -85.756259,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8357,10 +7761,8 @@
       "address": "134 Old Mill Rd, Lexington, AL 35648, USA",
       "street": "134 Old Mill Road",
       "zip": "35648",
-      "coordinates": {
-        "lat": 34.969988,
-        "lng": -87.371342
-      },
+      "latitude": 34.969988,
+      "longitude": -87.371342,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8385,10 +7787,8 @@
       "address": "47950 US-78, Lincoln, AL 35096, USA",
       "street": "US 78",
       "zip": "35096",
-      "coordinates": {
-        "lat": 33.603712,
-        "lng": -86.114502
-      },
+      "latitude": 33.603712,
+      "longitude": -86.114502,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8413,10 +7813,8 @@
       "address": "1961 Main St, Louisville, AL 36048, USA",
       "street": "1961 Main Street",
       "zip": "36048",
-      "coordinates": {
-        "lat": 31.783364,
-        "lng": -85.556094
-      },
+      "latitude": 31.783364,
+      "longitude": -85.556094,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8441,10 +7839,8 @@
       "address": "2134 S Hickory Ln, Loxley, AL 36551, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.618673,
-        "lng": -87.753287
-      },
+      "latitude": 30.618673,
+      "longitude": -87.753287,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8469,10 +7865,8 @@
       "address": "17817 US-98, Lucedale, MS 39452, USA",
       "street": "US 98",
       "zip": "39452",
-      "coordinates": {
-        "lat": 30.877089,
-        "lng": -88.4351
-      },
+      "latitude": 30.877089,
+      "longitude": -88.4351,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8497,10 +7891,8 @@
       "address": "17819 US-98, Lucedale, MS 39452, USA",
       "street": "US 98",
       "zip": "39452",
-      "coordinates": {
-        "lat": 30.877071,
-        "lng": -88.435081
-      },
+      "latitude": 30.877071,
+      "longitude": -88.435081,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8525,10 +7917,8 @@
       "address": "W 3rd St, Luverne, AL 36049, USA",
       "street": "West 3rd Street",
       "zip": "36049",
-      "coordinates": {
-        "lat": 31.716304,
-        "lng": -86.268655
-      },
+      "latitude": 31.716304,
+      "longitude": -86.268655,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8553,10 +7943,8 @@
       "address": "16100 Hwy 72 W, Madison, AL 35756, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.747826,
-        "lng": -86.786094
-      },
+      "latitude": 34.747826,
+      "longitude": -86.786094,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8581,10 +7969,8 @@
       "address": "700 E Lincoln Rd, Maryville, TN 37804, USA",
       "street": "Lincoln Road",
       "zip": "37804",
-      "coordinates": {
-        "lat": 35.775909,
-        "lng": -83.959239
-      },
+      "latitude": 35.775909,
+      "longitude": -83.959239,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8609,10 +7995,8 @@
       "address": "22732 Bucksville Rd, McCalla, AL 35111, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.278094,
-        "lng": -87.086813
-      },
+      "latitude": 33.278094,
+      "longitude": -87.086813,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8637,10 +8021,8 @@
       "address": "4809 McAdory School Rd, McCalla, AL 35111, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.331988,
-        "lng": -86.999783
-      },
+      "latitude": 33.331988,
+      "longitude": -86.999783,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8665,10 +8047,8 @@
       "address": "498 Scotch Dr, Meadowbrook, AL 35242, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.417233,
-        "lng": -86.676792
-      },
+      "latitude": 33.417233,
+      "longitude": -86.676792,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8693,10 +8073,8 @@
       "address": "1000 Woodward Rd, Midfield, AL 35228, USA",
       "street": "Woodward Road",
       "zip": "35228",
-      "coordinates": {
-        "lat": 33.45235,
-        "lng": -86.929163
-      },
+      "latitude": 33.45235,
+      "longitude": -86.929163,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8721,10 +8099,8 @@
       "address": "1384 Co Rd 25, Midland City, AL 36350, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.304144,
-        "lng": -85.454379
-      },
+      "latitude": 31.304144,
+      "longitude": -85.454379,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8749,10 +8125,8 @@
       "address": "15053 US-231, Midland City, AL 36350, USA",
       "street": "15053 US 231",
       "zip": "36350",
-      "coordinates": {
-        "lat": 31.307033,
-        "lng": -85.494066
-      },
+      "latitude": 31.307033,
+      "longitude": -85.494066,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8777,10 +8151,8 @@
       "address": "154 Deatsville Hwy, Millbrook, AL 36054, USA",
       "street": "154 Deatsville Highway",
       "zip": "36054",
-      "coordinates": {
-        "lat": 32.519308,
-        "lng": -86.375093
-      },
+      "latitude": 32.519308,
+      "longitude": -86.375093,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8805,10 +8177,8 @@
       "address": "3250 Main St, Millbrook, AL 36054, USA",
       "street": "3250 Main Street",
       "zip": "36054",
-      "coordinates": {
-        "lat": 32.477223,
-        "lng": -86.361001
-      },
+      "latitude": 32.477223,
+      "longitude": -86.361001,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8833,10 +8203,8 @@
       "address": "3798 Magnolia Dr, Millbrook, AL 36054, USA",
       "street": "3798 Magnolia Drive",
       "zip": "36054",
-      "coordinates": {
-        "lat": 32.518983,
-        "lng": -86.372521
-      },
+      "latitude": 32.518983,
+      "longitude": -86.372521,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8861,10 +8229,8 @@
       "address": "5521 Main St, Millbrook, AL 36054, USA",
       "street": "5521 Main Street",
       "zip": "36054",
-      "coordinates": {
-        "lat": 32.509238,
-        "lng": -86.375707
-      },
+      "latitude": 32.509238,
+      "longitude": -86.375707,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8889,10 +8255,8 @@
       "address": "1004 AL-14, Millbrook, AL 36054, USA",
       "street": "AL 14",
       "zip": "36054",
-      "coordinates": {
-        "lat": 32.491578,
-        "lng": -86.406329
-      },
+      "latitude": 32.491578,
+      "longitude": -86.406329,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8917,10 +8281,8 @@
       "address": "1817 Dawes Rd, Mobile, AL 36695, USA",
       "street": "1817 Dawes Road",
       "zip": "36695",
-      "coordinates": {
-        "lat": 30.653087,
-        "lng": -88.246011
-      },
+      "latitude": 30.653087,
+      "longitude": -88.246011,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8945,10 +8307,8 @@
       "address": "2304 Costarides St, Mobile, AL 36617, USA",
       "street": "2304 Costarides Street",
       "zip": "36617",
-      "coordinates": {
-        "lat": 30.700079,
-        "lng": -88.091769
-      },
+      "latitude": 30.700079,
+      "longitude": -88.091769,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -8973,10 +8333,8 @@
       "address": "3401 Government Blvd, Mobile, AL 36693, USA",
       "street": "3401 Government Boulevard",
       "zip": "36693",
-      "coordinates": {
-        "lat": 30.649014,
-        "lng": -88.123114
-      },
+      "latitude": 30.649014,
+      "longitude": -88.123114,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9001,10 +8359,8 @@
       "address": "450 Houston St, Mobile, AL 36606, USA",
       "street": "450 Houston Street",
       "zip": "36606",
-      "coordinates": {
-        "lat": 30.674326,
-        "lng": -88.081641
-      },
+      "latitude": 30.674326,
+      "longitude": -88.081641,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9029,10 +8385,8 @@
       "address": "5337 Wiley Orr Rd, Mobile, AL 36619, USA",
       "street": "5337 Wiley Orr Road",
       "zip": "36619",
-      "coordinates": {
-        "lat": 30.589204,
-        "lng": -88.165443
-      },
+      "latitude": 30.589204,
+      "longitude": -88.165443,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9057,10 +8411,8 @@
       "address": "5441 US-90, Mobile, AL 36619, USA",
       "street": "5441 Government Boulevard",
       "zip": "36619",
-      "coordinates": {
-        "lat": 30.586941,
-        "lng": -88.167817
-      },
+      "latitude": 30.586941,
+      "longitude": -88.167817,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9085,10 +8437,8 @@
       "address": "5500 Moffett Rd, Mobile, AL 36618, USA",
       "street": "5500 Old Moffett Road",
       "zip": "36587",
-      "coordinates": {
-        "lat": 30.725817,
-        "lng": -88.168994
-      },
+      "latitude": 30.725817,
+      "longitude": -88.168994,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9113,10 +8463,8 @@
       "address": "3910 AL-25, Montevallo, AL 35115, USA",
       "street": "3910 AL 25",
       "zip": "35115",
-      "coordinates": {
-        "lat": 33.091121,
-        "lng": -86.86667
-      },
+      "latitude": 33.091121,
+      "longitude": -86.86667,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9141,10 +8489,8 @@
       "address": "4124 Co Rd 22, Montevallo, AL 35115, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.150517,
-        "lng": -86.870353
-      },
+      "latitude": 33.150517,
+      "longitude": -86.870353,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9169,10 +8515,8 @@
       "address": "4640 AL-25, Montevallo, AL 35115, USA",
       "street": "4640 AL 25;AL 155",
       "zip": "35115",
-      "coordinates": {
-        "lat": 33.093854,
-        "lng": -86.854427
-      },
+      "latitude": 33.093854,
+      "longitude": -86.854427,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9197,10 +8541,8 @@
       "address": "5355 Montevallo Rd, Montevallo, AL 35115, USA",
       "street": "5355 Montevallo Road",
       "zip": "35115",
-      "coordinates": {
-        "lat": 33.159926,
-        "lng": -86.822284
-      },
+      "latitude": 33.159926,
+      "longitude": -86.822284,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9225,10 +8567,8 @@
       "address": "Montevallo, AL 35115, USA",
       "street": "",
       "zip": "35115",
-      "coordinates": {
-        "lat": 33.100675,
-        "lng": -86.864156
-      },
+      "latitude": 33.100675,
+      "longitude": -86.864156,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9253,10 +8593,8 @@
       "address": "1061 Eastern Blvd, Montgomery, AL 36117, USA",
       "street": "Eastern Boulevard",
       "zip": "36116",
-      "coordinates": {
-        "lat": 32.36579,
-        "lng": -86.211105
-      },
+      "latitude": 32.36579,
+      "longitude": -86.211105,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9281,10 +8619,8 @@
       "address": "16 Hobbie Rd, Montgomery, AL 36105, USA",
       "street": "16 Hobbie Road",
       "zip": "36105",
-      "coordinates": {
-        "lat": 32.241145,
-        "lng": -86.294622
-      },
+      "latitude": 32.241145,
+      "longitude": -86.294622,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9309,10 +8645,8 @@
       "address": "2090 Coliseum Blvd, Montgomery, AL 36110, USA",
       "street": "2090 Coliseum Boulevard",
       "zip": "36110",
-      "coordinates": {
-        "lat": 32.420985,
-        "lng": -86.267925
-      },
+      "latitude": 32.420985,
+      "longitude": -86.267925,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9337,10 +8671,8 @@
       "address": "2585 Cong W L Dickinson Dr, Montgomery, AL 36109, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.41938,
-        "lng": -86.232086
-      },
+      "latitude": 32.41938,
+      "longitude": -86.232086,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9365,10 +8697,8 @@
       "address": "2682 Eastern Blvd, Montgomery, AL 36117, USA",
       "street": "2682 Eastern Boulevard",
       "zip": "36117",
-      "coordinates": {
-        "lat": 32.34656,
-        "lng": -86.223671
-      },
+      "latitude": 32.34656,
+      "longitude": -86.223671,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9393,10 +8723,8 @@
       "address": "2690 Eastern Blvd, Montgomery, AL 36106, USA",
       "street": "2690 Eastern Boulevard",
       "zip": "36116",
-      "coordinates": {
-        "lat": 32.346035,
-        "lng": -86.22383
-      },
+      "latitude": 32.346035,
+      "longitude": -86.22383,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9421,10 +8749,8 @@
       "address": "30 Hunter Ln, Montgomery, AL 36109, USA",
       "street": "30 Hunter Lane",
       "zip": "36109",
-      "coordinates": {
-        "lat": 32.382391,
-        "lng": -86.240744
-      },
+      "latitude": 32.382391,
+      "longitude": -86.240744,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9449,10 +8775,8 @@
       "address": "3000 Vaughn Rd, Montgomery, AL 36106, USA",
       "street": "3000 Vaughn Road",
       "zip": "36106",
-      "coordinates": {
-        "lat": 32.352136,
-        "lng": -86.262561
-      },
+      "latitude": 32.352136,
+      "longitude": -86.262561,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9477,10 +8801,8 @@
       "address": "3100 Bell Rd, Montgomery, AL 36116, USA",
       "street": "3100 Bell Road",
       "zip": "36116",
-      "coordinates": {
-        "lat": 32.337886,
-        "lng": -86.196568
-      },
+      "latitude": 32.337886,
+      "longitude": -86.196568,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9505,10 +8827,8 @@
       "address": "33 N Burbank Dr, Montgomery, AL 36117, USA",
       "street": "33 North Burbank Drive",
       "zip": "36117",
-      "coordinates": {
-        "lat": 32.383003,
-        "lng": -86.199673
-      },
+      "latitude": 32.383003,
+      "longitude": -86.199673,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9533,10 +8853,8 @@
       "address": "4101 Atlanta Hwy, Montgomery, AL 36109, USA",
       "street": "4101 Atlanta Highway",
       "zip": "36109",
-      "coordinates": {
-        "lat": 32.382329,
-        "lng": -86.240262
-      },
+      "latitude": 32.382329,
+      "longitude": -86.240262,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9561,10 +8879,8 @@
       "address": "4300 Narrow Lane Rd, Montgomery, AL 36116, USA",
       "street": "4300 Narrow Lane Road",
       "zip": "36116",
-      "coordinates": {
-        "lat": 32.326284,
-        "lng": -86.282549
-      },
+      "latitude": 32.326284,
+      "longitude": -86.282549,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9589,10 +8905,8 @@
       "address": "3874 Co Rd 434, Moulton, AL 35650, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.530733,
-        "lng": -87.158609
-      },
+      "latitude": 34.530733,
+      "longitude": -87.158609,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9617,10 +8931,8 @@
       "address": "3217 Mt Olive Rd, Mt Olive, AL 35117, USA",
       "street": "Mt Olive Church Road",
       "zip": "35715",
-      "coordinates": {
-        "lat": 33.68287,
-        "lng": -86.872004
-      },
+      "latitude": 33.68287,
+      "longitude": -86.872004,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9645,10 +8957,8 @@
       "address": "44201 AL-21, Munford, AL 36268, USA",
       "street": "44201 AL 21",
       "zip": "36268",
-      "coordinates": {
-        "lat": 33.531163,
-        "lng": -85.943968
-      },
+      "latitude": 33.531163,
+      "longitude": -85.943968,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9673,10 +8983,8 @@
       "address": "30 Co Rd 104, Muscadine, AL 36269, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.68333,
-        "lng": -85.373766
-      },
+      "latitude": 33.68333,
+      "longitude": -85.373766,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9701,10 +9009,8 @@
       "address": "1910 Woodward Ave, Muscle Shoals, AL 35661, USA",
       "street": "1910 Woodward Avenue",
       "zip": "35661",
-      "coordinates": {
-        "lat": 34.743496,
-        "lng": -87.668073
-      },
+      "latitude": 34.743496,
+      "longitude": -87.668073,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9729,10 +9035,8 @@
       "address": "517 Avalon Ave, Muscle Shoals, AL 35661, USA",
       "street": "517 Avalon Avenue",
       "zip": "35661",
-      "coordinates": {
-        "lat": 34.747727,
-        "lng": -87.673758
-      },
+      "latitude": 34.747727,
+      "longitude": -87.673758,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9757,10 +9061,8 @@
       "address": "600 Woodward Ave, Muscle Shoals, AL 35661, USA",
       "street": "600 Woodward Avenue",
       "zip": "35661",
-      "coordinates": {
-        "lat": 34.754971,
-        "lng": -87.667996
-      },
+      "latitude": 34.754971,
+      "longitude": -87.667996,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9785,10 +9087,8 @@
       "address": "199 E Mckinnon St, New Brockton, AL 36351, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.385515,
-        "lng": -85.92849
-      },
+      "latitude": 31.385515,
+      "longitude": -85.92849,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9813,10 +9113,8 @@
       "address": "5123 Main Dr, New Hope, AL 35760, USA",
       "street": "5123 Main Drive",
       "zip": "35760",
-      "coordinates": {
-        "lat": 34.541655,
-        "lng": -86.40753
-      },
+      "latitude": 34.541655,
+      "longitude": -86.40753,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9841,10 +9139,8 @@
       "address": "1010 S, 1010 College St, Newton, AL 36352, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.323671,
-        "lng": -85.593405
-      },
+      "latitude": 31.323671,
+      "longitude": -85.593405,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9869,10 +9165,8 @@
       "address": "14305 US-84, Newton, AL 36352, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.242353,
-        "lng": -85.625078
-      },
+      "latitude": 31.242353,
+      "longitude": -85.625078,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9897,10 +9191,8 @@
       "address": "19 King St, Newton, AL 36352, USA",
       "street": "19 King Street",
       "zip": "36352",
-      "coordinates": {
-        "lat": 31.335552,
-        "lng": -85.602776
-      },
+      "latitude": 31.335552,
+      "longitude": -85.602776,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9925,10 +9217,8 @@
       "address": "199 N Broad St, Newville, AL 36353, USA",
       "street": "199 North Broad Street",
       "zip": "36353",
-      "coordinates": {
-        "lat": 31.422213,
-        "lng": -85.335538
-      },
+      "latitude": 31.422213,
+      "longitude": -85.335538,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9953,10 +9243,8 @@
       "address": "12389 Lary Lake Rd, Northport, AL 35475, USA",
       "street": "12389 Lary Lake Road",
       "zip": "35475",
-      "coordinates": {
-        "lat": 33.346103,
-        "lng": -87.609169
-      },
+      "latitude": 33.346103,
+      "longitude": -87.609169,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -9981,10 +9269,8 @@
       "address": "15007 US-43, Northport, AL 35475, USA",
       "street": "US 43",
       "zip": "35473",
-      "coordinates": {
-        "lat": 33.347803,
-        "lng": -87.609642
-      },
+      "latitude": 33.347803,
+      "longitude": -87.609642,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10009,10 +9295,8 @@
       "address": "2300 McFarland Blvd, Northport, AL 35476, USA",
       "street": "2300 McFarland Boulevard",
       "zip": "35476",
-      "coordinates": {
-        "lat": 33.241997,
-        "lng": -87.57882
-      },
+      "latitude": 33.241997,
+      "longitude": -87.57882,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10037,10 +9321,8 @@
       "address": "2927 10th St, Northport, AL 35476, USA",
       "street": "2927 10th Street",
       "zip": "35476",
-      "coordinates": {
-        "lat": 33.222434,
-        "lng": -87.585218
-      },
+      "latitude": 33.222434,
+      "longitude": -87.585218,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10065,10 +9347,8 @@
       "address": "5086 Easton Ln, Northport, AL 35475, USA",
       "street": "5086 Easton Lane",
       "zip": "35475",
-      "coordinates": {
-        "lat": 33.302357,
-        "lng": -87.607332
-      },
+      "latitude": 33.302357,
+      "longitude": -87.607332,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10093,10 +9373,8 @@
       "address": "5675 US-43, Northport, AL 35473, USA",
       "street": "5675 US 43",
       "zip": "35473",
-      "coordinates": {
-        "lat": 33.262913,
-        "lng": -87.604421
-      },
+      "latitude": 33.262913,
+      "longitude": -87.604421,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10121,10 +9399,8 @@
       "address": "591 McFarland Blvd, Northport, AL 35476, USA",
       "street": "591 McFarland Boulevard",
       "zip": "35476",
-      "coordinates": {
-        "lat": 33.236261,
-        "lng": -87.560919
-      },
+      "latitude": 33.236261,
+      "longitude": -87.560919,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10149,10 +9425,8 @@
       "address": "10250 Main St, Oakman, AL 35579, USA",
       "street": "10250 Main Street",
       "zip": "35579",
-      "coordinates": {
-        "lat": 33.713776,
-        "lng": -87.388302
-      },
+      "latitude": 33.713776,
+      "longitude": -87.388302,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10177,10 +9451,8 @@
       "address": "16928 AL-69, Oakman, AL 35579, USA",
       "street": "Washington Street",
       "zip": "35579",
-      "coordinates": {
-        "lat": 33.797536,
-        "lng": -87.339846
-      },
+      "latitude": 33.797536,
+      "longitude": -87.339846,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10205,10 +9477,8 @@
       "address": "15072 US-431, Ohatchee, AL 36271, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.846315,
-        "lng": -85.914682
-      },
+      "latitude": 33.846315,
+      "longitude": -85.914682,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10233,10 +9503,8 @@
       "address": "15076 US-431, Ohatchee, AL 36271, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.846315,
-        "lng": -85.914682
-      },
+      "latitude": 33.846315,
+      "longitude": -85.914682,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10261,10 +9529,8 @@
       "address": "23200 US-431, Ohatchee, AL 36271, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.846887,
-        "lng": -85.914671
-      },
+      "latitude": 33.846887,
+      "longitude": -85.914671,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10289,10 +9555,8 @@
       "address": "10629 AL-77, Ohatchee, AL 36271, USA",
       "street": "10629 AL 77",
       "zip": "36271",
-      "coordinates": {
-        "lat": 33.821955,
-        "lng": -86.041309
-      },
+      "latitude": 33.821955,
+      "longitude": -86.041309,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10317,10 +9581,8 @@
       "address": "4595 AL-144, Ohatchee, AL 36271, USA",
       "street": "AL 144",
       "zip": "36271",
-      "coordinates": {
-        "lat": 33.777725,
-        "lng": -85.962565
-      },
+      "latitude": 33.777725,
+      "longitude": -85.962565,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10345,10 +9607,8 @@
       "address": "414 6th St S, Oneonta, AL 35121, USA",
       "street": "414 6th Street South",
       "zip": "35121",
-      "coordinates": {
-        "lat": 33.941452,
-        "lng": -86.46154
-      },
+      "latitude": 33.941452,
+      "longitude": -86.46154,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10373,10 +9633,8 @@
       "address": "1404 2nd Ave, Opelika, AL 36801, USA",
       "street": "1404 2nd Avenue",
       "zip": "36801",
-      "coordinates": {
-        "lat": 32.644676,
-        "lng": -85.388223
-      },
+      "latitude": 32.644676,
+      "longitude": -85.388223,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10401,10 +9659,8 @@
       "address": "200 Lake Condy Rd, Opelika, AL 36801, USA",
       "street": "Lake Condy Road",
       "zip": "36801",
-      "coordinates": {
-        "lat": 32.669892,
-        "lng": -85.367354
-      },
+      "latitude": 32.669892,
+      "longitude": -85.367354,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10429,10 +9685,8 @@
       "address": "2420 Pepperell Pkwy, Opelika, AL 36801, USA",
       "street": "2420 Pepperell Parkway",
       "zip": "36801",
-      "coordinates": {
-        "lat": 32.638435,
-        "lng": -85.412355
-      },
+      "latitude": 32.638435,
+      "longitude": -85.412355,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10457,10 +9711,8 @@
       "address": "2500 Pepperell Pkwy, Opelika, AL 36801, USA",
       "street": "2500 Pepperell Parkway",
       "zip": "36801",
-      "coordinates": {
-        "lat": 32.640356,
-        "lng": -85.413615
-      },
+      "latitude": 32.640356,
+      "longitude": -85.413615,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10485,10 +9737,8 @@
       "address": "2600 Pepperell Pkwy, Opelika, AL 36801, USA",
       "street": "2600 Pepperell Parkway",
       "zip": "36801",
-      "coordinates": {
-        "lat": 32.638153,
-        "lng": -85.416034
-      },
+      "latitude": 32.638153,
+      "longitude": -85.416034,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10513,10 +9763,8 @@
       "address": "399 N 25th St, Opelika, AL 36801, USA",
       "street": "399 North 25th Street",
       "zip": "36801",
-      "coordinates": {
-        "lat": 32.637021,
-        "lng": -85.415389
-      },
+      "latitude": 32.637021,
+      "longitude": -85.415389,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10541,10 +9789,8 @@
       "address": "101 E Stewart Ave, Opp, AL 36467, USA",
       "street": "101 East Stewart Avenue",
       "zip": "36467",
-      "coordinates": {
-        "lat": 31.286606,
-        "lng": -86.255182
-      },
+      "latitude": 31.286606,
+      "longitude": -86.255182,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10569,10 +9815,8 @@
       "address": "143 Plaza Ln, Oxford, AL 36203, USA",
       "street": "143 Plaza Lane",
       "zip": "36203",
-      "coordinates": {
-        "lat": 33.600806,
-        "lng": -85.831926
-      },
+      "latitude": 33.600806,
+      "longitude": -85.831926,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10597,10 +9841,8 @@
       "address": "217 Grace St, Oxford, AL 36203, USA",
       "street": "217 Grace Street",
       "zip": "36203",
-      "coordinates": {
-        "lat": 33.603522,
-        "lng": -85.831397
-      },
+      "latitude": 33.603522,
+      "longitude": -85.831397,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10625,10 +9867,8 @@
       "address": "497 Treadway Rd, Oxford, AL 36203, USA",
       "street": "497 Treadway Road",
       "zip": "36203",
-      "coordinates": {
-        "lat": 33.593534,
-        "lng": -85.875152
-      },
+      "latitude": 33.593534,
+      "longitude": -85.875152,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10653,10 +9893,8 @@
       "address": "1090 US-231, Ozark, AL 36360, USA",
       "street": "1090 South US Highway 231",
       "zip": "36360",
-      "coordinates": {
-        "lat": 31.439561,
-        "lng": -85.642383
-      },
+      "latitude": 31.439561,
+      "longitude": -85.642383,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10681,10 +9919,8 @@
       "address": "1464 Will Logan Rd, Ozark, AL 36360, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.395103,
-        "lng": -85.674489
-      },
+      "latitude": 31.395103,
+      "longitude": -85.674489,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10709,10 +9945,8 @@
       "address": "2064 N US Hwy 231, Ozark, AL 36360, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.472391,
-        "lng": -85.678576
-      },
+      "latitude": 31.472391,
+      "longitude": -85.678576,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10737,10 +9971,8 @@
       "address": "2311 Andrews Ave, Ozark, AL 36360, USA",
       "street": "West Andrews Avenue",
       "zip": "36360",
-      "coordinates": {
-        "lat": 31.43732,
-        "lng": -85.665702
-      },
+      "latitude": 31.43732,
+      "longitude": -85.665702,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10765,10 +9997,8 @@
       "address": "348 Andrews Ave, Ozark, AL 36360, USA",
       "street": "348 East Andrews Avenue",
       "zip": "36360",
-      "coordinates": {
-        "lat": 31.45779,
-        "lng": -85.644571
-      },
+      "latitude": 31.45779,
+      "longitude": -85.644571,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10793,10 +10023,8 @@
       "address": "1208 N US Hwy 231, Ozark, AL 36360, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.470524,
-        "lng": -85.677456
-      },
+      "latitude": 31.470524,
+      "longitude": -85.677456,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10821,10 +10049,8 @@
       "address": "4143 US-84, Palestine, TX 75801, USA",
       "street": "4143 West Oak Street",
       "zip": "75801",
-      "coordinates": {
-        "lat": 31.747207,
-        "lng": -95.563244
-      },
+      "latitude": 31.747207,
+      "longitude": -95.563244,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10849,10 +10075,8 @@
       "address": "101 Huntley Pkwy, Pelham, AL 35124, USA",
       "street": "101 Huntley Parkway",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.276697,
-        "lng": -86.793843
-      },
+      "latitude": 33.276697,
+      "longitude": -86.793843,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10877,10 +10101,8 @@
       "address": "2189 Pelham Pkwy, Pelham, AL 35124, USA",
       "street": "2189 Pelham Parkway",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.339418,
-        "lng": -86.792266
-      },
+      "latitude": 33.339418,
+      "longitude": -86.792266,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10905,10 +10127,8 @@
       "address": "2260 Pelham Pkwy, Pelham, AL 35124, USA",
       "street": "2260 Pelham Parkway",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.331804,
-        "lng": -86.792705
-      },
+      "latitude": 33.331804,
+      "longitude": -86.792705,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10933,10 +10153,8 @@
       "address": "2310 Pelham Pkwy, Pelham, AL 35124, USA",
       "street": "2310 Pelham Parkway",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.328034,
-        "lng": -86.793432
-      },
+      "latitude": 33.328034,
+      "longitude": -86.793432,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10961,10 +10179,8 @@
       "address": "2591 Pelham Pkwy, Pelham, AL 35124, USA",
       "street": "2591 Pelham Parkway",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.320677,
-        "lng": -86.794832
-      },
+      "latitude": 33.320677,
+      "longitude": -86.794832,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -10989,10 +10205,8 @@
       "address": "3031 Pelham Pkwy, Pelham, AL 35124, USA",
       "street": "3031 Pelham Parkway",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.293795,
-        "lng": -86.81132
-      },
+      "latitude": 33.293795,
+      "longitude": -86.81132,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11017,10 +10231,8 @@
       "address": "3060 Pelham Pkwy, Pelham, AL 35124, USA",
       "street": "3060 Pelham Parkway",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.293331,
-        "lng": -86.813588
-      },
+      "latitude": 33.293331,
+      "longitude": -86.813588,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11045,10 +10257,8 @@
       "address": "Vance St, Pelham, AL 35124, USA",
       "street": "Vance Street",
       "zip": "35124",
-      "coordinates": {
-        "lat": 33.293553,
-        "lng": -86.809802
-      },
+      "latitude": 33.293553,
+      "longitude": -86.809802,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11073,10 +10283,8 @@
       "address": "1031 Martin St S, Pell City, AL 35128, USA",
       "street": "Martin Street South",
       "zip": "35128",
-      "coordinates": {
-        "lat": 33.579077,
-        "lng": -86.275174
-      },
+      "latitude": 33.579077,
+      "longitude": -86.275174,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11101,10 +10309,8 @@
       "address": "2401 Dr John Haynes Dr, Pell City, AL 35125, USA",
       "street": "Dr John Haynes Drive",
       "zip": "32125",
-      "coordinates": {
-        "lat": 33.603559,
-        "lng": -86.281261
-      },
+      "latitude": 33.603559,
+      "longitude": -86.281261,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11129,10 +10335,8 @@
       "address": "505 Martin St N, Pell City, AL 35125, USA",
       "street": "Martin Street North",
       "zip": "32125",
-      "coordinates": {
-        "lat": 33.593169,
-        "lng": -86.284429
-      },
+      "latitude": 33.593169,
+      "longitude": -86.284429,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11157,10 +10361,8 @@
       "address": "605 Martin St N, Pell City, AL 35125, USA",
       "street": "Martin Street North",
       "zip": "32125",
-      "coordinates": {
-        "lat": 33.59497,
-        "lng": -86.283365
-      },
+      "latitude": 33.59497,
+      "longitude": -86.283365,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11185,10 +10387,8 @@
       "address": "109 Martin Luther King Jr Pkwy S, Phenix City, AL 36869, USA",
       "street": "Martin Luther King Jr Parkway South",
       "zip": "36869",
-      "coordinates": {
-        "lat": 32.447849,
-        "lng": -85.018101
-      },
+      "latitude": 32.447849,
+      "longitude": -85.018101,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11213,10 +10413,8 @@
       "address": "3502 S Seale Rd, Phenix City, AL 36869, USA",
       "street": "South Seale Road",
       "zip": "36869",
-      "coordinates": {
-        "lat": 32.418453,
-        "lng": -85.039135
-      },
+      "latitude": 32.418453,
+      "longitude": -85.039135,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11241,10 +10439,8 @@
       "address": "3858 US-80, Phenix City, AL 36870, USA",
       "street": "Crawford Road",
       "zip": "36870",
-      "coordinates": {
-        "lat": 32.469763,
-        "lng": -85.083121
-      },
+      "latitude": 32.469763,
+      "longitude": -85.083121,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11269,10 +10465,8 @@
       "address": "4 Bleeker Rd, Phenix City, AL 36870, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.45699,
-        "lng": -85.189051
-      },
+      "latitude": 32.45699,
+      "longitude": -85.189051,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11297,10 +10491,8 @@
       "address": "5380 Riverchase Dr, Phenix City, AL 36867, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.520397,
-        "lng": -85.027618
-      },
+      "latitude": 32.520397,
+      "longitude": -85.027618,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11325,10 +10517,8 @@
       "address": "612 Fontaine Rd, Phenix City, AL 36869, USA",
       "street": "612 Fontaine Road",
       "zip": "36869",
-      "coordinates": {
-        "lat": 32.4348,
-        "lng": -85.00229
-      },
+      "latitude": 32.4348,
+      "longitude": -85.00229,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11353,10 +10543,8 @@
       "address": "Phil Campbell, AL 35581, USA",
       "street": "",
       "zip": "35581",
-      "coordinates": {
-        "lat": 34.35093,
-        "lng": -87.706418
-      },
+      "latitude": 34.35093,
+      "longitude": -87.706418,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11381,10 +10569,8 @@
       "address": "5680 AL-243, Phil Campbell, AL 35581, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.37217,
-        "lng": -87.618932
-      },
+      "latitude": 34.37217,
+      "longitude": -87.618932,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11409,10 +10595,8 @@
       "address": "1495 AL-74, Piedmont, AL 36272, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.938106,
-        "lng": -85.588062
-      },
+      "latitude": 33.938106,
+      "longitude": -85.588062,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11437,10 +10621,8 @@
       "address": "501 AL-74, Piedmont, AL 36272, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.933569,
-        "lng": -85.60274
-      },
+      "latitude": 33.933569,
+      "longitude": -85.60274,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11465,10 +10647,8 @@
       "address": "501 AL-74, Piedmont, AL 36272, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.933569,
-        "lng": -85.60274
-      },
+      "latitude": 33.933569,
+      "longitude": -85.60274,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11493,10 +10673,8 @@
       "address": "6300 County Rd 19, Piedmont, AL 36272, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.051603,
-        "lng": -85.686896
-      },
+      "latitude": 34.051603,
+      "longitude": -85.686896,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11521,10 +10699,8 @@
       "address": "1287 AL-134, Pinckard, AL 36371, USA",
       "street": "1287 2nd Street",
       "zip": "36371",
-      "coordinates": {
-        "lat": 31.312094,
-        "lng": -85.548327
-      },
+      "latitude": 31.312094,
+      "longitude": -85.548327,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11549,10 +10725,8 @@
       "address": "15127 AL-71, Pisgah, AL 35765, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.700363,
-        "lng": -85.768084
-      },
+      "latitude": 34.700363,
+      "longitude": -85.768084,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11577,10 +10751,8 @@
       "address": "100 Sheila Blvd, Prattville, AL 36066, USA",
       "street": "100 Sheila Boulevard",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.442478,
-        "lng": -86.429589
-      },
+      "latitude": 32.442478,
+      "longitude": -86.429589,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11605,10 +10777,8 @@
       "address": "1226 S Memorial Dr, Prattville, AL 36067, USA",
       "street": "1226 South Memorial Drive",
       "zip": "36067",
-      "coordinates": {
-        "lat": 32.450102,
-        "lng": -86.441969
-      },
+      "latitude": 32.450102,
+      "longitude": -86.441969,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11633,10 +10803,8 @@
       "address": "1677 Hwy 31 N, Prattville, AL 36067, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.547895,
-        "lng": -86.458124
-      },
+      "latitude": 32.547895,
+      "longitude": -86.458124,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11661,10 +10829,8 @@
       "address": "1679 E Main St, Prattville, AL 36066, USA",
       "street": "1679 East Main Street",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.460861,
-        "lng": -86.426026
-      },
+      "latitude": 32.460861,
+      "longitude": -86.426026,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11689,10 +10855,8 @@
       "address": "175 Hwy 82 Bypass E, Prattville, AL 36067, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.437503,
-        "lng": -86.471244
-      },
+      "latitude": 32.437503,
+      "longitude": -86.471244,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11717,10 +10881,8 @@
       "address": "1913 Cobbs Ford Rd, Prattville, AL 36066, USA",
       "street": "1913 Cobbs Ford Road",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.460808,
-        "lng": -86.416338
-      },
+      "latitude": 32.460808,
+      "longitude": -86.416338,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11745,10 +10907,8 @@
       "address": "1958 US-82, Prattville, AL 36067, USA",
       "street": "1958 US 82",
       "zip": "36067",
-      "coordinates": {
-        "lat": 32.502341,
-        "lng": -86.584448
-      },
+      "latitude": 32.502341,
+      "longitude": -86.584448,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11773,10 +10933,8 @@
       "address": "2143 Legends Dr, Prattville, AL 36066, USA",
       "street": "Legends Drive",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.455413,
-        "lng": -86.401352
-      },
+      "latitude": 32.455413,
+      "longitude": -86.401352,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11801,10 +10959,8 @@
       "address": "2145 Legends Dr, Prattville, AL 36066, USA",
       "street": "Legends Drive",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.455413,
-        "lng": -86.401352
-      },
+      "latitude": 32.455413,
+      "longitude": -86.401352,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11829,10 +10985,8 @@
       "address": "2307 Cobbs Ford Rd, Prattville, AL 36066, USA",
       "street": "2307 Cobbs Ford Road",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.462365,
-        "lng": -86.401961
-      },
+      "latitude": 32.462365,
+      "longitude": -86.401961,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11857,10 +11011,8 @@
       "address": "2597 Cobb Hill Pl, Prattville, AL 36066, USA",
       "street": "Cobb Hill Place",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.461138,
-        "lng": -86.390627
-      },
+      "latitude": 32.461138,
+      "longitude": -86.390627,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11885,10 +11037,8 @@
       "address": "369 E Main St, Prattville, AL 36067, USA",
       "street": "369 East Main Street",
       "zip": "36067",
-      "coordinates": {
-        "lat": 32.459591,
-        "lng": -86.464859
-      },
+      "latitude": 32.459591,
+      "longitude": -86.464859,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11913,10 +11063,8 @@
       "address": "402 S Washington St, Prattville, AL 36067, USA",
       "street": "402 South Washington Street",
       "zip": "36067",
-      "coordinates": {
-        "lat": 32.457736,
-        "lng": -86.47041
-      },
+      "latitude": 32.457736,
+      "longitude": -86.47041,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11941,10 +11089,8 @@
       "address": "100 Telegraph Rd, Prichard, AL 36610, USA",
       "street": "100 Telegraph Road",
       "zip": "36610",
-      "coordinates": {
-        "lat": 30.733247,
-        "lng": -88.064601
-      },
+      "latitude": 30.733247,
+      "longitude": -88.064601,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11969,10 +11115,8 @@
       "address": "1010 N Wilson Ave, Prichard, AL 36610, USA",
       "street": "1010 North Wilson Avenue",
       "zip": "36610",
-      "coordinates": {
-        "lat": 30.744232,
-        "lng": -88.078604
-      },
+      "latitude": 30.744232,
+      "longitude": -88.078604,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -11997,10 +11141,8 @@
       "address": "4395 St Stephens Rd, Eight Mile, AL 36613, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.761511,
-        "lng": -88.125448
-      },
+      "latitude": 30.761511,
+      "longitude": -88.125448,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12025,10 +11167,8 @@
       "address": "3225 Rainbow Dr, Rainbow City, AL 35906, USA",
       "street": "3225 Rainbow Drive",
       "zip": "35906",
-      "coordinates": {
-        "lat": 33.963578,
-        "lng": -86.034476
-      },
+      "latitude": 33.963578,
+      "longitude": -86.034476,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12053,10 +11193,8 @@
       "address": "3331 Rainbow Dr, Rainbow City, AL 35906, USA",
       "street": "3331 Rainbow Drive",
       "zip": "35906",
-      "coordinates": {
-        "lat": 33.96036,
-        "lng": -86.037185
-      },
+      "latitude": 33.96036,
+      "longitude": -86.037185,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12081,10 +11219,8 @@
       "address": "582 W Grand Ave, Rainbow City, AL 35906, USA",
       "street": "582 West Grand Avenue",
       "zip": "35906",
-      "coordinates": {
-        "lat": 33.969641,
-        "lng": -86.05067
-      },
+      "latitude": 33.969641,
+      "longitude": -86.05067,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12109,10 +11245,8 @@
       "address": "Sutton Bridge Rd, Rainbow City, AL 35906, USA",
       "street": "Sutton Bridge Road",
       "zip": "35906",
-      "coordinates": {
-        "lat": 33.974484,
-        "lng": -86.04235
-      },
+      "latitude": 33.974484,
+      "longitude": -86.04235,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12137,10 +11271,8 @@
       "address": "1956 McCurdy Ave N, Rainsville, AL 35986, USA",
       "street": "1956 McCurdy Avenue North",
       "zip": "35986",
-      "coordinates": {
-        "lat": 34.518177,
-        "lng": -85.829737
-      },
+      "latitude": 34.518177,
+      "longitude": -85.829737,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12165,10 +11297,8 @@
       "address": "1960 McCurdy Ave N, Rainsville, AL 35986, USA",
       "street": "1960 McCurdy Avenue North",
       "zip": "35986",
-      "coordinates": {
-        "lat": 34.518207,
-        "lng": -85.829716
-      },
+      "latitude": 34.518207,
+      "longitude": -85.829716,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12193,10 +11323,8 @@
       "address": "314 Main St E, Rainsville, AL 35986, USA",
       "street": "314 Main Street East",
       "zip": "35986",
-      "coordinates": {
-        "lat": 34.491415,
-        "lng": -85.842765
-      },
+      "latitude": 34.491415,
+      "longitude": -85.842765,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12221,10 +11349,8 @@
       "address": "21044 Main St, Ranburne, AL 36273, USA",
       "street": "21044 Main Street",
       "zip": "36273",
-      "coordinates": {
-        "lat": 33.522538,
-        "lng": -85.345581
-      },
+      "latitude": 33.522538,
+      "longitude": -85.345581,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12249,10 +11375,8 @@
       "address": "10527 AL-139, Randolph, AL 36792, USA",
       "street": "10527 AL 139",
       "zip": "36792",
-      "coordinates": {
-        "lat": 32.905679,
-        "lng": -86.916454
-      },
+      "latitude": 32.905679,
+      "longitude": -86.916454,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12277,10 +11401,8 @@
       "address": "3935 AL-24, Red Bay, AL 35582, USA",
       "street": "Alabama Highway 24",
       "zip": "35582",
-      "coordinates": {
-        "lat": 34.446986,
-        "lng": -88.095291
-      },
+      "latitude": 34.446986,
+      "longitude": -88.095291,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12305,10 +11427,8 @@
       "address": "Rogersville, AL 35652, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.825643,
-        "lng": -87.294742
-      },
+      "latitude": 34.825643,
+      "longitude": -87.294742,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12333,10 +11453,8 @@
       "address": "Hwy 72 W, Alabama, USA",
       "street": "US Highway 72 West",
       "zip": "35611",
-      "coordinates": {
-        "lat": 34.754777,
-        "lng": -86.735954
-      },
+      "latitude": 34.754777,
+      "longitude": -86.735954,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12361,10 +11479,8 @@
       "address": "13150 US-43, Russellville, AL 35653, USA",
       "street": "Andrew Jackson Highway",
       "zip": "35653",
-      "coordinates": {
-        "lat": 34.486944,
-        "lng": -87.73119
-      },
+      "latitude": 34.486944,
+      "longitude": -87.73119,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12389,10 +11505,8 @@
       "address": "14189 Hwy 43, Russellville, AL 35653, USA",
       "street": "Andrew Jackson Highway",
       "zip": "35653",
-      "coordinates": {
-        "lat": 34.499581,
-        "lng": -87.720077
-      },
+      "latitude": 34.499581,
+      "longitude": -87.720077,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12417,10 +11531,8 @@
       "address": "14189 Hwy 43, Russellville, AL 35653, USA",
       "street": "Andrew Jackson Highway",
       "zip": "35653",
-      "coordinates": {
-        "lat": 34.499581,
-        "lng": -87.720077
-      },
+      "latitude": 34.499581,
+      "longitude": -87.720077,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12445,10 +11557,8 @@
       "address": "15254 US-43, Russellville, AL 35654, USA",
       "street": "Andrew Jackson Highway",
       "zip": "35654",
-      "coordinates": {
-        "lat": 34.512595,
-        "lng": -87.716761
-      },
+      "latitude": 34.512595,
+      "longitude": -87.716761,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12473,10 +11583,8 @@
       "address": "2600 George Wallace Hwy, Russellville, AL 35654, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.604222,
-        "lng": -87.667456
-      },
+      "latitude": 34.604222,
+      "longitude": -87.667456,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12501,10 +11609,8 @@
       "address": "1727 Lee St, Rutledge, AL 36071, USA",
       "street": "1727 Lee Street",
       "zip": "36071",
-      "coordinates": {
-        "lat": 31.729545,
-        "lng": -86.312141
-      },
+      "latitude": 31.729545,
+      "longitude": -86.312141,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12529,10 +11635,8 @@
       "address": "1715 Sand Rock Ave, Sand Rock, AL 35983, USA",
       "street": "1715 Sand Rock Avenue",
       "zip": "35983",
-      "coordinates": {
-        "lat": 34.237314,
-        "lng": -85.766305
-      },
+      "latitude": 34.237314,
+      "longitude": -85.766305,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12557,10 +11661,8 @@
       "address": "209 Saraland Blvd S, Saraland, AL 36571, USA",
       "street": "209 Saraland Boulevard South",
       "zip": "36571",
-      "coordinates": {
-        "lat": 30.817945,
-        "lng": -88.070969
-      },
+      "latitude": 30.817945,
+      "longitude": -88.070969,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12585,10 +11687,8 @@
       "address": "215 Saraland Blvd N, Saraland, AL 36571, USA",
       "street": "215 Saraland Boulevard North",
       "zip": "36571",
-      "coordinates": {
-        "lat": 30.827732,
-        "lng": -88.069807
-      },
+      "latitude": 30.827732,
+      "longitude": -88.069807,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12613,10 +11713,8 @@
       "address": "12981 US-431, Sardis City, AL 35956, USA",
       "street": "12981 US 431",
       "zip": "35956",
-      "coordinates": {
-        "lat": 34.185833,
-        "lng": -86.145501
-      },
+      "latitude": 34.185833,
+      "longitude": -86.145501,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12641,10 +11739,8 @@
       "address": "5600 Old Hwy 43, Satsuma, AL 36572, USA",
       "street": "Old Highway 43",
       "zip": "36572",
-      "coordinates": {
-        "lat": 30.853698,
-        "lng": -88.055309
-      },
+      "latitude": 30.853698,
+      "longitude": -88.055309,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12669,10 +11765,8 @@
       "address": "5848 Vaughn Dr W, Satsuma, AL 36572, USA",
       "street": "5848 Vaughn Drive West",
       "zip": "36572",
-      "coordinates": {
-        "lat": 30.865293,
-        "lng": -88.03838
-      },
+      "latitude": 30.865293,
+      "longitude": -88.03838,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12697,10 +11791,8 @@
       "address": "3140 E Willow St, Scottsboro, AL 35768, USA",
       "street": "3140 East Willow Street",
       "zip": "35768",
-      "coordinates": {
-        "lat": 34.695542,
-        "lng": -85.995453
-      },
+      "latitude": 34.695542,
+      "longitude": -85.995453,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12725,10 +11817,8 @@
       "address": "4766 Old Seale Hwy, Seale, AL 36875, USA",
       "street": "4766 Old Seale Highway",
       "zip": "36875",
-      "coordinates": {
-        "lat": 32.32455,
-        "lng": -85.15853
-      },
+      "latitude": 32.32455,
+      "longitude": -85.15853,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12753,10 +11843,8 @@
       "address": "41 US-84, Silver Creek, MS 39663, USA",
       "street": "Southern Avenue",
       "zip": "39663",
-      "coordinates": {
-        "lat": 31.584779,
-        "lng": -90.029427
-      },
+      "latitude": 31.584779,
+      "longitude": -90.029427,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12781,10 +11869,8 @@
       "address": "14981 AL-104, Silverhill, AL 36576, USA",
       "street": "14981 State Highway 104",
       "zip": "36576",
-      "coordinates": {
-        "lat": 30.546123,
-        "lng": -87.768064
-      },
+      "latitude": 30.546123,
+      "longitude": -87.768064,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12809,10 +11895,8 @@
       "address": "220 W Malvern Hwy, Slocomb, AL 36375, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.139723,
-        "lng": -85.521191
-      },
+      "latitude": 31.139723,
+      "longitude": -85.521191,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12837,10 +11921,8 @@
       "address": "1786 Lakeview Rd, Southside, AL 35907, USA",
       "street": "1786 Lakeview Road",
       "zip": "35907",
-      "coordinates": {
-        "lat": 33.928102,
-        "lng": -86.025499
-      },
+      "latitude": 33.928102,
+      "longitude": -86.025499,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12865,10 +11947,8 @@
       "address": "13614 Trawick Rd, Stapleton, AL 36578, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.753529,
-        "lng": -87.78482
-      },
+      "latitude": 30.753529,
+      "longitude": -87.78482,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12893,10 +11973,8 @@
       "address": "3981 Pope Ave, Steele, AL 35987, USA",
       "street": "Pope Avenue",
       "zip": "35987",
-      "coordinates": {
-        "lat": 33.943048,
-        "lng": -86.198972
-      },
+      "latitude": 33.943048,
+      "longitude": -86.198972,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12921,10 +11999,8 @@
       "address": "1002 AL-59, Summerdale, AL 36580, USA",
       "street": "1002 AL 59",
       "zip": "36580",
-      "coordinates": {
-        "lat": 30.472102,
-        "lng": -87.702905
-      },
+      "latitude": 30.472102,
+      "longitude": -87.702905,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12949,10 +12025,8 @@
       "address": "101 AL-59, Summerdale, AL 36580, USA",
       "street": "101 AL 59",
       "zip": "36580",
-      "coordinates": {
-        "lat": 30.487326,
-        "lng": -87.70864
-      },
+      "latitude": 30.487326,
+      "longitude": -87.70864,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -12977,10 +12051,8 @@
       "address": "35806 AL-53 #3806Highway, Sylacauga, AL 35150, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.238851,
-        "lng": -86.332571
-      },
+      "latitude": 33.238851,
+      "longitude": -86.332571,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13005,10 +12077,8 @@
       "address": "205 Haynes St, Talladega, AL 35160, USA",
       "street": "205 Haynes Street",
       "zip": "35160",
-      "coordinates": {
-        "lat": 33.435529,
-        "lng": -86.081525
-      },
+      "latitude": 33.435529,
+      "longitude": -86.081525,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13033,10 +12103,8 @@
       "address": "212 Haynes St, Talladega, AL 35160, USA",
       "street": "212 Haynes Street",
       "zip": "35160",
-      "coordinates": {
-        "lat": 33.43509,
-        "lng": -86.081372
-      },
+      "latitude": 33.43509,
+      "longitude": -86.081372,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13061,10 +12129,8 @@
       "address": "218 Haynes St, Talladega, AL 35160, USA",
       "street": "218 Haynes Street",
       "zip": "35160",
-      "coordinates": {
-        "lat": 33.437282,
-        "lng": -86.081531
-      },
+      "latitude": 33.437282,
+      "longitude": -86.081531,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13089,10 +12155,8 @@
       "address": "322 Coosa St E, Talladega, AL 35160, USA",
       "street": "322 Coosa Street East",
       "zip": "35160",
-      "coordinates": {
-        "lat": 33.438048,
-        "lng": -86.096383
-      },
+      "latitude": 33.438048,
+      "longitude": -86.096383,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13117,10 +12181,8 @@
       "address": "504 Leahy Cir, Talladega, AL 35160, USA",
       "street": "504 Leahy Circle",
       "zip": "35160",
-      "coordinates": {
-        "lat": 33.456762,
-        "lng": -86.089391
-      },
+      "latitude": 33.456762,
+      "longitude": -86.089391,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13145,10 +12207,8 @@
       "address": "587 Fort Lashley Ave, Talladega, AL 35160, USA",
       "street": "587 Fort Lashley Avenue",
       "zip": "35160",
-      "coordinates": {
-        "lat": 33.429125,
-        "lng": -86.113853
-      },
+      "latitude": 33.429125,
+      "longitude": -86.113853,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13173,10 +12233,8 @@
       "address": "1530 State Hwy 605, Taylor, AL 36301, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.159813,
-        "lng": -85.470144
-      },
+      "latitude": 31.159813,
+      "longitude": -85.470144,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13201,10 +12259,8 @@
       "address": "4326 S Brannon Stand Rd, Taylor, AL 36305, USA",
       "street": "4326 South Brannon Stand Road",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.18249,
-        "lng": -85.469041
-      },
+      "latitude": 31.18249,
+      "longitude": -85.469041,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13229,10 +12285,8 @@
       "address": "4930 AL-52, Taylor, AL 36305, USA",
       "street": "4930 Hartford Highway",
       "zip": "36305",
-      "coordinates": {
-        "lat": 31.184569,
-        "lng": -85.465315
-      },
+      "latitude": 31.184569,
+      "longitude": -85.465315,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13257,10 +12311,8 @@
       "address": "3300 River Rd, Theodore, AL 36582, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 30.457908,
-        "lng": -88.115892
-      },
+      "latitude": 30.457908,
+      "longitude": -88.115892,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13285,10 +12337,8 @@
       "address": "7000 AL-101, Town Creek, AL 35672, USA",
       "street": "Main Street",
       "zip": "35672",
-      "coordinates": {
-        "lat": 34.562728,
-        "lng": -87.414438
-      },
+      "latitude": 34.562728,
+      "longitude": -87.414438,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13313,10 +12363,8 @@
       "address": "AL-157, Alabama, USA",
       "street": "University of North Alabama Highway",
       "zip": "35057",
-      "coordinates": {
-        "lat": 34.623335,
-        "lng": -87.471408
-      },
+      "latitude": 34.623335,
+      "longitude": -87.471408,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13341,10 +12389,8 @@
       "address": "AL-157, Alabama, USA",
       "street": "University of North Alabama Highway",
       "zip": "35057",
-      "coordinates": {
-        "lat": 34.623335,
-        "lng": -87.471408
-      },
+      "latitude": 34.623335,
+      "longitude": -87.471408,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13369,10 +12415,8 @@
       "address": "20709 AL-24, Trinity, AL 35673, USA",
       "street": "Gordon Terry Parkway",
       "zip": "35673",
-      "coordinates": {
-        "lat": 34.524568,
-        "lng": -87.192179
-      },
+      "latitude": 34.524568,
+      "longitude": -87.192179,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13397,10 +12441,8 @@
       "address": "23439 County Rd 460, Trinity, AL 35673, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.551454,
-        "lng": -87.159665
-      },
+      "latitude": 34.551454,
+      "longitude": -87.159665,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13425,10 +12467,8 @@
       "address": "3238 Gordon Terry Pkwy, Trinity, AL 35673, USA",
       "street": "3238 Gordon Terry Parkway",
       "zip": "35603",
-      "coordinates": {
-        "lat": 34.589993,
-        "lng": -87.060455
-      },
+      "latitude": 34.589993,
+      "longitude": -87.060455,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13453,10 +12493,8 @@
       "address": "1011 US-231, Troy, AL 36081, USA",
       "street": "1011 US 231;AL 10",
       "zip": "36081",
-      "coordinates": {
-        "lat": 31.783895,
-        "lng": -85.959385
-      },
+      "latitude": 31.783895,
+      "longitude": -85.959385,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13481,10 +12519,8 @@
       "address": "1327 S Brundidge St, Troy, AL 36081, USA",
       "street": "1327 South Brundidge Street",
       "zip": "36081",
-      "coordinates": {
-        "lat": 31.787409,
-        "lng": -85.965417
-      },
+      "latitude": 31.787409,
+      "longitude": -85.965417,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13509,10 +12545,8 @@
       "address": "1416 Highway 231 S, Ste F, Troy, AL 36081, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.778976,
-        "lng": -85.939248
-      },
+      "latitude": 31.778976,
+      "longitude": -85.939248,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13537,10 +12571,8 @@
       "address": "223 Segars St, Troy, AL 36081, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.799838,
-        "lng": -85.978503
-      },
+      "latitude": 31.799838,
+      "longitude": -85.978503,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13565,10 +12597,8 @@
       "address": "22507 US-231, Troy, AL 36081, USA",
       "street": "West Fairview Avenue",
       "zip": "36081",
-      "coordinates": {
-        "lat": 31.855793,
-        "lng": -85.997742
-      },
+      "latitude": 31.855793,
+      "longitude": -85.997742,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13593,10 +12623,8 @@
       "address": "4212 AL-167, Troy, AL 36079, USA",
       "street": "Elba Highway",
       "zip": "36079",
-      "coordinates": {
-        "lat": 31.679027,
-        "lng": -85.957297
-      },
+      "latitude": 31.679027,
+      "longitude": -85.957297,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13621,10 +12649,8 @@
       "address": "1110 N Chalkville Rd, Trussville, AL 35173, USA",
       "street": "1110 North Chalkville Road",
       "zip": "35173",
-      "coordinates": {
-        "lat": 33.638343,
-        "lng": -86.614979
-      },
+      "latitude": 33.638343,
+      "longitude": -86.614979,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13649,10 +12675,8 @@
       "address": "235 Main St, Trussville, AL 35173, USA",
       "street": "Main Street",
       "zip": "35173",
-      "coordinates": {
-        "lat": 33.618621,
-        "lng": -86.610573
-      },
+      "latitude": 33.618621,
+      "longitude": -86.610573,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13677,10 +12701,8 @@
       "address": "1200 Julia Tutwiler Dr, Tuscaloosa, AL 35404, USA",
       "street": "1200 Julia Tutwiler Drive",
       "zip": "35404",
-      "coordinates": {
-        "lat": 33.214126,
-        "lng": -87.522043
-      },
+      "latitude": 33.214126,
+      "longitude": -87.522043,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13705,10 +12727,8 @@
       "address": "12813 Watermelon Rd, Tuscaloosa, AL 35406, USA",
       "street": "Watermelon Road",
       "zip": "35406",
-      "coordinates": {
-        "lat": 33.339538,
-        "lng": -87.479258
-      },
+      "latitude": 33.339538,
+      "longitude": -87.479258,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13733,10 +12753,8 @@
       "address": "1401 Skyland Blvd E, Tuscaloosa, AL 35405, USA",
       "street": "1401 Skyland Boulevard East",
       "zip": "35405",
-      "coordinates": {
-        "lat": 33.165212,
-        "lng": -87.520574
-      },
+      "latitude": 33.165212,
+      "longitude": -87.520574,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13761,10 +12779,8 @@
       "address": "1800 Links Blvd #7501, Tuscaloosa, AL 35405, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.154988,
-        "lng": -87.560945
-      },
+      "latitude": 33.154988,
+      "longitude": -87.560945,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13789,10 +12805,8 @@
       "address": "2816 University Blvd E, Tuscaloosa, AL 35404, USA",
       "street": "2816 University Boulevard East",
       "zip": "35404",
-      "coordinates": {
-        "lat": 33.20682,
-        "lng": -87.501052
-      },
+      "latitude": 33.20682,
+      "longitude": -87.501052,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13817,10 +12831,8 @@
       "address": "3308 15th St, Tuscaloosa, AL 35401, USA",
       "street": "3308 15th Street",
       "zip": "35401",
-      "coordinates": {
-        "lat": 33.20108,
-        "lng": -87.579476
-      },
+      "latitude": 33.20108,
+      "longitude": -87.579476,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13845,10 +12857,8 @@
       "address": "3703 Culver Rd, Tuscaloosa, AL 35401, USA",
       "street": "3703 Culver Road",
       "zip": "35401",
-      "coordinates": {
-        "lat": 33.199136,
-        "lng": -87.592406
-      },
+      "latitude": 33.199136,
+      "longitude": -87.592406,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13873,10 +12883,8 @@
       "address": "4179 Rice Mine Rd NE, Tuscaloosa, AL 35406, USA",
       "street": "4179 Rice Mine Road Northeast",
       "zip": "35406",
-      "coordinates": {
-        "lat": 33.255963,
-        "lng": -87.512844
-      },
+      "latitude": 33.255963,
+      "longitude": -87.512844,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13901,10 +12909,8 @@
       "address": "4179 Rice Mine Rd NE, Tuscaloosa, AL 35406, USA",
       "street": "4179 Rice Mine Road Northeast",
       "zip": "35406",
-      "coordinates": {
-        "lat": 33.255963,
-        "lng": -87.512844
-      },
+      "latitude": 33.255963,
+      "longitude": -87.512844,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13929,10 +12935,8 @@
       "address": "4201 Hargrove Rd E, Tuscaloosa, AL 35405, USA",
       "street": "4201 Hargrove Road East",
       "zip": "35405",
-      "coordinates": {
-        "lat": 33.173407,
-        "lng": -87.49039
-      },
+      "latitude": 33.173407,
+      "longitude": -87.49039,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13957,10 +12961,8 @@
       "address": "4440 University Blvd E, Tuscaloosa, AL 35404, USA",
       "street": "4440 University Boulevard East",
       "zip": "35404",
-      "coordinates": {
-        "lat": 33.196978,
-        "lng": -87.476338
-      },
+      "latitude": 33.196978,
+      "longitude": -87.476338,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -13985,10 +12987,8 @@
       "address": "5501 Old Montgomery Hwy, Tuscaloosa, AL 35405, USA",
       "street": "5501 Old Montgomery Highway",
       "zip": "35405",
-      "coordinates": {
-        "lat": 33.1598,
-        "lng": -87.539895
-      },
+      "latitude": 33.1598,
+      "longitude": -87.539895,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14013,10 +13013,8 @@
       "address": "12270 Union Grove Rd, Union Grove, AL 35175, USA",
       "street": "12270 Union Grove Road",
       "zip": "35175",
-      "coordinates": {
-        "lat": 34.467415,
-        "lng": -86.564397
-      },
+      "latitude": 34.467415,
+      "longitude": -86.564397,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14041,10 +13039,8 @@
       "address": "12980 US-231, Union Grove, AL 35175, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.42858,
-        "lng": -86.541369
-      },
+      "latitude": 34.42858,
+      "longitude": -86.541369,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14069,10 +13065,8 @@
       "address": "102 Martin Luther King Blvd, Union Springs, AL 36089, USA",
       "street": "102 Martin Luther King Boulevard",
       "zip": "36089",
-      "coordinates": {
-        "lat": 32.14362,
-        "lng": -85.713156
-      },
+      "latitude": 32.14362,
+      "longitude": -85.713156,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14097,10 +13091,8 @@
       "address": "12 Herrin Ave, Union Springs, AL 36089, USA",
       "street": "12 Herrin Avenue",
       "zip": "36089",
-      "coordinates": {
-        "lat": 32.131127,
-        "lng": -85.724595
-      },
+      "latitude": 32.131127,
+      "longitude": -85.724595,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14125,10 +13117,8 @@
       "address": "404 Conecuh Ave W, Union Springs, AL 36089, USA",
       "street": "Conecuh Avenue West",
       "zip": "36089",
-      "coordinates": {
-        "lat": 32.145914,
-        "lng": -85.708782
-      },
+      "latitude": 32.145914,
+      "longitude": -85.708782,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14153,10 +13143,8 @@
       "address": "38 Co Rd 438, Verbena, AL 36091, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 32.736541,
-        "lng": -86.544604
-      },
+      "latitude": 32.736541,
+      "longitude": -86.544604,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14181,10 +13169,8 @@
       "address": "6575 US-31, Verbena, AL 36091, USA",
       "street": "US 31",
       "zip": "36051",
-      "coordinates": {
-        "lat": 32.775257,
-        "lng": -86.546182
-      },
+      "latitude": 32.775257,
+      "longitude": -86.546182,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14209,10 +13195,8 @@
       "address": "3120 Pipe Line Rd, Vestavia Hills, AL 35243, USA",
       "street": "3120 Pipe Line Road",
       "zip": "35243",
-      "coordinates": {
-        "lat": 33.456659,
-        "lng": -86.736116
-      },
+      "latitude": 33.456659,
+      "longitude": -86.736116,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14237,10 +13221,8 @@
       "address": "3941 Cypress Dr, Vestavia Hills, AL 35243, USA",
       "street": "3941 Cypress Drive",
       "zip": "35243",
-      "coordinates": {
-        "lat": 33.462417,
-        "lng": -86.732097
-      },
+      "latitude": 33.462417,
+      "longitude": -86.732097,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14265,10 +13247,8 @@
       "address": "4820 AL-19, Vina, AL 35593, USA",
       "street": "Alabama Highway 19",
       "zip": "35593",
-      "coordinates": {
-        "lat": 34.392969,
-        "lng": -88.099067
-      },
+      "latitude": 34.392969,
+      "longitude": -88.099067,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14293,10 +13273,8 @@
       "address": "25 Co Rd 1453, Vinemont, AL 35179, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.301161,
-        "lng": -86.793969
-      },
+      "latitude": 34.301161,
+      "longitude": -86.793969,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14321,10 +13299,8 @@
       "address": "25 Co Rd 1453, Vinemont, AL 35179, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.301161,
-        "lng": -86.793969
-      },
+      "latitude": 34.301161,
+      "longitude": -86.793969,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14349,10 +13325,8 @@
       "address": "16575 AL-157, Vinemont, AL 35179, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.301804,
-        "lng": -86.997556
-      },
+      "latitude": 34.301804,
+      "longitude": -86.997556,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14377,10 +13351,8 @@
       "address": "4380 AL-52, Webb, AL 36376, USA",
       "street": "4380 Columbia Highway",
       "zip": "36303",
-      "coordinates": {
-        "lat": 31.242428,
-        "lng": -85.309863
-      },
+      "latitude": 31.242428,
+      "longitude": -85.309863,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14405,10 +13377,8 @@
       "address": "315 Webb To Kinsey Rd, Webb, AL 36376, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 31.26211,
-        "lng": -85.27835
-      },
+      "latitude": 31.26211,
+      "longitude": -85.27835,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14433,10 +13403,8 @@
       "address": "30 AL-204, Wellington, AL 36279, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 33.852699,
-        "lng": -85.914921
-      },
+      "latitude": 33.852699,
+      "longitude": -85.914921,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14461,10 +13429,8 @@
       "address": "10736 US-231, Wetumpka, AL 36092, USA",
       "street": "10736 US 231;AL 21",
       "zip": "36092",
-      "coordinates": {
-        "lat": 32.586303,
-        "lng": -86.208148
-      },
+      "latitude": 32.586303,
+      "longitude": -86.208148,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14489,10 +13455,8 @@
       "address": "1732 Elmore Rd, Wetumpka, AL 36092, USA",
       "street": "1732 Elmore Road",
       "zip": "36092",
-      "coordinates": {
-        "lat": 32.535278,
-        "lng": -86.233892
-      },
+      "latitude": 32.535278,
+      "longitude": -86.233892,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14517,10 +13481,8 @@
       "address": "1745 US-231, Wetumpka, AL 36093, USA",
       "street": "1745 US 231;AL 21",
       "zip": "36093",
-      "coordinates": {
-        "lat": 32.472747,
-        "lng": -86.194127
-      },
+      "latitude": 32.472747,
+      "longitude": -86.194127,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14545,10 +13507,8 @@
       "address": "24 Fuller Cir, Wetumpka, AL 36092, USA",
       "street": "24 Fuller Circle",
       "zip": "36092",
-      "coordinates": {
-        "lat": 32.558955,
-        "lng": -86.191861
-      },
+      "latitude": 32.558955,
+      "longitude": -86.191861,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14573,10 +13533,8 @@
       "address": "361 Fort Toulouse Rd, Wetumpka, AL 36092, USA",
       "street": "Fort Toulouse Road",
       "zip": "36092",
-      "coordinates": {
-        "lat": 32.512457,
-        "lng": -86.225817
-      },
+      "latitude": 32.512457,
+      "longitude": -86.225817,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14601,10 +13559,8 @@
       "address": "589 US-231, Wetumpka, AL 36093, USA",
       "street": "US 231;AL 21",
       "zip": "36093",
-      "coordinates": {
-        "lat": 32.460763,
-        "lng": -86.195775
-      },
+      "latitude": 32.460763,
+      "longitude": -86.195775,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14629,10 +13585,8 @@
       "address": "Coosa River Pkwy, Wetumpka, AL 36092, USA",
       "street": "Coosa River Parkway",
       "zip": "36092",
-      "coordinates": {
-        "lat": 32.552863,
-        "lng": -86.205054
-      },
+      "latitude": 32.552863,
+      "longitude": -86.205054,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14657,10 +13611,8 @@
       "address": "11598 Moffett Rd, Wilmer, AL 36587, USA",
       "street": "Moffett Road",
       "zip": "36587",
-      "coordinates": {
-        "lat": 30.796031,
-        "lng": -88.318702
-      },
+      "latitude": 30.796031,
+      "longitude": -88.318702,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14685,10 +13637,8 @@
       "address": "13454 Moffett Rd, Wilmer, AL 36587, USA",
       "street": "Moffett Road",
       "zip": "36587",
-      "coordinates": {
-        "lat": 30.823541,
-        "lng": -88.362542
-      },
+      "latitude": 30.823541,
+      "longitude": -88.362542,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14713,10 +13663,8 @@
       "address": "13500 Tanner Williams Rd, Wilmer, AL 36587, USA",
       "street": "Wilmer Tanner Williams Road",
       "zip": "36587",
-      "coordinates": {
-        "lat": 30.724326,
-        "lng": -88.364609
-      },
+      "latitude": 30.724326,
+      "longitude": -88.364609,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14741,10 +13689,8 @@
       "address": "155 Flint St, Winfield, AL 35594, USA",
       "street": "Flint Street",
       "zip": "35594",
-      "coordinates": {
-        "lat": 33.928803,
-        "lng": -87.814884
-      },
+      "latitude": 33.928803,
+      "longitude": -87.814884,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14769,10 +13715,8 @@
       "address": "2116 Bankhead Hwy, Winfield, AL 35594, USA",
       "street": "2116 Bankhead Highway",
       "zip": "35594",
-      "coordinates": {
-        "lat": 33.931524,
-        "lng": -87.78302
-      },
+      "latitude": 33.931524,
+      "longitude": -87.78302,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14797,10 +13741,8 @@
       "address": "159 Old Abbeville Rd, Eufaula, AL 36027, USA",
       "street": "159 Old Abbeville Road",
       "zip": "36027",
-      "coordinates": {
-        "lat": 31.84799,
-        "lng": -85.166246
-      },
+      "latitude": 31.84799,
+      "longitude": -85.166246,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -14825,10 +13767,8 @@
       "address": "219 W Commerce St, Greenville, AL 36037, USA",
       "street": "219 West Commerce Street",
       "zip": "36037",
-      "coordinates": {
-        "lat": 31.829386,
-        "lng": -86.626977
-      },
+      "latitude": 31.829386,
+      "longitude": -86.626977,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -14849,10 +13789,8 @@
       "address": "2775 Bell Rd, Montgomery, AL 36117, USA",
       "street": "2775 Bell Road",
       "zip": "36117",
-      "coordinates": {
-        "lat": 32.339825,
-        "lng": -86.193228
-      },
+      "latitude": 32.339825,
+      "longitude": -86.193228,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -14873,10 +13811,8 @@
       "address": "5326 Atlanta Hwy, Montgomery, AL 36109, USA",
       "street": "5326 Atlanta Highway",
       "zip": "36109",
-      "coordinates": {
-        "lat": 32.380106,
-        "lng": -86.217597
-      },
+      "latitude": 32.380106,
+      "longitude": -86.217597,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -14897,10 +13833,8 @@
       "address": "900 Air Base Blvd, Montgomery, AL 36108, USA",
       "street": "900 Air Base Boulevard",
       "zip": "36108",
-      "coordinates": {
-        "lat": 32.357433,
-        "lng": -86.348607
-      },
+      "latitude": 32.357433,
+      "longitude": -86.348607,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -14921,10 +13855,8 @@
       "address": "9130 Eastchase Pkwy, Montgomery, AL 36117, USA",
       "street": "9130 Eastchase Parkway",
       "zip": "36117",
-      "coordinates": {
-        "lat": 32.360793,
-        "lng": -86.137889
-      },
+      "latitude": 32.360793,
+      "longitude": -86.137889,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -14945,10 +13877,8 @@
       "address": "Cobbs Ford Rd, Prattville, AL 36066, USA",
       "street": "Cobbs Ford Road",
       "zip": "36066",
-      "coordinates": {
-        "lat": 32.461934,
-        "lng": -86.414916
-      },
+      "latitude": 32.461934,
+      "longitude": -86.414916,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -14969,10 +13899,8 @@
       "address": "1011 Furniss Ave, Selma, AL 36701, USA",
       "street": "Furniss Avenue",
       "zip": "36701",
-      "coordinates": {
-        "lat": 32.413443,
-        "lng": -87.023733
-      },
+      "latitude": 32.413443,
+      "longitude": -87.023733,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -14993,10 +13921,8 @@
       "address": "115 N 3 Notch St, Troy, AL 36081, USA",
       "street": "North 3 Notch Street",
       "zip": "36081",
-      "coordinates": {
-        "lat": 31.808474,
-        "lng": -85.97198
-      },
+      "latitude": 31.808474,
+      "longitude": -85.97198,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",

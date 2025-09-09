@@ -13,10 +13,8 @@
       "address": "724 Franklin Blvd, Somerset, NJ 08873, USA",
       "street": "Franklin Boulevard",
       "zip": "8873",
-      "coordinates": {
-        "lat": 40.485168,
-        "lng": -74.480977
-      },
+      "latitude": 40.485168,
+      "longitude": -74.480977,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -38,10 +36,8 @@
       "address": "705 Ginesi Dr, Morganville, NJ 07751, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.351878,
-        "lng": -74.293029
-      },
+      "latitude": 40.351878,
+      "longitude": -74.293029,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -63,10 +59,8 @@
       "address": "1200 Somerset St, New Brunswick, NJ 08901, USA",
       "street": "1200 Somerset Street",
       "zip": "8901",
-      "coordinates": {
-        "lat": 40.474599,
-        "lng": -74.489013
-      },
+      "latitude": 40.474599,
+      "longitude": -74.489013,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -88,10 +82,8 @@
       "address": "53 Georges Rd, New Brunswick, NJ 08901, USA",
       "street": "53 Georges Road",
       "zip": "8901",
-      "coordinates": {
-        "lat": 40.479338,
-        "lng": -74.446289
-      },
+      "latitude": 40.479338,
+      "longitude": -74.446289,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -113,10 +105,8 @@
       "address": "720 Somerset St, New Brunswick, NJ 08901, USA",
       "street": "Somerset Street",
       "zip": "8901",
-      "coordinates": {
-        "lat": 40.485068,
-        "lng": -74.473307
-      },
+      "latitude": 40.485068,
+      "longitude": -74.473307,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -138,10 +128,8 @@
       "address": "367 Fayette St, Perth Amboy, NJ 08861, USA",
       "street": "367 Fayette Street",
       "zip": "8861",
-      "coordinates": {
-        "lat": 40.51313,
-        "lng": -74.277879
-      },
+      "latitude": 40.51313,
+      "longitude": -74.277879,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -163,10 +151,8 @@
       "address": "1314 W Front St, Plainfield, NJ 07063, USA",
       "street": "West Front Street",
       "zip": "7063",
-      "coordinates": {
-        "lat": 40.602551,
-        "lng": -74.44693
-      },
+      "latitude": 40.602551,
+      "longitude": -74.44693,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -188,10 +174,8 @@
       "address": "206 W 7th St, Plainfield, NJ 07060, USA",
       "street": "206 West 7th Street",
       "zip": "7060",
-      "coordinates": {
-        "lat": 40.614131,
-        "lng": -74.419015
-      },
+      "latitude": 40.614131,
+      "longitude": -74.419015,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -213,10 +197,8 @@
       "address": "701 Park Ave, Plainfield, NJ 07060, USA",
       "street": "701 Park Avenue",
       "zip": "7060",
-      "coordinates": {
-        "lat": 40.614995,
-        "lng": -74.417157
-      },
+      "latitude": 40.614995,
+      "longitude": -74.417157,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -238,10 +220,8 @@
       "address": "801 W Front St, Plainfield, NJ 07063, USA",
       "street": "West Front Street",
       "zip": "7063",
-      "coordinates": {
-        "lat": 40.608946,
-        "lng": -74.436098
-      },
+      "latitude": 40.608946,
+      "longitude": -74.436098,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -263,10 +243,8 @@
       "address": "650 N Albany Ave, Atlantic City, NJ 08401, USA",
       "street": "650 North Albany Avenue",
       "zip": "8401",
-      "coordinates": {
-        "lat": 39.358515,
-        "lng": -74.461287
-      },
+      "latitude": 39.358515,
+      "longitude": -74.461287,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -288,10 +266,8 @@
       "address": "482 Avenue C, Bayonne, NJ 07002, USA",
       "street": "482 Avenue C",
       "zip": "7002",
-      "coordinates": {
-        "lat": 40.663718,
-        "lng": -74.121404
-      },
+      "latitude": 40.663718,
+      "longitude": -74.121404,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -313,10 +289,8 @@
       "address": "40 Pittstown Rd, Clinton, NJ 08809, USA",
       "street": "40 Pittstown Road",
       "zip": "8801",
-      "coordinates": {
-        "lat": 40.627927,
-        "lng": -74.9249
-      },
+      "latitude": 40.627927,
+      "longitude": -74.9249,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -338,10 +312,8 @@
       "address": "29 Church St, East Windsor, NJ 08520, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.242074,
-        "lng": -74.581066
-      },
+      "latitude": 40.242074,
+      "longitude": -74.581066,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -363,10 +335,8 @@
       "address": "1980 N Olden Ave, Ewing Township, NJ 08618, USA",
       "street": "1980 Olden Avenue",
       "zip": "8628",
-      "coordinates": {
-        "lat": 40.252653,
-        "lng": -74.788381
-      },
+      "latitude": 40.252653,
+      "longitude": -74.788381,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -388,10 +358,8 @@
       "address": "293 Green Ln, Ewing Township, NJ 08638, USA",
       "street": "293 Green Lane",
       "zip": "8638",
-      "coordinates": {
-        "lat": 40.266604,
-        "lng": -74.769503
-      },
+      "latitude": 40.266604,
+      "longitude": -74.769503,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -413,10 +381,8 @@
       "address": "204 Pennsylvania Ave, Flemington, NJ 08822, USA",
       "street": "Pennsylvania Avenue",
       "zip": "8822",
-      "coordinates": {
-        "lat": 40.516363,
-        "lng": -74.836666
-      },
+      "latitude": 40.516363,
+      "longitude": -74.836666,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -438,10 +404,8 @@
       "address": "40 E Main St, Flemington, NJ 08822, USA",
       "street": "40 East Main Street",
       "zip": "8822",
-      "coordinates": {
-        "lat": 40.516004,
-        "lng": -74.857795
-      },
+      "latitude": 40.516004,
+      "longitude": -74.857795,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -463,10 +427,8 @@
       "address": "35 Main St, Holmdel, NJ 07733, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.345526,
-        "lng": -74.185693
-      },
+      "latitude": 40.345526,
+      "longitude": -74.185693,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -488,10 +450,8 @@
       "address": "1057 Springfield Ave, Irvington, NJ 07111, USA",
       "street": "1057 Springfield Avenue",
       "zip": "7111",
-      "coordinates": {
-        "lat": 40.725804,
-        "lng": -74.231644
-      },
+      "latitude": 40.725804,
+      "longitude": -74.231644,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -513,10 +473,8 @@
       "address": "242 Martin Luther King Dr., Jersey City, NJ 07305, USA",
       "street": "242 Martin Luther King Jr. Drive",
       "zip": "7305",
-      "coordinates": {
-        "lat": 40.70745,
-        "lng": -74.082654
-      },
+      "latitude": 40.70745,
+      "longitude": -74.082654,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -538,10 +496,8 @@
       "address": "248 Erie St, Jersey City, NJ 07310, USA",
       "street": "248 Erie Street",
       "zip": "7310",
-      "coordinates": {
-        "lat": 40.732244,
-        "lng": -74.042405
-      },
+      "latitude": 40.732244,
+      "longitude": -74.042405,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -563,10 +519,8 @@
       "address": "601 New Hampshire Ave, Lakewood, NJ 08701, USA",
       "street": "601 New Hampshire Avenue",
       "zip": "8701",
-      "coordinates": {
-        "lat": 40.065056,
-        "lng": -74.187849
-      },
+      "latitude": 40.065056,
+      "longitude": -74.187849,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -588,10 +542,8 @@
       "address": "95 Lacey Rd, Whiting, NJ 08759, USA",
       "street": "95 Lacey Road",
       "zip": "8759",
-      "coordinates": {
-        "lat": 39.953984,
-        "lng": -74.376296
-      },
+      "latitude": 39.953984,
+      "longitude": -74.376296,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -613,10 +565,8 @@
       "address": "900 Milford Frenchtown Rd, Milford, NJ 08848, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.5427,
-        "lng": -75.065997
-      },
+      "latitude": 40.5427,
+      "longitude": -75.065997,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -638,10 +588,8 @@
       "address": "45 Biel Rd, New Brunswick, NJ 08901, USA",
       "street": "45 Biel Road West",
       "zip": "8901",
-      "coordinates": {
-        "lat": 40.478358,
-        "lng": -74.431038
-      },
+      "latitude": 40.478358,
+      "longitude": -74.431038,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -663,10 +611,8 @@
       "address": "74 Pennington St, Newark, NJ 07105, USA",
       "street": "74 Pennington Street",
       "zip": "7105",
-      "coordinates": {
-        "lat": 40.724554,
-        "lng": -74.173264
-      },
+      "latitude": 40.724554,
+      "longitude": -74.173264,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -688,10 +634,8 @@
       "address": "80 Lloyd St, Nutley, NJ 07110, USA",
       "street": "80 Lloyd Street",
       "zip": "7110",
-      "coordinates": {
-        "lat": 40.821525,
-        "lng": -74.157113
-      },
+      "latitude": 40.821525,
+      "longitude": -74.157113,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -713,10 +657,8 @@
       "address": "417 Broadway, Passaic, NJ 07055, USA",
       "street": "417 Broadway",
       "zip": "7055",
-      "coordinates": {
-        "lat": 40.852746,
-        "lng": -74.139915
-      },
+      "latitude": 40.852746,
+      "longitude": -74.139915,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -738,10 +680,8 @@
       "address": "2 Cedar St, New Egypt, NJ 08533, USA",
       "street": "2 Cedar Street",
       "zip": "8533",
-      "coordinates": {
-        "lat": 40.066583,
-        "lng": -74.523235
-      },
+      "latitude": 40.066583,
+      "longitude": -74.523235,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -763,10 +703,8 @@
       "address": "545 Meadow Rd, Princeton, NJ 08540, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.301606,
-        "lng": -74.651434
-      },
+      "latitude": 40.301606,
+      "longitude": -74.651434,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -788,10 +726,8 @@
       "address": "180 Newman Springs Rd, Red Bank, NJ 07701, USA",
       "street": "180 Newman Springs Road",
       "zip": "7701",
-      "coordinates": {
-        "lat": 40.337104,
-        "lng": -74.082379
-      },
+      "latitude": 40.337104,
+      "longitude": -74.082379,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -813,10 +749,8 @@
       "address": "1301 Barnegat Ave, Seaside Park, NJ 08752, USA",
       "street": "1301 Barnegat Avenue",
       "zip": "8752",
-      "coordinates": {
-        "lat": 39.913943,
-        "lng": -74.082272
-      },
+      "latitude": 39.913943,
+      "longitude": -74.082272,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -838,10 +772,8 @@
       "address": "400 Beach Ave, Manahawkin, NJ 08050, USA",
       "street": "400 Beach Avenue",
       "zip": "8050",
-      "coordinates": {
-        "lat": 39.699273,
-        "lng": -74.244435
-      },
+      "latitude": 39.699273,
+      "longitude": -74.244435,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -863,10 +795,8 @@
       "address": "379 Haywood Rd, Manahawkin, NJ 08050, USA",
       "street": "379 Haywood Road",
       "zip": "8050",
-      "coordinates": {
-        "lat": 39.715439,
-        "lng": -74.29335
-      },
+      "latitude": 39.715439,
+      "longitude": -74.29335,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -888,10 +818,8 @@
       "address": "816 Sergeantsville Rd, Stockton, NJ 08559, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.43713,
-        "lng": -74.953574
-      },
+      "latitude": 40.43713,
+      "longitude": -74.953574,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -913,10 +841,8 @@
       "address": "15 NJ-33, Trenton, NJ 08619, USA",
       "street": "Greenwood Avenue",
       "zip": "8609",
-      "coordinates": {
-        "lat": 40.234545,
-        "lng": -74.692507
-      },
+      "latitude": 40.234545,
+      "longitude": -74.692507,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -938,10 +864,8 @@
       "address": "436 Mulberry St, Trenton, NJ 08638, USA",
       "street": "436 Mulberry Street",
       "zip": "8638",
-      "coordinates": {
-        "lat": 40.239219,
-        "lng": -74.742257
-      },
+      "latitude": 40.239219,
+      "longitude": -74.742257,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -963,10 +887,8 @@
       "address": "1400 Florence Ave, Union Beach, NJ 07735, USA",
       "street": "1400 Florence Avenue",
       "zip": "7735",
-      "coordinates": {
-        "lat": 40.44288,
-        "lng": -74.181107
-      },
+      "latitude": 40.44288,
+      "longitude": -74.181107,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -988,10 +910,8 @@
       "address": "900 John F. Kennedy Blvd, Union City, NJ 07087, USA",
       "street": "900 John F. Kennedy Boulevard",
       "zip": "7087",
-      "coordinates": {
-        "lat": 40.759788,
-        "lng": -74.043877
-      },
+      "latitude": 40.759788,
+      "longitude": -74.043877,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1013,10 +933,8 @@
       "address": "900 John F. Kennedy Blvd, Union City, NJ 07087, USA",
       "street": "900 John F. Kennedy Boulevard",
       "zip": "7087",
-      "coordinates": {
-        "lat": 40.759788,
-        "lng": -74.043877
-      },
+      "latitude": 40.759788,
+      "longitude": -74.043877,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1038,10 +956,8 @@
       "address": "2279 S Delsea Dr, Vineland, NJ 08360, USA",
       "street": "2279 South Delsea Drive",
       "zip": "8360",
-      "coordinates": {
-        "lat": 39.45384,
-        "lng": -75.042405
-      },
+      "latitude": 39.45384,
+      "longitude": -75.042405,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1063,10 +979,8 @@
       "address": "3840 NJ-42, Blackwood, NJ 08012, USA",
       "street": "North-South Freeway",
       "zip": "8032",
-      "coordinates": {
-        "lat": 39.765212,
-        "lng": -75.048383
-      },
+      "latitude": 39.765212,
+      "longitude": -75.048383,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1088,10 +1002,8 @@
       "address": "585 Northfield Ave, West Orange, NJ 07052, USA",
       "street": "585 Northfield Avenue",
       "zip": "7052",
-      "coordinates": {
-        "lat": 40.769955,
-        "lng": -74.282738
-      },
+      "latitude": 40.769955,
+      "longitude": -74.282738,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1113,10 +1025,8 @@
       "address": "1060 Maple Ave, Cherry Hill, NJ 08002, USA",
       "street": "1060 Maple Avenue",
       "zip": "8002",
-      "coordinates": {
-        "lat": 39.952632,
-        "lng": -75.025924
-      },
+      "latitude": 39.952632,
+      "longitude": -75.025924,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1139,10 +1049,8 @@
       "address": "359 Amboy Ave, Metuchen, NJ 08840, USA",
       "street": "359 Amboy Avenue",
       "zip": "8840",
-      "coordinates": {
-        "lat": 40.537776,
-        "lng": -74.363467
-      },
+      "latitude": 40.537776,
+      "longitude": -74.363467,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1165,10 +1073,8 @@
       "address": "Paterson, NJ 07512, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.902542,
-        "lng": -74.223802
-      },
+      "latitude": 40.902542,
+      "longitude": -74.223802,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1191,10 +1097,8 @@
       "address": "831 S Springfield Ave, Springfield, NJ 07081, USA",
       "street": "831 South Springfield Avenue",
       "zip": "7081",
-      "coordinates": {
-        "lat": 40.686484,
-        "lng": -74.326235
-      },
+      "latitude": 40.686484,
+      "longitude": -74.326235,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -1217,10 +1121,8 @@
       "address": "86 County Rd 526, Allentown, NJ 08501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.176611,
-        "lng": -74.572959
-      },
+      "latitude": 40.176611,
+      "longitude": -74.572959,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1241,10 +1143,8 @@
       "address": "130 E Black Horse Pike, Audubon, NJ 08106, USA",
       "street": "Black Horse Pike",
       "zip": "8106",
-      "coordinates": {
-        "lat": 39.890938,
-        "lng": -75.088126
-      },
+      "latitude": 39.890938,
+      "longitude": -75.088126,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1265,10 +1165,8 @@
       "address": "333 U.S. 9, Bayville, NJ 08721, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.920479,
-        "lng": -74.15966
-      },
+      "latitude": 39.920479,
+      "longitude": -74.15966,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1289,10 +1187,8 @@
       "address": "330 Benigno Blvd, Bellmawr, NJ 08031, USA",
       "street": "330 Benigno Boulevard",
       "zip": "8031",
-      "coordinates": {
-        "lat": 39.859794,
-        "lng": -75.091593
-      },
+      "latitude": 39.859794,
+      "longitude": -75.091593,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1313,10 +1209,8 @@
       "address": "Borough of Butler Municipal Building, 1 Ace Rd, Butler, NJ 07405, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.003644,
-        "lng": -74.344359
-      },
+      "latitude": 41.003644,
+      "longitude": -74.344359,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1337,10 +1231,8 @@
       "address": "415 NJ-18, East Brunswick, NJ 08816, USA",
       "street": "415 State Route 18",
       "zip": "8816",
-      "coordinates": {
-        "lat": 40.446768,
-        "lng": -74.397874
-      },
+      "latitude": 40.446768,
+      "longitude": -74.397874,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1361,10 +1253,8 @@
       "address": "6701 E Black Horse Pike, Egg Harbor Township, NJ 08234, USA",
       "street": "Black Horse Pike East",
       "zip": "8234",
-      "coordinates": {
-        "lat": 39.405697,
-        "lng": -74.565768
-      },
+      "latitude": 39.405697,
+      "longitude": -74.565768,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1385,10 +1275,8 @@
       "address": "30 Broadway, Elmwood Park, NJ 07407, USA",
       "street": "30 Broadway",
       "zip": "7410",
-      "coordinates": {
-        "lat": 40.917703,
-        "lng": -74.128105
-      },
+      "latitude": 40.917703,
+      "longitude": -74.128105,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1409,10 +1297,8 @@
       "address": "1628 N Olden Ave, Ewing Township, NJ 08638, USA",
       "street": "1628 Olden Avenue",
       "zip": "8638",
-      "coordinates": {
-        "lat": 40.244629,
-        "lng": -74.760247
-      },
+      "latitude": 40.244629,
+      "longitude": -74.760247,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1433,10 +1319,8 @@
       "address": "423 US-46, Fairfield, NJ 07004, USA",
       "street": "423 US 46",
       "zip": "7004",
-      "coordinates": {
-        "lat": 40.883866,
-        "lng": -74.289362
-      },
+      "latitude": 40.883866,
+      "longitude": -74.289362,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1457,10 +1341,8 @@
       "address": "423 US-46, Fairfield, NJ 07004, USA",
       "street": "423 US 46",
       "zip": "7004",
-      "coordinates": {
-        "lat": 40.883866,
-        "lng": -74.289362
-      },
+      "latitude": 40.883866,
+      "longitude": -74.289362,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1481,10 +1363,8 @@
       "address": "594 US-206, Fieldsboro, NJ 08505, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.176325,
-        "lng": -74.703437
-      },
+      "latitude": 40.176325,
+      "longitude": -74.703437,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1505,10 +1385,8 @@
       "address": "818 Delsea Dr N, Glassboro, NJ 08028, USA",
       "street": "818 Delsea Drive North",
       "zip": "8028",
-      "coordinates": {
-        "lat": 39.723702,
-        "lng": -75.115701
-      },
+      "latitude": 39.723702,
+      "longitude": -75.115701,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1529,10 +1407,8 @@
       "address": "170 Grove St, Haddonfield, NJ 08033, USA",
       "street": "170 Grove Street",
       "zip": "8033",
-      "coordinates": {
-        "lat": 39.903335,
-        "lng": -75.032205
-      },
+      "latitude": 39.903335,
+      "longitude": -75.032205,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1553,10 +1429,8 @@
       "address": "200 N White Horse Pike, Hammonton, NJ 08037, USA",
       "street": "White Horse Pike",
       "zip": "8037",
-      "coordinates": {
-        "lat": 39.651598,
-        "lng": -74.796082
-      },
+      "latitude": 39.651598,
+      "longitude": -74.796082,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1577,10 +1451,8 @@
       "address": "1 Plant Rd, Hasbrouck Heights, NJ 07604, USA",
       "street": "Plant Road",
       "zip": "7604",
-      "coordinates": {
-        "lat": 40.852294,
-        "lng": -74.07132
-      },
+      "latitude": 40.852294,
+      "longitude": -74.07132,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1601,10 +1473,8 @@
       "address": "2815 John F. Kennedy Blvd, Jersey City, NJ 07306, USA",
       "street": "2815 John F. Kennedy Boulevard",
       "zip": "7306",
-      "coordinates": {
-        "lat": 40.732166,
-        "lng": -74.067006
-      },
+      "latitude": 40.732166,
+      "longitude": -74.067006,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1625,10 +1495,8 @@
       "address": "228 NJ-35, Keyport, NJ 07735, USA",
       "street": "NJ 35",
       "zip": "7735",
-      "coordinates": {
-        "lat": 40.439711,
-        "lng": -74.224582
-      },
+      "latitude": 40.439711,
+      "longitude": -74.224582,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1649,10 +1517,8 @@
       "address": "2901 Highway US 1 Rt 1 Plaza, Lawrenceville, NJ 08648, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.272056,
-        "lng": -74.710879
-      },
+      "latitude": 40.272056,
+      "longitude": -74.710879,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1673,10 +1539,8 @@
       "address": "525 Beckett Rd, Logan Township, NJ 08085, USA",
       "street": "525 Beckett Road",
       "zip": "8085",
-      "coordinates": {
-        "lat": 39.759691,
-        "lng": -75.354836
-      },
+      "latitude": 39.759691,
+      "longitude": -75.354836,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1697,10 +1561,8 @@
       "address": "1626 NJ-38, Lumberton, NJ 08048, USA",
       "street": "NJ 38",
       "zip": "8048",
-      "coordinates": {
-        "lat": 39.981592,
-        "lng": -74.78829
-      },
+      "latitude": 39.981592,
+      "longitude": -74.78829,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1721,10 +1583,8 @@
       "address": "2835 NJ-73, Maple Shade, NJ 08052, USA",
       "street": "2835 NJ-73",
       "zip": "8052",
-      "coordinates": {
-        "lat": 39.940714,
-        "lng": -74.976083
-      },
+      "latitude": 39.940714,
+      "longitude": -74.976083,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1745,10 +1605,8 @@
       "address": "148 Old Marlton Pike, Medford, NJ 08055, USA",
       "street": "Old Marlton Pike",
       "zip": "8055",
-      "coordinates": {
-        "lat": 39.897578,
-        "lng": -74.842557
-      },
+      "latitude": 39.897578,
+      "longitude": -74.842557,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1769,10 +1627,8 @@
       "address": "1418 N High St, Millville, NJ 08332, USA",
       "street": "1418 North High Street",
       "zip": "8332",
-      "coordinates": {
-        "lat": 39.413122,
-        "lng": -75.040945
-      },
+      "latitude": 39.413122,
+      "longitude": -75.040945,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1793,10 +1649,8 @@
       "address": "1912 N Black Horse Pike, Williamstown, NJ 08094, USA",
       "street": "North Black Horse Pike",
       "zip": "8094",
-      "coordinates": {
-        "lat": 39.713181,
-        "lng": -75.015455
-      },
+      "latitude": 39.713181,
+      "longitude": -75.015455,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1817,10 +1671,8 @@
       "address": "263 Tabor Rd, Morris Plains, NJ 07950, USA",
       "street": "263 Tabor Road",
       "zip": "7950",
-      "coordinates": {
-        "lat": 40.847064,
-        "lng": -74.473484
-      },
+      "latitude": 40.847064,
+      "longitude": -74.473484,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1841,10 +1693,8 @@
       "address": "3105 NJ-38, Mt Laurel Township, NJ 08054, USA",
       "street": "3105 NJ 38",
       "zip": "8036",
-      "coordinates": {
-        "lat": 39.971863,
-        "lng": -74.874013
-      },
+      "latitude": 39.971863,
+      "longitude": -74.874013,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1865,10 +1715,8 @@
       "address": "55 Pocono Rd, Mountain Lakes, NJ 07046, USA",
       "street": "55 Pocono Road",
       "zip": "7046",
-      "coordinates": {
-        "lat": 40.884514,
-        "lng": -74.452517
-      },
+      "latitude": 40.884514,
+      "longitude": -74.452517,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1889,10 +1737,8 @@
       "address": "955 US-22, North Plainfield, NJ 07060, USA",
       "street": "US 22",
       "zip": "7069",
-      "coordinates": {
-        "lat": 40.62171,
-        "lng": -74.447923
-      },
+      "latitude": 40.62171,
+      "longitude": -74.447923,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1913,10 +1759,8 @@
       "address": "1 N Mall Dr, Ocean Township, NJ 07712, USA",
       "street": "North Mall Drive",
       "zip": "7712",
-      "coordinates": {
-        "lat": 40.234375,
-        "lng": -74.041212
-      },
+      "latitude": 40.234375,
+      "longitude": -74.041212,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1937,10 +1781,8 @@
       "address": "561 NJ-23, Pompton Plains, NJ 07444, USA",
       "street": "561 NJ 23",
       "zip": "7444",
-      "coordinates": {
-        "lat": 40.969219,
-        "lng": -74.287162
-      },
+      "latitude": 40.969219,
+      "longitude": -74.287162,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1961,10 +1803,8 @@
       "address": "21 Union St #25, Rockaway, NJ 07866, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.904174,
-        "lng": -74.50808
-      },
+      "latitude": 40.904174,
+      "longitude": -74.50808,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1985,10 +1825,8 @@
       "address": "226 US-46, Rockaway, NJ 07866, USA",
       "street": "226 US 46",
       "zip": "7866",
-      "coordinates": {
-        "lat": 40.88975,
-        "lng": -74.514108
-      },
+      "latitude": 40.88975,
+      "longitude": -74.514108,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2009,10 +1847,8 @@
       "address": "456 Broad St, Shrewsbury, NJ 07702, USA",
       "street": "456 Broad Street",
       "zip": "7702",
-      "coordinates": {
-        "lat": 40.33657,
-        "lng": -74.063816
-      },
+      "latitude": 40.33657,
+      "longitude": -74.063816,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2033,10 +1869,8 @@
       "address": "126 US-22, Springfield, NJ 07081, USA",
       "street": "US 22",
       "zip": "7081",
-      "coordinates": {
-        "lat": 40.687651,
-        "lng": -74.317779
-      },
+      "latitude": 40.687651,
+      "longitude": -74.317779,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2057,10 +1891,8 @@
       "address": "126 US-22, Springfield, NJ 07081, USA",
       "street": "US 22",
       "zip": "7081",
-      "coordinates": {
-        "lat": 40.687651,
-        "lng": -74.317779
-      },
+      "latitude": 40.687651,
+      "longitude": -74.317779,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2081,10 +1913,8 @@
       "address": "649 Morris Tpke, Springfield, NJ 07081, USA",
       "street": "649 Morris Turnpike",
       "zip": "7081",
-      "coordinates": {
-        "lat": 40.717676,
-        "lng": -74.327518
-      },
+      "latitude": 40.717676,
+      "longitude": -74.327518,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2105,10 +1935,8 @@
       "address": "10 Commerce Ct, Verona, NJ 07044, USA",
       "street": "10 Commerce Court",
       "zip": "7044",
-      "coordinates": {
-        "lat": 40.841395,
-        "lng": -74.235606
-      },
+      "latitude": 40.841395,
+      "longitude": -74.235606,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2129,10 +1957,8 @@
       "address": "2200 NJ-34, Wall Township, NJ 07719, USA",
       "street": "2200 NJ 34",
       "zip": "8736",
-      "coordinates": {
-        "lat": 40.143881,
-        "lng": -74.09291
-      },
+      "latitude": 40.143881,
+      "longitude": -74.09291,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2153,10 +1979,8 @@
       "address": "475 Hurffville - Cross Keys Rd, Sewell, NJ 08080, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.739527,
-        "lng": -75.072248
-      },
+      "latitude": 39.739527,
+      "longitude": -75.072248,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2177,10 +2001,8 @@
       "address": "832 Mantua Pike, Woodbury Heights, NJ 08097, USA",
       "street": "Mantua Pike",
       "zip": "8090",
-      "coordinates": {
-        "lat": 39.8213,
-        "lng": -75.161196
-      },
+      "latitude": 39.8213,
+      "longitude": -75.161196,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2201,10 +2023,8 @@
       "address": "8 Howard Dr, Bergenfield, NJ 07621, USA",
       "street": "8 Howard Drive",
       "zip": "7621",
-      "coordinates": {
-        "lat": 40.911945,
-        "lng": -73.995562
-      },
+      "latitude": 40.911945,
+      "longitude": -73.995562,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2225,10 +2045,8 @@
       "address": "130 Morristown Rd, Bernardsville, NJ 07924, USA",
       "street": "Morristown Road",
       "zip": "7920",
-      "coordinates": {
-        "lat": 40.720521,
-        "lng": -74.558969
-      },
+      "latitude": 40.720521,
+      "longitude": -74.558969,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2249,10 +2067,8 @@
       "address": "4701 Rte-42, Blackwood, NJ 08012, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.790131,
-        "lng": -75.036652
-      },
+      "latitude": 39.790131,
+      "longitude": -75.036652,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2273,10 +2089,8 @@
       "address": "5 Shoppers Ln, Blackwood, NJ 08012, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.760559,
-        "lng": -75.050651
-      },
+      "latitude": 39.760559,
+      "longitude": -75.050651,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2297,10 +2111,8 @@
       "address": "11 Valley Rd, Boonton, NJ 07005, USA",
       "street": "11 Valley Road",
       "zip": "7005",
-      "coordinates": {
-        "lat": 40.918648,
-        "lng": -74.430696
-      },
+      "latitude": 40.918648,
+      "longitude": -74.430696,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2321,10 +2133,8 @@
       "address": "607 Myrtle Ave, Boonton, NJ 07005, USA",
       "street": "607 Myrtle Avenue",
       "zip": "7005",
-      "coordinates": {
-        "lat": 40.908988,
-        "lng": -74.395515
-      },
+      "latitude": 40.908988,
+      "longitude": -74.395515,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2345,10 +2155,8 @@
       "address": "5254 US-130, Bordentown, NJ 08505, USA",
       "street": "US 130/US 206 Northbound",
       "zip": "8505",
-      "coordinates": {
-        "lat": 40.101535,
-        "lng": -74.724711
-      },
+      "latitude": 40.101535,
+      "longitude": -74.724711,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2369,10 +2177,8 @@
       "address": "657 Bridgeton Pike, Bridgeton, NJ 08302, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.3762,
-        "lng": -75.1617
-      },
+      "latitude": 39.3762,
+      "longitude": -75.1617,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2393,10 +2199,8 @@
       "address": "5 Bartholdi Ave, Butler, NJ 07405, USA",
       "street": "5 Bartholdi Avenue",
       "zip": "7405",
-      "coordinates": {
-        "lat": 40.999519,
-        "lng": -74.340078
-      },
+      "latitude": 40.999519,
+      "longitude": -74.340078,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2417,10 +2221,8 @@
       "address": "500 Ridge Rd, Cedar Grove, NJ 07009, USA",
       "street": "500 Ridge Road",
       "zip": "7009",
-      "coordinates": {
-        "lat": 40.857049,
-        "lng": -74.227109
-      },
+      "latitude": 40.857049,
+      "longitude": -74.227109,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2441,10 +2243,8 @@
       "address": "140 Old Carriage Rd, Cherry Hill, NJ 08034, USA",
       "street": "140 Old Carriage Road",
       "zip": "8034",
-      "coordinates": {
-        "lat": 39.900214,
-        "lng": -75.011381
-      },
+      "latitude": 39.900214,
+      "longitude": -75.011381,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2465,10 +2265,8 @@
       "address": "1898 State Highway 70, Cherry Hill, NJ 08003, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.903406,
-        "lng": -74.967081
-      },
+      "latitude": 39.903406,
+      "longitude": -74.967081,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2489,10 +2287,8 @@
       "address": "298 Kings Hwy, Cherry Hill, NJ 08034, USA",
       "street": "Kings Highway",
       "zip": "8034",
-      "coordinates": {
-        "lat": 39.931442,
-        "lng": -74.991616
-      },
+      "latitude": 39.931442,
+      "longitude": -74.991616,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2513,10 +2309,8 @@
       "address": "500 Lexington Ave, Clifton, NJ 07011, USA",
       "street": "500 Lexington Avenue",
       "zip": "7011",
-      "coordinates": {
-        "lat": 40.877543,
-        "lng": -74.134225
-      },
+      "latitude": 40.877543,
+      "longitude": -74.134225,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2537,10 +2331,8 @@
       "address": "900 Clifton Avenue, Clifton, NJ 07013, USA",
       "street": "900 Clifton Avenue",
       "zip": "7013",
-      "coordinates": {
-        "lat": 40.872898,
-        "lng": -74.170138
-      },
+      "latitude": 40.872898,
+      "longitude": -74.170138,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2561,10 +2353,8 @@
       "address": "966 Valley Rd, Clifton, NJ 07013, USA",
       "street": "966 Valley Road",
       "zip": "7013",
-      "coordinates": {
-        "lat": 40.872898,
-        "lng": -74.170138
-      },
+      "latitude": 40.872898,
+      "longitude": -74.170138,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2585,10 +2375,8 @@
       "address": "48 Union Ave, Cresskill, NJ 07626, USA",
       "street": "48 Union Avenue",
       "zip": "7626",
-      "coordinates": {
-        "lat": 40.94149,
-        "lng": -73.9593
-      },
+      "latitude": 40.94149,
+      "longitude": -73.9593,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2609,10 +2397,8 @@
       "address": "501 North Avenue, Dayton, NJ 08810, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.372306,
-        "lng": -74.494889
-      },
+      "latitude": 40.372306,
+      "longitude": -74.494889,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2633,10 +2419,8 @@
       "address": "140 Morris Avenue, Denville, NJ 07834, USA",
       "street": "140 Morris Avenue",
       "zip": "7834",
-      "coordinates": {
-        "lat": 40.881248,
-        "lng": -74.489349
-      },
+      "latitude": 40.881248,
+      "longitude": -74.489349,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2657,10 +2441,8 @@
       "address": "89 US 46, Denville, NJ 07834, USA",
       "street": "89 US 46",
       "zip": "7834",
-      "coordinates": {
-        "lat": 40.881248,
-        "lng": -74.489349
-      },
+      "latitude": 40.881248,
+      "longitude": -74.489349,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2681,10 +2463,8 @@
       "address": "51 Arthur St, East Brunswick, NJ 08816, USA",
       "street": "51 Arthur Street",
       "zip": "8816",
-      "coordinates": {
-        "lat": 40.432562,
-        "lng": -74.389522
-      },
+      "latitude": 40.432562,
+      "longitude": -74.389522,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2705,10 +2485,8 @@
       "address": "194 State Rte 10 E, East Hanover, NJ 07936, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.809934,
-        "lng": -74.375654
-      },
+      "latitude": 40.809934,
+      "longitude": -74.375654,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2729,10 +2507,8 @@
       "address": "200 Murray Hill Pkwy, East Rutherford, NJ 07073, USA",
       "street": "200 Murray Hill Parkway",
       "zip": "7073",
-      "coordinates": {
-        "lat": 40.823348,
-        "lng": -74.08655
-      },
+      "latitude": 40.823348,
+      "longitude": -74.08655,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2753,10 +2529,8 @@
       "address": "2 Lincoln Hwy, Edison, NJ 08820, USA",
       "street": "2 Lincoln Highway",
       "zip": "8820",
-      "coordinates": {
-        "lat": 40.576611,
-        "lng": -74.362616
-      },
+      "latitude": 40.576611,
+      "longitude": -74.362616,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2777,10 +2551,8 @@
       "address": "1315 White Horse Pike, Egg Harbor City, NJ 08215, USA",
       "street": "1315 White Horse Pike",
       "zip": "8215",
-      "coordinates": {
-        "lat": 39.523262,
-        "lng": -74.639203
-      },
+      "latitude": 39.523262,
+      "longitude": -74.639203,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2801,10 +2573,8 @@
       "address": "500 Morris Ave, Elizabeth, NJ 07208, USA",
       "street": "500 Morris Avenue",
       "zip": "7208",
-      "coordinates": {
-        "lat": 40.672522,
-        "lng": -74.222746
-      },
+      "latitude": 40.672522,
+      "longitude": -74.222746,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2825,10 +2595,8 @@
       "address": "908 River Drive, Elmwood Park, NJ 07407, USA",
       "street": "908 River Drive",
       "zip": "7026",
-      "coordinates": {
-        "lat": 40.905848,
-        "lng": -74.117736
-      },
+      "latitude": 40.905848,
+      "longitude": -74.117736,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2849,10 +2617,8 @@
       "address": "131 Grand Ave, Englewood, NJ 07631, USA",
       "street": "131 Grand Avenue",
       "zip": "7631",
-      "coordinates": {
-        "lat": 40.888707,
-        "lng": -73.975684
-      },
+      "latitude": 40.888707,
+      "longitude": -73.975684,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2873,10 +2639,8 @@
       "address": "401 Wagaraw Rd, Fair Lawn, NJ 07410, USA",
       "street": "401 Wagaraw Road",
       "zip": "7410",
-      "coordinates": {
-        "lat": 40.94252,
-        "lng": -74.147642
-      },
+      "latitude": 40.94252,
+      "longitude": -74.147642,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2897,10 +2661,8 @@
       "address": "216 Horseneck Rd, Fairfield, NJ 07004, USA",
       "street": "216 Horseneck Road",
       "zip": "7004",
-      "coordinates": {
-        "lat": 40.875591,
-        "lng": -74.313713
-      },
+      "latitude": 40.875591,
+      "longitude": -74.313713,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2921,10 +2683,8 @@
       "address": "226 Adelphia Rd, Farmingdale, NJ 07727, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.202735,
-        "lng": -74.196767
-      },
+      "latitude": 40.202735,
+      "longitude": -74.196767,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2945,10 +2705,8 @@
       "address": "3 Walter E Foran Blvd, Flemington, NJ 08822, USA",
       "street": "3 Walter E. Foran Boulevard",
       "zip": "8822",
-      "coordinates": {
-        "lat": 40.521487,
-        "lng": -74.856219
-      },
+      "latitude": 40.521487,
+      "longitude": -74.856219,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2969,10 +2727,8 @@
       "address": "15 HyacinthFords,NJ 08863, Fords, NJ 08863, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.53139,
-        "lng": -74.31525
-      },
+      "latitude": 40.53139,
+      "longitude": -74.31525,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2993,10 +2749,8 @@
       "address": "480 De Korte Dr, Franklin Lakes, NJ 07417, USA",
       "street": "480 De Korte Drive",
       "zip": "7417",
-      "coordinates": {
-        "lat": 41.01902,
-        "lng": -74.198583
-      },
+      "latitude": 41.01902,
+      "longitude": -74.198583,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3017,10 +2771,8 @@
       "address": "3181 , Franklin Park, NJ 08823, USA",
       "street": "",
       "zip": "8920",
-      "coordinates": {
-        "lat": 40.440604,
-        "lng": -74.560249
-      },
+      "latitude": 40.440604,
+      "longitude": -74.560249,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3041,10 +2793,8 @@
       "address": "3344 Tuckahoe Rd, Franklinville, NJ 08322, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.620224,
-        "lng": -75.001139
-      },
+      "latitude": 39.620224,
+      "longitude": -75.001139,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3065,10 +2815,8 @@
       "address": "4201 US-9, Freehold, NJ 07728, USA",
       "street": "US Highway 9",
       "zip": "7728",
-      "coordinates": {
-        "lat": 40.273594,
-        "lng": -74.293651
-      },
+      "latitude": 40.273594,
+      "longitude": -74.293651,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3089,10 +2837,8 @@
       "address": "21 Harmony Rd, Gibbstown, NJ 08027, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.825837,
-        "lng": -75.266614
-      },
+      "latitude": 39.825837,
+      "longitude": -75.266614,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3113,10 +2859,8 @@
       "address": "350 Delsea Dr N, Glassboro, NJ 08028, USA",
       "street": "350 Delsea Drive North",
       "zip": "8028",
-      "coordinates": {
-        "lat": 39.711,
-        "lng": -75.110115
-      },
+      "latitude": 39.711,
+      "longitude": -75.110115,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3137,10 +2881,8 @@
       "address": "133 Delsea Dr S, Glassboro, NJ 08028, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.692956,
-        "lng": -75.102587
-      },
+      "latitude": 39.692956,
+      "longitude": -75.102587,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3161,10 +2903,8 @@
       "address": "36 Delsea Dr, Glassboro, NJ 08028, USA",
       "street": "36 Delsea Drive North",
       "zip": "8028",
-      "coordinates": {
-        "lat": 39.703715,
-        "lng": -75.106766
-      },
+      "latitude": 39.703715,
+      "longitude": -75.106766,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3185,10 +2925,8 @@
       "address": "403 , Great Meadows, NJ 07838, USA",
       "street": "",
       "zip": "7838",
-      "coordinates": {
-        "lat": 40.888834,
-        "lng": -74.937714
-      },
+      "latitude": 40.888834,
+      "longitude": -74.937714,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3209,10 +2947,8 @@
       "address": "15 Moonachie Rd E, Hackensack, NJ 07601, USA",
       "street": "15 East Moonachie Road",
       "zip": "7601",
-      "coordinates": {
-        "lat": 40.862607,
-        "lng": -74.037165
-      },
+      "latitude": 40.862607,
+      "longitude": -74.037165,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3233,10 +2969,8 @@
       "address": "2994 Mt Ephraim Ave, Haddon Township, NJ 08104, USA",
       "street": "Mount Ephraim Avenue",
       "zip": "8106",
-      "coordinates": {
-        "lat": 39.907041,
-        "lng": -75.0965
-      },
+      "latitude": 39.907041,
+      "longitude": -75.0965,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3257,10 +2991,8 @@
       "address": "2805 Marne Hwy, Hainesport, NJ 08036, USA",
       "street": "2805 Marne Highway",
       "zip": "8036",
-      "coordinates": {
-        "lat": 39.980773,
-        "lng": -74.852335
-      },
+      "latitude": 39.980773,
+      "longitude": -74.852335,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3281,10 +3013,8 @@
       "address": "1617 Cottage St, Hainesport, NJ 08036, USA",
       "street": "1617 South Cottage Street",
       "zip": "8036",
-      "coordinates": {
-        "lat": 39.985278,
-        "lng": -74.82963
-      },
+      "latitude": 39.985278,
+      "longitude": -74.82963,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3305,10 +3035,8 @@
       "address": "1 Fourth Ave, Haskell, NJ 07420, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.028396,
-        "lng": -74.304516
-      },
+      "latitude": 41.028396,
+      "longitude": -74.304516,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3329,10 +3057,8 @@
       "address": "4 Union Ave, Haskell, NJ 07420, USA",
       "street": "4 Union Avenue",
       "zip": "7420",
-      "coordinates": {
-        "lat": 41.028396,
-        "lng": -74.304516
-      },
+      "latitude": 41.028396,
+      "longitude": -74.304516,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3353,10 +3079,8 @@
       "address": "1085 Liberty Ave, Hillside, NJ 07205, USA",
       "street": "1085 Liberty Avenue",
       "zip": "7205",
-      "coordinates": {
-        "lat": 40.691322,
-        "lng": -74.235989
-      },
+      "latitude": 40.691322,
+      "longitude": -74.235989,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3377,10 +3101,8 @@
       "address": "996 Lakewood Farmingdale Rd, Howell, NJ 07731, USA",
       "street": "996 Lakewood Farmingdale Road",
       "zip": "7731",
-      "coordinates": {
-        "lat": 40.128214,
-        "lng": -74.18464
-      },
+      "latitude": 40.128214,
+      "longitude": -74.18464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3401,10 +3123,8 @@
       "address": "420 Chandler Rd, Jackson, NJ 08527, USA",
       "street": "420 Chandler Road",
       "zip": "8527",
-      "coordinates": {
-        "lat": 40.162851,
-        "lng": -74.294778
-      },
+      "latitude": 40.162851,
+      "longitude": -74.294778,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3425,10 +3145,8 @@
       "address": "23 Roberts St, Kendall Park, NJ 08824, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.427593,
-        "lng": -74.550363
-      },
+      "latitude": 40.427593,
+      "longitude": -74.550363,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3449,10 +3167,8 @@
       "address": "3250 , Kendall Park, NJ 08824, USA",
       "street": "",
       "zip": "8824",
-      "coordinates": {
-        "lat": 40.422955,
-        "lng": -74.549761
-      },
+      "latitude": 40.422955,
+      "longitude": -74.549761,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3473,10 +3189,8 @@
       "address": "96 N Dell Ave, Kenvil, NJ 07847, USA",
       "street": "96 North Dell Avenue",
       "zip": "7847",
-      "coordinates": {
-        "lat": 40.890176,
-        "lng": -74.608324
-      },
+      "latitude": 40.890176,
+      "longitude": -74.608324,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3497,10 +3211,8 @@
       "address": "1601 E Elizabeth Ave, Linden, NJ 07036, USA",
       "street": "1601 East Elizabeth Avenue",
       "zip": "7036",
-      "coordinates": {
-        "lat": 40.646153,
-        "lng": -74.236499
-      },
+      "latitude": 40.646153,
+      "longitude": -74.236499,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3521,10 +3233,8 @@
       "address": "1301 East Elizabeth, Linden, NJ 07036, USA",
       "street": "1301 East Elizabeth Avenue",
       "zip": "7036",
-      "coordinates": {
-        "lat": 40.626953,
-        "lng": -74.250939
-      },
+      "latitude": 40.626953,
+      "longitude": -74.250939,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3545,10 +3255,8 @@
       "address": "612 W Mt Pleasant Ave, Livingston, NJ 07039, USA",
       "street": "612 West Mount Pleasant Avenue",
       "zip": "7039",
-      "coordinates": {
-        "lat": 40.799463,
-        "lng": -74.35681
-      },
+      "latitude": 40.799463,
+      "longitude": -74.35681,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3569,10 +3277,8 @@
       "address": "20 Richmond St, Lodi, NJ 07644, USA",
       "street": "20 Richmond Street",
       "zip": "7644",
-      "coordinates": {
-        "lat": 40.867776,
-        "lng": -74.092896
-      },
+      "latitude": 40.867776,
+      "longitude": -74.092896,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3593,10 +3299,8 @@
       "address": "525 Riverside Ave, Lyndhurst, NJ 07071, USA",
       "street": "Riverside Avenue",
       "zip": "7071",
-      "coordinates": {
-        "lat": 40.799549,
-        "lng": -74.116517
-      },
+      "latitude": 40.799549,
+      "longitude": -74.116517,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3617,10 +3321,8 @@
       "address": "149 Copeland Ave, Lyndhurst, NJ 07071, USA",
       "street": "149 Copeland Avenue",
       "zip": "7071",
-      "coordinates": {
-        "lat": 40.809085,
-        "lng": -74.135163
-      },
+      "latitude": 40.809085,
+      "longitude": -74.135163,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3641,10 +3343,8 @@
       "address": "132 Main St, Manasquan, NJ 08736, USA",
       "street": "132 Main Street",
       "zip": "8736",
-      "coordinates": {
-        "lat": 40.123192,
-        "lng": -74.050007
-      },
+      "latitude": 40.123192,
+      "longitude": -74.050007,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3665,10 +3365,8 @@
       "address": "180 Frederick Ave, Maple Shade, NJ 08052, USA",
       "street": "180 Frederick Avenue",
       "zip": "8052",
-      "coordinates": {
-        "lat": 39.948116,
-        "lng": -75.006729
-      },
+      "latitude": 39.948116,
+      "longitude": -75.006729,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3689,10 +3387,8 @@
       "address": "33 E Rudderow Ave, Maple Shade, NJ 08052, USA",
       "street": "33 East Rudderow Avenue",
       "zip": "8052",
-      "coordinates": {
-        "lat": 39.944004,
-        "lng": -74.991825
-      },
+      "latitude": 39.944004,
+      "longitude": -74.991825,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3713,10 +3409,8 @@
       "address": "318 A St, Middlesex, NJ 08846, USA",
       "street": "318 A Street",
       "zip": "8846",
-      "coordinates": {
-        "lat": 40.564221,
-        "lng": -74.518754
-      },
+      "latitude": 40.564221,
+      "longitude": -74.518754,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3737,10 +3431,8 @@
       "address": "238 Main St, Millburn, NJ 07041, USA",
       "street": "238 Main Street",
       "zip": "7041",
-      "coordinates": {
-        "lat": 40.717287,
-        "lng": -74.307854
-      },
+      "latitude": 40.717287,
+      "longitude": -74.307854,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3761,10 +3453,8 @@
       "address": "1265 Swedesboro, Monroeville, NJ 08343, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.629004,
-        "lng": -75.159347
-      },
+      "latitude": 39.629004,
+      "longitude": -75.159347,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3785,10 +3475,8 @@
       "address": "223 Harrison Ave, Montclair, NJ 07042, USA",
       "street": "223 Harrison Avenue",
       "zip": "7042",
-      "coordinates": {
-        "lat": 40.796334,
-        "lng": -74.227385
-      },
+      "latitude": 40.796334,
+      "longitude": -74.227385,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3809,10 +3497,8 @@
       "address": "14 Burnham Rd, Morris Plains, NJ 07950, USA",
       "street": "14 Burnham Road",
       "zip": "7950",
-      "coordinates": {
-        "lat": 40.822486,
-        "lng": -74.489801
-      },
+      "latitude": 40.822486,
+      "longitude": -74.489801,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3833,10 +3519,8 @@
       "address": "115 Schoolhouse Ln, Mount Laurel, NJ 08054, USA",
       "street": "115 Schoolhouse Lane",
       "zip": "8054",
-      "coordinates": {
-        "lat": 39.925399,
-        "lng": -74.973286
-      },
+      "latitude": 39.925399,
+      "longitude": -74.973286,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3857,10 +3541,8 @@
       "address": "350 , Mountain Lakes, NJ 07046, USA",
       "street": "",
       "zip": "7046",
-      "coordinates": {
-        "lat": 40.890502,
-        "lng": -74.440898
-      },
+      "latitude": 40.890502,
+      "longitude": -74.440898,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3881,10 +3563,8 @@
       "address": "7 Netcong Heights, Netcong, NJ 07857, USA",
       "street": "Netcong Heights",
       "zip": "7857",
-      "coordinates": {
-        "lat": 40.897808,
-        "lng": -74.700159
-      },
+      "latitude": 40.897808,
+      "longitude": -74.700159,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3905,10 +3585,8 @@
       "address": "205 Hamilton Street, New Brunswick, NJ 08901, USA",
       "street": "205 Hamilton Street",
       "zip": "8901",
-      "coordinates": {
-        "lat": 40.486754,
-        "lng": -74.444395
-      },
+      "latitude": 40.486754,
+      "longitude": -74.444395,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3929,10 +3607,8 @@
       "address": "314 Handy St, New Brunswick, NJ 08901, USA",
       "street": "314 Handy Street",
       "zip": "8901",
-      "coordinates": {
-        "lat": 40.483469,
-        "lng": -74.44143
-      },
+      "latitude": 40.483469,
+      "longitude": -74.44143,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3953,10 +3629,8 @@
       "address": "414 Raymond Blvd, Newark, NJ 07105, USA",
       "street": "414 Raymond Boulevard",
       "zip": "7105",
-      "coordinates": {
-        "lat": 40.733894,
-        "lng": -74.138034
-      },
+      "latitude": 40.733894,
+      "longitude": -74.138034,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3977,10 +3651,8 @@
       "address": "500 Elizabeth Avenue, North Brunswick, NJ 08902, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.437705,
-        "lng": -74.488547
-      },
+      "latitude": 40.437705,
+      "longitude": -74.488547,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4001,10 +3673,8 @@
       "address": "965 Belmont Ave, North Haledon, NJ 07508, USA",
       "street": "965 Belmont Avenue",
       "zip": "7508",
-      "coordinates": {
-        "lat": 40.955436,
-        "lng": -74.190464
-      },
+      "latitude": 40.955436,
+      "longitude": -74.190464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4025,10 +3695,8 @@
       "address": "659 Belmont Ave, North Haledon, NJ 07508, USA",
       "street": "659 Belmont Avenue",
       "zip": "7508",
-      "coordinates": {
-        "lat": 40.946853,
-        "lng": -74.188712
-      },
+      "latitude": 40.946853,
+      "longitude": -74.188712,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4049,10 +3717,8 @@
       "address": "2 Shelter Ln, Oakland, NJ 07436, USA",
       "street": "2 Shelter Lane",
       "zip": "7436",
-      "coordinates": {
-        "lat": 41.026763,
-        "lng": -74.234361
-      },
+      "latitude": 41.026763,
+      "longitude": -74.234361,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4073,10 +3739,8 @@
       "address": "292 Old Tappan, Old Tappan, NJ 07675, USA",
       "street": "292 Old Tappan Road",
       "zip": "7675",
-      "coordinates": {
-        "lat": 41.010109,
-        "lng": -73.985394
-      },
+      "latitude": 41.010109,
+      "longitude": -73.985394,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4097,10 +3761,8 @@
       "address": "213 W Broad St, Palmyra, NJ 08065, USA",
       "street": "213 West Broad Street",
       "zip": "8065",
-      "coordinates": {
-        "lat": 40.002557,
-        "lng": -75.024937
-      },
+      "latitude": 40.002557,
+      "longitude": -75.024937,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4121,10 +3783,8 @@
       "address": "299 Paramus R.d, Paramus, NJ 07652, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.944997,
-        "lng": -74.068964
-      },
+      "latitude": 40.944997,
+      "longitude": -74.068964,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4145,10 +3805,8 @@
       "address": "1 Jockish Sq W, Paramus, NJ 07652, USA",
       "street": "1 West Jockish Square",
       "zip": "7652",
-      "coordinates": {
-        "lat": 40.92605,
-        "lng": -74.069987
-      },
+      "latitude": 40.92605,
+      "longitude": -74.069987,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4169,10 +3827,8 @@
       "address": "649 Littleton Rd, Parsippany, NJ 07054, USA",
       "street": "649 Littleton Road",
       "zip": "7054",
-      "coordinates": {
-        "lat": 40.864631,
-        "lng": -74.436763
-      },
+      "latitude": 40.864631,
+      "longitude": -74.436763,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4193,10 +3849,8 @@
       "address": "23 8th St, Passaic, NJ 07055, USA",
       "street": "23 8th Street",
       "zip": "7055",
-      "coordinates": {
-        "lat": 40.855711,
-        "lng": -74.10972
-      },
+      "latitude": 40.855711,
+      "longitude": -74.10972,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4217,10 +3871,8 @@
       "address": "452 Paulison Ave, Passaic, NJ 07055, USA",
       "street": "452 Paulison Avenue",
       "zip": "7055",
-      "coordinates": {
-        "lat": 40.861787,
-        "lng": -74.137486
-      },
+      "latitude": 40.861787,
+      "longitude": -74.137486,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4241,10 +3893,8 @@
       "address": "305 BroadwayPassaic,NJ 07055, Passaic, NJ 07055, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.855103,
-        "lng": -74.126916
-      },
+      "latitude": 40.855103,
+      "longitude": -74.126916,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4265,10 +3915,8 @@
       "address": "145 Lexington Ave, Passaic, NJ 07055, USA",
       "street": "145 Lexington Avenue",
       "zip": "7055",
-      "coordinates": {
-        "lat": 40.867041,
-        "lng": -74.127479
-      },
+      "latitude": 40.867041,
+      "longitude": -74.127479,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4289,10 +3937,8 @@
       "address": "503 Paulison Ave, Passaic, NJ 07055, USA",
       "street": "503 Paulison Avenue",
       "zip": "7055",
-      "coordinates": {
-        "lat": 40.863106,
-        "lng": -74.140673
-      },
+      "latitude": 40.863106,
+      "longitude": -74.140673,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4313,10 +3959,8 @@
       "address": "185 6th Ave, Paterson, NJ 07524, USA",
       "street": "185 6th Avenue",
       "zip": "7524",
-      "coordinates": {
-        "lat": 40.933654,
-        "lng": -74.157323
-      },
+      "latitude": 40.933654,
+      "longitude": -74.157323,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4337,10 +3981,8 @@
       "address": "80 Holsman St, Paterson, NJ 07522, USA",
       "street": "80 Holsman Street",
       "zip": "7522",
-      "coordinates": {
-        "lat": 40.926953,
-        "lng": -74.168311
-      },
+      "latitude": 40.926953,
+      "longitude": -74.168311,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4361,10 +4003,8 @@
       "address": "199 S Virginia Ave, Penns Grove, NJ 08069, USA",
       "street": "199 South Virginia Avenue",
       "zip": "8069",
-      "coordinates": {
-        "lat": 39.720256,
-        "lng": -75.467652
-      },
+      "latitude": 39.720256,
+      "longitude": -75.467652,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4385,10 +4025,8 @@
       "address": "447 Smith St, Perth Amboy, NJ 08861, USA",
       "street": "447 Smith Street",
       "zip": "8861",
-      "coordinates": {
-        "lat": 40.512307,
-        "lng": -74.2823
-      },
+      "latitude": 40.512307,
+      "longitude": -74.2823,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4409,10 +4047,8 @@
       "address": "200 Sherman St, Perth Amboy, NJ 08861, USA",
       "street": "200 Sherman Street",
       "zip": "8861",
-      "coordinates": {
-        "lat": 40.508749,
-        "lng": -74.281399
-      },
+      "latitude": 40.508749,
+      "longitude": -74.281399,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4433,10 +4069,8 @@
       "address": "847 Harned St, Perth Amboy, NJ 08861, USA",
       "street": "847 Harned Street",
       "zip": "8861",
-      "coordinates": {
-        "lat": 40.532525,
-        "lng": -74.284179
-      },
+      "latitude": 40.532525,
+      "longitude": -74.284179,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4457,10 +4091,8 @@
       "address": "1227 E Front St, Plainfield, NJ 07062, USA",
       "street": "1227 East Front Street",
       "zip": "7062",
-      "coordinates": {
-        "lat": 40.638245,
-        "lng": -74.414395
-      },
+      "latitude": 40.638245,
+      "longitude": -74.414395,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4481,10 +4113,8 @@
       "address": "1011 South Avenue, Plainfield, NJ 07062, USA",
       "street": "South Avenue",
       "zip": "7076",
-      "coordinates": {
-        "lat": 40.632252,
-        "lng": -74.399736
-      },
+      "latitude": 40.632252,
+      "longitude": -74.399736,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4505,10 +4135,8 @@
       "address": "413 Arnold Avenue, Point Pleasant Beach, NJ 08742, USA",
       "street": "413 Arnold Avenue",
       "zip": "8742",
-      "coordinates": {
-        "lat": 40.089386,
-        "lng": -74.084423
-      },
+      "latitude": 40.089386,
+      "longitude": -74.084423,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4529,10 +4157,8 @@
       "address": "65 Raritan Ave, Raritan, NJ 08896, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.566553,
-        "lng": -74.599801
-      },
+      "latitude": 40.566553,
+      "longitude": -74.599801,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4553,10 +4179,8 @@
       "address": "1 Remsen Pl, Ridgefield, NJ 07657, USA",
       "street": "1 Remsen Place",
       "zip": "7657",
-      "coordinates": {
-        "lat": 40.832281,
-        "lng": -74.011004
-      },
+      "latitude": 40.832281,
+      "longitude": -74.011004,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4577,10 +4201,8 @@
       "address": "373 State Rte 31 N, Ringoes, NJ 08551, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.393586,
-        "lng": -74.836724
-      },
+      "latitude": 40.393586,
+      "longitude": -74.836724,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4601,10 +4223,8 @@
       "address": "100 W Manor Way, Robbinsville, NJ 08691, USA",
       "street": "100 West Manor Way",
       "zip": "8691",
-      "coordinates": {
-        "lat": 40.197461,
-        "lng": -74.59012
-      },
+      "latitude": 40.197461,
+      "longitude": -74.59012,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4625,10 +4245,8 @@
       "address": "524 Green Pond Rd, Rockaway, NJ 07866, USA",
       "street": "524 Green Pond Road",
       "zip": "7866",
-      "coordinates": {
-        "lat": 40.96385,
-        "lng": -74.494046
-      },
+      "latitude": 40.96385,
+      "longitude": -74.494046,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4649,10 +4267,8 @@
       "address": "155 Roseland Avenue, Roseland, NJ 07068, USA",
       "street": "155 Roseland Avenue",
       "zip": "7006",
-      "coordinates": {
-        "lat": 40.820499,
-        "lng": -74.306093
-      },
+      "latitude": 40.820499,
+      "longitude": -74.306093,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4673,10 +4289,8 @@
       "address": "547 E 1st Ave, Roselle, NJ 07203, USA",
       "street": "547 East 1st Avenue",
       "zip": "7203",
-      "coordinates": {
-        "lat": 40.662138,
-        "lng": -74.249758
-      },
+      "latitude": 40.662138,
+      "longitude": -74.249758,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4697,10 +4311,8 @@
       "address": "290 County Ave, Secaucus, NJ 07094, USA",
       "street": "290 County Avenue",
       "zip": "7094",
-      "coordinates": {
-        "lat": 40.773978,
-        "lng": -74.063209
-      },
+      "latitude": 40.773978,
+      "longitude": -74.063209,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4721,10 +4333,8 @@
       "address": "525 Williamstown Rd, Sicklerville, NJ 08081, USA",
       "street": "Williamstown Road",
       "zip": "8094",
-      "coordinates": {
-        "lat": 39.716693,
-        "lng": -74.96997
-      },
+      "latitude": 39.716693,
+      "longitude": -74.96997,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4745,10 +4355,8 @@
       "address": "438 Williamstown Rd, Sicklerville, NJ 08081, USA",
       "street": "438 Williamstown Road",
       "zip": "8081",
-      "coordinates": {
-        "lat": 39.711682,
-        "lng": -74.974924
-      },
+      "latitude": 39.711682,
+      "longitude": -74.974924,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4769,10 +4377,8 @@
       "address": "581 Williamstown Rd, Sicklerville, NJ 08081, USA",
       "street": "581 Williamstown Road",
       "zip": "8081",
-      "coordinates": {
-        "lat": 39.713078,
-        "lng": -74.973236
-      },
+      "latitude": 39.713078,
+      "longitude": -74.973236,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4793,10 +4399,8 @@
       "address": "650 Franklin Blvd, Somerset, NJ 08873, USA",
       "street": "650 Franklin Boulevard",
       "zip": "8873",
-      "coordinates": {
-        "lat": 40.487466,
-        "lng": -74.482719
-      },
+      "latitude": 40.487466,
+      "longitude": -74.482719,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4817,10 +4421,8 @@
       "address": "658 Franklin Blvd, Somerset, NJ 08873, USA",
       "street": "658 Franklin Boulevard",
       "zip": "8873",
-      "coordinates": {
-        "lat": 40.486862,
-        "lng": -74.48278
-      },
+      "latitude": 40.486862,
+      "longitude": -74.48278,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4841,10 +4443,8 @@
       "address": "752 Hamilton St, Somerset, NJ 08873, USA",
       "street": "752 Hamilton Street",
       "zip": "8873",
-      "coordinates": {
-        "lat": 40.490197,
-        "lng": -74.474637
-      },
+      "latitude": 40.490197,
+      "longitude": -74.474637,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4865,10 +4465,8 @@
       "address": "1200 Somerset Street, Somerset, NJ 08875, USA",
       "street": "Somerset Street",
       "zip": "8874",
-      "coordinates": {
-        "lat": 40.580918,
-        "lng": -74.711731
-      },
+      "latitude": 40.580918,
+      "longitude": -74.711731,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4889,10 +4487,8 @@
       "address": "585 Somerset Street, Somerset, NJ 08873, USA",
       "street": "585 Somerset Street",
       "zip": "8873",
-      "coordinates": {
-        "lat": 40.491002,
-        "lng": -74.523648
-      },
+      "latitude": 40.491002,
+      "longitude": -74.523648,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4913,10 +4509,8 @@
       "address": "1483 SR-27, Somerset, NJ 08873, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.491002,
-        "lng": -74.523648
-      },
+      "latitude": 40.491002,
+      "longitude": -74.523648,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4937,10 +4531,8 @@
       "address": "2 JFK BlvdSomerset, Somerset, NJ 08873, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.491002,
-        "lng": -74.523648
-      },
+      "latitude": 40.491002,
+      "longitude": -74.523648,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4961,10 +4553,8 @@
       "address": "203 Main St, South Bound Brook, NJ 08880, USA",
       "street": "203 Main Street",
       "zip": "8880",
-      "coordinates": {
-        "lat": 40.548829,
-        "lng": -74.520684
-      },
+      "latitude": 40.548829,
+      "longitude": -74.520684,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4985,10 +4575,8 @@
       "address": "882 Kenneth Ave, South Plainfield, NJ 07080, USA",
       "street": "882 Kenneth Avenue",
       "zip": "7080",
-      "coordinates": {
-        "lat": 40.567266,
-        "lng": -74.405825
-      },
+      "latitude": 40.567266,
+      "longitude": -74.405825,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5009,10 +4597,8 @@
       "address": "700 Rt 57, Stewartsville, NJ 08886, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.717349,
-        "lng": -75.072957
-      },
+      "latitude": 40.717349,
+      "longitude": -75.072957,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5033,10 +4619,8 @@
       "address": "336 Morris Ave, Summit, NJ 07901, USA",
       "street": "Morris Avenue",
       "zip": "7901",
-      "coordinates": {
-        "lat": 40.716477,
-        "lng": -74.36352
-      },
+      "latitude": 40.716477,
+      "longitude": -74.36352,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5057,10 +4641,8 @@
       "address": "142 Broad St, Summit, NJ 07901, USA",
       "street": "142 Broad Street",
       "zip": "7901",
-      "coordinates": {
-        "lat": 40.713632,
-        "lng": -74.343526
-      },
+      "latitude": 40.713632,
+      "longitude": -74.343526,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5081,10 +4663,8 @@
       "address": "1382 River Rd, Titusville, NJ 08560, USA",
       "street": "1382 River Road",
       "zip": "8560",
-      "coordinates": {
-        "lat": 40.311826,
-        "lng": -74.863858
-      },
+      "latitude": 40.311826,
+      "longitude": -74.863858,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5105,10 +4685,8 @@
       "address": "2 Kennedy Rd, Tranquility, NJ 07879, USA",
       "street": "2 Kennedy Road",
       "zip": "7821",
-      "coordinates": {
-        "lat": 40.952848,
-        "lng": -74.805065
-      },
+      "latitude": 40.952848,
+      "longitude": -74.805065,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5129,10 +4707,8 @@
       "address": "110 Nottinghill Ln, Trenton, NJ 08619, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.2171,
-        "lng": -74.710144
-      },
+      "latitude": 40.2171,
+      "longitude": -74.710144,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5153,10 +4729,8 @@
       "address": "3291 E State Street Ext, Trenton, NJ 08619, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.243115,
-        "lng": -74.703043
-      },
+      "latitude": 40.243115,
+      "longitude": -74.703043,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5177,10 +4751,8 @@
       "address": "526 S Olden Ave, Trenton, NJ 08629, USA",
       "street": "526 South Olden Avenue",
       "zip": "8629",
-      "coordinates": {
-        "lat": 40.219753,
-        "lng": -74.732652
-      },
+      "latitude": 40.219753,
+      "longitude": -74.732652,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5201,10 +4773,8 @@
       "address": "52 Lafayette Ave, Trenton, NJ 08610, USA",
       "street": "Lafayette Avenue",
       "zip": "8628",
-      "coordinates": {
-        "lat": 40.199078,
-        "lng": -74.733089
-      },
+      "latitude": 40.199078,
+      "longitude": -74.733089,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5225,10 +4795,8 @@
       "address": "1404 Stuyvesant Ave, Union, NJ 07083, USA",
       "street": "1404 Stuyvesant Avenue",
       "zip": "7083",
-      "coordinates": {
-        "lat": 40.704632,
-        "lng": -74.262202
-      },
+      "latitude": 40.704632,
+      "longitude": -74.262202,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5249,10 +4817,8 @@
       "address": "101 Reinman Rd, Warren, NJ 07059, USA",
       "street": "101 Reinman Road",
       "zip": "7059",
-      "coordinates": {
-        "lat": 40.644203,
-        "lng": -74.482419
-      },
+      "latitude": 40.644203,
+      "longitude": -74.482419,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5273,10 +4839,8 @@
       "address": "867 Black Oak Ridge Rd, Wayne, NJ 07470, USA",
       "street": "867 Black Oak Ridge Road",
       "zip": "7470",
-      "coordinates": {
-        "lat": 40.968943,
-        "lng": -74.27104
-      },
+      "latitude": 40.968943,
+      "longitude": -74.27104,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5297,10 +4861,8 @@
       "address": "3 Lenape Trl, Wenonah, NJ 08090, USA",
       "street": "3 Lenape Trail",
       "zip": "8090",
-      "coordinates": {
-        "lat": 39.790887,
-        "lng": -75.141733
-      },
+      "latitude": 39.790887,
+      "longitude": -75.141733,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5321,10 +4883,8 @@
       "address": "1 Henderson Dr, West Caldwell, NJ 07006, USA",
       "street": "1 Henderson Drive",
       "zip": "7006",
-      "coordinates": {
-        "lat": 40.857039,
-        "lng": -74.305561
-      },
+      "latitude": 40.857039,
+      "longitude": -74.305561,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5345,10 +4905,8 @@
       "address": "686 Passaic Ave, West Caldwell, NJ 07006, USA",
       "street": "686 Passaic Avenue",
       "zip": "7006",
-      "coordinates": {
-        "lat": 40.856531,
-        "lng": -74.289522
-      },
+      "latitude": 40.856531,
+      "longitude": -74.289522,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5369,10 +4927,8 @@
       "address": "6500 J F Kennedy Blvd W, West New York, NJ 07093, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.794712,
-        "lng": -74.017187
-      },
+      "latitude": 40.794712,
+      "longitude": -74.017187,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5393,10 +4949,8 @@
       "address": "300 Pleasant Valley Way, West Orange, NJ 07052, USA",
       "street": "300 Pleasant Valley Way",
       "zip": "7052",
-      "coordinates": {
-        "lat": 40.814555,
-        "lng": -74.256222
-      },
+      "latitude": 40.814555,
+      "longitude": -74.256222,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5417,10 +4971,8 @@
       "address": "270 Prospect Ave, West Orange, NJ 07052, USA",
       "street": "270 Prospect Avenue",
       "zip": "7044",
-      "coordinates": {
-        "lat": 40.802207,
-        "lng": -74.248315
-      },
+      "latitude": 40.802207,
+      "longitude": -74.248315,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5441,10 +4993,8 @@
       "address": "590 Mt Pleasant Ave, West Orange, NJ 07052, USA",
       "street": "590 Mount Pleasant Avenue",
       "zip": "7052",
-      "coordinates": {
-        "lat": 40.790444,
-        "lng": -74.278729
-      },
+      "latitude": 40.790444,
+      "longitude": -74.278729,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5465,10 +5015,8 @@
       "address": "19 Central Ave, West Orange, NJ 07052, USA",
       "street": "Central Avenue",
       "zip": "7052",
-      "coordinates": {
-        "lat": 40.769844,
-        "lng": -74.243197
-      },
+      "latitude": 40.769844,
+      "longitude": -74.243197,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5489,10 +5037,8 @@
       "address": "301 Old Hook Rd, Westwood, NJ 07675, USA",
       "street": "301 Old Hook Road",
       "zip": "7675",
-      "coordinates": {
-        "lat": 40.982869,
-        "lng": -74.01226
-      },
+      "latitude": 40.982869,
+      "longitude": -74.01226,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5513,10 +5059,8 @@
       "address": "350 N Main St, Wharton, NJ 07885, USA",
       "street": "350 North Main Street",
       "zip": "7885",
-      "coordinates": {
-        "lat": 40.909715,
-        "lng": -74.578748
-      },
+      "latitude": 40.909715,
+      "longitude": -74.578748,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5537,10 +5081,8 @@
       "address": "748 Sicklerville Rd, Williamstown, NJ 08094, USA",
       "street": "748 Sicklerville Road",
       "zip": "8094",
-      "coordinates": {
-        "lat": 39.698832,
-        "lng": -74.985058
-      },
+      "latitude": 39.698832,
+      "longitude": -74.985058,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5561,10 +5103,8 @@
       "address": "30 Andrews Dr, Woodland Park, NJ 07424, USA",
       "street": "30 Andrews Drive",
       "zip": "7424",
-      "coordinates": {
-        "lat": 40.887464,
-        "lng": -74.213029
-      },
+      "latitude": 40.887464,
+      "longitude": -74.213029,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -5585,10 +5125,8 @@
       "address": "357 Hil Ray Ave, Wyckoff, NJ 07481, USA",
       "street": "357 Hil Ray Avenue",
       "zip": "7481",
-      "coordinates": {
-        "lat": 40.978519,
-        "lng": -74.15088
-      },
+      "latitude": 40.978519,
+      "longitude": -74.15088,
       "acceptedMaterials": [
         "Clothing",
         "Linen",

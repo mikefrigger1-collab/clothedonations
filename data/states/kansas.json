@@ -13,10 +13,8 @@
       "address": "13509 S Mur-Len Rd #125a, Olathe, KS 66062, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.882565,
-        "lng": -94.779425
-      },
+      "latitude": 38.882565,
+      "longitude": -94.779425,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -40,10 +38,8 @@
       "address": "5441 W 95th St, Overland Park, KS 66207, USA",
       "street": "5441 West 95th Street",
       "zip": "66207",
-      "coordinates": {
-        "lat": 38.956067,
-        "lng": -94.647699
-      },
+      "latitude": 38.956067,
+      "longitude": -94.647699,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -67,10 +63,8 @@
       "address": "13233 Shawnee Mission Pkwy, Shawnee, KS 66216, USA",
       "street": "13233 Shawnee Mission Parkway",
       "zip": "66216",
-      "coordinates": {
-        "lat": 39.013293,
-        "lng": -94.739557
-      },
+      "latitude": 39.013293,
+      "longitude": -94.739557,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -94,10 +88,8 @@
       "address": "2545 10th St, Great Bend, KS 67530, USA",
       "street": "2545 10th Street",
       "zip": "67530",
-      "coordinates": {
-        "lat": 38.361072,
-        "lng": -98.773977
-      },
+      "latitude": 38.361072,
+      "longitude": -98.773977,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -119,10 +111,8 @@
       "address": "401 Choctaw St, Leavenworth, KS 66048, USA",
       "street": "401 Choctaw Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.316044,
-        "lng": -94.914746
-      },
+      "latitude": 39.316044,
+      "longitude": -94.914746,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -144,10 +134,8 @@
       "address": "6219 Johnson Dr, Mission, KS 66202, USA",
       "street": "6219 Johnson Drive",
       "zip": "66202",
-      "coordinates": {
-        "lat": 39.021698,
-        "lng": -94.657871
-      },
+      "latitude": 39.021698,
+      "longitude": -94.657871,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -169,10 +157,8 @@
       "address": "1223 E Santa Fe St, Olathe, KS 66061, USA",
       "street": "1223 East Santa Fe Street",
       "zip": "66061",
-      "coordinates": {
-        "lat": 38.882564,
-        "lng": -94.798695
-      },
+      "latitude": 38.882564,
+      "longitude": -94.798695,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -194,10 +180,8 @@
       "address": "11421 Metcalf Ave, Overland Park, KS 66210, USA",
       "street": "11421 Metcalf Avenue",
       "zip": "66210",
-      "coordinates": {
-        "lat": 38.918721,
-        "lng": -94.665784
-      },
+      "latitude": 38.918721,
+      "longitude": -94.665784,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -219,10 +203,8 @@
       "address": "2905 SW Topeka Blvd, Topeka, KS 66611, USA",
       "street": "2905 Southwest Topeka Boulevard",
       "zip": "66611",
-      "coordinates": {
-        "lat": 39.014528,
-        "lng": -95.689271
-      },
+      "latitude": 39.014528,
+      "longitude": -95.689271,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -244,10 +226,8 @@
       "address": "2804 Hiawatha St, Kansas City, KS 66104, USA",
       "street": "2804 Hiawatha Street",
       "zip": "66104",
-      "coordinates": {
-        "lat": 39.136464,
-        "lng": -94.650322
-      },
+      "latitude": 39.136464,
+      "longitude": -94.650322,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -266,10 +246,8 @@
       "address": "3200 Shrine Park Rd, Leavenworth, KS 66048, USA",
       "street": "Shrine Park Road",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.283485,
-        "lng": -94.921119
-      },
+      "latitude": 39.283485,
+      "longitude": -94.921119,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -288,10 +266,8 @@
       "address": "4501 S 4th St, Leavenworth, KS 66048, USA",
       "street": "4501 South 4th Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.273337,
-        "lng": -94.898996
-      },
+      "latitude": 39.273337,
+      "longitude": -94.898996,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -310,10 +286,8 @@
       "address": "12022 W 95th St, Lenexa, KS 66215, USA",
       "street": "12022 West 95th Street",
       "zip": "66215",
-      "coordinates": {
-        "lat": 38.957944,
-        "lng": -94.725507
-      },
+      "latitude": 38.957944,
+      "longitude": -94.725507,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -332,10 +306,8 @@
       "address": "8820 W 63rd St, Merriam, KS 66202, USA",
       "street": "8820 Shawnee Mission Parkway",
       "zip": "66202",
-      "coordinates": {
-        "lat": 39.015277,
-        "lng": -94.689167
-      },
+      "latitude": 39.015277,
+      "longitude": -94.689167,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -354,10 +326,8 @@
       "address": "8817 Shawnee Mission Pkwy, Mission, KS 66202, USA",
       "street": "Shawnee Mission Parkway",
       "zip": "66202",
-      "coordinates": {
-        "lat": 39.014482,
-        "lng": -94.688923
-      },
+      "latitude": 39.014482,
+      "longitude": -94.688923,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -376,10 +346,8 @@
       "address": "6800 W 64th St, Mission, KS 66202, USA",
       "street": "West 64th Street",
       "zip": "66208",
-      "coordinates": {
-        "lat": 39.012596,
-        "lng": -94.664826
-      },
+      "latitude": 39.012596,
+      "longitude": -94.664826,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -398,10 +366,8 @@
       "address": "1200 E 151st St, Olathe, KS 66062, USA",
       "street": "1200 East 151st Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.856311,
-        "lng": -94.801205
-      },
+      "latitude": 38.856311,
+      "longitude": -94.801205,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -420,10 +386,8 @@
       "address": "1306 E Santa Fe St, Olathe, KS 66061, USA",
       "street": "1306 East Santa Fe Street",
       "zip": "66061",
-      "coordinates": {
-        "lat": 38.884077,
-        "lng": -94.79655
-      },
+      "latitude": 38.884077,
+      "longitude": -94.79655,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -442,10 +406,8 @@
       "address": "14901 W 117th St, Olathe, KS 66062, USA",
       "street": "14901 West 117th Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.91497,
-        "lng": -94.758885
-      },
+      "latitude": 38.91497,
+      "longitude": -94.758885,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -464,10 +426,8 @@
       "address": "15901 W 127th St, Olathe, KS 66062, USA",
       "street": "15901 West 127th Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.89629,
-        "lng": -94.770736
-      },
+      "latitude": 38.89629,
+      "longitude": -94.770736,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -486,10 +446,8 @@
       "address": "17901 W 119th St, Olathe, KS 66061, USA",
       "street": "17901 West 119th Street",
       "zip": "66061",
-      "coordinates": {
-        "lat": 38.912316,
-        "lng": -94.792989
-      },
+      "latitude": 38.912316,
+      "longitude": -94.792989,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -508,10 +466,8 @@
       "address": "7201 W 75th St, Overland Park, KS 66204, USA",
       "street": "7201 West 75th Street",
       "zip": "66204",
-      "coordinates": {
-        "lat": 38.992816,
-        "lng": -94.669074
-      },
+      "latitude": 38.992816,
+      "longitude": -94.669074,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -530,10 +486,8 @@
       "address": "7967 E Frontage Rd, Overland Park, KS 66204, USA",
       "street": "7967 East Frontage Road",
       "zip": "66204",
-      "coordinates": {
-        "lat": 38.984181,
-        "lng": -94.704435
-      },
+      "latitude": 38.984181,
+      "longitude": -94.704435,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -552,10 +506,8 @@
       "address": "8686 Antioch Rd, Overland Park, KS 66212, USA",
       "street": "8686 Antioch Road",
       "zip": "66204",
-      "coordinates": {
-        "lat": 38.971806,
-        "lng": -94.687509
-      },
+      "latitude": 38.971806,
+      "longitude": -94.687509,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -574,10 +526,8 @@
       "address": "8712 W 151st St, Overland Park, KS 66221, USA",
       "street": "8712 West 151st Street",
       "zip": "66221",
-      "coordinates": {
-        "lat": 38.854985,
-        "lng": -94.687215
-      },
+      "latitude": 38.854985,
+      "longitude": -94.687215,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -596,10 +546,8 @@
       "address": "15150 Shawnee Mission Pkwy, Shawnee, KS 66217, USA",
       "street": "15150 Shawnee Mission Parkway",
       "zip": "66217",
-      "coordinates": {
-        "lat": 39.010132,
-        "lng": -94.762323
-      },
+      "latitude": 39.010132,
+      "longitude": -94.762323,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -618,10 +566,8 @@
       "address": "415 S Andover Rd, Andover, KS 67002, USA",
       "street": "415 South Andover Road",
       "zip": "67002",
-      "coordinates": {
-        "lat": 37.68064,
-        "lng": -97.13621
-      },
+      "latitude": 37.68064,
+      "longitude": -97.13621,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -642,10 +588,8 @@
       "address": "1247 Rainbow Dr, Derby, KS 67037, USA",
       "street": "1247 Rainbow Drive",
       "zip": "67037",
-      "coordinates": {
-        "lat": 37.558123,
-        "lng": -97.245927
-      },
+      "latitude": 37.558123,
+      "longitude": -97.245927,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -666,10 +610,8 @@
       "address": "2336 W Central Ave, El Dorado, KS 67042, USA",
       "street": "2336 West Central Avenue",
       "zip": "67042",
-      "coordinates": {
-        "lat": 37.818521,
-        "lng": -96.881806
-      },
+      "latitude": 37.818521,
+      "longitude": -96.881806,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -690,10 +632,8 @@
       "address": "904 E 12th Ave, Emporia, KS 66801, USA",
       "street": "904 East 12th Avenue",
       "zip": "66801",
-      "coordinates": {
-        "lat": 38.412983,
-        "lng": -96.167158
-      },
+      "latitude": 38.412983,
+      "longitude": -96.167158,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -714,10 +654,8 @@
       "address": "2005 E Kansas Ave, Garden City, KS 67846, USA",
       "street": "2005 East Kansas Avenue",
       "zip": "67846",
-      "coordinates": {
-        "lat": 37.975419,
-        "lng": -100.847184
-      },
+      "latitude": 37.975419,
+      "longitude": -100.847184,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -738,10 +676,8 @@
       "address": "1705 Main St, Great Bend, KS 67530, USA",
       "street": "1705 Main Street",
       "zip": "67530",
-      "coordinates": {
-        "lat": 38.369154,
-        "lng": -98.76534
-      },
+      "latitude": 38.369154,
+      "longitude": -98.76534,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -762,10 +698,8 @@
       "address": "1010 E 43rd St, Hays, KS 67601, USA",
       "street": "East 43rd Street",
       "zip": "96601",
-      "coordinates": {
-        "lat": 38.901181,
-        "lng": -99.316421
-      },
+      "latitude": 38.901181,
+      "longitude": -99.316421,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -786,10 +720,8 @@
       "address": "1707 N Waldron St, Hutchinson, KS 67502, USA",
       "street": "North Waldron Street",
       "zip": "67502",
-      "coordinates": {
-        "lat": 38.075774,
-        "lng": -97.89465
-      },
+      "latitude": 38.075774,
+      "longitude": -97.89465,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -810,10 +742,8 @@
       "address": "1008 W 6th St, Junction City, KS 66441, USA",
       "street": "1008 West 6th Street",
       "zip": "66441",
-      "coordinates": {
-        "lat": 39.028948,
-        "lng": -96.847328
-      },
+      "latitude": 39.028948,
+      "longitude": -96.847328,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -834,10 +764,8 @@
       "address": "2117 S Kansas Ave, Newton, KS 67114, USA",
       "street": "2117 South Kansas Avenue",
       "zip": "67114",
-      "coordinates": {
-        "lat": 38.017078,
-        "lng": -97.337339
-      },
+      "latitude": 38.017078,
+      "longitude": -97.337339,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -858,10 +786,8 @@
       "address": "2640 Planet Ave, Salina, KS 67401, USA",
       "street": "2640 Planet Avenue",
       "zip": "67401",
-      "coordinates": {
-        "lat": 38.792125,
-        "lng": -97.615404
-      },
+      "latitude": 38.792125,
+      "longitude": -97.615404,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -882,10 +808,8 @@
       "address": "3737 N Maize Rd, Wichita, KS 67205, USA",
       "street": "3737 North Maize Road",
       "zip": "67205",
-      "coordinates": {
-        "lat": 37.750554,
-        "lng": -97.463912
-      },
+      "latitude": 37.750554,
+      "longitude": -97.463912,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -906,10 +830,8 @@
       "address": "1625 S Rock Rd, Wichita, KS 67207, USA",
       "street": "1625 South Rock Road",
       "zip": "67207",
-      "coordinates": {
-        "lat": 37.664238,
-        "lng": -97.246114
-      },
+      "latitude": 37.664238,
+      "longitude": -97.246114,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -930,10 +852,8 @@
       "address": "2172 N Amidon Ave, Wichita, KS 67203, USA",
       "street": "2172 North Amidon Avenue",
       "zip": "67203",
-      "coordinates": {
-        "lat": 37.721942,
-        "lng": -97.362145
-      },
+      "latitude": 37.721942,
+      "longitude": -97.362145,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -954,10 +874,8 @@
       "address": "3636 N Oliver Ave, Wichita, KS 67220, USA",
       "street": "3636 North Oliver Avenue",
       "zip": "67220",
-      "coordinates": {
-        "lat": 37.750313,
-        "lng": -97.27928
-      },
+      "latitude": 37.750313,
+      "longitude": -97.27928,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -978,10 +896,8 @@
       "address": "5025 S Broadway, Wichita, KS 67216, USA",
       "street": "5025 South Broadway Avenue",
       "zip": "67216",
-      "coordinates": {
-        "lat": 37.604156,
-        "lng": -97.334675
-      },
+      "latitude": 37.604156,
+      "longitude": -97.334675,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1002,10 +918,8 @@
       "address": "5525 W Central Ave, Wichita, KS 67212, USA",
       "street": "5525 West Central Avenue",
       "zip": "67212",
-      "coordinates": {
-        "lat": 37.693941,
-        "lng": -97.407265
-      },
+      "latitude": 37.693941,
+      "longitude": -97.407265,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1026,10 +940,8 @@
       "address": "1908 E 9th Ave, Winfield, KS 67156, USA",
       "street": "1908 East 9th Avenue",
       "zip": "67156",
-      "coordinates": {
-        "lat": 37.242714,
-        "lng": -96.973513
-      },
+      "latitude": 37.242714,
+      "longitude": -96.973513,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1050,10 +962,8 @@
       "address": "15540 State Ave, Basehor, KS 66007, USA",
       "street": "15540 State Avenue",
       "zip": "66007",
-      "coordinates": {
-        "lat": 39.116855,
-        "lng": -94.940861
-      },
+      "latitude": 39.116855,
+      "longitude": -94.940861,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1074,10 +984,8 @@
       "address": "1206 N 155th St, Basehor, KS 66007, USA",
       "street": "1206 North 155th Street",
       "zip": "66007",
-      "coordinates": {
-        "lat": 39.118346,
-        "lng": -94.939151
-      },
+      "latitude": 39.118346,
+      "longitude": -94.939151,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1098,10 +1006,8 @@
       "address": "603 E Front St, Bonner Springs, KS 66012, USA",
       "street": "603 East Front Street",
       "zip": "66012",
-      "coordinates": {
-        "lat": 39.060047,
-        "lng": -94.876989
-      },
+      "latitude": 39.060047,
+      "longitude": -94.876989,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1122,10 +1028,8 @@
       "address": "501 S Commercial Dr, Bonner Springs, KS 66012, USA",
       "street": "Commercial Drive",
       "zip": "66012",
-      "coordinates": {
-        "lat": 39.087112,
-        "lng": -94.883731
-      },
+      "latitude": 39.087112,
+      "longitude": -94.883731,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1146,10 +1050,8 @@
       "address": "1501 Church Ln, Eudora, KS 66025, USA",
       "street": "Church Lane",
       "zip": "66025",
-      "coordinates": {
-        "lat": 38.932934,
-        "lng": -95.095264
-      },
+      "latitude": 38.932934,
+      "longitude": -95.095264,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1170,10 +1072,8 @@
       "address": "1402 ChurchEudora,KS 66025, Eudora, KS 66025, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.879142,
-        "lng": -95.125903
-      },
+      "latitude": 38.879142,
+      "longitude": -95.125903,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1194,10 +1094,8 @@
       "address": "7347 Leavenworth Rd, Kansas City, KS 66109, USA",
       "street": "Leavenworth Road",
       "zip": "66109",
-      "coordinates": {
-        "lat": 39.142937,
-        "lng": -94.750141
-      },
+      "latitude": 39.142937,
+      "longitude": -94.750141,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1218,10 +1116,8 @@
       "address": "5531 Leavenworth Rd, Kansas City, KS 66104, USA",
       "street": "Leavenworth Road",
       "zip": "66104",
-      "coordinates": {
-        "lat": 39.142702,
-        "lng": -94.707211
-      },
+      "latitude": 39.142702,
+      "longitude": -94.707211,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1242,10 +1138,8 @@
       "address": "6619 Parallel Pkwy, Kansas City, KS 66102, USA",
       "street": "Parallel Parkway",
       "zip": "66102",
-      "coordinates": {
-        "lat": 39.128071,
-        "lng": -94.731818
-      },
+      "latitude": 39.128071,
+      "longitude": -94.731818,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1266,10 +1160,8 @@
       "address": "2425 Metropolitan Ave, Kansas City, KS 66106, USA",
       "street": "2425 Metropolitan Avenue",
       "zip": "66106",
-      "coordinates": {
-        "lat": 39.072969,
-        "lng": -94.65757
-      },
+      "latitude": 39.072969,
+      "longitude": -94.65757,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1290,10 +1182,8 @@
       "address": "2103 S 34th St, Kansas City, KS 66106, USA",
       "street": "2103 South 34th Street",
       "zip": "66106",
-      "coordinates": {
-        "lat": 39.062005,
-        "lng": -94.6675
-      },
+      "latitude": 39.062005,
+      "longitude": -94.6675,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1314,10 +1204,8 @@
       "address": "13815 Polfer Rd, Kansas City, KS 66109, USA",
       "street": "13815 Polfer Road",
       "zip": "66109",
-      "coordinates": {
-        "lat": 39.186564,
-        "lng": -94.899529
-      },
+      "latitude": 39.186564,
+      "longitude": -94.899529,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1338,10 +1226,8 @@
       "address": "520 W 47th St, Kansas City, KS 66103, USA",
       "street": "West 47th Street",
       "zip": "64112",
-      "coordinates": {
-        "lat": 39.044203,
-        "lng": -94.621919
-      },
+      "latitude": 39.044203,
+      "longitude": -94.621919,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1362,10 +1248,8 @@
       "address": "6000 Leavenworth Rd, Kansas City, KS 66104, USA",
       "street": "6000 Leavenworth Road",
       "zip": "66104",
-      "coordinates": {
-        "lat": 39.144728,
-        "lng": -94.718387
-      },
+      "latitude": 39.144728,
+      "longitude": -94.718387,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1386,10 +1270,8 @@
       "address": "7510 State Ave, Kansas City, KS 66112, USA",
       "street": "7510 State Avenue",
       "zip": "66112",
-      "coordinates": {
-        "lat": 39.116898,
-        "lng": -94.752874
-      },
+      "latitude": 39.116898,
+      "longitude": -94.752874,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1410,10 +1292,8 @@
       "address": "2102 Metropolitan Ave, Kansas City, KS 66106, USA",
       "street": "2102 Metropolitan Avenue",
       "zip": "66106",
-      "coordinates": {
-        "lat": 39.07365,
-        "lng": -94.65183
-      },
+      "latitude": 39.07365,
+      "longitude": -94.65183,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1434,10 +1314,8 @@
       "address": "901 Kansas Ave, Kansas City, KS 66105, USA",
       "street": "901 Kansas Avenue",
       "zip": "66105",
-      "coordinates": {
-        "lat": 39.087251,
-        "lng": -94.631878
-      },
+      "latitude": 39.087251,
+      "longitude": -94.631878,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1458,10 +1336,8 @@
       "address": "1999 N 63rd Dr, Kansas City, KS 66102, USA",
       "street": "1999 North 63rd Drive",
       "zip": "66102",
-      "coordinates": {
-        "lat": 39.128699,
-        "lng": -94.726221
-      },
+      "latitude": 39.128699,
+      "longitude": -94.726221,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1482,10 +1358,8 @@
       "address": "3129 State Ave, Kansas City, KS 66102, USA",
       "street": "3129 State Avenue",
       "zip": "66102",
-      "coordinates": {
-        "lat": 39.116283,
-        "lng": -94.664529
-      },
+      "latitude": 39.116283,
+      "longitude": -94.664529,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1506,10 +1380,8 @@
       "address": "3409 Leavenworth Rd, Kansas City, KS 66104, USA",
       "street": "3409 Leavenworth Road",
       "zip": "66104",
-      "coordinates": {
-        "lat": 39.142814,
-        "lng": -94.668644
-      },
+      "latitude": 39.142814,
+      "longitude": -94.668644,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1530,10 +1402,8 @@
       "address": "8315 State Ave, Kansas City, KS 66112, USA",
       "street": "8315 State Avenue",
       "zip": "66112",
-      "coordinates": {
-        "lat": 39.116052,
-        "lng": -94.772723
-      },
+      "latitude": 39.116052,
+      "longitude": -94.772723,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1554,10 +1424,8 @@
       "address": "6001 Parallel, Kansas City, KS 66111, USA",
       "street": "Parallel Parkway",
       "zip": "66109",
-      "coordinates": {
-        "lat": 39.086354,
-        "lng": -94.786033
-      },
+      "latitude": 39.086354,
+      "longitude": -94.786033,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1578,10 +1446,8 @@
       "address": "7250 State Ave, Kansas City, KS 66112, USA",
       "street": "7250 State Avenue",
       "zip": "66112",
-      "coordinates": {
-        "lat": 39.122069,
-        "lng": -94.748536
-      },
+      "latitude": 39.122069,
+      "longitude": -94.748536,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1602,10 +1468,8 @@
       "address": "7705 Parallel Pkwy, Kansas City, KS 66112, USA",
       "street": "Parallel Parkway",
       "zip": "66112",
-      "coordinates": {
-        "lat": 39.12826,
-        "lng": -94.757646
-      },
+      "latitude": 39.12826,
+      "longitude": -94.757646,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1626,10 +1490,8 @@
       "address": "3821 Leavenworth Rd, Kansas City, KS 66104, USA",
       "street": "Leavenworth Road",
       "zip": "66104",
-      "coordinates": {
-        "lat": 39.142787,
-        "lng": -94.674149
-      },
+      "latitude": 39.142787,
+      "longitude": -94.674149,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1650,10 +1512,8 @@
       "address": "7058 Leavenworth Rd, Kansas City, KS 66109, USA",
       "street": "7058 Leavenworth Road",
       "zip": "66109",
-      "coordinates": {
-        "lat": 39.143345,
-        "lng": -94.742523
-      },
+      "latitude": 39.143345,
+      "longitude": -94.742523,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1674,10 +1534,8 @@
       "address": "7833 State Ave, Kansas City, KS 66112, USA",
       "street": "7833 State Avenue",
       "zip": "66112",
-      "coordinates": {
-        "lat": 39.116039,
-        "lng": -94.761875
-      },
+      "latitude": 39.116039,
+      "longitude": -94.761875,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1698,10 +1556,8 @@
       "address": "121 Express Lane, Lansing, KS 66043, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.233204,
-        "lng": -94.883026
-      },
+      "latitude": 39.233204,
+      "longitude": -94.883026,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1722,10 +1578,8 @@
       "address": "601 S Main St, Lansing, KS 66043, USA",
       "street": "601 South Main Street",
       "zip": "66043",
-      "coordinates": {
-        "lat": 39.241299,
-        "lng": -94.899628
-      },
+      "latitude": 39.241299,
+      "longitude": -94.899628,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1746,10 +1600,8 @@
       "address": "407 N. MainLansing, Lansing, KS 66043, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.233204,
-        "lng": -94.883026
-      },
+      "latitude": 39.233204,
+      "longitude": -94.883026,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1770,10 +1622,8 @@
       "address": "506 N Main St, Lansing, KS 66043, USA",
       "street": "506 North Main Street",
       "zip": "66043",
-      "coordinates": {
-        "lat": 39.257777,
-        "lng": -94.899431
-      },
+      "latitude": 39.257777,
+      "longitude": -94.899431,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1794,10 +1644,8 @@
       "address": "2040 West 31, Lawrence, KS 66046, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.904524,
-        "lng": -95.209753
-      },
+      "latitude": 38.904524,
+      "longitude": -95.209753,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1818,10 +1666,8 @@
       "address": "1801 W 2nd St, Lawrence, KS 66044, USA",
       "street": "1801 West 2nd Street",
       "zip": "66044",
-      "coordinates": {
-        "lat": 38.980264,
-        "lng": -95.2558
-      },
+      "latitude": 38.980264,
+      "longitude": -95.2558,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1842,10 +1688,8 @@
       "address": "1008 W 23rd St, Lawrence, KS 66046, USA",
       "street": "1008 West 23rd Street",
       "zip": "66046",
-      "coordinates": {
-        "lat": 38.943134,
-        "lng": -95.24805
-      },
+      "latitude": 38.943134,
+      "longitude": -95.24805,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1866,10 +1710,8 @@
       "address": "925 Iowa St, Lawrence, KS 66044, USA",
       "street": "925 Iowa Street",
       "zip": "66044",
-      "coordinates": {
-        "lat": 38.967144,
-        "lng": -95.261851
-      },
+      "latitude": 38.967144,
+      "longitude": -95.261851,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1890,10 +1732,8 @@
       "address": "5200 Clinton Pkwy, Lawrence, KS 66047, USA",
       "street": "5200 Clinton Parkway",
       "zip": "66047",
-      "coordinates": {
-        "lat": 38.94391,
-        "lng": -95.315704
-      },
+      "latitude": 38.94391,
+      "longitude": -95.315704,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1914,10 +1754,8 @@
       "address": "3311 Iowa St, Lawrence, KS 66046, USA",
       "street": "3311 Iowa Street",
       "zip": "66046",
-      "coordinates": {
-        "lat": 38.923449,
-        "lng": -95.262189
-      },
+      "latitude": 38.923449,
+      "longitude": -95.262189,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1938,10 +1776,8 @@
       "address": "2233 Louisiana St, Lawrence, KS 66046, USA",
       "street": "2233 Louisiana Street",
       "zip": "66046",
-      "coordinates": {
-        "lat": 38.943172,
-        "lng": -95.242146
-      },
+      "latitude": 38.943172,
+      "longitude": -95.242146,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1962,10 +1798,8 @@
       "address": "3220 Iowa St, Lawrence, KS 66046, USA",
       "street": "3220 Iowa Street",
       "zip": "66046",
-      "coordinates": {
-        "lat": 38.924822,
-        "lng": -95.259216
-      },
+      "latitude": 38.924822,
+      "longitude": -95.259216,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1986,10 +1820,8 @@
       "address": "2601 Dover Sq, Lawrence, KS 66049, USA",
       "street": "2601 Dover Square",
       "zip": "66049",
-      "coordinates": {
-        "lat": 38.957658,
-        "lng": -95.267633
-      },
+      "latitude": 38.957658,
+      "longitude": -95.267633,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2010,10 +1842,8 @@
       "address": "4640 W. 27, Lawrence, KS 66047, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.88437,
-        "lng": -95.338066
-      },
+      "latitude": 38.88437,
+      "longitude": -95.338066,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2034,10 +1864,8 @@
       "address": "5000 Clinton Pkwy, Lawrence, KS 66047, USA",
       "street": "5000 Clinton Parkway",
       "zip": "66049",
-      "coordinates": {
-        "lat": 38.943401,
-        "lng": -95.310369
-      },
+      "latitude": 38.943401,
+      "longitude": -95.310369,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2058,10 +1886,8 @@
       "address": "1900 Haskell Ave, Lawrence, KS 66046, USA",
       "street": "1900 Haskell Avenue",
       "zip": "66046",
-      "coordinates": {
-        "lat": 38.949702,
-        "lng": -95.223093
-      },
+      "latitude": 38.949702,
+      "longitude": -95.223093,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2082,10 +1908,8 @@
       "address": "2329 Iowa St, Lawrence, KS 66046, USA",
       "street": "2329 Iowa Street",
       "zip": "66046",
-      "coordinates": {
-        "lat": 38.941127,
-        "lng": -95.261772
-      },
+      "latitude": 38.941127,
+      "longitude": -95.261772,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2106,10 +1930,8 @@
       "address": "1814 W 23rd St, Lawrence, KS 66046, USA",
       "street": "1814 West 23rd Street",
       "zip": "66046",
-      "coordinates": {
-        "lat": 38.943148,
-        "lng": -95.258443
-      },
+      "latitude": 38.943148,
+      "longitude": -95.258443,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2130,10 +1952,8 @@
       "address": "706 N 7th St, Leavenworth, KS 66048, USA",
       "street": "706 North 7th Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.324049,
-        "lng": -94.919636
-      },
+      "latitude": 39.324049,
+      "longitude": -94.919636,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2154,10 +1974,8 @@
       "address": "822 S 5th St, Leavenworth, KS 66048, USA",
       "street": "822 South 5th Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.310934,
-        "lng": -94.914147
-      },
+      "latitude": 39.310934,
+      "longitude": -94.914147,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2178,10 +1996,8 @@
       "address": "301 N 4th St, Leavenworth, KS 66048, USA",
       "street": "301 North 4th Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.321007,
-        "lng": -94.914747
-      },
+      "latitude": 39.321007,
+      "longitude": -94.914747,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2202,10 +2018,8 @@
       "address": "940 Eisenhower Rd, Leavenworth, KS 66048, USA",
       "street": "940 Eisenhower Road",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.267245,
-        "lng": -94.926772
-      },
+      "latitude": 39.267245,
+      "longitude": -94.926772,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2226,10 +2040,8 @@
       "address": "1101 Spruce, Leavenworth, KS 66048, USA",
       "street": "1101 Spruce Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.279656,
-        "lng": -94.982216
-      },
+      "latitude": 39.279656,
+      "longitude": -94.982216,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2250,10 +2062,8 @@
       "address": "2107 S 4th St, Leavenworth, KS 66048, USA",
       "street": "2107 South 4th Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.295652,
-        "lng": -94.907352
-      },
+      "latitude": 39.295652,
+      "longitude": -94.907352,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2274,10 +2084,8 @@
       "address": "3800 Leavenworth Road, Leavenworth, KS 66048, USA",
       "street": "Leavenworth Road",
       "zip": "66007",
-      "coordinates": {
-        "lat": 39.279656,
-        "lng": -94.982216
-      },
+      "latitude": 39.279656,
+      "longitude": -94.982216,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2298,10 +2106,8 @@
       "address": "501 Limit St, Leavenworth, KS 66048, USA",
       "street": "501 Limit Street",
       "zip": "66048",
-      "coordinates": {
-        "lat": 39.288404,
-        "lng": -94.909441
-      },
+      "latitude": 39.288404,
+      "longitude": -94.909441,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2322,10 +2128,8 @@
       "address": "15039 W 86th St, Lenexa, KS 66215, USA",
       "street": "15039 West 86th Street",
       "zip": "66215",
-      "coordinates": {
-        "lat": 38.97296,
-        "lng": -94.760625
-      },
+      "latitude": 38.97296,
+      "longitude": -94.760625,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2346,10 +2150,8 @@
       "address": "23000 W 83rd St, Lenexa, KS 66227, USA",
       "street": "23000 West 83rd Street",
       "zip": "66227",
-      "coordinates": {
-        "lat": 38.978616,
-        "lng": -94.851884
-      },
+      "latitude": 38.978616,
+      "longitude": -94.851884,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2370,10 +2172,8 @@
       "address": "2605 Allison Ave, Manhattan, KS 66502, USA",
       "street": "2605 Allison Avenue",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.167122,
-        "lng": -96.602841
-      },
+      "latitude": 39.167122,
+      "longitude": -96.602841,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2394,10 +2194,8 @@
       "address": "2301 Tuttle Creek Blvd, Manhattan, KS 66502, USA",
       "street": "2301 Tuttle Creek Boulevard",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.207504,
-        "lng": -96.572671
-      },
+      "latitude": 39.207504,
+      "longitude": -96.572671,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2418,10 +2216,8 @@
       "address": "600 S 10th St, Manhattan, KS 66502, USA",
       "street": "600 South 10th Street",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.17392,
-        "lng": -96.572716
-      },
+      "latitude": 39.17392,
+      "longitude": -96.572716,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2442,10 +2238,8 @@
       "address": "2704 Anderson Ave, Manhattan, KS 66502, USA",
       "street": "2704 Anderson Avenue",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.190354,
-        "lng": -96.605797
-      },
+      "latitude": 39.190354,
+      "longitude": -96.605797,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2466,10 +2260,8 @@
       "address": "8350 US-24, Manhattan, KS 66502, USA",
       "street": "8350 US 24",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.209375,
-        "lng": -96.564589
-      },
+      "latitude": 39.209375,
+      "longitude": -96.564589,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2490,10 +2282,8 @@
       "address": "1400 Claflin, Manhattan, KS 66502, USA",
       "street": "1400 Old Claflin Road",
       "zip": "66506",
-      "coordinates": {
-        "lat": 39.209375,
-        "lng": -96.564589
-      },
+      "latitude": 39.209375,
+      "longitude": -96.564589,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2514,10 +2304,8 @@
       "address": "420 Tuttle Creek Blvd, Manhattan, KS 66502, USA",
       "street": "420 Tuttle Creek Boulevard",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.182757,
-        "lng": -96.55764
-      },
+      "latitude": 39.182757,
+      "longitude": -96.55764,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2538,10 +2326,8 @@
       "address": "405 McCall Rd, Manhattan, KS 66502, USA",
       "street": "405 McCall Road",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.189982,
-        "lng": -96.553936
-      },
+      "latitude": 39.189982,
+      "longitude": -96.553936,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2562,10 +2348,8 @@
       "address": "2304 Stagg Hill Rd, Manhattan, KS 66502, USA",
       "street": "2304 Stagg Hill Road",
       "zip": "66502",
-      "coordinates": {
-        "lat": 39.167983,
-        "lng": -96.596145
-      },
+      "latitude": 39.167983,
+      "longitude": -96.596145,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2586,10 +2370,8 @@
       "address": "6880 Johnson Dr, Mission, KS 66202, USA",
       "street": "6880 Johnson Drive",
       "zip": "66202",
-      "coordinates": {
-        "lat": 39.022642,
-        "lng": -94.665329
-      },
+      "latitude": 39.022642,
+      "longitude": -94.665329,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2610,10 +2392,8 @@
       "address": "2149 E 151st St, Olathe, KS 66062, USA",
       "street": "2149 East 151st Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.85418,
-        "lng": -94.780232
-      },
+      "latitude": 38.85418,
+      "longitude": -94.780232,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2634,10 +2414,8 @@
       "address": "16150 S Brougham Dr, Olathe, KS 66062, USA",
       "street": "16150 South Brougham Drive",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.833685,
-        "lng": -94.773253
-      },
+      "latitude": 38.833685,
+      "longitude": -94.773253,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2658,10 +2436,8 @@
       "address": "2130 E. Santa Fe, Olathe, KS 66062, USA",
       "street": "East Santa Fe Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.847391,
-        "lng": -94.778714
-      },
+      "latitude": 38.847391,
+      "longitude": -94.778714,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2682,10 +2458,8 @@
       "address": "16620 W 135th St, Olathe, KS 66062, USA",
       "street": "West 135th Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.884261,
-        "lng": -94.776859
-      },
+      "latitude": 38.884261,
+      "longitude": -94.776859,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2706,10 +2480,8 @@
       "address": "15310 S Us169 Hwy, Olathe, KS 66062, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.850148,
-        "lng": -94.816544
-      },
+      "latitude": 38.850148,
+      "longitude": -94.816544,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2730,10 +2502,8 @@
       "address": "15300 W 143rd St, Olathe, KS 66062, USA",
       "street": "15300 West 143rd Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.869474,
-        "lng": -94.763973
-      },
+      "latitude": 38.869474,
+      "longitude": -94.763973,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2754,10 +2524,8 @@
       "address": "12085 S Strang Line Rd, Olathe, KS 66062, USA",
       "street": "12085 South Strang Line Road",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.909738,
-        "lng": -94.770764
-      },
+      "latitude": 38.909738,
+      "longitude": -94.770764,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2778,10 +2546,8 @@
       "address": "13655 S Alden St, Olathe, KS 66062, USA",
       "street": "13655 South Alden Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.880738,
-        "lng": -94.755387
-      },
+      "latitude": 38.880738,
+      "longitude": -94.755387,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2802,10 +2568,8 @@
       "address": "1068 W. Santa Fe, Olathe, KS 66061, USA",
       "street": "1068 West Santa Fe Street",
       "zip": "66061",
-      "coordinates": {
-        "lat": 38.891427,
-        "lng": -94.881709
-      },
+      "latitude": 38.891427,
+      "longitude": -94.881709,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2826,10 +2590,8 @@
       "address": "16250 W 135th St, Olathe, KS 66062, USA",
       "street": "16250 West 135th Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.885186,
-        "lng": -94.773674
-      },
+      "latitude": 38.885186,
+      "longitude": -94.773674,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2850,10 +2612,8 @@
       "address": "105 S Clairborne Rd, Olathe, KS 66062, USA",
       "street": "105 South Clairborne Road",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.882158,
-        "lng": -94.78957
-      },
+      "latitude": 38.882158,
+      "longitude": -94.78957,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2874,10 +2634,8 @@
       "address": "1009 S Weaver St, Olathe, KS 66061, USA",
       "street": "1009 South Weaver Street",
       "zip": "66061",
-      "coordinates": {
-        "lat": 38.868642,
-        "lng": -94.829716
-      },
+      "latitude": 38.868642,
+      "longitude": -94.829716,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2898,10 +2656,8 @@
       "address": "11751 Sunnybook Blvd, Olathe, KS 66061, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.891427,
-        "lng": -94.881709
-      },
+      "latitude": 38.891427,
+      "longitude": -94.881709,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2922,10 +2678,8 @@
       "address": "1807 E 123rd Ter, Olathe, KS 66061, USA",
       "street": "1807 East 123rd Terrace",
       "zip": "66061",
-      "coordinates": {
-        "lat": 38.90415,
-        "lng": -94.784799
-      },
+      "latitude": 38.90415,
+      "longitude": -94.784799,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2946,10 +2700,8 @@
       "address": "14625 W 119th St, Olathe, KS 66062, USA",
       "street": "14625 West 119th Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.911054,
-        "lng": -94.756497
-      },
+      "latitude": 38.911054,
+      "longitude": -94.756497,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2970,10 +2722,8 @@
       "address": "2101 E. Santa Fe, Olathe, KS 66062, USA",
       "street": "East Santa Fe Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.847391,
-        "lng": -94.778714
-      },
+      "latitude": 38.847391,
+      "longitude": -94.778714,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2994,10 +2744,8 @@
       "address": "13512 S Alden St, Olathe, KS 66062, USA",
       "street": "13512 South Alden Street",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.883095,
-        "lng": -94.757533
-      },
+      "latitude": 38.883095,
+      "longitude": -94.757533,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3018,10 +2766,8 @@
       "address": "300 S Rogers Rd, Olathe, KS 66062, USA",
       "street": "300 South Rogers Road",
       "zip": "66062",
-      "coordinates": {
-        "lat": 38.878789,
-        "lng": -94.79192
-      },
+      "latitude": 38.878789,
+      "longitude": -94.79192,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3042,10 +2788,8 @@
       "address": "9030 Metcalf Ave, Overland Park, KS 66212, USA",
       "street": "9030 Metcalf Avenue",
       "zip": "66212",
-      "coordinates": {
-        "lat": 38.965613,
-        "lng": -94.670625
-      },
+      "latitude": 38.965613,
+      "longitude": -94.670625,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3066,10 +2810,8 @@
       "address": "10118 W 119th St, Overland Park, KS 66213, USA",
       "street": "10118 West 119th Street",
       "zip": "66213",
-      "coordinates": {
-        "lat": 38.914795,
-        "lng": -94.70226
-      },
+      "latitude": 38.914795,
+      "longitude": -94.70226,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3090,10 +2832,8 @@
       "address": "6737 W 75th St, Overland Park, KS 66204, USA",
       "street": "6737 West 75th Street",
       "zip": "66204",
-      "coordinates": {
-        "lat": 38.992612,
-        "lng": -94.66399
-      },
+      "latitude": 38.992612,
+      "longitude": -94.66399,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3114,10 +2854,8 @@
       "address": "15801 Metcalf Ave, Overland Park, KS 66223, USA",
       "street": "15801 Metcalf Avenue",
       "zip": "66223",
-      "coordinates": {
-        "lat": 38.843732,
-        "lng": -94.666232
-      },
+      "latitude": 38.843732,
+      "longitude": -94.666232,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3138,10 +2876,8 @@
       "address": "10026 W 88th St, Overland Park, KS 66212, USA",
       "street": "10026 West 88th Street",
       "zip": "66212",
-      "coordinates": {
-        "lat": 38.970214,
-        "lng": -94.702299
-      },
+      "latitude": 38.970214,
+      "longitude": -94.702299,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3162,10 +2898,8 @@
       "address": "7601 Frontage Rd, Overland Park, KS 66204, USA",
       "street": "7601 East Frontage Road",
       "zip": "66204",
-      "coordinates": {
-        "lat": 38.990872,
-        "lng": -94.696898
-      },
+      "latitude": 38.990872,
+      "longitude": -94.696898,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3186,10 +2920,8 @@
       "address": "10901 W 75th St, Overland Park, KS 66214, USA",
       "street": "West 75th Street",
       "zip": "66203",
-      "coordinates": {
-        "lat": 38.992534,
-        "lng": -94.711875
-      },
+      "latitude": 38.992534,
+      "longitude": -94.711875,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3210,10 +2942,8 @@
       "address": "9005 W 151st St, Overland Park, KS 66221, USA",
       "street": "9005 West 151st Street",
       "zip": "66221",
-      "coordinates": {
-        "lat": 38.853764,
-        "lng": -94.691045
-      },
+      "latitude": 38.853764,
+      "longitude": -94.691045,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3234,10 +2964,8 @@
       "address": "11585 Metcalf Ave, Overland Park, KS 66210, USA",
       "street": "11585 Metcalf Avenue",
       "zip": "66210",
-      "coordinates": {
-        "lat": 38.916576,
-        "lng": -94.664352
-      },
+      "latitude": 38.916576,
+      "longitude": -94.664352,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3258,10 +2986,8 @@
       "address": "7600 Metcalf Ave, Overland Park, KS 66204, USA",
       "street": "7600 Metcalf Avenue",
       "zip": "66204",
-      "coordinates": {
-        "lat": 38.991105,
-        "lng": -94.668071
-      },
+      "latitude": 38.991105,
+      "longitude": -94.668071,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3282,10 +3008,8 @@
       "address": "6800 W 91st St, Overland Park, KS 66212, USA",
       "street": "6800 West 91st Street",
       "zip": "66212",
-      "coordinates": {
-        "lat": 38.964712,
-        "lng": -94.663928
-      },
+      "latitude": 38.964712,
+      "longitude": -94.663928,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3306,10 +3030,8 @@
       "address": "10034 W 151st St, Overland Park, KS 66221, USA",
       "street": "10034 West 151st Street",
       "zip": "66221",
-      "coordinates": {
-        "lat": 38.854947,
-        "lng": -94.70217
-      },
+      "latitude": 38.854947,
+      "longitude": -94.70217,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3330,10 +3052,8 @@
       "address": "6391 Sprint Pkwy, Overland Park, KS 66251, USA",
       "street": "6391 Sprint Pkwy",
       "zip": "66251",
-      "coordinates": {
-        "lat": 38.916366,
-        "lng": -94.66183
-      },
+      "latitude": 38.916366,
+      "longitude": -94.66183,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3354,10 +3074,8 @@
       "address": "6900 Antioch Rd, Overland Park, KS 66204, USA",
       "street": "6900 Antioch Road",
       "zip": "66204",
-      "coordinates": {
-        "lat": 39.003378,
-        "lng": -94.686841
-      },
+      "latitude": 39.003378,
+      "longitude": -94.686841,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3378,10 +3096,8 @@
       "address": "5031 W 135th St, Overland Park, KS 66224, USA",
       "street": "West 135th Street",
       "zip": "66209",
-      "coordinates": {
-        "lat": 38.882327,
-        "lng": -94.645484
-      },
+      "latitude": 38.882327,
+      "longitude": -94.645484,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3402,10 +3118,8 @@
       "address": "11830 W 75th St, Overland Park, KS 66214, USA",
       "street": "West 75th Street",
       "zip": "66203",
-      "coordinates": {
-        "lat": 38.993301,
-        "lng": -94.72307
-      },
+      "latitude": 38.993301,
+      "longitude": -94.72307,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3426,10 +3140,8 @@
       "address": "11818 Shawnee Mission Pkwy, Shawnee, KS 66203, USA",
       "street": "11818 Shawnee Mission Parkway",
       "zip": "66203",
-      "coordinates": {
-        "lat": 39.015126,
-        "lng": -94.723406
-      },
+      "latitude": 39.015126,
+      "longitude": -94.723406,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3450,10 +3162,8 @@
       "address": "6451 Quivira Rd, Shawnee, KS 66216, USA",
       "street": "6451 Quivira Road",
       "zip": "66216",
-      "coordinates": {
-        "lat": 39.012743,
-        "lng": -94.722031
-      },
+      "latitude": 39.012743,
+      "longitude": -94.722031,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3474,10 +3184,8 @@
       "address": "13438 W 62nd Ter, Shawnee, KS 66216, USA",
       "street": "13438 West 62nd Terrace",
       "zip": "66216",
-      "coordinates": {
-        "lat": 39.015595,
-        "lng": -94.742106
-      },
+      "latitude": 39.015595,
+      "longitude": -94.742106,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3498,10 +3206,8 @@
       "address": "6510 Nieman Rd, Shawnee, KS 66203, USA",
       "street": "6510 Nieman Road",
       "zip": "66203",
-      "coordinates": {
-        "lat": 39.010095,
-        "lng": -94.715146
-      },
+      "latitude": 39.010095,
+      "longitude": -94.715146,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3522,10 +3228,8 @@
       "address": "12000 W 77th Ter, Shawnee, KS 66216, USA",
       "street": "West 77th Terrace",
       "zip": "66214",
-      "coordinates": {
-        "lat": 38.987957,
-        "lng": -94.725847
-      },
+      "latitude": 38.987957,
+      "longitude": -94.725847,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3546,10 +3250,8 @@
       "address": "15200 Shawnee Mission Pkwy, Shawnee, KS 66217, USA",
       "street": "15200 Shawnee Mission Parkway",
       "zip": "66217",
-      "coordinates": {
-        "lat": 39.010248,
-        "lng": -94.762615
-      },
+      "latitude": 39.010248,
+      "longitude": -94.762615,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3570,10 +3272,8 @@
       "address": "6495 Quivira Rd, Shawnee, KS 66216, USA",
       "street": "6495 Quivira Road",
       "zip": "66216",
-      "coordinates": {
-        "lat": 39.011448,
-        "lng": -94.721679
-      },
+      "latitude": 39.011448,
+      "longitude": -94.721679,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3594,10 +3294,8 @@
       "address": "9870 QuiviraShawnee, Shawnee Mission, KS 66215, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.949007,
-        "lng": -94.740503
-      },
+      "latitude": 38.949007,
+      "longitude": -94.740503,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3618,10 +3316,8 @@
       "address": "5960 DearbornShawnee, Shawnee Mission, KS 66202, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.024819,
-        "lng": -94.682563
-      },
+      "latitude": 39.024819,
+      "longitude": -94.682563,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3642,10 +3338,8 @@
       "address": "6502 MartwayShawnee, Shawnee Mission, KS 66202, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.024819,
-        "lng": -94.682563
-      },
+      "latitude": 39.024819,
+      "longitude": -94.682563,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3666,10 +3360,8 @@
       "address": "4711 Mission Road, Shawnee Mission, KS 66205, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.031176,
-        "lng": -94.630762
-      },
+      "latitude": 39.031176,
+      "longitude": -94.630762,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3690,10 +3382,8 @@
       "address": "402 Circle Drive, Silver Lake, KS 66539, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.151302,
-        "lng": -95.86381
-      },
+      "latitude": 39.151302,
+      "longitude": -95.86381,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3714,10 +3404,8 @@
       "address": "7030 W 199th St, Stilwell, KS 66085, USA",
       "street": "7030 West 199th Street",
       "zip": "66085",
-      "coordinates": {
-        "lat": 38.766645,
-        "lng": -94.666858
-      },
+      "latitude": 38.766645,
+      "longitude": -94.666858,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3738,10 +3426,8 @@
       "address": "5145 SW Topeka Blvd, Topeka, KS 66609, USA",
       "street": "5145 Southwest Topeka Boulevard",
       "zip": "66609",
-      "coordinates": {
-        "lat": 38.974003,
-        "lng": -95.688273
-      },
+      "latitude": 38.974003,
+      "longitude": -95.688273,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3762,10 +3448,8 @@
       "address": "4008 SW Topeka Blvd, Topeka, KS 66609, USA",
       "street": "4008 Southwest Topeka Boulevard",
       "zip": "66609",
-      "coordinates": {
-        "lat": 38.993076,
-        "lng": -95.687036
-      },
+      "latitude": 38.993076,
+      "longitude": -95.687036,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3786,10 +3470,8 @@
       "address": "5121 SW 29th St, Topeka, KS 66614, USA",
       "street": "5121 Southwest 29th Street",
       "zip": "66614",
-      "coordinates": {
-        "lat": 39.013991,
-        "lng": -95.741802
-      },
+      "latitude": 39.013991,
+      "longitude": -95.741802,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3810,10 +3492,8 @@
       "address": "1000 SW Wanamaker Rd, Topeka, KS 66604, USA",
       "street": "1000 Southwest Wanamaker Road",
       "zip": "66604",
-      "coordinates": {
-        "lat": 39.050572,
-        "lng": -95.760914
-      },
+      "latitude": 39.050572,
+      "longitude": -95.760914,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3834,10 +3514,8 @@
       "address": "1401 SW Gage Blvd, Topeka, KS 66604, USA",
       "street": "1401 Southwest Gage Boulevard",
       "zip": "66604",
-      "coordinates": {
-        "lat": 39.041763,
-        "lng": -95.725863
-      },
+      "latitude": 39.041763,
+      "longitude": -95.725863,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3858,10 +3536,8 @@
       "address": "2500 SE California Ave, Topeka, KS 66605, USA",
       "street": "2500 Southeast California Avenue",
       "zip": "66605",
-      "coordinates": {
-        "lat": 39.021912,
-        "lng": -95.650512
-      },
+      "latitude": 39.021912,
+      "longitude": -95.650512,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3882,10 +3558,8 @@
       "address": "910 SW 25th Dr, Topeka, KS 66611, USA",
       "street": "Southwest 25th Drive",
       "zip": "66621",
-      "coordinates": {
-        "lat": 39.025008,
-        "lng": -95.687702
-      },
+      "latitude": 39.025008,
+      "longitude": -95.687702,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3906,10 +3580,8 @@
       "address": "5900 SW Huntoon St, Topeka, KS 66604, USA",
       "street": "5900 Southwest Huntoon Street",
       "zip": "66604",
-      "coordinates": {
-        "lat": 39.04554,
-        "lng": -95.758814
-      },
+      "latitude": 39.04554,
+      "longitude": -95.758814,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3930,10 +3602,8 @@
       "address": "5341 SW Topeka Blvd, Topeka, KS 66609, USA",
       "street": "5341 Southwest Topeka Boulevard",
       "zip": "66609",
-      "coordinates": {
-        "lat": 38.978236,
-        "lng": -95.660737
-      },
+      "latitude": 38.978236,
+      "longitude": -95.660737,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3954,10 +3624,8 @@
       "address": "550 SE Croco Rd, Topeka, KS 66607, USA",
       "street": "Southeast Croco Road",
       "zip": "66409",
-      "coordinates": {
-        "lat": 39.044926,
-        "lng": -95.613211
-      },
+      "latitude": 39.044926,
+      "longitude": -95.613211,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3978,10 +3646,8 @@
       "address": "2919 SW Wanamaker Rd, Topeka, KS 66614, USA",
       "street": "2919 Southwest Wanamaker Road",
       "zip": "66614",
-      "coordinates": {
-        "lat": 39.013585,
-        "lng": -95.764816
-      },
+      "latitude": 39.013585,
+      "longitude": -95.764816,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4002,10 +3668,8 @@
       "address": "6130 SW 17th St, Topeka, KS 66615, USA",
       "street": "6130 Southwest 17th Street",
       "zip": "66615",
-      "coordinates": {
-        "lat": 39.037037,
-        "lng": -95.765047
-      },
+      "latitude": 39.037037,
+      "longitude": -95.765047,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4026,10 +3690,8 @@
       "address": "5512 SW 16th St, Topeka, KS 66604, USA",
       "street": "5512 Southwest 16th Street",
       "zip": "66604",
-      "coordinates": {
-        "lat": 39.037833,
-        "lng": -95.749245
-      },
+      "latitude": 39.037833,
+      "longitude": -95.749245,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4050,10 +3712,8 @@
       "address": "2529 SW Chelsea Dr, Topeka, KS 66614, USA",
       "street": "2529 Southwest Chelsea Drive",
       "zip": "66614",
-      "coordinates": {
-        "lat": 39.02139,
-        "lng": -95.74741
-      },
+      "latitude": 39.02139,
+      "longitude": -95.74741,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4074,10 +3734,8 @@
       "address": "4433 SW 29th Ter, Topeka, KS 66614, USA",
       "street": "4433 Southwest 29th Terrace",
       "zip": "66614",
-      "coordinates": {
-        "lat": 39.013488,
-        "lng": -95.732663
-      },
+      "latitude": 39.013488,
+      "longitude": -95.732663,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4098,10 +3756,8 @@
       "address": "3603 NW 46th St, Topeka, KS 66618, USA",
       "street": "3603 Northwest 46th Street",
       "zip": "66618",
-      "coordinates": {
-        "lat": 39.128987,
-        "lng": -95.717988
-      },
+      "latitude": 39.128987,
+      "longitude": -95.717988,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4122,10 +3778,8 @@
       "address": "1245 SE 29th St, Topeka, KS 66605, USA",
       "street": "1245 Southeast 29th Street",
       "zip": "66605",
-      "coordinates": {
-        "lat": 39.015076,
-        "lng": -95.661362
-      },
+      "latitude": 39.015076,
+      "longitude": -95.661362,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4146,10 +3800,8 @@
       "address": "1191 SW Wanamaker Rd, Topeka, KS 66604, USA",
       "street": "1191 Southwest Wanamaker Road",
       "zip": "66604",
-      "coordinates": {
-        "lat": 39.046105,
-        "lng": -95.762138
-      },
+      "latitude": 39.046105,
+      "longitude": -95.762138,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4170,10 +3822,8 @@
       "address": "3700 SW GageTopeka, Topeka, KS 66610, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.975466,
-        "lng": -95.817109
-      },
+      "latitude": 38.975466,
+      "longitude": -95.817109,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4194,10 +3844,8 @@
       "address": "2630 SE California Ave, Topeka, KS 66605, USA",
       "street": "2630 Southeast California Avenue",
       "zip": "66605",
-      "coordinates": {
-        "lat": 39.020347,
-        "lng": -95.648552
-      },
+      "latitude": 39.020347,
+      "longitude": -95.648552,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4218,10 +3866,8 @@
       "address": "1725 SW Arnold Ave, Topeka, KS 66604, USA",
       "street": "1725 Southwest Arnold Avenue",
       "zip": "66604",
-      "coordinates": {
-        "lat": 39.035902,
-        "lng": -95.720289
-      },
+      "latitude": 39.035902,
+      "longitude": -95.720289,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4242,10 +3888,8 @@
       "address": "1301 SE Monroe St, Topeka, KS 66612, USA",
       "street": "1301 Southeast Monroe Street",
       "zip": "66612",
-      "coordinates": {
-        "lat": 39.040786,
-        "lng": -95.676053
-      },
+      "latitude": 39.040786,
+      "longitude": -95.676053,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4266,10 +3910,8 @@
       "address": "613 4th St, Wamego, KS 66547, USA",
       "street": "613 4th Street",
       "zip": "66547",
-      "coordinates": {
-        "lat": 39.201021,
-        "lng": -96.303372
-      },
+      "latitude": 39.201021,
+      "longitude": -96.303372,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4290,10 +3932,8 @@
       "address": "314 Lincoln Ave, Wamego, KS 66547, USA",
       "street": "314 Lincoln Avenue",
       "zip": "66547",
-      "coordinates": {
-        "lat": 39.200704,
-        "lng": -96.304638
-      },
+      "latitude": 39.200704,
+      "longitude": -96.304638,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4314,10 +3954,8 @@
       "address": "403 Spruce St, Wamego, KS 66547, USA",
       "street": "403 Spruce Street",
       "zip": "66547",
-      "coordinates": {
-        "lat": 39.201061,
-        "lng": -96.310985
-      },
+      "latitude": 39.201061,
+      "longitude": -96.310985,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -4338,18 +3976,16 @@
       "address": "7916 Santa Fe Dr, Overland Park, KS 66204",
       "street": "7916 Santa Fe Dr",
       "zip": "66204",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.98544834,
+      "longitude": -94.67170862,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/sacks-on-santa-fe:-a-heartstrings-community-foundation-store",
-      "lastUpdated": "21/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/sacks-on-santa-fe:-a-heartstrings-community-foundation-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26755",
@@ -4362,18 +3998,16 @@
       "address": "9720 W 87th St, Overland Park, KS 66204",
       "street": "9720 W 87th St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.97125873,
+      "longitude": -94.69823533,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift-donation-bay",
-      "lastUpdated": "22/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift-donation-bay/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26756",
@@ -4386,18 +4020,16 @@
       "address": "9750 W 87th St, Overland Park, KS 66204",
       "street": "9750 W 87th St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 34.051841250103,
-        "lng": -118.376063636885
-      },
+      "latitude": 38.97124767,
+      "longitude": -94.69856324,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift",
-      "lastUpdated": "23/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26757",
@@ -4410,18 +4042,16 @@
       "address": "Overland Park, KS 66204",
       "street": "Overland Park",
       "zip": "66204",
-      "coordinates": {
-        "lat": 34.05496237473,
-        "lng": -118.385039313573
-      },
+      "latitude": 38.98867308,
+      "longitude": -94.67324588,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/city-thrift-shawnee",
-      "lastUpdated": "24/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/city-thrift-shawnee/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26758",
@@ -4434,18 +4064,16 @@
       "address": "7963 Frontage Rd, Overland Park, KS 66204",
       "street": "7963 Frontage Rd",
       "zip": "66204",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.98517652,
+      "longitude": -94.70458402,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/lucy's-thrift-llc",
-      "lastUpdated": "25/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/lucy's-thrift-llc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26759",
@@ -4458,18 +4086,16 @@
       "address": "6701 W 83rd St, Overland Park, KS 66204",
       "street": "6701 W 83rd St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.781969888764,
-        "lng": -122.41258791316
-      },
+      "latitude": 38.978474,
+      "longitude": -94.663125,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/smac-pta-clothing-exchange",
-      "lastUpdated": "26/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/smac-pta-clothing-exchange/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26760",
@@ -4482,18 +4108,16 @@
       "address": "9806 W 87th St, Overland Park, KS 66204",
       "street": "9806 W 87th St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.78202256116,
-        "lng": -122.413070734552
-      },
+      "latitude": 38.97124545,
+      "longitude": -94.69917578,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-ne-kansas---overland-park-family-support-center",
-      "lastUpdated": "27/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-ne-kansas---overland-park-family-support-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26761",
@@ -4506,18 +4130,16 @@
       "address": "Overland Park, KS 66204",
       "street": "Overland Park",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.79053345337,
-        "lng": -122.420603807911
-      },
+      "latitude": 38.98867308,
+      "longitude": -94.67324588,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/goodwill-shawnee",
-      "lastUpdated": "28/02/2030"
+      "permalink": "https://www.clothedonations.com/kansas/goodwill-shawnee/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26762",
@@ -4530,18 +4152,16 @@
       "address": "5304 Martway St, Overland Park, KS 66204",
       "street": "5304 Martway St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.762665338643,
-        "lng": -122.421598485916
-      },
+      "latitude": 39.0224224,
+      "longitude": -94.6461682,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift",
-      "lastUpdated": "1/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26763",
@@ -4554,18 +4174,16 @@
       "address": "11310 W 135th St, Overland Park, KS 66204",
       "street": "11310 W 135th St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.773815720756,
-        "lng": -122.411448773594
-      },
+      "latitude": 38.983994,
+      "longitude": -94.717073,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift",
-      "lastUpdated": "2/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/turnstyles-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26764",
@@ -4578,18 +4196,16 @@
       "address": "8130 Santa Fe Dr, Overland Park, KS 66204",
       "street": "8130 Santa Fe Dr",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.781506259752,
-        "lng": -122.412174504486
-      },
+      "latitude": 38.98210077,
+      "longitude": -94.67382991,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/revival-home-furnishings",
-      "lastUpdated": "3/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/revival-home-furnishings/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26765",
@@ -4602,18 +4218,16 @@
       "address": "9806 W 87th St, Overland Park, KS 66204",
       "street": "9806 W 87th St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.789269639233,
-        "lng": -122.408678273543
-      },
+      "latitude": 38.97124545,
+      "longitude": -94.69917578,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-northeast-kansas---food-pantry",
-      "lastUpdated": "4/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-northeast-kansas---food-pantry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26766",
@@ -4626,18 +4240,16 @@
       "address": "7241 W 135th St, Overland Park, KS 66204",
       "street": "7241 W 135th St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.777580941378,
-        "lng": -122.39992295511
-      },
+      "latitude": 38.983876,
+      "longitude": -94.66968,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/goodwill-overland-park",
-      "lastUpdated": "5/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/goodwill-overland-park/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26767",
@@ -4650,18 +4262,16 @@
       "address": "Overland Park, KS 66204",
       "street": "Overland Park",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.784896701079,
-        "lng": -122.433102878966
-      },
+      "latitude": 38.98867308,
+      "longitude": -94.67324588,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/savers-community-donation-center",
-      "lastUpdated": "6/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/savers-community-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26768",
@@ -4674,18 +4284,16 @@
       "address": "11110 W 67th St, Overland Park, KS 66204",
       "street": "11110 W 67th St",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.781045262504,
-        "lng": -122.461315152992
-      },
+      "latitude": 39.00753629,
+      "longitude": -94.71525922,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/shawnee-community-services",
-      "lastUpdated": "7/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/shawnee-community-services/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26769",
@@ -4698,18 +4306,16 @@
       "address": "Tillotson Building, 9960 Mission Rd, Overland Park, KS 66204",
       "street": "Tillotson Building",
       "zip": "66204",
-      "coordinates": {
-        "lat": 37.748858281986,
-        "lng": -122.420276028825
-      },
+      "latitude": 38.94856554,
+      "longitude": -94.6304073,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/village-presbyterian-church-food-pantry",
-      "lastUpdated": "8/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/village-presbyterian-church-food-pantry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26770",
@@ -4722,18 +4328,16 @@
       "address": "9960 Mission Rd, Overland Park, KS 66206",
       "street": "9960 Mission Rd",
       "zip": "66206",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.94856554,
+      "longitude": -94.6304073,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/village-church-food-pantry---food-distribution-center",
-      "lastUpdated": "9/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/village-church-food-pantry---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26771",
@@ -4746,18 +4350,16 @@
       "address": "11100 Antioch Rd, Overland Park, KS 66206",
       "street": "11100 Antioch Rd",
       "zip": "66206",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.927345,
+      "longitude": -94.686332,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/city-union-mission",
-      "lastUpdated": "10/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/city-union-mission/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26772",
@@ -4770,18 +4372,16 @@
       "address": "12202 College Blvd, Overland Park, KS 66206",
       "street": "12202 College Blvd",
       "zip": "66206",
-      "coordinates": {
-        "lat": 42.265735076751,
-        "lng": -89.036744569073
-      },
+      "latitude": 38.9285187,
+      "longitude": -94.7272475,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/hillcrest-thrift-store",
-      "lastUpdated": "11/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/hillcrest-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26773",
@@ -4794,18 +4394,16 @@
       "address": "12202 College Blvd, Overland Park, KS 66206",
       "street": "12202 College Blvd",
       "zip": "66206",
-      "coordinates": {
-        "lat": 42.301059731943,
-        "lng": -89.10135517259
-      },
+      "latitude": 38.9285187,
+      "longitude": -94.7272475,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/hillcrest-donation-center",
-      "lastUpdated": "12/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/hillcrest-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26774",
@@ -4818,18 +4416,16 @@
       "address": "11610 W 135th St, Overland Park, KS 66210",
       "street": "11610 W 135th St",
       "zip": "66210",
-      "coordinates": {
-        "lat": 42.263883248282,
-        "lng": -89.027298322202
-      },
+      "latitude": 38.883771,
+      "longitude": -94.71816424,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/clothes-mentor-overland-park,-ks",
-      "lastUpdated": "13/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/clothes-mentor-overland-park,-ks/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26775",
@@ -4842,18 +4438,16 @@
       "address": "11924 College Blvd, Overland Park, KS 66210",
       "street": "11924 College Blvd",
       "zip": "66210",
-      "coordinates": {
-        "lat": 42.273681778772,
-        "lng": -89.100343315452
-      },
+      "latitude": 38.92752267,
+      "longitude": -94.72398823,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/style-encore---overland-park",
-      "lastUpdated": "14/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/style-encore---overland-park/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26776",
@@ -4866,18 +4460,16 @@
       "address": "7900 College Blvd, Overland Park, KS 66210",
       "street": "7900 College Blvd",
       "zip": "66210",
-      "coordinates": {
-        "lat": 42.274169431226,
-        "lng": -89.067624738284
-      },
+      "latitude": 38.927584,
+      "longitude": -94.67688,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/maze-foundation",
-      "lastUpdated": "15/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/maze-foundation/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26777",
@@ -4890,18 +4482,16 @@
       "address": "13511 S Mur-Len Rd, Overland Park, KS 66210",
       "street": "13511 S Mur-Len Rd",
       "zip": "66210",
-      "coordinates": {
-        "lat": 42.259395171524,
-        "lng": -89.079916124369
-      },
+      "latitude": 38.90834,
+      "longitude": -94.694249,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/community-donation-center",
-      "lastUpdated": "16/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/community-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26778",
@@ -4914,18 +4504,16 @@
       "address": "13509 S Mur-Len Rd #125a, Overland Park, KS 66210",
       "street": "13509 S Mur-Len Rd #125a",
       "zip": "66210",
-      "coordinates": {
-        "lat": 41.522124576729,
-        "lng": -88.148028003045
-      },
+      "latitude": 38.90834,
+      "longitude": -94.694249,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/savers-community-donation-center",
-      "lastUpdated": "17/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/savers-community-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26779",
@@ -4938,18 +4526,16 @@
       "address": "1223 E Santa Fe St, Overland Park, KS 66210",
       "street": "1223 E Santa Fe St",
       "zip": "66210",
-      "coordinates": {
-        "lat": 41.522745760703,
-        "lng": -88.118451814665
-      },
+      "latitude": 38.90834,
+      "longitude": -94.694249,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/the-salvation-army-family-store-&-donation-center",
-      "lastUpdated": "18/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/the-salvation-army-family-store-&-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26780",
@@ -4962,18 +4548,16 @@
       "address": "9720 W 87th St, Overland Park, KS 66212",
       "street": "9720 W 87th St",
       "zip": "66212",
-      "coordinates": {
-        "lat": 42.240326386628,
-        "lng": -88.978546198396
-      },
+      "latitude": 38.97125873,
+      "longitude": -94.69823533,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-ne-ks---administrative-office",
-      "lastUpdated": "19/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-ne-ks---administrative-office/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26781",
@@ -4986,18 +4570,16 @@
       "address": "11608 W 135th St, Overland Park, KS 66213",
       "street": "11608 W 135th St",
       "zip": "66213",
-      "coordinates": {
-        "lat": 42.275462051186,
-        "lng": -89.101509281498
-      },
+      "latitude": 38.883771,
+      "longitude": -94.7181448,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/plato's-closet-overland-park",
-      "lastUpdated": "20/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/plato's-closet-overland-park/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26782",
@@ -5010,18 +4592,16 @@
       "address": "12220 W 135th St, Overland Park, KS 66213",
       "street": "12220 W 135th St",
       "zip": "66213",
-      "coordinates": {
-        "lat": 42.257282962822,
-        "lng": -89.101313415713
-      },
+      "latitude": 38.88376106,
+      "longitude": -94.72667825,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/once-upon-a-child-overland-park",
-      "lastUpdated": "21/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/once-upon-a-child-overland-park/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26783",
@@ -5034,18 +4614,16 @@
       "address": "420 S Kansas Ave, Olathe, KS 66061",
       "street": "420 S Kansas Ave",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.240326386628,
-        "lng": -88.978546198396
-      },
+      "latitude": 38.87734882,
+      "longitude": -94.82059128,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/angel-clothing-foundation",
-      "lastUpdated": "22/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/angel-clothing-foundation/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26784",
@@ -5058,18 +4636,16 @@
       "address": "875 S Parker St, Olathe, KS 66061",
       "street": "875 S Parker St",
       "zip": "66061",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.87093825,
+      "longitude": -94.83455474,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/maj-r-thrift-discount-stores-olathe",
-      "lastUpdated": "23/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/maj-r-thrift-discount-stores-olathe/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26785",
@@ -5082,18 +4658,16 @@
       "address": "13509 S Mur-Len Rd #125a, Olathe, KS 66061",
       "street": "13509 S Mur-Len Rd #125a",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.339796330871,
-        "lng": -89.053031481303
-      },
+      "latitude": 38.8679343,
+      "longitude": -94.779522,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/savers",
-      "lastUpdated": "24/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/savers/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26786",
@@ -5106,18 +4680,16 @@
       "address": "333 E Poplar St STE A, Olathe, KS 66061",
       "street": "333 E Poplar St STE A",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.270433869433,
-        "lng": -89.101879434089
-      },
+      "latitude": 38.8849662,
+      "longitude": -94.81651613,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-ne-kansas---olathe-office",
-      "lastUpdated": "25/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-ne-kansas---olathe-office/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26787",
@@ -5130,18 +4702,16 @@
       "address": "520 S Harrison St, Olathe, KS 66061",
       "street": "520 S Harrison St",
       "zip": "66061",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.87487618,
+      "longitude": -94.81586986,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/center-of-grace",
-      "lastUpdated": "26/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/center-of-grace/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26788",
@@ -5154,18 +4724,16 @@
       "address": "514 S Kansas Ave, Olathe, KS 66061",
       "street": "514 S Kansas Ave",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.256830131229,
-        "lng": -89.101596425306
-      },
+      "latitude": 38.87655836,
+      "longitude": -94.82058787,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/mission-southside",
-      "lastUpdated": "27/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/mission-southside/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26789",
@@ -5178,18 +4746,16 @@
       "address": "11934 S Strang Line Rd, Olathe, KS 66061",
       "street": "11934 S Strang Line Rd",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.26235660867,
-        "lng": -89.056145420403
-      },
+      "latitude": 38.91088,
+      "longitude": -94.767365,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/goodwill-olathe",
-      "lastUpdated": "28/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/goodwill-olathe/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26790",
@@ -5202,18 +4768,16 @@
       "address": "1078 W Santa Fe St A, Olathe, KS 66061",
       "street": "1078 W Santa Fe St A",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.251810990328,
-        "lng": -89.085393681807
-      },
+      "latitude": 38.885125,
+      "longitude": -94.8327808,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/starfish-project-foundation-/-the-beach",
-      "lastUpdated": "29/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/starfish-project-foundation-/-the-beach/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26791",
@@ -5226,18 +4790,16 @@
       "address": "420 E Santa Fe St, Olathe, KS 66061",
       "street": "420 E Santa Fe St",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.337090857112,
-        "lng": -89.053957308849
-      },
+      "latitude": 38.88365041,
+      "longitude": -94.81554828,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/salvation-army-olathe-corps-community-centers",
-      "lastUpdated": "30/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/salvation-army-olathe-corps-community-centers/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26792",
@@ -5250,18 +4812,16 @@
       "address": "11933 S Strang Line Rd, Olathe, KS 66061",
       "street": "11933 S Strang Line Rd",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.25281756209,
-        "lng": -89.028304406888
-      },
+      "latitude": 38.90767935,
+      "longitude": -94.77008004,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/kc-grow-co",
-      "lastUpdated": "31/03/2030"
+      "permalink": "https://www.clothedonations.com/kansas/kc-grow-co/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26793",
@@ -5274,18 +4834,16 @@
       "address": "975 Lincoln Ln, Olathe, KS 66061",
       "street": "975 Lincoln Ln",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.262638866889,
-        "lng": -89.057467872946
-      },
+      "latitude": 38.81331095,
+      "longitude": -94.90482963,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/joy-closet",
-      "lastUpdated": "1/04/2030"
+      "permalink": "https://www.clothedonations.com/kansas/joy-closet/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26794",
@@ -5298,18 +4856,16 @@
       "address": "12480 S Black Bob Rd, Olathe, KS 66061",
       "street": "12480 S Black Bob Rd",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.279090530572,
-        "lng": -89.16747754868
-      },
+      "latitude": 38.90225271,
+      "longitude": -94.76088288,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/open-arms---food-pantry",
-      "lastUpdated": "2/04/2030"
+      "permalink": "https://www.clothedonations.com/kansas/open-arms---food-pantry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26795",
@@ -5322,18 +4878,16 @@
       "address": "12085 S Strang Line Rd, Olathe, KS 66061",
       "street": "12085 S Strang Line Rd",
       "zip": "66061",
-      "coordinates": {
-        "lat": 42.227448110208,
-        "lng": -89.026647918738
-      },
+      "latitude": 38.90998396,
+      "longitude": -94.77057465,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/planet-aid",
-      "lastUpdated": "3/04/2030"
+      "permalink": "https://www.clothedonations.com/kansas/planet-aid/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26796",
@@ -5346,18 +4900,16 @@
       "address": "333 E Poplar St STE A, Olathe, KS 66062",
       "street": "333 E Poplar St STE A",
       "zip": "66062",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.8849662,
+      "longitude": -94.81651613,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-northeast-kansas---food-distribution-center",
-      "lastUpdated": "4/04/2030"
+      "permalink": "https://www.clothedonations.com/kansas/catholic-charities-of-northeast-kansas---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     }
   ]
 }

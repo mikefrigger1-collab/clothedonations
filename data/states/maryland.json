@@ -13,10 +13,8 @@
       "address": "2277 University Blvd E, Adelphi, MD 20783, USA",
       "street": "2277 University Boulevard East",
       "zip": "20783",
-      "coordinates": {
-        "lat": 38.983481,
-        "lng": -76.971777
-      },
+      "latitude": 38.983481,
+      "longitude": -76.971777,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -40,10 +38,8 @@
       "address": "1052 Maiden Choice Ln, Arbutus, MD 21227, USA",
       "street": "1052 Maiden Choice Lane",
       "zip": "21227",
-      "coordinates": {
-        "lat": 39.261619,
-        "lng": -76.696391
-      },
+      "latitude": 39.261619,
+      "longitude": -76.696391,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -67,10 +63,8 @@
       "address": "6901 Security Blvd, Baltimore, MD 21207, USA",
       "street": "6901 Security Boulevard",
       "zip": "21207",
-      "coordinates": {
-        "lat": 39.309964,
-        "lng": -76.749523
-      },
+      "latitude": 39.309964,
+      "longitude": -76.749523,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -94,10 +88,8 @@
       "address": "5604 Ritchie Hwy #3, Brooklyn Park, MD 21225, United States",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.219193,
-        "lng": -76.615187
-      },
+      "latitude": 39.219193,
+      "longitude": -76.615187,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -121,10 +113,8 @@
       "address": "585 E Ordnance Rd, Glen Burnie, MD 21060, USA",
       "street": "585 East Ordnance Road",
       "zip": "21060",
-      "coordinates": {
-        "lat": 39.196884,
-        "lng": -76.597674
-      },
+      "latitude": 39.196884,
+      "longitude": -76.597674,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -148,10 +138,8 @@
       "address": "7740 Ritchie Hwy, Glen Burnie, MD 21061, USA",
       "street": "7740 Ritchie Highway",
       "zip": "21061",
-      "coordinates": {
-        "lat": 39.150621,
-        "lng": -76.615258
-      },
+      "latitude": 39.150621,
+      "longitude": -76.615258,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -175,10 +163,8 @@
       "address": "6611 Annapolis Rd, Hyattsville, MD 20784, USA",
       "street": "Annapolis Road",
       "zip": "20784",
-      "coordinates": {
-        "lat": 38.941885,
-        "lng": -76.90191
-      },
+      "latitude": 38.941885,
+      "longitude": -76.90191,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -202,10 +188,8 @@
       "address": "8675 Belair Rd, Nottingham, MD 21236, USA",
       "street": "8675 Belair Road",
       "zip": "21236",
-      "coordinates": {
-        "lat": 39.391447,
-        "lng": -76.488276
-      },
+      "latitude": 39.391447,
+      "longitude": -76.488276,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -229,10 +213,8 @@
       "address": "1925 E Joppa Rd, Parkville, MD 21234, USA",
       "street": "1925 East Joppa Road",
       "zip": "21234",
-      "coordinates": {
-        "lat": 39.399077,
-        "lng": -76.54792
-      },
+      "latitude": 39.399077,
+      "longitude": -76.54792,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -256,10 +238,8 @@
       "address": "8573 Fort Smallwood Rd, Riviera Beach, MD 21122, USA",
       "street": "8573 Fort Smallwood Road",
       "zip": "21122",
-      "coordinates": {
-        "lat": 39.151849,
-        "lng": -76.519218
-      },
+      "latitude": 39.151849,
+      "longitude": -76.519218,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -283,10 +263,8 @@
       "address": "12202 Rockville Pike, Rockville, MD 20852, USA",
       "street": "12202 Rockville Pike",
       "zip": "20852",
-      "coordinates": {
-        "lat": 39.055255,
-        "lng": -77.118892
-      },
+      "latitude": 39.055255,
+      "longitude": -77.118892,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -310,10 +288,8 @@
       "address": "10121 New Hampshire Ave, Silver Spring, MD 20903, USA",
       "street": "10121 New Hampshire Avenue",
       "zip": "20903",
-      "coordinates": {
-        "lat": 39.021695,
-        "lng": -76.974567
-      },
+      "latitude": 39.021695,
+      "longitude": -76.974567,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -337,10 +313,8 @@
       "address": "10141 New Hampshire Ave, Silver Spring, MD 20903, USA",
       "street": "New Hampshire Avenue",
       "zip": "20903",
-      "coordinates": {
-        "lat": 39.02174,
-        "lng": -76.974612
-      },
+      "latitude": 39.02174,
+      "longitude": -76.974612,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -364,10 +338,8 @@
       "address": "12211 Veirs Mill Rd, Silver Spring, MD 20906, USA",
       "street": "12211 Veirs Mill Road",
       "zip": "20906",
-      "coordinates": {
-        "lat": 39.057648,
-        "lng": -77.083248
-      },
+      "latitude": 39.057648,
+      "longitude": -77.083248,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -391,10 +363,8 @@
       "address": "950 Largo Center Dr, Upper Marlboro, MD 20774, USA",
       "street": "950 Largo Center Drive",
       "zip": "20774",
-      "coordinates": {
-        "lat": 38.901054,
-        "lng": -76.833989
-      },
+      "latitude": 38.901054,
+      "longitude": -76.833989,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -418,10 +388,8 @@
       "address": "10 Stemmers Run Rd, Baltimore, MD 21221, USA",
       "street": "10 Stemmers Run Road",
       "zip": "21221",
-      "coordinates": {
-        "lat": 39.315477,
-        "lng": -76.452242
-      },
+      "latitude": 39.315477,
+      "longitude": -76.452242,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -444,10 +412,8 @@
       "address": "6307 Allentown Rd, Camp Springs, MD 20748, USA",
       "street": "Allentown Road",
       "zip": "20748",
-      "coordinates": {
-        "lat": 38.803836,
-        "lng": -76.90746
-      },
+      "latitude": 38.803836,
+      "longitude": -76.90746,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -470,10 +436,8 @@
       "address": "8900 Baltimore Ave, College Park, MD 20740, USA",
       "street": "Baltimore Avenue",
       "zip": "20740",
-      "coordinates": {
-        "lat": 38.998736,
-        "lng": -76.931919
-      },
+      "latitude": 38.998736,
+      "longitude": -76.931919,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -496,10 +460,8 @@
       "address": "Irving St & Fort Meade Rd, Laurel, MD 20707, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.095417,
-        "lng": -76.842189
-      },
+      "latitude": 39.095417,
+      "longitude": -76.842189,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -522,10 +484,8 @@
       "address": "1A Aberdeen Shopping Plaza Aberdeen MD 21001 US, 1 Aberdeen Ave, Aberdeen, MD 21001, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.520137,
-        "lng": -76.188398
-      },
+      "latitude": 39.520137,
+      "longitude": -76.188398,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -546,10 +506,8 @@
       "address": "1605 West St, Annapolis, MD 21401, USA",
       "street": "1605 West Street",
       "zip": "21401",
-      "coordinates": {
-        "lat": 38.978536,
-        "lng": -76.518565
-      },
+      "latitude": 38.978536,
+      "longitude": -76.518565,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -570,10 +528,8 @@
       "address": "3101 Greenmount Ave, Baltimore, MD 21218, USA",
       "street": "3101 Greenmount Avenue",
       "zip": "21218",
-      "coordinates": {
-        "lat": 39.326313,
-        "lng": -76.609258
-      },
+      "latitude": 39.326313,
+      "longitude": -76.609258,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -594,10 +550,8 @@
       "address": "6999 Reisterstown Rd, Baltimore, MD 21215, USA",
       "street": "6999 Reisterstown Road",
       "zip": "21215",
-      "coordinates": {
-        "lat": 39.362598,
-        "lng": -76.709792
-      },
+      "latitude": 39.362598,
+      "longitude": -76.709792,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -618,10 +572,8 @@
       "address": "715 S Broadway, Baltimore, MD 21231, USA",
       "street": "715 South Broadway",
       "zip": "21231",
-      "coordinates": {
-        "lat": 39.283171,
-        "lng": -76.592731
-      },
+      "latitude": 39.283171,
+      "longitude": -76.592731,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -642,10 +594,8 @@
       "address": "7928 Eastern Ave, Baltimore, MD 21224, USA",
       "street": "7928 Eastern Avenue",
       "zip": "21224",
-      "coordinates": {
-        "lat": 39.298326,
-        "lng": -76.510158
-      },
+      "latitude": 39.298326,
+      "longitude": -76.510158,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -666,10 +616,8 @@
       "address": "140 Carroll Island Rd, Baltimore, MD 21220, USA",
       "street": "140 Carroll Island Road",
       "zip": "21220",
-      "coordinates": {
-        "lat": 39.335763,
-        "lng": -76.399862
-      },
+      "latitude": 39.335763,
+      "longitude": -76.399862,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -690,10 +638,8 @@
       "address": "2225 Churchville Rd, Bel Air, MD 21015, USA",
       "street": "2225 Churchville Road",
       "zip": "21015",
-      "coordinates": {
-        "lat": 39.555165,
-        "lng": -76.282043
-      },
+      "latitude": 39.555165,
+      "longitude": -76.282043,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -714,10 +660,8 @@
       "address": "711 Belair Rd, Bel Air, MD 21014, USA",
       "street": "711 Belair Road",
       "zip": "21014",
-      "coordinates": {
-        "lat": 39.521275,
-        "lng": -76.358691
-      },
+      "latitude": 39.521275,
+      "longitude": -76.358691,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -738,10 +682,8 @@
       "address": "732 Cambridge Marketplace Blvd, Cambridge, MD 21613, USA",
       "street": "Cambridge Marketplace Boulevard",
       "zip": "21613",
-      "coordinates": {
-        "lat": 38.561553,
-        "lng": -76.062126
-      },
+      "latitude": 38.561553,
+      "longitude": -76.062126,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -762,10 +704,8 @@
       "address": "6600 Baltimore National Pike, Catonsville, MD 21228, USA",
       "street": "6600 Baltimore National Pike",
       "zip": "21228",
-      "coordinates": {
-        "lat": 39.287758,
-        "lng": -76.764311
-      },
+      "latitude": 39.287758,
+      "longitude": -76.764311,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -786,10 +726,8 @@
       "address": "98 Shawan Rd, Hunt Valley, MD 21031, USA",
       "street": "98 Shawan Road",
       "zip": "21030",
-      "coordinates": {
-        "lat": 39.496075,
-        "lng": -76.653998
-      },
+      "latitude": 39.496075,
+      "longitude": -76.653998,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -810,10 +748,8 @@
       "address": "8640 Guilford Rd, Columbia, MD 21046, USA",
       "street": "8640 Guilford Road",
       "zip": "21046",
-      "coordinates": {
-        "lat": 39.169883,
-        "lng": -76.864439
-      },
+      "latitude": 39.169883,
+      "longitude": -76.864439,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -834,10 +770,8 @@
       "address": "9097 Snowden River Pkwy, Columbia, MD 21046, USA",
       "street": "9097 Snowden River Parkway",
       "zip": "21046",
-      "coordinates": {
-        "lat": 39.181613,
-        "lng": -76.821414
-      },
+      "latitude": 39.181613,
+      "longitude": -76.821414,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -858,10 +792,8 @@
       "address": "1657 Crofton Center, Crofton, MD 21114, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.015018,
-        "lng": -76.694011
-      },
+      "latitude": 39.015018,
+      "longitude": -76.694011,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -882,10 +814,8 @@
       "address": "54 denton plaza, Denton, MD 21629, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.872992,
-        "lng": -75.823689
-      },
+      "latitude": 38.872992,
+      "longitude": -75.823689,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -906,10 +836,8 @@
       "address": "134 N Washington St, Easton, MD 21601, USA",
       "street": "134 North Washington Street",
       "zip": "21601",
-      "coordinates": {
-        "lat": 38.776785,
-        "lng": -76.075858
-      },
+      "latitude": 38.776785,
+      "longitude": -76.075858,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -930,10 +858,8 @@
       "address": "3153 Solomons Island Rd, Edgewater, MD 21037, USA",
       "street": "Solomons Island Road",
       "zip": "21037",
-      "coordinates": {
-        "lat": 38.936139,
-        "lng": -76.56544
-      },
+      "latitude": 38.936139,
+      "longitude": -76.56544,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -954,10 +880,8 @@
       "address": "1841 Pulaski Hwy, Edgewood, MD 21040, USA",
       "street": "1841 Pulaski Highway",
       "zip": "21040",
-      "coordinates": {
-        "lat": 39.434041,
-        "lng": -76.316668
-      },
+      "latitude": 39.434041,
+      "longitude": -76.316668,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -978,10 +902,8 @@
       "address": "208 S Bridge St, Elkton, MD 21921, USA",
       "street": "208 South Bridge Street",
       "zip": "21921",
-      "coordinates": {
-        "lat": 39.604106,
-        "lng": -75.831758
-      },
+      "latitude": 39.604106,
+      "longitude": -75.831758,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1002,10 +924,8 @@
       "address": "10164 Baltimore National Pike, Ellicott City, MD 21042, USA",
       "street": "10164 Baltimore National Pike",
       "zip": "21042",
-      "coordinates": {
-        "lat": 39.280134,
-        "lng": -76.862142
-      },
+      "latitude": 39.280134,
+      "longitude": -76.862142,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1026,10 +946,8 @@
       "address": "7311 Ritchie Hwy, Glen Burnie, MD 21061, USA",
       "street": "7311 Ritchie Highway",
       "zip": "21061",
-      "coordinates": {
-        "lat": 39.170395,
-        "lng": -76.617624
-      },
+      "latitude": 39.170395,
+      "longitude": -76.617624,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1050,10 +968,8 @@
       "address": "7351 Assateague Dr, Jessup, MD 20794, USA",
       "street": "7351 Assateague Drive",
       "zip": "20794",
-      "coordinates": {
-        "lat": 39.169593,
-        "lng": -76.785947
-      },
+      "latitude": 39.169593,
+      "longitude": -76.785947,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1074,10 +990,8 @@
       "address": "800 Central Ave, Linthicum Heights, MD 21090, USA",
       "street": "800 Central Avenue",
       "zip": "21090",
-      "coordinates": {
-        "lat": 39.225496,
-        "lng": -76.657695
-      },
+      "latitude": 39.225496,
+      "longitude": -76.657695,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1098,10 +1012,8 @@
       "address": "200 W Padonia Rd, Lutherville-Timonium, MD 21093, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.456023,
-        "lng": -76.637755
-      },
+      "latitude": 39.456023,
+      "longitude": -76.637755,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1122,10 +1034,8 @@
       "address": "2350 Marriottsville Rd, Marriottsville, MD 21104, USA",
       "street": "Marriottsville Road",
       "zip": "21104",
-      "coordinates": {
-        "lat": 39.304953,
-        "lng": -76.901932
-      },
+      "latitude": 39.304953,
+      "longitude": -76.901932,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1146,10 +1056,8 @@
       "address": "674 Old Mill Rd, Millersville, MD 21108, USA",
       "street": "674 Old Mill Road",
       "zip": "21108",
-      "coordinates": {
-        "lat": 39.118486,
-        "lng": -76.633826
-      },
+      "latitude": 39.118486,
+      "longitude": -76.633826,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1170,10 +1078,8 @@
       "address": "8818 Belair Rd, Nottingham, MD 21236, USA",
       "street": "8818 Belair Road",
       "zip": "21236",
-      "coordinates": {
-        "lat": 39.394439,
-        "lng": -76.487169
-      },
+      "latitude": 39.394439,
+      "longitude": -76.487169,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1194,10 +1100,8 @@
       "address": "1103 Annapolis Rd, Odenton, MD 21113, USA",
       "street": "1103 Annapolis Road",
       "zip": "21113",
-      "coordinates": {
-        "lat": 39.079305,
-        "lng": -76.686701
-      },
+      "latitude": 39.079305,
+      "longitude": -76.686701,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1218,10 +1122,8 @@
       "address": "11411 Reisterstown Rd, Owings Mills, MD 21117, USA",
       "street": "11411 Reisterstown Road",
       "zip": "21117",
-      "coordinates": {
-        "lat": 39.438885,
-        "lng": -76.803397
-      },
+      "latitude": 39.438885,
+      "longitude": -76.803397,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1242,10 +1144,8 @@
       "address": "1753 E Joppa Rd, Parkville, MD 21234, USA",
       "street": "1753 East Joppa Road",
       "zip": "21234",
-      "coordinates": {
-        "lat": 39.398198,
-        "lng": -76.557719
-      },
+      "latitude": 39.398198,
+      "longitude": -76.557719,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1266,10 +1166,8 @@
       "address": "8124 Ritchie Hwy, Pasadena, MD 21122, USA",
       "street": "8124 Ritchie Highway",
       "zip": "21122",
-      "coordinates": {
-        "lat": 39.123851,
-        "lng": -76.589007
-      },
+      "latitude": 39.123851,
+      "longitude": -76.589007,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1290,10 +1188,8 @@
       "address": "3433 Sweet Air Rd, Phoenix, MD 21131, USA",
       "street": "3433 Sweet Air Road",
       "zip": "21131",
-      "coordinates": {
-        "lat": 39.515765,
-        "lng": -76.559338
-      },
+      "latitude": 39.515765,
+      "longitude": -76.559338,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1314,10 +1210,8 @@
       "address": "6225 Kenwood Ave, Rosedale, MD 21237, USA",
       "street": "6225 Kenwood Avenue",
       "zip": "21237",
-      "coordinates": {
-        "lat": 39.341959,
-        "lng": -76.504977
-      },
+      "latitude": 39.341959,
+      "longitude": -76.504977,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1338,10 +1232,8 @@
       "address": "700 S Salisbury Blvd, Salisbury, MD 21801, USA",
       "street": "700 South Salisbury Boulevard",
       "zip": "21801",
-      "coordinates": {
-        "lat": 38.357603,
-        "lng": -75.600797
-      },
+      "latitude": 38.357603,
+      "longitude": -75.600797,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1362,10 +1254,8 @@
       "address": "1012 York Rd, Towson, MD 21204, USA",
       "street": "1012 York Road",
       "zip": "21204",
-      "coordinates": {
-        "lat": 39.410934,
-        "lng": -76.610557
-      },
+      "latitude": 39.410934,
+      "longitude": -76.610557,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1386,10 +1276,8 @@
       "address": "110 W Bel Air Ave, Aberdeen, MD 21001, USA",
       "street": "110 West Bel Air Avenue",
       "zip": "21001",
-      "coordinates": {
-        "lat": 39.509771,
-        "lng": -76.16592
-      },
+      "latitude": 39.509771,
+      "longitude": -76.16592,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1409,10 +1297,8 @@
       "address": "206 Spesutia Rd, Aberdeen, MD 21001, USA",
       "street": "206 Spesutia Road",
       "zip": "21001",
-      "coordinates": {
-        "lat": 39.477995,
-        "lng": -76.206832
-      },
+      "latitude": 39.477995,
+      "longitude": -76.206832,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1432,10 +1318,8 @@
       "address": "41 Mitchell Ave, Aberdeen, MD 21001, USA",
       "street": "41 Mitchell Avenue",
       "zip": "21001",
-      "coordinates": {
-        "lat": 39.506886,
-        "lng": -76.161904
-      },
+      "latitude": 39.506886,
+      "longitude": -76.161904,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1455,10 +1339,8 @@
       "address": "758 W Bel Air Ave, Aberdeen, MD 21001, USA",
       "street": "758 West Bel Air Avenue",
       "zip": "21001",
-      "coordinates": {
-        "lat": 39.518768,
-        "lng": -76.185415
-      },
+      "latitude": 39.518768,
+      "longitude": -76.185415,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1478,10 +1360,8 @@
       "address": "1450 Abingdon Rd, Abingdon, MD 21009, USA",
       "street": "1450 Abingdon Road",
       "zip": "21009",
-      "coordinates": {
-        "lat": 39.464691,
-        "lng": -76.285247
-      },
+      "latitude": 39.464691,
+      "longitude": -76.285247,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1501,10 +1381,8 @@
       "address": "1966 Crownsville Rd, Annapolis, MD 21401, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.990921,
-        "lng": -76.586973
-      },
+      "latitude": 38.990921,
+      "longitude": -76.586973,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1524,10 +1402,8 @@
       "address": "245 West St, Annapolis, MD 21401, USA",
       "street": "245 West Street",
       "zip": "21401",
-      "coordinates": {
-        "lat": 38.97645,
-        "lng": -76.501931
-      },
+      "latitude": 38.97645,
+      "longitude": -76.501931,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1547,10 +1423,8 @@
       "address": "620 Bestgate Rd, Annapolis, MD 21401, USA",
       "street": "620 Bestgate Road",
       "zip": "21401",
-      "coordinates": {
-        "lat": 38.997198,
-        "lng": -76.521758
-      },
+      "latitude": 38.997198,
+      "longitude": -76.521758,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1570,10 +1444,8 @@
       "address": "365 Jones Station Rd, Arnold, MD 21012, USA",
       "street": "365 Jones Station Road",
       "zip": "21012",
-      "coordinates": {
-        "lat": 39.049833,
-        "lng": -76.50158
-      },
+      "latitude": 39.049833,
+      "longitude": -76.50158,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1593,10 +1465,8 @@
       "address": "101 W Patapsco Ave, Baltimore, MD 21225, USA",
       "street": "101 West Patapsco Avenue",
       "zip": "21225",
-      "coordinates": {
-        "lat": 39.238779,
-        "lng": -76.611802
-      },
+      "latitude": 39.238779,
+      "longitude": -76.611802,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1616,10 +1486,8 @@
       "address": "1111 Dundalk Ave, Baltimore, MD 21224, USA",
       "street": "1111 Dundalk Avenue",
       "zip": "21224",
-      "coordinates": {
-        "lat": 39.281363,
-        "lng": -76.534756
-      },
+      "latitude": 39.281363,
+      "longitude": -76.534756,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1639,10 +1507,8 @@
       "address": "1202 Union Ave, Baltimore, MD 21211, USA",
       "street": "1202 Union Avenue",
       "zip": "21211",
-      "coordinates": {
-        "lat": 39.33331,
-        "lng": -76.636014
-      },
+      "latitude": 39.33331,
+      "longitude": -76.636014,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1662,10 +1528,8 @@
       "address": "1532 E Fort Ave, Baltimore, MD 21230, USA",
       "street": "1532 East Fort Avenue",
       "zip": "21230",
-      "coordinates": {
-        "lat": 39.268747,
-        "lng": -76.592528
-      },
+      "latitude": 39.268747,
+      "longitude": -76.592528,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1685,10 +1549,8 @@
       "address": "3407 Hamilton Ave, Baltimore, MD 21214, USA",
       "street": "3407 Hamilton Avenue",
       "zip": "21214",
-      "coordinates": {
-        "lat": 39.34759,
-        "lng": -76.5572
-      },
+      "latitude": 39.34759,
+      "longitude": -76.5572,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1708,10 +1570,8 @@
       "address": "400 E Madison St, Baltimore, MD 21202, USA",
       "street": "400 East Madison Street",
       "zip": "21202",
-      "coordinates": {
-        "lat": 39.298801,
-        "lng": -76.610371
-      },
+      "latitude": 39.298801,
+      "longitude": -76.610371,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1731,10 +1591,8 @@
       "address": "4708 Prudence St, Baltimore, MD 21226, USA",
       "street": "4708 Prudence Street",
       "zip": "21226",
-      "coordinates": {
-        "lat": 39.222972,
-        "lng": -76.591715
-      },
+      "latitude": 39.222972,
+      "longitude": -76.591715,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1754,10 +1612,8 @@
       "address": "5921 Moravia Rd, Baltimore, MD 21206, USA",
       "street": "5921 Moravia Road",
       "zip": "21206",
-      "coordinates": {
-        "lat": 39.31622,
-        "lng": -76.545323
-      },
+      "latitude": 39.31622,
+      "longitude": -76.545323,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1777,10 +1633,8 @@
       "address": "6201 N Charles St, Baltimore, MD 21212, USA",
       "street": "6201 North Charles Street",
       "zip": "21212",
-      "coordinates": {
-        "lat": 39.377368,
-        "lng": -76.626402
-      },
+      "latitude": 39.377368,
+      "longitude": -76.626402,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1800,10 +1654,8 @@
       "address": "6605 Harford Rd, Baltimore, MD 21214, USA",
       "street": "6605 Harford Road",
       "zip": "21214",
-      "coordinates": {
-        "lat": 39.362711,
-        "lng": -76.552097
-      },
+      "latitude": 39.362711,
+      "longitude": -76.552097,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1823,10 +1675,8 @@
       "address": "5646 Baltimore National Pike, Baltimore, MD 21228, USA",
       "street": "5646 Baltimore National Pike",
       "zip": "21228",
-      "coordinates": {
-        "lat": 39.289726,
-        "lng": -76.729391
-      },
+      "latitude": 39.289726,
+      "longitude": -76.729391,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1846,10 +1696,8 @@
       "address": "1 Compass Rd, Baltimore, MD 21220, USA",
       "street": "1 Compass Road",
       "zip": "21220",
-      "coordinates": {
-        "lat": 39.335525,
-        "lng": -76.457009
-      },
+      "latitude": 39.335525,
+      "longitude": -76.457009,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1869,10 +1717,8 @@
       "address": "7111 North Point Rd, Baltimore, MD 21219, USA",
       "street": "7111 North Point Road",
       "zip": "21219",
-      "coordinates": {
-        "lat": 39.240429,
-        "lng": -76.44677
-      },
+      "latitude": 39.240429,
+      "longitude": -76.44677,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1892,10 +1738,8 @@
       "address": "6901 Security Blvd, Baltimore, MD 21207, USA",
       "street": "6901 Security Boulevard",
       "zip": "21207",
-      "coordinates": {
-        "lat": 39.309964,
-        "lng": -76.749523
-      },
+      "latitude": 39.309964,
+      "longitude": -76.749523,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1915,10 +1759,8 @@
       "address": "128 N Bond St, Bel Air, MD 21014, USA",
       "street": "128 North Bond Street",
       "zip": "21014",
-      "coordinates": {
-        "lat": 39.537219,
-        "lng": -76.352287
-      },
+      "latitude": 39.537219,
+      "longitude": -76.352287,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1938,10 +1780,8 @@
       "address": "1716 E Churchville Rd, Bel Air, MD 21015, USA",
       "street": "Churchville Road",
       "zip": "21015",
-      "coordinates": {
-        "lat": 39.550535,
-        "lng": -76.304747
-      },
+      "latitude": 39.550535,
+      "longitude": -76.304747,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1961,10 +1801,8 @@
       "address": "3400 Crain Hwy, Bowie, MD 20716, USA",
       "street": "North West Crain Highway",
       "zip": "20717",
-      "coordinates": {
-        "lat": 38.937465,
-        "lng": -76.718658
-      },
+      "latitude": 38.937465,
+      "longitude": -76.718658,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -1984,10 +1822,8 @@
       "address": "3507 Enterprise Rd, Bowie, MD 20721, USA",
       "street": "3507 Enterprise Road",
       "zip": "20721",
-      "coordinates": {
-        "lat": 38.938756,
-        "lng": -76.800884
-      },
+      "latitude": 38.938756,
+      "longitude": -76.800884,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2007,10 +1843,8 @@
       "address": "6510 Laurel Bowie Rd, Bowie, MD 20715, USA",
       "street": "6510 Laurel Bowie Road",
       "zip": "20715",
-      "coordinates": {
-        "lat": 38.979535,
-        "lng": -76.757616
-      },
+      "latitude": 38.979535,
+      "longitude": -76.757616,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2030,10 +1864,8 @@
       "address": "8801 Central Ave, Capitol Heights, MD 20743, USA",
       "street": "8801 Central Avenue",
       "zip": "20743",
-      "coordinates": {
-        "lat": 38.890304,
-        "lng": -76.85311
-      },
+      "latitude": 38.890304,
+      "longitude": -76.85311,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2053,10 +1885,8 @@
       "address": "1110 N Rolling Rd, Catonsville, MD 21228, USA",
       "street": "1110 North Rolling Road",
       "zip": "21228",
-      "coordinates": {
-        "lat": 39.285612,
-        "lng": -76.753953
-      },
+      "latitude": 39.285612,
+      "longitude": -76.753953,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2076,10 +1906,8 @@
       "address": "711 Maiden Choice Ln, Catonsville, MD 21228, USA",
       "street": "711 Maiden Choice Lane",
       "zip": "21228",
-      "coordinates": {
-        "lat": 39.267606,
-        "lng": -76.701477
-      },
+      "latitude": 39.267606,
+      "longitude": -76.701477,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2099,10 +1927,8 @@
       "address": "3107 63rd Ave, Cheverly, MD 20785, USA",
       "street": "3107 63rd Avenue",
       "zip": "20785",
-      "coordinates": {
-        "lat": 38.929089,
-        "lng": -76.907854
-      },
+      "latitude": 38.929089,
+      "longitude": -76.907854,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2122,10 +1948,8 @@
       "address": "12500 Clarksville Pike, Clarksville, MD 21029, USA",
       "street": "12500 Clarksville Pike",
       "zip": "21029",
-      "coordinates": {
-        "lat": 39.204326,
-        "lng": -76.944501
-      },
+      "latitude": 39.204326,
+      "longitude": -76.944501,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2145,10 +1969,8 @@
       "address": "MD-108, Clarksville, MD, USA",
       "street": "Clarksville Pike",
       "zip": "21029",
-      "coordinates": {
-        "lat": 39.206143,
-        "lng": -76.943021
-      },
+      "latitude": 39.206143,
+      "longitude": -76.943021,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2168,10 +1990,8 @@
       "address": "9600 Brandywine Rd, Clinton, MD 20735, USA",
       "street": "9600 Brandywine Road",
       "zip": "20735",
-      "coordinates": {
-        "lat": 38.758132,
-        "lng": -76.894007
-      },
+      "latitude": 38.758132,
+      "longitude": -76.894007,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2191,10 +2011,8 @@
       "address": "13011 Beaver Dam Rd, Cockeysville, MD 21030, USA",
       "street": "13011 Beaver Dam Road",
       "zip": "21030",
-      "coordinates": {
-        "lat": 39.482132,
-        "lng": -76.666325
-      },
+      "latitude": 39.482132,
+      "longitude": -76.666325,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2214,10 +2032,8 @@
       "address": "4103 Lawrence St, Colmar Manor, MD 20722, USA",
       "street": "4103 Lawrence Street",
       "zip": "20722",
-      "coordinates": {
-        "lat": 38.933366,
-        "lng": -76.945176
-      },
+      "latitude": 38.933366,
+      "longitude": -76.945176,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2237,10 +2053,8 @@
       "address": "Quarterstaff Rd & Freetown Rd, Columbia, MD 21044, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.193396,
-        "lng": -76.880793
-      },
+      "latitude": 39.193396,
+      "longitude": -76.880793,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2260,10 +2074,8 @@
       "address": "1800 Seton Dr, Crofton, MD 21114, USA",
       "street": "1800 Seton Drive",
       "zip": "21114",
-      "coordinates": {
-        "lat": 39.006925,
-        "lng": -76.675967
-      },
+      "latitude": 39.006925,
+      "longitude": -76.675967,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2283,10 +2095,8 @@
       "address": "9240 Damascus Rd, Damascus, MD 20872, USA",
       "street": "9240 Damascus Road",
       "zip": "20872",
-      "coordinates": {
-        "lat": 39.282896,
-        "lng": -77.191358
-      },
+      "latitude": 39.282896,
+      "longitude": -77.191358,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2306,10 +2116,8 @@
       "address": "826 W Central Ave, Davidsonville, MD 21035, USA",
       "street": "Central Avenue",
       "zip": "21035",
-      "coordinates": {
-        "lat": 38.923139,
-        "lng": -76.631434
-      },
+      "latitude": 38.923139,
+      "longitude": -76.631434,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2329,10 +2137,8 @@
       "address": "5736 Deale Churchton Rd, Deale, MD 20751, USA",
       "street": "Deale Churchton Road",
       "zip": "20751",
-      "coordinates": {
-        "lat": 38.794721,
-        "lng": -76.546311
-      },
+      "latitude": 38.794721,
+      "longitude": -76.546311,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2352,10 +2158,8 @@
       "address": "5823 Deale Churchton Rd, Deale, MD 20751, USA",
       "street": "5823 Deale Churchton Road",
       "zip": "20751",
-      "coordinates": {
-        "lat": 38.791516,
-        "lng": -76.547085
-      },
+      "latitude": 38.791516,
+      "longitude": -76.547085,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2375,10 +2179,8 @@
       "address": "6701 Muncaster Mill Rd, Derwood, MD 20855, USA",
       "street": "6701 Muncaster Mill Road",
       "zip": "20855",
-      "coordinates": {
-        "lat": 39.141984,
-        "lng": -77.135399
-      },
+      "latitude": 39.141984,
+      "longitude": -77.135399,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2398,10 +2200,8 @@
       "address": "7631 Marlboro Pike, District Heights, MD 20747, USA",
       "street": "7631 Marlboro Pike",
       "zip": "20747",
-      "coordinates": {
-        "lat": 38.844475,
-        "lng": -76.874438
-      },
+      "latitude": 38.844475,
+      "longitude": -76.874438,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2421,10 +2221,8 @@
       "address": "201 Main St, Dundalk, MD 21222, USA",
       "street": "201 Main Street",
       "zip": "21222",
-      "coordinates": {
-        "lat": 39.243267,
-        "lng": -76.512497
-      },
+      "latitude": 39.243267,
+      "longitude": -76.512497,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2444,10 +2242,8 @@
       "address": "800 Merritt Blvd, Dundalk, MD 21222, USA",
       "street": "800 Merritt Boulevard",
       "zip": "21224",
-      "coordinates": {
-        "lat": 39.28698,
-        "lng": -76.506258
-      },
+      "latitude": 39.28698,
+      "longitude": -76.506258,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2467,10 +2263,8 @@
       "address": "2975 W Chesapeake Beach Rd, Dunkirk, MD 20754, USA",
       "street": "2975 West Chesapeake Beach Road",
       "zip": "20754",
-      "coordinates": {
-        "lat": 38.761504,
-        "lng": -76.654898
-      },
+      "latitude": 38.761504,
+      "longitude": -76.654898,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2490,10 +2284,8 @@
       "address": "201 W Central Ave, Edgewater, MD 21037, USA",
       "street": "Central Avenue",
       "zip": "21037",
-      "coordinates": {
-        "lat": 38.927336,
-        "lng": -76.582774
-      },
+      "latitude": 38.927336,
+      "longitude": -76.582774,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2513,10 +2305,8 @@
       "address": "830 Mayo Rd, Edgewater, MD 21037, USA",
       "street": "Mayo Road",
       "zip": "21037",
-      "coordinates": {
-        "lat": 38.906827,
-        "lng": -76.526764
-      },
+      "latitude": 38.906827,
+      "longitude": -76.526764,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2536,10 +2326,8 @@
       "address": "1713 Hanson Rd, Edgewood, MD 21040, USA",
       "street": "1713 Hanson Road",
       "zip": "21040",
-      "coordinates": {
-        "lat": 39.424653,
-        "lng": -76.312234
-      },
+      "latitude": 39.424653,
+      "longitude": -76.312234,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2559,10 +2347,8 @@
       "address": "803 Edgewood Rd, Edgewood, MD 21040, USA",
       "street": "803 Edgewood Road",
       "zip": "21040",
-      "coordinates": {
-        "lat": 39.429266,
-        "lng": -76.299816
-      },
+      "latitude": 39.429266,
+      "longitude": -76.299816,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2582,10 +2368,8 @@
       "address": "1500 Liberty Rd, Eldersburg, MD 21784, USA",
       "street": "1500 Liberty Road",
       "zip": "21784",
-      "coordinates": {
-        "lat": 39.402294,
-        "lng": -76.943258
-      },
+      "latitude": 39.402294,
+      "longitude": -76.943258,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2605,10 +2389,8 @@
       "address": "5976 Old Washington Rd, Elkridge, MD 21075, USA",
       "street": "5976 Old Washington Road",
       "zip": "21075",
-      "coordinates": {
-        "lat": 39.211346,
-        "lng": -76.715975
-      },
+      "latitude": 39.211346,
+      "longitude": -76.715975,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2628,10 +2410,8 @@
       "address": "208 W High St, Elkton, MD 21921, USA",
       "street": "208 West High Street",
       "zip": "21921",
-      "coordinates": {
-        "lat": 39.608045,
-        "lng": -75.835011
-      },
+      "latitude": 39.608045,
+      "longitude": -75.835011,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2651,10 +2431,8 @@
       "address": "3155 Paulskirk Dr, Ellicott City, MD 21042, USA",
       "street": "3155 Paulskirk Drive",
       "zip": "21042",
-      "coordinates": {
-        "lat": 39.281958,
-        "lng": -76.829865
-      },
+      "latitude": 39.281958,
+      "longitude": -76.829865,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2674,10 +2452,8 @@
       "address": "3755 St Paul St, Ellicott City, MD 21043, USA",
       "street": "Saint Paul Street",
       "zip": "21043",
-      "coordinates": {
-        "lat": 39.266671,
-        "lng": -76.795863
-      },
+      "latitude": 39.266671,
+      "longitude": -76.795863,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2697,10 +2473,8 @@
       "address": "4985 Ilchester Rd, Ellicott City, MD 21043, USA",
       "street": "4985 Ilchester Road",
       "zip": "21043",
-      "coordinates": {
-        "lat": 39.231171,
-        "lng": -76.775645
-      },
+      "latitude": 39.231171,
+      "longitude": -76.775645,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2720,10 +2494,8 @@
       "address": "8300 Baltimore National Pike, Ellicott City, MD 21043, USA",
       "street": "8300 Baltimore National Pike",
       "zip": "21043",
-      "coordinates": {
-        "lat": 39.289502,
-        "lng": -76.799716
-      },
+      "latitude": 39.289502,
+      "longitude": -76.799716,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2743,10 +2515,8 @@
       "address": "812 Reckord Rd, Fallston, MD 21047, USA",
       "street": "812 Reckord Road",
       "zip": "21047",
-      "coordinates": {
-        "lat": 39.508309,
-        "lng": -76.40867
-      },
+      "latitude": 39.508309,
+      "longitude": -76.40867,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2766,10 +2536,8 @@
       "address": "2893 Baltimore Blvd, Finksburg, MD 21048, USA",
       "street": "2893 Baltimore Boulevard",
       "zip": "21048",
-      "coordinates": {
-        "lat": 39.497123,
-        "lng": -76.894218
-      },
+      "latitude": 39.497123,
+      "longitude": -76.894218,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2789,10 +2557,8 @@
       "address": "7800 Livingston Rd, Fort Washington, MD 20744, USA",
       "street": "Livingston Road",
       "zip": "20744",
-      "coordinates": {
-        "lat": 38.784134,
-        "lng": -76.991407
-      },
+      "latitude": 38.784134,
+      "longitude": -76.991407,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2812,10 +2578,8 @@
       "address": "5350 Spectrum Dr, Frederick, MD 21703, USA",
       "street": "5350 Spectrum Drive",
       "zip": "21703",
-      "coordinates": {
-        "lat": 39.379723,
-        "lng": -77.402865
-      },
+      "latitude": 39.379723,
+      "longitude": -77.402865,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2835,10 +2599,8 @@
       "address": "Sugarloaf Pkwy, Urbana, MD, USA",
       "street": "Sugarloaf Parkway",
       "zip": "21754",
-      "coordinates": {
-        "lat": 39.33084,
-        "lng": -77.350915
-      },
+      "latitude": 39.33084,
+      "longitude": -77.350915,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2858,10 +2620,8 @@
       "address": "8300 Old Columbia Rd, Fulton, MD 20759, USA",
       "street": "8300 Old Columbia Road",
       "zip": "20759",
-      "coordinates": {
-        "lat": 39.145235,
-        "lng": -76.907889
-      },
+      "latitude": 39.145235,
+      "longitude": -76.907889,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2881,10 +2641,8 @@
       "address": "9000 Warfield Rd, Gaithersburg, MD 20882, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.193894,
-        "lng": -77.185945
-      },
+      "latitude": 39.193894,
+      "longitude": -77.185945,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2904,10 +2662,8 @@
       "address": "9639 Lost Knife Rd, Gaithersburg, MD 20877, USA",
       "street": "9639 Lost Knife Road",
       "zip": "29877",
-      "coordinates": {
-        "lat": 39.152948,
-        "lng": -77.196636
-      },
+      "latitude": 39.152948,
+      "longitude": -77.196636,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2927,10 +2683,8 @@
       "address": "1344 Defense Hwy, Gambrills, MD 21054, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.992725,
-        "lng": -76.671211
-      },
+      "latitude": 38.992725,
+      "longitude": -76.671211,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2950,10 +2704,8 @@
       "address": "2601 Symphony Ln, Gambrills, MD 21054, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.046732,
-        "lng": -76.691716
-      },
+      "latitude": 39.046732,
+      "longitude": -76.691716,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2973,10 +2725,8 @@
       "address": "908 Crain Hwy, Gambrills, MD 21054, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.033478,
-        "lng": -76.681891
-      },
+      "latitude": 39.033478,
+      "longitude": -76.681891,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2996,10 +2746,8 @@
       "address": "13060 Middlebrook Road, Germantown, MD 20874, USA",
       "street": "13060 Middlebrook Road",
       "zip": "20874",
-      "coordinates": {
-        "lat": 39.180401,
-        "lng": -77.271809
-      },
+      "latitude": 39.180401,
+      "longitude": -77.271809,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3019,10 +2767,8 @@
       "address": "1451 Furnace Ave, Glen Burnie, MD 21060, USA",
       "street": "1451 Furnace Avenue",
       "zip": "21060",
-      "coordinates": {
-        "lat": 39.170672,
-        "lng": -76.589159
-      },
+      "latitude": 39.170672,
+      "longitude": -76.589159,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3042,10 +2788,8 @@
       "address": "7061 Baltimore Annapolis Blvd, Glen Burnie, MD 21061, USA",
       "street": "7061 Baltimore Annapolis Boulevard",
       "zip": "21061",
-      "coordinates": {
-        "lat": 39.200013,
-        "lng": -76.641316
-      },
+      "latitude": 39.200013,
+      "longitude": -76.641316,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3065,10 +2809,8 @@
       "address": "7823 Oakwood Rd, Glen Burnie, MD 21061, USA",
       "street": "7823 Oakwood Road",
       "zip": "21061",
-      "coordinates": {
-        "lat": 39.142277,
-        "lng": -76.617376
-      },
+      "latitude": 39.142277,
+      "longitude": -76.617376,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3088,10 +2830,8 @@
       "address": "6900 Greenbelt Rd, Greenbelt, MD 20770, USA",
       "street": "6900 Greenbelt Road",
       "zip": "20770",
-      "coordinates": {
-        "lat": 38.996665,
-        "lng": -76.887815
-      },
+      "latitude": 38.996665,
+      "longitude": -76.887815,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3111,10 +2851,8 @@
       "address": "101 S Prospect St, Hagerstown, MD 21740, USA",
       "street": "101 South Prospect Street",
       "zip": "21740",
-      "coordinates": {
-        "lat": 39.642602,
-        "lng": -77.72567
-      },
+      "latitude": 39.642602,
+      "longitude": -77.72567,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3134,10 +2872,8 @@
       "address": "15 High St, Hagerstown, MD 21740, USA",
       "street": "15 High Street",
       "zip": "21740",
-      "coordinates": {
-        "lat": 39.646293,
-        "lng": -77.72842
-      },
+      "latitude": 39.646293,
+      "longitude": -77.72842,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3157,10 +2893,8 @@
       "address": "1525 Oak Hill Ave, Hagerstown, MD 21742, USA",
       "street": "1525 Oak Hill Avenue",
       "zip": "21742",
-      "coordinates": {
-        "lat": 39.665754,
-        "lng": -77.705189
-      },
+      "latitude": 39.665754,
+      "longitude": -77.705189,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3180,10 +2914,8 @@
       "address": "17630 Virginia Ave, Hagerstown, MD 21740, USA",
       "street": "17630 Virginia Avenue",
       "zip": "21740",
-      "coordinates": {
-        "lat": 39.621951,
-        "lng": -77.756662
-      },
+      "latitude": 39.621951,
+      "longitude": -77.756662,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3203,10 +2935,8 @@
       "address": "495 Premium Outlets Blvd, Hagerstown, MD 21740, USA",
       "street": "495 Premium Outlets Boulevard",
       "zip": "21740",
-      "coordinates": {
-        "lat": 39.607029,
-        "lng": -77.734693
-      },
+      "latitude": 39.607029,
+      "longitude": -77.734693,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3226,10 +2956,8 @@
       "address": "521 W Washington St, Hagerstown, MD 21740, USA",
       "street": "521 West Washington Street",
       "zip": "21740",
-      "coordinates": {
-        "lat": 39.645989,
-        "lng": -77.729936
-      },
+      "latitude": 39.645989,
+      "longitude": -77.729936,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3249,10 +2977,8 @@
       "address": "7043 Arundel Mills Cir, Hanover, MD 21076, USA",
       "street": "7043 Arundel Mills Circle",
       "zip": "21076",
-      "coordinates": {
-        "lat": 39.154108,
-        "lng": -76.722289
-      },
+      "latitude": 39.154108,
+      "longitude": -76.722289,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3272,10 +2998,8 @@
       "address": "7677 Arundel Mills Blvd, Hanover, MD 21076, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.152875,
-        "lng": -76.729497
-      },
+      "latitude": 39.152875,
+      "longitude": -76.729497,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3295,10 +3019,8 @@
       "address": "4450 Solomons Island Rd, Harwood, MD 20776, USA",
       "street": "4450 Solomons Island Road",
       "zip": "20776",
-      "coordinates": {
-        "lat": 38.865563,
-        "lng": -76.620535
-      },
+      "latitude": 38.865563,
+      "longitude": -76.620535,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3318,10 +3040,8 @@
       "address": "13402 Clarksville Pike, Highland, MD 20777, USA",
       "street": "13402 Clarksville Pike",
       "zip": "20777",
-      "coordinates": {
-        "lat": 39.179153,
-        "lng": -76.95814
-      },
+      "latitude": 39.179153,
+      "longitude": -76.95814,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3341,10 +3061,8 @@
       "address": "4644 Baltimore Ave, Hyattsville, MD 20781, USA",
       "street": "4644 Baltimore Avenue",
       "zip": "20781",
-      "coordinates": {
-        "lat": 38.947061,
-        "lng": -76.941485
-      },
+      "latitude": 38.947061,
+      "longitude": -76.941485,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3364,10 +3082,8 @@
       "address": "7501 Adelphi Rd, Hyattsville, MD 20783, USA",
       "street": "7501 Adelphi Road",
       "zip": "20783",
-      "coordinates": {
-        "lat": 38.982906,
-        "lng": -76.953954
-      },
+      "latitude": 38.982906,
+      "longitude": -76.953954,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3387,10 +3103,8 @@
       "address": "13305 Long Green Pike, Hydes, MD 21082, USA",
       "street": "13305 Long Green Pike",
       "zip": "21082",
-      "coordinates": {
-        "lat": 39.48758,
-        "lng": -76.474745
-      },
+      "latitude": 39.48758,
+      "longitude": -76.474745,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3410,10 +3124,8 @@
       "address": "William and Catherine Biggs Farm, 3425 Green Valley Rd, Ijamsville, MD 21754, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.328128,
-        "lng": -77.277838
-      },
+      "latitude": 39.328128,
+      "longitude": -77.277838,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3433,10 +3145,8 @@
       "address": "525 Pulaski Hwy, Joppatowne, MD 21085, USA",
       "street": "525 Pulaski Highway",
       "zip": "21085",
-      "coordinates": {
-        "lat": 39.42844,
-        "lng": -76.35681
-      },
+      "latitude": 39.42844,
+      "longitude": -76.35681,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3456,10 +3166,8 @@
       "address": "540 Joppa Farm Rd, Joppatowne, MD 21085, USA",
       "street": "540 Joppa Farm Road",
       "zip": "21085",
-      "coordinates": {
-        "lat": 39.410953,
-        "lng": -76.352106
-      },
+      "latitude": 39.410953,
+      "longitude": -76.352106,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3479,10 +3187,8 @@
       "address": "8030 Bradshaw Rd, Kingsville, MD 21087, USA",
       "street": "8030 Bradshaw Road",
       "zip": "21087",
-      "coordinates": {
-        "lat": 39.432852,
-        "lng": -76.396758
-      },
+      "latitude": 39.432852,
+      "longitude": -76.396758,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3502,10 +3208,8 @@
       "address": "4231 Catholic Church Rd, Knoxville, MD 21758, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.348332,
-        "lng": -77.616589
-      },
+      "latitude": 39.348332,
+      "longitude": -77.616589,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3525,10 +3229,8 @@
       "address": "6330 Crain Hwy, La Plata, MD 20646, USA",
       "street": "6330 Crain Highway",
       "zip": "20646",
-      "coordinates": {
-        "lat": 38.538413,
-        "lng": -76.983433
-      },
+      "latitude": 38.538413,
+      "longitude": -76.983433,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3548,10 +3250,8 @@
       "address": "US-301 & E Hawthorne Dr, La Plata, MD 20646, USA",
       "street": "East Hawthorne Drive",
       "zip": "20646",
-      "coordinates": {
-        "lat": 38.539569,
-        "lng": -76.984309
-      },
+      "latitude": 38.539569,
+      "longitude": -76.984309,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3571,10 +3271,8 @@
       "address": "9800 Good Luck Rd, Lanham, MD 20706, USA",
       "street": "9800 Good Luck Road",
       "zip": "20706",
-      "coordinates": {
-        "lat": 38.98515,
-        "lng": -76.840969
-      },
+      "latitude": 38.98515,
+      "longitude": -76.840969,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3594,10 +3292,8 @@
       "address": "114 St Marys Pl, Laurel, MD 20707, USA",
       "street": "114 Saint Marys Place",
       "zip": "20707",
-      "coordinates": {
-        "lat": 39.108036,
-        "lng": -76.855913
-      },
+      "latitude": 39.108036,
+      "longitude": -76.855913,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3617,10 +3313,8 @@
       "address": "306 Second St, Laurel, MD 20707, USA",
       "street": "2nd Street",
       "zip": "20723",
-      "coordinates": {
-        "lat": 39.101238,
-        "lng": -76.844663
-      },
+      "latitude": 39.101238,
+      "longitude": -76.844663,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3640,10 +3334,8 @@
       "address": "311 Washington Blvd, Laurel, MD 20707, USA",
       "street": "311 Washington Boulevard",
       "zip": "20707",
-      "coordinates": {
-        "lat": 39.101936,
-        "lng": -76.846397
-      },
+      "latitude": 39.101936,
+      "longitude": -76.846397,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3663,10 +3355,8 @@
       "address": "8402 Brock Bridge Rd, Laurel, MD 20724, USA",
       "street": "8402 Brock Bridge Road",
       "zip": "20724",
-      "coordinates": {
-        "lat": 39.117079,
-        "lng": -76.820648
-      },
+      "latitude": 39.117079,
+      "longitude": -76.820648,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3686,10 +3376,8 @@
       "address": "2161 York Rd, Lutherville-Timonium, MD 21093, USA",
       "street": "2161 York Road",
       "zip": "21093",
-      "coordinates": {
-        "lat": 39.444576,
-        "lng": -76.627756
-      },
+      "latitude": 39.444576,
+      "longitude": -76.627756,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3709,10 +3397,8 @@
       "address": "28297 Old Village Rd, Mechanicsville, MD 20659, USA",
       "street": "28297 Old Village Road",
       "zip": "20659",
-      "coordinates": {
-        "lat": 38.443405,
-        "lng": -76.748354
-      },
+      "latitude": 38.443405,
+      "longitude": -76.748354,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3732,10 +3418,8 @@
       "address": "29119 Point Lookout Rd, Mechanicsville, MD 20659, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.375856,
-        "lng": -76.697078
-      },
+      "latitude": 38.375856,
+      "longitude": -76.697078,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3755,10 +3439,8 @@
       "address": "10003 Bird River Rd, Middle River, MD 21220, USA",
       "street": "10003 Bird River Road",
       "zip": "21220",
-      "coordinates": {
-        "lat": 39.355212,
-        "lng": -76.431859
-      },
+      "latitude": 39.355212,
+      "longitude": -76.431859,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3778,10 +3460,8 @@
       "address": "17 Carroll Island Rd, Middle River, MD 21220, USA",
       "street": "17 Carroll Island Road",
       "zip": "21220",
-      "coordinates": {
-        "lat": 39.338491,
-        "lng": -76.400533
-      },
+      "latitude": 39.338491,
+      "longitude": -76.400533,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3801,10 +3481,8 @@
       "address": "6950 Dogwood Rd, Windsor Mill, MD 21244, USA",
       "street": "6950 Dogwood Road",
       "zip": "21244",
-      "coordinates": {
-        "lat": 39.321225,
-        "lng": -76.756647
-      },
+      "latitude": 39.321225,
+      "longitude": -76.756647,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3824,10 +3502,8 @@
       "address": "7111 Windsor Blvd, Windsor Mill, MD 21244, USA",
       "street": "7111 Windsor Boulevard",
       "zip": "21244",
-      "coordinates": {
-        "lat": 39.333077,
-        "lng": -76.747455
-      },
+      "latitude": 39.333077,
+      "longitude": -76.747455,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3847,10 +3523,8 @@
       "address": "1069 Cecil Ave, Millersville, MD 21108, USA",
       "street": "1069 Cecil Avenue",
       "zip": "21108",
-      "coordinates": {
-        "lat": 39.049731,
-        "lng": -76.650591
-      },
+      "latitude": 39.049731,
+      "longitude": -76.650591,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3870,10 +3544,8 @@
       "address": "1200 St Michaels Rd, Mt Airy, MD 21771, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.337115,
-        "lng": -77.107997
-      },
+      "latitude": 39.337115,
+      "longitude": -77.107997,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3893,10 +3565,8 @@
       "address": "7964 Belair Rd, Nottingham, MD 21236, USA",
       "street": "7964 Belair Road",
       "zip": "21236",
-      "coordinates": {
-        "lat": 39.374458,
-        "lng": -76.509926
-      },
+      "latitude": 39.374458,
+      "longitude": -76.509926,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3916,10 +3586,8 @@
       "address": "4313 Ebenezer Rd, Nottingham, MD 21236, USA",
       "street": "4313 Ebenezer Road",
       "zip": "21236",
-      "coordinates": {
-        "lat": 39.397043,
-        "lng": -76.478145
-      },
+      "latitude": 39.397043,
+      "longitude": -76.478145,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3939,10 +3607,8 @@
       "address": "7329 Belair Rd, Nottingham, MD 21236, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.360867,
-        "lng": -76.523748
-      },
+      "latitude": 39.360867,
+      "longitude": -76.523748,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3962,10 +3628,8 @@
       "address": "8420 Belair Rd, Nottingham, MD 21236, USA",
       "street": "8420 Belair Road",
       "zip": "21236",
-      "coordinates": {
-        "lat": 39.387039,
-        "lng": -76.496161
-      },
+      "latitude": 39.387039,
+      "longitude": -76.496161,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3985,10 +3649,8 @@
       "address": "8250 Lokus Rd, Odenton, MD 21113, USA",
       "street": "8250 Lokus Road",
       "zip": "21113",
-      "coordinates": {
-        "lat": 39.099706,
-        "lng": -76.696537
-      },
+      "latitude": 39.099706,
+      "longitude": -76.696537,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4008,10 +3670,8 @@
       "address": "1555 W Mount Harmony Rd, Owings, MD 20736, USA",
       "street": "1555 West Mount Harmony Road",
       "zip": "20736",
-      "coordinates": {
-        "lat": 38.708928,
-        "lng": -76.638121
-      },
+      "latitude": 38.708928,
+      "longitude": -76.638121,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4031,10 +3691,8 @@
       "address": "8816 Donalds Way, Owings, MD 20736, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.705084,
-        "lng": -76.581909
-      },
+      "latitude": 38.705084,
+      "longitude": -76.581909,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4054,10 +3712,8 @@
       "address": "10300 Mill Run Cir, Owings Mills, MD 21117, USA",
       "street": "Mill Run Circle",
       "zip": "21117",
-      "coordinates": {
-        "lat": 39.405835,
-        "lng": -76.793351
-      },
+      "latitude": 39.405835,
+      "longitude": -76.793351,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4077,10 +3733,8 @@
       "address": "6720 St Barnabas Rd, Oxon Hill, MD 20745, USA",
       "street": "6720 Saint Barnabas Road",
       "zip": "20745",
-      "coordinates": {
-        "lat": 38.796291,
-        "lng": -76.983823
-      },
+      "latitude": 38.796291,
+      "longitude": -76.983823,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4100,10 +3754,8 @@
       "address": "19520 York Rd, Parkton, MD 21120, USA",
       "street": "19520 York Road",
       "zip": "21120",
-      "coordinates": {
-        "lat": 39.662511,
-        "lng": -76.651875
-      },
+      "latitude": 39.662511,
+      "longitude": -76.651875,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4123,10 +3775,8 @@
       "address": "1902 E Joppa Rd, Parkville, MD 21234, USA",
       "street": "1902 East Joppa Road",
       "zip": "21234",
-      "coordinates": {
-        "lat": 39.400781,
-        "lng": -76.550584
-      },
+      "latitude": 39.400781,
+      "longitude": -76.550584,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4146,10 +3796,8 @@
       "address": "8801 Harford Rd, Parkville, MD 21234, USA",
       "street": "8801 Harford Road",
       "zip": "21234",
-      "coordinates": {
-        "lat": 39.383628,
-        "lng": -76.534227
-      },
+      "latitude": 39.383628,
+      "longitude": -76.534227,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4169,10 +3817,8 @@
       "address": "101 Church Ln, Pikesville, MD 21208, USA",
       "street": "101 Church Lane",
       "zip": "21208",
-      "coordinates": {
-        "lat": 39.374146,
-        "lng": -76.725759
-      },
+      "latitude": 39.374146,
+      "longitude": -76.725759,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4192,10 +3838,8 @@
       "address": "3757 Old Court Rd, Pikesville, MD 21208, USA",
       "street": "3757 Old Court Road",
       "zip": "21208",
-      "coordinates": {
-        "lat": 39.377231,
-        "lng": -76.723732
-      },
+      "latitude": 39.377231,
+      "longitude": -76.723732,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4215,10 +3859,8 @@
       "address": "441 Outlet Center Dr, Queenstown, MD 21658, USA",
       "street": "441 Outlet Center Drive",
       "zip": "21658",
-      "coordinates": {
-        "lat": 38.983035,
-        "lng": -76.159417
-      },
+      "latitude": 38.983035,
+      "longitude": -76.159417,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4238,10 +3880,8 @@
       "address": "10742 Liberty Rd, Randallstown, MD 21133, USA",
       "street": "10742 Liberty Road",
       "zip": "21133",
-      "coordinates": {
-        "lat": 39.394929,
-        "lng": -76.852029
-      },
+      "latitude": 39.394929,
+      "longitude": -76.852029,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4261,10 +3901,8 @@
       "address": "9533 Liberty Rd, Randallstown, MD 21133, USA",
       "street": "9533 Liberty Road",
       "zip": "21133",
-      "coordinates": {
-        "lat": 39.374738,
-        "lng": -76.815476
-      },
+      "latitude": 39.374738,
+      "longitude": -76.815476,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4284,10 +3922,8 @@
       "address": "5700 St Bernard Dr, Riverdale, MD 20737, USA",
       "street": "5700 St Bernard Drive",
       "zip": "20737",
-      "coordinates": {
-        "lat": 38.957061,
-        "lng": -76.916386
-      },
+      "latitude": 38.957061,
+      "longitude": -76.916386,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4307,10 +3943,8 @@
       "address": "6700 Kenilworth Ave, Riverdale, MD 20737, USA",
       "street": "6700 Kenilworth Avenue",
       "zip": "20737",
-      "coordinates": {
-        "lat": 38.969761,
-        "lng": -76.917219
-      },
+      "latitude": 38.969761,
+      "longitude": -76.917219,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4330,10 +3964,8 @@
       "address": "8499 Virginia Ave, Riviera Beach, MD 21122, USA",
       "street": "8499 Virginia Avenue",
       "zip": "21122",
-      "coordinates": {
-        "lat": 39.161038,
-        "lng": -76.512096
-      },
+      "latitude": 39.161038,
+      "longitude": -76.512096,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4353,10 +3985,8 @@
       "address": "8730 Pulaski Hwy, Rosedale, MD 21237, USA",
       "street": "8730 Pulaski Highway",
       "zip": "21237",
-      "coordinates": {
-        "lat": 39.33688,
-        "lng": -76.482196
-      },
+      "latitude": 39.33688,
+      "longitude": -76.482196,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4376,10 +4006,8 @@
       "address": "8777 Philadelphia Rd, Rosedale, MD 21237, USA",
       "street": "8777 Philadelphia Road",
       "zip": "21237",
-      "coordinates": {
-        "lat": 39.340587,
-        "lng": -76.484233
-      },
+      "latitude": 39.340587,
+      "longitude": -76.484233,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4399,10 +4027,8 @@
       "address": "801 Stevenson Rd, Severn, MD 21144, USA",
       "street": "801 Stevenson Road",
       "zip": "21144",
-      "coordinates": {
-        "lat": 39.127462,
-        "lng": -76.650206
-      },
+      "latitude": 39.127462,
+      "longitude": -76.650206,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4422,10 +4048,8 @@
       "address": "363 Ritchie Hwy, Severna Park, MD 21146, USA",
       "street": "363 Governor Ritchie Highway",
       "zip": "21146",
-      "coordinates": {
-        "lat": 39.087056,
-        "lng": -76.553994
-      },
+      "latitude": 39.087056,
+      "longitude": -76.553994,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4445,10 +4069,8 @@
       "address": "689 Ritchie Hwy, Severna Park, MD 21146, USA",
       "street": "689 Governor Ritchie Highway",
       "zip": "21146",
-      "coordinates": {
-        "lat": 39.071293,
-        "lng": -76.538318
-      },
+      "latitude": 39.071293,
+      "longitude": -76.538318,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4468,10 +4090,8 @@
       "address": "2901 Bel Pre Rd, Silver Spring, MD 20906, USA",
       "street": "2901 Bel Pre Road",
       "zip": "20906",
-      "coordinates": {
-        "lat": 39.091235,
-        "lng": -77.059415
-      },
+      "latitude": 39.091235,
+      "longitude": -77.059415,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4491,10 +4111,8 @@
       "address": "7517 North Point Rd, Sparrows Point, MD 21219, USA",
       "street": "7517 North Point Road",
       "zip": "21219",
-      "coordinates": {
-        "lat": 39.234792,
-        "lng": -76.443894
-      },
+      "latitude": 39.234792,
+      "longitude": -76.443894,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4514,10 +4132,8 @@
       "address": "915 Liberty Rd, Sykesville, MD 21784, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.405715,
-        "lng": -76.964188
-      },
+      "latitude": 39.405715,
+      "longitude": -76.964188,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4537,10 +4153,8 @@
       "address": "251 E Baltimore St, Taneytown, MD 21787, USA",
       "street": "251 East Baltimore Street",
       "zip": "21787",
-      "coordinates": {
-        "lat": 39.655896,
-        "lng": -77.170512
-      },
+      "latitude": 39.655896,
+      "longitude": -77.170512,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4560,10 +4174,8 @@
       "address": "1613 E Joppa Rd, Towson, MD 21286, USA",
       "street": "1613 East Joppa Road",
       "zip": "21286",
-      "coordinates": {
-        "lat": 39.396352,
-        "lng": -76.56623
-      },
+      "latitude": 39.396352,
+      "longitude": -76.56623,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4583,10 +4195,8 @@
       "address": "200 Ware Ave, Towson, MD 21204, USA",
       "street": "200 Ware Avenue",
       "zip": "21204",
-      "coordinates": {
-        "lat": 39.403691,
-        "lng": -76.606024
-      },
+      "latitude": 39.403691,
+      "longitude": -76.606024,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4606,10 +4216,8 @@
       "address": "14515 Church St, Upper Marlboro, MD 20772, USA",
       "street": "14515 Church Street",
       "zip": "20772",
-      "coordinates": {
-        "lat": 38.814606,
-        "lng": -76.752724
-      },
+      "latitude": 38.814606,
+      "longitude": -76.752724,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4629,10 +4237,8 @@
       "address": "11575 Berry Rd, Waldorf, MD 20603, USA",
       "street": "11575 Berry Road",
       "zip": "20603",
-      "coordinates": {
-        "lat": 38.628795,
-        "lng": -76.916274
-      },
+      "latitude": 38.628795,
+      "longitude": -76.916274,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4652,10 +4258,8 @@
       "address": "2210 Old Washington Rd, Waldorf, MD 20601, USA",
       "street": "2210 Old Washington Road",
       "zip": "20601",
-      "coordinates": {
-        "lat": 38.649129,
-        "lng": -76.8825
-      },
+      "latitude": 38.649129,
+      "longitude": -76.8825,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4675,10 +4279,8 @@
       "address": "3150 Middletown Rd, Waldorf, MD 20603, USA",
       "street": "3150 Middletown Road",
       "zip": "20603",
-      "coordinates": {
-        "lat": 38.624859,
-        "lng": -76.966962
-      },
+      "latitude": 38.624859,
+      "longitude": -76.966962,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4698,10 +4300,8 @@
       "address": "101 Owensville Rd, West River, MD 20778, USA",
       "street": "101 Owensville Road",
       "zip": "20778",
-      "coordinates": {
-        "lat": 38.847622,
-        "lng": -76.598892
-      },
+      "latitude": 38.847622,
+      "longitude": -76.598892,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4721,10 +4321,8 @@
       "address": "519 Poole Rd, Westminster, MD 21157, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.559369,
-        "lng": -76.982524
-      },
+      "latitude": 39.559369,
+      "longitude": -76.982524,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4744,10 +4342,8 @@
       "address": "15875 Frederick Rd, Woodbine, MD 21797, USA",
       "street": "15875 Frederick Road",
       "zip": "21797",
-      "coordinates": {
-        "lat": 39.333994,
-        "lng": -77.067644
-      },
+      "latitude": 39.333994,
+      "longitude": -77.067644,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4767,10 +4363,8 @@
       "address": "6750 Woodbine Rd, Woodbine, MD 21797, USA",
       "street": "Woodbine Road",
       "zip": "21797",
-      "coordinates": {
-        "lat": 39.387213,
-        "lng": -77.055659
-      },
+      "latitude": 39.387213,
+      "longitude": -77.055659,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4790,10 +4384,8 @@
       "address": "10800 Old Court Rd, Woodstock, MD 21163, USA",
       "street": "10800 Old Court Road",
       "zip": "21163",
-      "coordinates": {
-        "lat": 39.339024,
-        "lng": -76.860925
-      },
+      "latitude": 39.339024,
+      "longitude": -76.860925,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -4813,10 +4405,8 @@
       "address": "3957 Littlestown Pike, Westminster, MD 21158, USA",
       "street": "Littlestown Pike",
       "zip": "21158",
-      "coordinates": {
-        "lat": 39.683283,
-        "lng": -77.044204
-      },
+      "latitude": 39.683283,
+      "longitude": -77.044204,
       "acceptedMaterials": [
         "Clothing",
         "Linen",

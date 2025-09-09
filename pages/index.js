@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import Head from 'next/head';
 import Image from 'next/image';
+import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 export default function Home({ states, companies, totalLocations, allLocations }) {
@@ -54,6 +55,8 @@ const featuredCompanies = [
         <meta name="description" content="Discover clothing donation bins, thrift stores & charity drop-off locations near you. Search 10,000+ verified donation centers across all 50 states. Help your community today!" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
+
+   <Header />
 
       <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
         {/* Hero Section */}

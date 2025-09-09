@@ -13,10 +13,8 @@
       "address": "138 Roger Williams Rd, Bridgeport, CT 06610, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.21678,
-        "lng": -73.169626
-      },
+      "latitude": 41.21678,
+      "longitude": -73.169626,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -38,10 +36,8 @@
       "address": "1775 Reservoir Ave, Bridgeport, CT 06606, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.224787,
-        "lng": -73.195556
-      },
+      "latitude": 41.224787,
+      "longitude": -73.195556,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -63,10 +59,8 @@
       "address": "4510 Park Ave, Bridgeport, CT 06606, USA",
       "street": "Park Avenue",
       "zip": "6825",
-      "coordinates": {
-        "lat": 41.215893,
-        "lng": -73.233925
-      },
+      "latitude": 41.215893,
+      "longitude": -73.233925,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -88,10 +82,8 @@
       "address": "475 Asylum St, Bridgeport, CT 06610, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.201773,
-        "lng": -73.172822
-      },
+      "latitude": 41.201773,
+      "longitude": -73.172822,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -113,10 +105,8 @@
       "address": "68 Omega Ave, Bridgeport, CT 06606, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.217453,
-        "lng": -73.191196
-      },
+      "latitude": 41.217453,
+      "longitude": -73.191196,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -138,10 +128,8 @@
       "address": "700 Palisade Ave, Bridgeport, CT 06610, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.199888,
-        "lng": -73.16499
-      },
+      "latitude": 41.199888,
+      "longitude": -73.16499,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -163,10 +151,8 @@
       "address": "85 Eckart St, Bridgeport, CT 06606, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.220903,
-        "lng": -73.231888
-      },
+      "latitude": 41.220903,
+      "longitude": -73.231888,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -188,10 +174,8 @@
       "address": "222 Broad St, Milford, CT 06460, USA",
       "street": "222 Broad Street",
       "zip": "6460",
-      "coordinates": {
-        "lat": 41.219127,
-        "lng": -73.062293
-      },
+      "latitude": 41.219127,
+      "longitude": -73.062293,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -213,10 +197,8 @@
       "address": "305 New Haven Ave, Milford, CT 06460, USA",
       "street": "305 New Haven Avenue",
       "zip": "6460",
-      "coordinates": {
-        "lat": 41.222707,
-        "lng": -73.04384
-      },
+      "latitude": 41.222707,
+      "longitude": -73.04384,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -238,10 +220,8 @@
       "address": "74 Fairfield Dr, Patterson, NY 12563, USA",
       "street": "74 Fairfield Drive",
       "zip": "12563",
-      "coordinates": {
-        "lat": 41.460949,
-        "lng": -73.548512
-      },
+      "latitude": 41.460949,
+      "longitude": -73.548512,
       "acceptedMaterials": [
         "Accessories",
         "Clothes",
@@ -263,10 +243,8 @@
       "address": "411 Barnum Ave, Bridgeport, CT 06608, USA",
       "street": "411 Barnum Avenue",
       "zip": "6615",
-      "coordinates": {
-        "lat": 41.187351,
-        "lng": -73.181376
-      },
+      "latitude": 41.187351,
+      "longitude": -73.181376,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -290,10 +268,8 @@
       "address": "657 Farmington Ave, Bristol, CT 06010, USA",
       "street": "657 Farmington Avenue",
       "zip": "6010",
-      "coordinates": {
-        "lat": 41.692409,
-        "lng": -72.921895
-      },
+      "latitude": 41.692409,
+      "longitude": -72.921895,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -317,10 +293,8 @@
       "address": "99 Federal Rd, Brookfield, CT 06804, USA",
       "street": "99 Federal Road",
       "zip": "6804",
-      "coordinates": {
-        "lat": 41.435563,
-        "lng": -73.40795
-      },
+      "latitude": 41.435563,
+      "longitude": -73.40795,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -344,10 +318,8 @@
       "address": "432 Buckland Hills Dr, Manchester, CT 06042, USA",
       "street": "432 Buckland Hills Drive",
       "zip": "6042",
-      "coordinates": {
-        "lat": 41.805429,
-        "lng": -72.540632
-      },
+      "latitude": 41.805429,
+      "longitude": -72.540632,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -371,10 +343,8 @@
       "address": "2985 Berlin Turnpike, Newington, CT 06111, USA",
       "street": "2985 Berlin Turnpike",
       "zip": "6111",
-      "coordinates": {
-        "lat": 41.668334,
-        "lng": -72.721723
-      },
+      "latitude": 41.668334,
+      "longitude": -72.721723,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -398,10 +368,8 @@
       "address": "3137 Berlin Turnpike, Newington, CT 06111, USA",
       "street": "3137 Berlin Turnpike",
       "zip": "6111",
-      "coordinates": {
-        "lat": 41.663975,
-        "lng": -72.722313
-      },
+      "latitude": 41.663975,
+      "longitude": -72.722313,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -425,10 +393,8 @@
       "address": "410 Universal Dr N, North Haven, CT 06473, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.355955,
-        "lng": -72.873144
-      },
+      "latitude": 41.355955,
+      "longitude": -72.873144,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -452,10 +418,8 @@
       "address": "130 Boston Post Rd, Orange, CT 06477, USA",
       "street": "130 Boston Post Road",
       "zip": "6477",
-      "coordinates": {
-        "lat": 41.274042,
-        "lng": -72.990991
-      },
+      "latitude": 41.274042,
+      "longitude": -72.990991,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -479,10 +443,8 @@
       "address": "282 New Britain Ave, Plainville, CT 06062, USA",
       "street": "282 New Britain Avenue",
       "zip": "6062",
-      "coordinates": {
-        "lat": 41.673155,
-        "lng": -72.839547
-      },
+      "latitude": 41.673155,
+      "longitude": -72.839547,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -506,10 +468,8 @@
       "address": "152 Chase Ave, Waterbury, CT 06704, USA",
       "street": "152 Chase Avenue",
       "zip": "6704",
-      "coordinates": {
-        "lat": 41.582093,
-        "lng": -73.03052
-      },
+      "latitude": 41.582093,
+      "longitude": -73.03052,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -533,10 +493,8 @@
       "address": "1095 Kennedy Rd, Windsor, CT 06095, USA",
       "street": "1095 Kennedy Road",
       "zip": "6095",
-      "coordinates": {
-        "lat": 41.893345,
-        "lng": -72.652766
-      },
+      "latitude": 41.893345,
+      "longitude": -72.652766,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -560,10 +518,8 @@
       "address": "345 Huntington Turnpike, Bridgeport, CT 06610, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.214894,
-        "lng": -73.175387
-      },
+      "latitude": 41.214894,
+      "longitude": -73.175387,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -585,10 +541,8 @@
       "address": "129 Main St, Danbury, CT 06810, USA",
       "street": "129 Main Street",
       "zip": "6810",
-      "coordinates": {
-        "lat": 41.392394,
-        "lng": -73.449356
-      },
+      "latitude": 41.392394,
+      "longitude": -73.449356,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -610,10 +564,8 @@
       "address": "1359 Dixwell Ave, Hamden, CT 06514, USA",
       "street": "Dixwell Avenue",
       "zip": "6518",
-      "coordinates": {
-        "lat": 41.350158,
-        "lng": -72.930443
-      },
+      "latitude": 41.350158,
+      "longitude": -72.930443,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -635,10 +587,8 @@
       "address": "730 Hartford Pike, Dayville, CT 06241, USA",
       "street": "730 Hartford Pike",
       "zip": "6241",
-      "coordinates": {
-        "lat": 41.841061,
-        "lng": -71.874611
-      },
+      "latitude": 41.841061,
+      "longitude": -71.874611,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -660,10 +610,8 @@
       "address": "2230 Berlin Turnpike, Newington, CT 06111, USA",
       "street": "2230 Berlin Turnpike",
       "zip": "6111",
-      "coordinates": {
-        "lat": 41.691668,
-        "lng": -72.704823
-      },
+      "latitude": 41.691668,
+      "longitude": -72.704823,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -685,10 +633,8 @@
       "address": "295 Hartford Turnpike, Vernon, CT 06066, USA",
       "street": "Hartford Turnpike",
       "zip": "6066",
-      "coordinates": {
-        "lat": 41.828121,
-        "lng": -72.492012
-      },
+      "latitude": 41.828121,
+      "longitude": -72.492012,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -710,10 +656,8 @@
       "address": "772 N Main St, West Hartford, CT 06117, USA",
       "street": "772 North Main Street",
       "zip": "6117",
-      "coordinates": {
-        "lat": 41.786913,
-        "lng": -72.746382
-      },
+      "latitude": 41.786913,
+      "longitude": -72.746382,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -735,10 +679,8 @@
       "address": "983 New Britain Ave, West Hartford, CT 06110, USA",
       "street": "983 New Britain Avenue",
       "zip": "6110",
-      "coordinates": {
-        "lat": 41.728722,
-        "lng": -72.719147
-      },
+      "latitude": 41.728722,
+      "longitude": -72.719147,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -760,10 +702,8 @@
       "address": "260 W Main St, Avon, CT 06001, USA",
       "street": "260 West Main Street",
       "zip": "6001",
-      "coordinates": {
-        "lat": 41.813684,
-        "lng": -72.85321
-      },
+      "latitude": 41.813684,
+      "longitude": -72.85321,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -784,10 +724,8 @@
       "address": "331 Cottage Grove Rd, Bloomfield, CT 06002, USA",
       "street": "331 Cottage Grove Road",
       "zip": "6002",
-      "coordinates": {
-        "lat": 41.815919,
-        "lng": -72.716278
-      },
+      "latitude": 41.815919,
+      "longitude": -72.716278,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -808,10 +746,8 @@
       "address": "165 Ocean Terrace, Bridgeport, CT 06605, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.161424,
-        "lng": -73.219195
-      },
+      "latitude": 41.161424,
+      "longitude": -73.219195,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -832,10 +768,8 @@
       "address": "1228 Farmington Ave, Bristol, CT 06010, USA",
       "street": "1228 Farmington Avenue",
       "zip": "6010",
-      "coordinates": {
-        "lat": 41.697271,
-        "lng": -72.902453
-      },
+      "latitude": 41.697271,
+      "longitude": -72.902453,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -856,10 +790,8 @@
       "address": "165 Federal Rd, Brookfield, CT 06804, USA",
       "street": "165 Federal Road",
       "zip": "6804",
-      "coordinates": {
-        "lat": 41.439392,
-        "lng": -73.40619
-      },
+      "latitude": 41.439392,
+      "longitude": -73.40619,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -880,10 +812,8 @@
       "address": "2 Beaver Brook Rd, Danbury, CT 06810, USA",
       "street": "2 Beaver Brook Road",
       "zip": "6810",
-      "coordinates": {
-        "lat": 41.400256,
-        "lng": -73.430866
-      },
+      "latitude": 41.400256,
+      "longitude": -73.430866,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -904,10 +834,8 @@
       "address": "53 Palomba Dr, Enfield, CT 06082, USA",
       "street": "53 Palomba Drive",
       "zip": "6082",
-      "coordinates": {
-        "lat": 41.992309,
-        "lng": -72.569375
-      },
+      "latitude": 41.992309,
+      "longitude": -72.569375,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -928,10 +856,8 @@
       "address": "500 Kings Hwy E, Fairfield, CT 06825, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.171403,
-        "lng": -73.230184
-      },
+      "latitude": 41.171403,
+      "longitude": -73.230184,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -952,10 +878,8 @@
       "address": "2709 Main St, Glastonbury, CT 06033, USA",
       "street": "2709 Main Street",
       "zip": "6033",
-      "coordinates": {
-        "lat": 41.716554,
-        "lng": -72.612915
-      },
+      "latitude": 41.716554,
+      "longitude": -72.612915,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -976,10 +900,8 @@
       "address": "49 Holly Hill Ln, Greenwich, CT 06830, USA",
       "street": "49 Holly Hill Lane",
       "zip": "6830",
-      "coordinates": {
-        "lat": 41.01913,
-        "lng": -73.643382
-      },
+      "latitude": 41.01913,
+      "longitude": -73.643382,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1000,10 +922,8 @@
       "address": "1212 E Putnam Ave, Riverside, CT 06878, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.041254,
-        "lng": -73.579617
-      },
+      "latitude": 41.041254,
+      "longitude": -73.579617,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1024,10 +944,8 @@
       "address": "315 New Park Ave, Hartford, CT 06106, USA",
       "street": "315 New Park Avenue",
       "zip": "6106",
-      "coordinates": {
-        "lat": 41.747512,
-        "lng": -72.713457
-      },
+      "latitude": 41.747512,
+      "longitude": -72.713457,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1048,10 +966,8 @@
       "address": "232a Tolland Turnpike, Manchester, CT 06042, USA",
       "street": "Tolland Turnpike",
       "zip": "6042",
-      "coordinates": {
-        "lat": 41.811066,
-        "lng": -72.513704
-      },
+      "latitude": 41.811066,
+      "longitude": -72.513704,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1072,10 +988,8 @@
       "address": "1712 Boston Post Rd, Milford, CT 06460, USA",
       "street": "1712 Boston Post Road",
       "zip": "6460",
-      "coordinates": {
-        "lat": 41.249206,
-        "lng": -73.02415
-      },
+      "latitude": 41.249206,
+      "longitude": -73.02415,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1096,10 +1010,8 @@
       "address": "252 Monroe Turnpike, Monroe, CT 06468, USA",
       "street": "Monroe Turnpike",
       "zip": "6468",
-      "coordinates": {
-        "lat": 41.301351,
-        "lng": -73.222995
-      },
+      "latitude": 41.301351,
+      "longitude": -73.222995,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1120,10 +1032,8 @@
       "address": "115 Danbury Rd, New Milford, CT 06776, USA",
       "street": "115 Danbury Road",
       "zip": "6776",
-      "coordinates": {
-        "lat": 41.558502,
-        "lng": -73.415956
-      },
+      "latitude": 41.558502,
+      "longitude": -73.415956,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1144,10 +1054,8 @@
       "address": "45 Costello Rd, Newington, CT 06111, USA",
       "street": "45 Costello Road",
       "zip": "6111",
-      "coordinates": {
-        "lat": 41.655236,
-        "lng": -72.724274
-      },
+      "latitude": 41.655236,
+      "longitude": -72.724274,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1168,10 +1076,8 @@
       "address": "15 Cross St, Norwalk, CT 06851, USA",
       "street": "15 Cross Street",
       "zip": "6851",
-      "coordinates": {
-        "lat": 41.120301,
-        "lng": -73.414154
-      },
+      "latitude": 41.120301,
+      "longitude": -73.414154,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1192,10 +1098,8 @@
       "address": "274 Oxford Rd, Oxford, CT 06478, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.421709,
-        "lng": -73.107621
-      },
+      "latitude": 41.421709,
+      "longitude": -73.107621,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1216,10 +1120,8 @@
       "address": "231 Ethan Allen Hwy, Ridgefield, CT 06877, USA",
       "street": "231 Ethan Allen Highway",
       "zip": "6877",
-      "coordinates": {
-        "lat": 41.27967,
-        "lng": -73.445759
-      },
+      "latitude": 41.27967,
+      "longitude": -73.445759,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1240,10 +1142,8 @@
       "address": "59 South St, Ridgefield, CT 06877, USA",
       "street": "59 South Street",
       "zip": "6877",
-      "coordinates": {
-        "lat": 41.28881,
-        "lng": -73.490133
-      },
+      "latitude": 41.28881,
+      "longitude": -73.490133,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1264,10 +1164,8 @@
       "address": "397 Bridgeport Ave, Shelton, CT 06484, USA",
       "street": "397 Bridgeport Avenue",
       "zip": "6484",
-      "coordinates": {
-        "lat": 41.294913,
-        "lng": -73.110728
-      },
+      "latitude": 41.294913,
+      "longitude": -73.110728,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1288,10 +1186,8 @@
       "address": "1 W Broad St, Stamford, CT 06902, USA",
       "street": "1 West Broad Street",
       "zip": "6902",
-      "coordinates": {
-        "lat": 41.055778,
-        "lng": -73.544183
-      },
+      "latitude": 41.055778,
+      "longitude": -73.544183,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1312,10 +1208,8 @@
       "address": "587 Elm St, Stamford, CT 06902, USA",
       "street": "587 Elm Street",
       "zip": "6902",
-      "coordinates": {
-        "lat": 41.048236,
-        "lng": -73.525132
-      },
+      "latitude": 41.048236,
+      "longitude": -73.525132,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1336,10 +1230,8 @@
       "address": "800 Barnum Ave, Stratford, CT 06614, USA",
       "street": "800 Barnum Avenue Cutoff",
       "zip": "6614",
-      "coordinates": {
-        "lat": 41.199047,
-        "lng": -73.13172
-      },
+      "latitude": 41.199047,
+      "longitude": -73.13172,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1360,10 +1252,8 @@
       "address": "1849 E Main St, Torrington, CT 06790, USA",
       "street": "1849 East Main Street",
       "zip": "6790",
-      "coordinates": {
-        "lat": 41.821957,
-        "lng": -73.078619
-      },
+      "latitude": 41.821957,
+      "longitude": -73.078619,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1384,10 +1274,8 @@
       "address": "943 Wolcott St, Waterbury, CT 06705, USA",
       "street": "943 Wolcott Street",
       "zip": "6705",
-      "coordinates": {
-        "lat": 41.56784,
-        "lng": -73.009342
-      },
+      "latitude": 41.56784,
+      "longitude": -73.009342,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1408,10 +1296,8 @@
       "address": "1700 Post Rd E, Westport, CT 06880, USA",
       "street": "1700 Post Road East",
       "zip": "6880",
-      "coordinates": {
-        "lat": 41.137644,
-        "lng": -73.304131
-      },
+      "latitude": 41.137644,
+      "longitude": -73.304131,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1432,10 +1318,8 @@
       "address": "17 Danbury Rd, Wilton, CT 06897, USA",
       "street": "17 Danbury Road",
       "zip": "6897",
-      "coordinates": {
-        "lat": 41.16268,
-        "lng": -73.41928
-      },
+      "latitude": 41.16268,
+      "longitude": -73.41928,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1456,10 +1340,8 @@
       "address": "36 Main St, Baltic, CT 06330, USA",
       "street": "Main Street",
       "zip": "6330",
-      "coordinates": {
-        "lat": 41.599557,
-        "lng": -72.046542
-      },
+      "latitude": 41.599557,
+      "longitude": -72.046542,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1480,10 +1362,8 @@
       "address": "38 Scotland Rd, Baltic, CT 06330, USA",
       "street": "38 Scotland Road",
       "zip": "6330",
-      "coordinates": {
-        "lat": 41.625701,
-        "lng": -72.085044
-      },
+      "latitude": 41.625701,
+      "longitude": -72.085044,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1504,10 +1384,8 @@
       "address": "107 Hartford Rd, Brooklyn, CT 06234, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.783734,
-        "lng": -71.957731
-      },
+      "latitude": 41.783734,
+      "longitude": -71.957731,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1528,10 +1406,8 @@
       "address": "77 Rukstella Rd, Brooklyn, CT 06234, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.752913,
-        "lng": -71.942217
-      },
+      "latitude": 41.752913,
+      "longitude": -71.942217,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1552,10 +1428,8 @@
       "address": "170 Derby Ave, Cheshire, CT 06411, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.550097,
-        "lng": -72.922235
-      },
+      "latitude": 41.550097,
+      "longitude": -72.922235,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1576,10 +1450,8 @@
       "address": "240 Main St, Coventry, CT 06238, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.754522,
-        "lng": -72.270897
-      },
+      "latitude": 41.754522,
+      "longitude": -72.270897,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1600,10 +1472,8 @@
       "address": "2767 Boston Turnpike, Coventry, CT 06238, USA",
       "street": "Boston Turnpike",
       "zip": "6238",
-      "coordinates": {
-        "lat": 41.79597,
-        "lng": -72.411736
-      },
+      "latitude": 41.79597,
+      "longitude": -72.411736,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1624,10 +1494,8 @@
       "address": "1657 Boston Turnpike, Coventry, CT 06238, USA",
       "street": "Boston Turnpike",
       "zip": "6238",
-      "coordinates": {
-        "lat": 41.797026,
-        "lng": -72.371872
-      },
+      "latitude": 41.797026,
+      "longitude": -72.371872,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1648,10 +1516,8 @@
       "address": "8 Daly Rd, Coventry, CT 06238, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.784487,
-        "lng": -72.334691
-      },
+      "latitude": 41.784487,
+      "longitude": -72.334691,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1672,10 +1538,8 @@
       "address": "190 Wauregan Rd, Danielson, CT 06239, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.785087,
-        "lng": -71.886158
-      },
+      "latitude": 41.785087,
+      "longitude": -71.886158,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1696,10 +1560,8 @@
       "address": "3 Pershing Dr, Derby, CT 06418, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.332645,
-        "lng": -73.084445
-      },
+      "latitude": 41.332645,
+      "longitude": -73.084445,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1720,10 +1582,8 @@
       "address": "253 Roosevelt Dr, Derby, CT 06418, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.326719,
-        "lng": -73.100167
-      },
+      "latitude": 41.326719,
+      "longitude": -73.100167,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1744,10 +1604,8 @@
       "address": "80 Pine St, Derby, CT 06418, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.327246,
-        "lng": -73.084252
-      },
+      "latitude": 41.327246,
+      "longitude": -73.084252,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1768,10 +1626,8 @@
       "address": "294 George Washington Rd, Enfield, CT 06082, USA",
       "street": "294 George Washington Road",
       "zip": "6082",
-      "coordinates": {
-        "lat": 42.003422,
-        "lng": -72.558037
-      },
+      "latitude": 42.003422,
+      "longitude": -72.558037,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1792,10 +1648,8 @@
       "address": "2997 Main St, Glastonbury, CT 06033, USA",
       "street": "2997 Main Street",
       "zip": "6033",
-      "coordinates": {
-        "lat": 41.725915,
-        "lng": -72.616159
-      },
+      "latitude": 41.725915,
+      "longitude": -72.616159,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1816,10 +1670,8 @@
       "address": "280 Plainfield St, Hartford, CT 06112, USA",
       "street": "280 Plainfield Street",
       "zip": "6112",
-      "coordinates": {
-        "lat": 41.792019,
-        "lng": -72.707737
-      },
+      "latitude": 41.792019,
+      "longitude": -72.707737,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1840,10 +1692,8 @@
       "address": "470 River Rd, Jewett City, CT 06351, USA",
       "street": "River Road",
       "zip": "6351",
-      "coordinates": {
-        "lat": 41.561466,
-        "lng": -72.015867
-      },
+      "latitude": 41.561466,
+      "longitude": -72.015867,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1864,10 +1714,8 @@
       "address": "27 Main St, Jewett City, CT 06351, USA",
       "street": "27 Main Street",
       "zip": "6351",
-      "coordinates": {
-        "lat": 41.604823,
-        "lng": -71.98256
-      },
+      "latitude": 41.604823,
+      "longitude": -71.98256,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1888,10 +1736,8 @@
       "address": "266 Beaumont Hwy, Lebanon, CT 06249, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.685079,
-        "lng": -72.233501
-      },
+      "latitude": 41.685079,
+      "longitude": -72.233501,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1912,10 +1758,8 @@
       "address": "585 E Center St, Manchester, CT 06040, USA",
       "street": "East Center Street",
       "zip": "6040",
-      "coordinates": {
-        "lat": 41.7841,
-        "lng": -72.500676
-      },
+      "latitude": 41.7841,
+      "longitude": -72.500676,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1936,10 +1780,8 @@
       "address": "240 Middle Turnpike W, Manchester, CT 06040, USA",
       "street": "Middle Turnpike West",
       "zip": "6040",
-      "coordinates": {
-        "lat": 41.781491,
-        "lng": -72.534536
-      },
+      "latitude": 41.781491,
+      "longitude": -72.534536,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1960,10 +1802,8 @@
       "address": "255 Broad St, Manchester, CT 06040, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.780827,
-        "lng": -72.533735
-      },
+      "latitude": 41.780827,
+      "longitude": -72.533735,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -1984,10 +1824,8 @@
       "address": "466 Storrs Rd, Mansfield Center, CT 06250, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.76013,
-        "lng": -72.1949
-      },
+      "latitude": 41.76013,
+      "longitude": -72.1949,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2008,10 +1846,8 @@
       "address": "91 Meadowbrook Ln, Mansfield Center, CT 06250, USA",
       "street": "91 Meadowbrook Lane",
       "zip": "6250",
-      "coordinates": {
-        "lat": 41.734449,
-        "lng": -72.210077
-      },
+      "latitude": 41.734449,
+      "longitude": -72.210077,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2032,10 +1868,8 @@
       "address": "120 N Frontage Rd, Mansfield Center, CT 06250, USA",
       "street": "120 North Frontage Road",
       "zip": "6250",
-      "coordinates": {
-        "lat": 41.731738,
-        "lng": -72.211215
-      },
+      "latitude": 41.731738,
+      "longitude": -72.211215,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2056,10 +1890,8 @@
       "address": "232 Stafford Rd, Mansfield Center, CT 06250, USA",
       "street": "232 Stafford Road",
       "zip": "6250",
-      "coordinates": {
-        "lat": 41.740693,
-        "lng": -72.259688
-      },
+      "latitude": 41.740693,
+      "longitude": -72.259688,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2080,10 +1912,8 @@
       "address": "182 Colony St, Meriden, CT 06451, USA",
       "street": "182 Colony Street",
       "zip": "6451",
-      "coordinates": {
-        "lat": 41.555566,
-        "lng": -72.796146
-      },
+      "latitude": 41.555566,
+      "longitude": -72.796146,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2104,10 +1934,8 @@
       "address": "134 Main St Ext, Middletown, CT 06457, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.552711,
-        "lng": -72.643824
-      },
+      "latitude": 41.552711,
+      "longitude": -72.643824,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2128,10 +1956,8 @@
       "address": "988 Washington St, Middletown, CT 06457, USA",
       "street": "988 Washington Street",
       "zip": "6457",
-      "coordinates": {
-        "lat": 41.554132,
-        "lng": -72.685771
-      },
+      "latitude": 41.554132,
+      "longitude": -72.685771,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2152,10 +1978,8 @@
       "address": "541 Washington St, Middletown, CT 06457, USA",
       "street": "541 Washington Street",
       "zip": "6457",
-      "coordinates": {
-        "lat": 41.555283,
-        "lng": -72.669846
-      },
+      "latitude": 41.555283,
+      "longitude": -72.669846,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2176,10 +2000,8 @@
       "address": "282 S Main St, Naugatuck, CT 06770, USA",
       "street": "282 South Main Street",
       "zip": "6702",
-      "coordinates": {
-        "lat": 41.487094,
-        "lng": -73.051391
-      },
+      "latitude": 41.487094,
+      "longitude": -73.051391,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2200,10 +2022,8 @@
       "address": "325 Allen St, New Britain, CT 06053, USA",
       "street": "325 Allen Street",
       "zip": "6053",
-      "coordinates": {
-        "lat": 41.682432,
-        "lng": -72.77573
-      },
+      "latitude": 41.682432,
+      "longitude": -72.77573,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2224,10 +2044,8 @@
       "address": "46 Washington St, New Britain, CT 06051, USA",
       "street": "46 Washington Street",
       "zip": "6051",
-      "coordinates": {
-        "lat": 41.66867,
-        "lng": -72.784107
-      },
+      "latitude": 41.66867,
+      "longitude": -72.784107,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2248,10 +2066,8 @@
       "address": "185 Derby Ave, New Haven, CT 06511, USA",
       "street": "185 Derby Avenue",
       "zip": "6511",
-      "coordinates": {
-        "lat": 41.310467,
-        "lng": -72.952483
-      },
+      "latitude": 41.310467,
+      "longitude": -72.952483,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2272,10 +2088,8 @@
       "address": "293 Clinton Ave, New Haven, CT 06513, USA",
       "street": "Clinton Avenue",
       "zip": "6062",
-      "coordinates": {
-        "lat": 41.31875,
-        "lng": -72.891914
-      },
+      "latitude": 41.31875,
+      "longitude": -72.891914,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2296,10 +2110,8 @@
       "address": "589 Valley St, New Haven, CT 06515, USA",
       "street": "Valley Street",
       "zip": "6515",
-      "coordinates": {
-        "lat": 41.338706,
-        "lng": -72.973202
-      },
+      "latitude": 41.338706,
+      "longitude": -72.973202,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2320,10 +2132,8 @@
       "address": "62 State Rte 32, North Franklin, CT 06254, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.570469,
-        "lng": -72.132521
-      },
+      "latitude": 41.570469,
+      "longitude": -72.132521,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2344,10 +2154,8 @@
       "address": "615 Quinebaug Rd, North Grosvenordale, CT 06255, USA",
       "street": "615 Quinebaug Road",
       "zip": "6255",
-      "coordinates": {
-        "lat": 42.019414,
-        "lng": -71.940602
-      },
+      "latitude": 42.019414,
+      "longitude": -71.940602,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2368,10 +2176,8 @@
       "address": "1139 Riverside Dr, North Grosvenordale, CT 06255, USA",
       "street": "1139 Riverside Drive",
       "zip": "6255",
-      "coordinates": {
-        "lat": 41.998956,
-        "lng": -71.89882
-      },
+      "latitude": 41.998956,
+      "longitude": -71.89882,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2392,10 +2198,8 @@
       "address": "185 Pasay Rd, North Grosvenordale, CT 06255, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.984203,
-        "lng": -71.870849
-      },
+      "latitude": 41.984203,
+      "longitude": -71.870849,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2416,10 +2220,8 @@
       "address": "8 Industrial Park Dr, North Windham, CT 06256, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.741217,
-        "lng": -72.179704
-      },
+      "latitude": 41.741217,
+      "longitude": -72.179704,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2440,10 +2242,8 @@
       "address": "29 Taftville-Occum Rd, Norwich, CT 06360, USA",
       "street": "29 Taftville-Occum Road",
       "zip": "6360",
-      "coordinates": {
-        "lat": 41.594403,
-        "lng": -72.050034
-      },
+      "latitude": 41.594403,
+      "longitude": -72.050034,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2464,10 +2264,8 @@
       "address": "21 Great Oak Rd, Oxford, CT 06478, USA",
       "street": "21 Great Oak Road",
       "zip": "6478",
-      "coordinates": {
-        "lat": 41.426095,
-        "lng": -73.141617
-      },
+      "latitude": 41.426095,
+      "longitude": -73.141617,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2488,10 +2286,8 @@
       "address": "27 Chase St, Pawcatuck, CT 06379, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.374392,
-        "lng": -71.835321
-      },
+      "latitude": 41.374392,
+      "longitude": -71.835321,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2512,10 +2308,8 @@
       "address": "125 Cemetery Rd, Plainfield, CT 06374, USA",
       "street": "125 Cemetery Road",
       "zip": "6374",
-      "coordinates": {
-        "lat": 41.687658,
-        "lng": -71.924908
-      },
+      "latitude": 41.687658,
+      "longitude": -71.924908,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2536,10 +2330,8 @@
       "address": "89 Mill Brook Rd, Plainfield, CT 06374, USA",
       "street": "89 Mill Brook Road",
       "zip": "6374",
-      "coordinates": {
-        "lat": 41.661717,
-        "lng": -71.932612
-      },
+      "latitude": 41.661717,
+      "longitude": -71.932612,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2560,10 +2352,8 @@
       "address": "398 Pomfret St, Pomfret, CT 06258, USA",
       "street": "398 Pomfret Street",
       "zip": "6258",
-      "coordinates": {
-        "lat": 41.889048,
-        "lng": -71.968232
-      },
+      "latitude": 41.889048,
+      "longitude": -71.968232,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2584,10 +2374,8 @@
       "address": "793 Mashamoquet Rd, Pomfret Center, CT 06259, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.860019,
-        "lng": -72.030307
-      },
+      "latitude": 41.860019,
+      "longitude": -72.030307,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2608,10 +2396,8 @@
       "address": "314 Main St, Portland, CT 06480, USA",
       "street": "314 Main Street",
       "zip": "6480",
-      "coordinates": {
-        "lat": 41.577734,
-        "lng": -72.637241
-      },
+      "latitude": 41.577734,
+      "longitude": -72.637241,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2632,10 +2418,8 @@
       "address": "275 Main St, Portland, CT 06480, USA",
       "street": "275 Main Street",
       "zip": "6480",
-      "coordinates": {
-        "lat": 41.576017,
-        "lng": -72.638196
-      },
+      "latitude": 41.576017,
+      "longitude": -72.638196,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2656,10 +2440,8 @@
       "address": "162 School St, Putnam, CT 06260, USA",
       "street": "162 School Street",
       "zip": "6260",
-      "coordinates": {
-        "lat": 41.918021,
-        "lng": -71.905201
-      },
+      "latitude": 41.918021,
+      "longitude": -71.905201,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2680,10 +2462,8 @@
       "address": "162 Providence St, Putnam, CT 06260, USA",
       "street": "162 Providence Street",
       "zip": "6260",
-      "coordinates": {
-        "lat": 41.923312,
-        "lng": -71.908559
-      },
+      "latitude": 41.923312,
+      "longitude": -71.908559,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2704,10 +2484,8 @@
       "address": "148-150 Providence St, Putnam, CT 06260, USA",
       "street": "Providence Street",
       "zip": "6260",
-      "coordinates": {
-        "lat": 41.923203,
-        "lng": -71.908262
-      },
+      "latitude": 41.923203,
+      "longitude": -71.908262,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2728,10 +2506,8 @@
       "address": "654 Quinebaug Rd, Quinebaug, CT 06262, USA",
       "street": "654 Quinebaug Road",
       "zip": "6262",
-      "coordinates": {
-        "lat": 42.020424,
-        "lng": -71.943595
-      },
+      "latitude": 42.020424,
+      "longitude": -71.943595,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2752,10 +2528,8 @@
       "address": "2 Robbins Ln, Rocky Hill, CT 06067, USA",
       "street": "2 Robbins Lane",
       "zip": "6067",
-      "coordinates": {
-        "lat": 41.677657,
-        "lng": -72.646546
-      },
+      "latitude": 41.677657,
+      "longitude": -72.646546,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2776,10 +2550,8 @@
       "address": "1800 Silas Deane, Rocky Hill, CT 06067, USA",
       "street": "1800 Silas Deane Highway",
       "zip": "6067",
-      "coordinates": {
-        "lat": 41.663822,
-        "lng": -72.702326
-      },
+      "latitude": 41.663822,
+      "longitude": -72.702326,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2800,10 +2572,8 @@
       "address": "44 New Haven Rd, Seymour, CT 06483, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.396782,
-        "lng": -73.062257
-      },
+      "latitude": 41.396782,
+      "longitude": -73.062257,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2824,10 +2594,8 @@
       "address": "2 Spring St, Stafford Springs, CT 06076, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.953461,
-        "lng": -72.30464
-      },
+      "latitude": 41.953461,
+      "longitude": -72.30464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2848,10 +2616,8 @@
       "address": "220 East St, Stafford Springs, CT 06076, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.984879,
-        "lng": -72.289791
-      },
+      "latitude": 41.984879,
+      "longitude": -72.289791,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2872,10 +2638,8 @@
       "address": "285 East St, Stafford Springs, CT 06076, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.99015,
-        "lng": -72.279752
-      },
+      "latitude": 41.99015,
+      "longitude": -72.279752,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2896,10 +2660,8 @@
       "address": "3 W Stafford Rd, Stafford Springs, CT 06076, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.963006,
-        "lng": -72.315825
-      },
+      "latitude": 41.963006,
+      "longitude": -72.315825,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2920,10 +2682,8 @@
       "address": "509 Norwich Ave, Taftville, CT 06380, USA",
       "street": "509 Norwich Avenue",
       "zip": "6380",
-      "coordinates": {
-        "lat": 41.567711,
-        "lng": -72.046059
-      },
+      "latitude": 41.567711,
+      "longitude": -72.046059,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2944,10 +2704,8 @@
       "address": "520 Talcottville Rd, Talcottville, CT 06066, USA",
       "street": "Talcottville Road",
       "zip": "6066",
-      "coordinates": {
-        "lat": 41.81871,
-        "lng": -72.500641
-      },
+      "latitude": 41.81871,
+      "longitude": -72.500641,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2968,10 +2726,8 @@
       "address": "481 W Thompson Rd, Thompson, CT 06277, USA",
       "street": "481 West Thompson Road",
       "zip": "6277",
-      "coordinates": {
-        "lat": 41.932162,
-        "lng": -71.922683
-      },
+      "latitude": 41.932162,
+      "longitude": -71.922683,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -2992,10 +2748,8 @@
       "address": "647 Thompson Rd, Thompson, CT 06277, USA",
       "street": "647 Thompson Road",
       "zip": "6277",
-      "coordinates": {
-        "lat": 41.974734,
-        "lng": -71.848519
-      },
+      "latitude": 41.974734,
+      "longitude": -71.848519,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3016,10 +2770,8 @@
       "address": "404 Merrow Rd, Tolland, CT 06084, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.853181,
-        "lng": -72.338436
-      },
+      "latitude": 41.853181,
+      "longitude": -72.338436,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3040,10 +2792,8 @@
       "address": "1 Eagle Hill, Tolland, CT 06084, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.882553,
-        "lng": -72.361039
-      },
+      "latitude": 41.882553,
+      "longitude": -72.361039,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3064,10 +2814,8 @@
       "address": "90 Leffingwell Rd, Uncasville, CT 06382, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.498775,
-        "lng": -72.118116
-      },
+      "latitude": 41.498775,
+      "longitude": -72.118116,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3088,10 +2836,8 @@
       "address": "3 Prospect St, Vernon Rockville, CT 06066, USA",
       "street": "3 Prospect Street",
       "zip": "6066",
-      "coordinates": {
-        "lat": 41.868556,
-        "lng": -72.443536
-      },
+      "latitude": 41.868556,
+      "longitude": -72.443536,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3112,10 +2858,8 @@
       "address": "570 Center St, Wallingford, CT 06492, USA",
       "street": "570 Center Street",
       "zip": "6492",
-      "coordinates": {
-        "lat": 41.45224,
-        "lng": -72.812651
-      },
+      "latitude": 41.45224,
+      "longitude": -72.812651,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3136,10 +2880,8 @@
       "address": "1195 N Colony Rd, Wallingford, CT 06492, USA",
       "street": "1195 North Colony Road",
       "zip": "6492",
-      "coordinates": {
-        "lat": 41.503488,
-        "lng": -72.811002
-      },
+      "latitude": 41.503488,
+      "longitude": -72.811002,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3160,10 +2902,8 @@
       "address": "315 N Colony St, Wallingford, CT 06492, USA",
       "street": "315 North Colony Road",
       "zip": "6492",
-      "coordinates": {
-        "lat": 41.461607,
-        "lng": -72.820992
-      },
+      "latitude": 41.461607,
+      "longitude": -72.820992,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3184,10 +2924,8 @@
       "address": "440 Main St, Wallingford, CT 06492, USA",
       "street": "440 Main Street",
       "zip": "6492",
-      "coordinates": {
-        "lat": 41.490817,
-        "lng": -72.818254
-      },
+      "latitude": 41.490817,
+      "longitude": -72.818254,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3208,10 +2946,8 @@
       "address": "195 Frost Rd, Waterbury, CT 06705, USA",
       "street": "195 Frost Road",
       "zip": "6705",
-      "coordinates": {
-        "lat": 41.547896,
-        "lng": -73.002964
-      },
+      "latitude": 41.547896,
+      "longitude": -73.002964,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3232,10 +2968,8 @@
       "address": "235 Birch St, Waterbury, CT 06704, USA",
       "street": "235 Birch Street",
       "zip": "6704",
-      "coordinates": {
-        "lat": 41.555918,
-        "lng": -73.019585
-      },
+      "latitude": 41.555918,
+      "longitude": -73.019585,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3256,10 +2990,8 @@
       "address": "82 Boston Post Rd, Waterford, CT 06385, USA",
       "street": "82 Boston Post Road",
       "zip": "6385",
-      "coordinates": {
-        "lat": 41.340437,
-        "lng": -72.120751
-      },
+      "latitude": 41.340437,
+      "longitude": -72.120751,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3280,10 +3012,8 @@
       "address": "277 Brick Top Ln, Windham, CT 06280, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.71352,
-        "lng": -72.185805
-      },
+      "latitude": 41.71352,
+      "longitude": -72.185805,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3304,10 +3034,8 @@
       "address": "90 Route 171, Woodstock, CT 06281, USA",
       "street": "Route 169",
       "zip": "6281",
-      "coordinates": {
-        "lat": 41.961991,
-        "lng": -72.014108
-      },
+      "latitude": 41.961991,
+      "longitude": -72.014108,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3328,10 +3056,8 @@
       "address": "8 Woodstock Rd, Woodstock, CT 06281, USA",
       "street": "8 Woodstock Road",
       "zip": "6281",
-      "coordinates": {
-        "lat": 41.990428,
-        "lng": -71.996285
-      },
+      "latitude": 41.990428,
+      "longitude": -71.996285,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3352,10 +3078,8 @@
       "address": "22 Route 171, Woodstock, CT 06281, USA",
       "street": "Route 169",
       "zip": "6281",
-      "coordinates": {
-        "lat": 41.961991,
-        "lng": -72.014108
-      },
+      "latitude": 41.961991,
+      "longitude": -72.014108,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3376,10 +3100,8 @@
       "address": "49 Paine District Rd, Woodstock, CT 06281, USA",
       "street": "49 Paine District Road",
       "zip": "6281",
-      "coordinates": {
-        "lat": 41.973725,
-        "lng": -71.955926
-      },
+      "latitude": 41.973725,
+      "longitude": -71.955926,
       "acceptedMaterials": [
         "Clothing",
         "Linen",

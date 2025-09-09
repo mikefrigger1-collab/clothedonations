@@ -366,7 +366,7 @@ const LocationCard = memo(({ location, index, stateSlug, companyStyle, hours }) 
         </div>
         <div>
           <h3 className="font-bold text-gray-900 group-hover:text-blue-600 transition-colors">
-            {location.company || 'Donation Center'}
+            {location.title || 'Donation Center'}
           </h3>
           {location.name && location.name !== location.company && (
             <p className="text-sm text-gray-500">{location.name}</p>
@@ -432,12 +432,12 @@ const LocationCard = memo(({ location, index, stateSlug, companyStyle, hours }) 
 
       {/* Action Buttons */}
       <div className="space-y-2">
-        <Link
-          href={`/${stateSlug}/${location.city?.toLowerCase().replace(/\s+/g, '-') || 'location'}/${(location.company + '-' + (location.address || 'center')).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')}`}
-          className="w-full bg-blue-600 text-white text-center py-2.5 px-4 rounded-lg hover:bg-blue-700 transition-colors font-medium inline-block"
-        >
-          View Details
-        </Link>
+<Link
+  href={`/${stateSlug}/${(location.company + '-' + (location.address || 'center')).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')}`}
+  className="w-full bg-blue-600 text-white text-center py-2.5 px-4 rounded-lg hover:bg-blue-700 transition-colors font-medium inline-block"
+>
+  View Details
+</Link>
         
         {/* Call Button (if phone available) */}
         {location.phone && (
@@ -506,6 +506,16 @@ const generateHours = (locationIndex, companyName) => {
   return `${pattern.days}: ${formatTime(pattern.open)} - ${formatTime(pattern.close)}`;
 };
 
+// Add this function before your StatePage component
+const shuffleArray = (array) => {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+};
+
 // In your main component, replace the search/filter logic with debounced versions:
 export default function StatePage({ stateData, stateSlug }) {
   const [searchTerm, setSearchTerm] = useState('');
@@ -515,6 +525,8 @@ export default function StatePage({ stateData, stateSlug }) {
 const [isClient, setIsClient] = useState(false);
 const [itemsToShow, setItemsToShow] = useState(100);
 const [isLoadingMore, setIsLoadingMore] = useState(false);
+const [shuffledLocations, setShuffledLocations] = useState([]);
+const [isShuffled, setIsShuffled] = useState(false);
 
   // Add this before your return statement
 const currentStateInfo = stateInfo[stateSlug] || {
@@ -536,7 +548,6 @@ useEffect(() => {
   setItemsToShow(100);
 }, [debouncedSearchTerm, selectedCompany]);
 
- // Memoize filtered locations using debounced search
 const filteredLocations = useMemo(() => {
   if (!stateData?.locations) return [];
   
@@ -558,13 +569,22 @@ const filteredLocations = useMemo(() => {
     );
   }
 
-  return filtered;
+  return filtered; // No shuffling here
 }, [stateData?.locations, debouncedSearchTerm, selectedCompany]);
 
-// Add this new computed value for displayed locations
+// Add this useEffect to shuffle only on client-side:
+useEffect(() => {
+  if (filteredLocations.length > 0) {
+    setShuffledLocations(shuffleArray(filteredLocations));
+    setIsShuffled(true);
+  }
+}, [filteredLocations]);
+
+
 const displayedLocations = useMemo(() => {
-  return filteredLocations.slice(0, itemsToShow);
-}, [filteredLocations, itemsToShow]);
+  const locationsToUse = isShuffled ? shuffledLocations : filteredLocations;
+  return locationsToUse.slice(0, itemsToShow);
+}, [shuffledLocations, filteredLocations, itemsToShow, isShuffled]);
 
     // Client-side hydration and virtualization logic
 useEffect(() => {

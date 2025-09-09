@@ -13,10 +13,8 @@
       "address": "3209 Harrison St, Batesville, AR 72501, USA",
       "street": "3209 Harrison Street",
       "zip": "72501",
-      "coordinates": {
-        "lat": 35.76685,
-        "lng": -91.612873
-      },
+      "latitude": 35.76685,
+      "longitude": -91.612873,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -37,10 +35,8 @@
       "address": "20 Sugar Creek Center, Bella Vista, AR 72714, USA",
       "street": "20 Sugar Creek Center",
       "zip": "72714",
-      "coordinates": {
-        "lat": 36.439472,
-        "lng": -94.236185
-      },
+      "latitude": 36.439472,
+      "longitude": -94.236185,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -61,10 +57,8 @@
       "address": "210 Towncenter, Bella Vista, AR 72714, USA",
       "street": "Towncenter",
       "zip": "72714",
-      "coordinates": {
-        "lat": 36.475588,
-        "lng": -94.246592
-      },
+      "latitude": 36.475588,
+      "longitude": -94.246592,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -85,10 +79,8 @@
       "address": "1716 Military Rd, Benton, AR 72015, USA",
       "street": "1716 Military Road",
       "zip": "72015",
-      "coordinates": {
-        "lat": 34.581419,
-        "lng": -92.574098
-      },
+      "latitude": 34.581419,
+      "longitude": -92.574098,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -109,10 +101,8 @@
       "address": "1400 SE Walton Blvd, Bentonville, AR 72712, USA",
       "street": "1400 Southeast Walton Boulevard",
       "zip": "72712",
-      "coordinates": {
-        "lat": 36.333822,
-        "lng": -94.19146
-      },
+      "latitude": 36.333822,
+      "longitude": -94.19146,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -133,10 +123,8 @@
       "address": "125 Chickasaw Plaza, Blytheville, AR 72315, USA",
       "street": "Chickasaw Plaza Drive",
       "zip": "72315",
-      "coordinates": {
-        "lat": 35.927257,
-        "lng": -89.876869
-      },
+      "latitude": 35.927257,
+      "longitude": -89.876869,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -157,10 +145,8 @@
       "address": "5914 AR-5, Cabot, AR 72023, USA",
       "street": "AR 5",
       "zip": "72023",
-      "coordinates": {
-        "lat": 34.95328,
-        "lng": -92.070953
-      },
+      "latitude": 34.95328,
+      "longitude": -92.070953,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -181,10 +167,8 @@
       "address": "204 S Rockwood Dr, Cabot, AR 72023, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.978732,
-        "lng": -92.039897
-      },
+      "latitude": 34.978732,
+      "longitude": -92.039897,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -205,10 +189,8 @@
       "address": "292 E Centerton Blvd, Centerton, AR 72719, USA",
       "street": "292 East Centerton Boulevard",
       "zip": "72719",
-      "coordinates": {
-        "lat": 36.359004,
-        "lng": -94.282344
-      },
+      "latitude": 36.359004,
+      "longitude": -94.282344,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -229,10 +211,8 @@
       "address": "2425 Sanders Rd, Conway, AR 72032, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.110141,
-        "lng": -92.436546
-      },
+      "latitude": 35.110141,
+      "longitude": -92.436546,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -253,10 +233,8 @@
       "address": "245 Oak St, Conway, AR 72032, USA",
       "street": "245 Oak Street",
       "zip": "72032",
-      "coordinates": {
-        "lat": 35.09039,
-        "lng": -92.42948
-      },
+      "latitude": 35.09039,
+      "longitude": -92.42948,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -277,10 +255,8 @@
       "address": "3900 Dave Ward Dr, Conway, AR 72034, USA",
       "street": "3900 Dave Ward Drive",
       "zip": "72034",
-      "coordinates": {
-        "lat": 35.07277,
-        "lng": -92.495352
-      },
+      "latitude": 35.07277,
+      "longitude": -92.495352,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -301,10 +277,8 @@
       "address": "1428 N West Ave, El Dorado, AR 71730, USA",
       "street": "1428 North West Avenue",
       "zip": "71730",
-      "coordinates": {
-        "lat": 33.226278,
-        "lng": -92.666417
-      },
+      "latitude": 33.226278,
+      "longitude": -92.666417,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -325,10 +299,8 @@
       "address": "1189 Steamboat Dr, Fayetteville, AR 72704, USA",
       "street": "1189 North Steamboat Drive",
       "zip": "72704",
-      "coordinates": {
-        "lat": 36.079287,
-        "lng": -94.204307
-      },
+      "latitude": 36.079287,
+      "longitude": -94.204307,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -349,10 +321,8 @@
       "address": "3105 M.L.K. Jr Blvd, Fayetteville, AR 72704, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.049972,
-        "lng": -94.204087
-      },
+      "latitude": 36.049972,
+      "longitude": -94.204087,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -373,10 +343,8 @@
       "address": "705 E Appleby Rd, Fayetteville, AR 72703, USA",
       "street": "705 East Appleby Road",
       "zip": "72703",
-      "coordinates": {
-        "lat": 36.104773,
-        "lng": -94.147938
-      },
+      "latitude": 36.104773,
+      "longitude": -94.147938,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -397,10 +365,8 @@
       "address": "3225 S 74th St, Fort Smith, AR 72903, USA",
       "street": "3225 South 74th Street",
       "zip": "72903",
-      "coordinates": {
-        "lat": 35.350381,
-        "lng": -94.349729
-      },
+      "latitude": 35.350381,
+      "longitude": -94.349729,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -421,10 +387,8 @@
       "address": "3610 Towson Ave #7, Fort Smith, AR 72901, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.351497,
-        "lng": -94.422918
-      },
+      "latitude": 35.351497,
+      "longitude": -94.422918,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -445,10 +409,8 @@
       "address": "814 US-62, Harrison, AR 72601, USA",
       "street": "814 US 62;US 65;US 412",
       "zip": "72601",
-      "coordinates": {
-        "lat": 36.251723,
-        "lng": -93.122426
-      },
+      "latitude": 36.251723,
+      "longitude": -93.122426,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -469,10 +431,8 @@
       "address": "631 E Grand Ave, Hot Springs, AR 71901, USA",
       "street": "631 East Grand Avenue",
       "zip": "71901",
-      "coordinates": {
-        "lat": 34.508634,
-        "lng": -93.043263
-      },
+      "latitude": 34.508634,
+      "longitude": -93.043263,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -493,10 +453,8 @@
       "address": "National Park, 205 Garrison Rd, Hot Springs, AR 71913, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.456132,
-        "lng": -93.065211
-      },
+      "latitude": 34.456132,
+      "longitude": -93.065211,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -517,10 +475,8 @@
       "address": "1309 T P White Dr, Jacksonville, AR 72076, USA",
       "street": "1309 T P White Drive",
       "zip": "72076",
-      "coordinates": {
-        "lat": 34.880462,
-        "lng": -92.112245
-      },
+      "latitude": 34.880462,
+      "longitude": -92.112245,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -541,10 +497,8 @@
       "address": "1515 S Caraway Rd, Jonesboro, AR 72401, USA",
       "street": "1515 South Caraway Road",
       "zip": "72401",
-      "coordinates": {
-        "lat": 35.826511,
-        "lng": -90.679306
-      },
+      "latitude": 35.826511,
+      "longitude": -90.679306,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -565,10 +519,8 @@
       "address": "109 Markham Park Dr, Little Rock, AR 72211, USA",
       "street": "109 Markham Park Drive",
       "zip": "72211",
-      "coordinates": {
-        "lat": 34.755505,
-        "lng": -92.404796
-      },
+      "latitude": 34.755505,
+      "longitude": -92.404796,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -589,10 +541,8 @@
       "address": "1208 Bowman Rd, Little Rock, AR 72211, USA",
       "street": "1208 South Bowman Road",
       "zip": "72211",
-      "coordinates": {
-        "lat": 34.743283,
-        "lng": -92.407807
-      },
+      "latitude": 34.743283,
+      "longitude": -92.407807,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -613,10 +563,8 @@
       "address": "16924 Cantrell Rd, Little Rock, AR 72223, USA",
       "street": "16924 Cantrell Road",
       "zip": "72223",
-      "coordinates": {
-        "lat": 34.804623,
-        "lng": -92.459737
-      },
+      "latitude": 34.804623,
+      "longitude": -92.459737,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -637,10 +585,8 @@
       "address": "1801 Green Mountain Dr, Little Rock, AR 72212, USA",
       "street": "1801 Green Mountain Drive",
       "zip": "72212",
-      "coordinates": {
-        "lat": 34.769917,
-        "lng": -92.403294
-      },
+      "latitude": 34.769917,
+      "longitude": -92.403294,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -661,10 +607,8 @@
       "address": "2904 S University Ave, Little Rock, AR 72204, USA",
       "street": "2904 South University Avenue",
       "zip": "72204",
-      "coordinates": {
-        "lat": 34.725791,
-        "lng": -92.342773
-      },
+      "latitude": 34.725791,
+      "longitude": -92.342773,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -685,10 +629,8 @@
       "address": "7001 Cantrell Rd, Little Rock, AR 72207, USA",
       "street": "7001 Cantrell Road",
       "zip": "72207",
-      "coordinates": {
-        "lat": 34.769146,
-        "lng": -92.353198
-      },
+      "latitude": 34.769146,
+      "longitude": -92.353198,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -709,10 +651,8 @@
       "address": "7400 Scott Hamilton Dr, Little Rock, AR 72209, USA",
       "street": "7400 Scott Hamilton Drive",
       "zip": "72209",
-      "coordinates": {
-        "lat": 34.683817,
-        "lng": -92.323241
-      },
+      "latitude": 34.683817,
+      "longitude": -92.323241,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -733,10 +673,8 @@
       "address": "7400 Scott Hamilton Dr, Little Rock, AR 72209, USA",
       "street": "7400 Scott Hamilton Drive",
       "zip": "72209",
-      "coordinates": {
-        "lat": 34.683817,
-        "lng": -92.323241
-      },
+      "latitude": 34.683817,
+      "longitude": -92.323241,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -757,10 +695,8 @@
       "address": "9700 N Rodney Parham Rd, Little Rock, AR 72227, USA",
       "street": "9700 North Rodney Parham Road",
       "zip": "72227",
-      "coordinates": {
-        "lat": 34.76187,
-        "lng": -92.380673
-      },
+      "latitude": 34.76187,
+      "longitude": -92.380673,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -781,10 +717,8 @@
       "address": "1900 Club Manor Dr, Maumelle, AR 72113, USA",
       "street": "1900 Club Manor Drive",
       "zip": "72113",
-      "coordinates": {
-        "lat": 34.853325,
-        "lng": -92.404128
-      },
+      "latitude": 34.853325,
+      "longitude": -92.404128,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -805,10 +739,8 @@
       "address": "759 Hwy 62 E #102, Mountain Home, AR 72653, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.334263,
-        "lng": -92.385225
-      },
+      "latitude": 36.334263,
+      "longitude": -92.385225,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -829,10 +761,8 @@
       "address": "2500 Malcolm Ave D, Newport, AR 72112, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 35.607532,
-        "lng": -91.2503
-      },
+      "latitude": 35.607532,
+      "longitude": -91.2503,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -853,10 +783,8 @@
       "address": "6929 John F Kennedy Blvd #112, North Little Rock, AR 72116, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 34.819519,
-        "lng": -92.23689
-      },
+      "latitude": 34.819519,
+      "longitude": -92.23689,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -877,10 +805,8 @@
       "address": "808 W Kingshighway, Paragould, AR 72450, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.05242,
-        "lng": -90.496365
-      },
+      "latitude": 36.05242,
+      "longitude": -90.496365,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -901,10 +827,8 @@
       "address": "2514 W 28th Ave, Pine Bluff, AR 71603, USA",
       "street": "2514 West 28th Avenue",
       "zip": "71603",
-      "coordinates": {
-        "lat": 34.200782,
-        "lng": -92.028286
-      },
+      "latitude": 34.200782,
+      "longitude": -92.028286,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -925,10 +849,8 @@
       "address": "1301 N Dixieland Rd, Rogers, AR 72756, USA",
       "street": "1301 North Dixieland Road",
       "zip": "72756",
-      "coordinates": {
-        "lat": 36.346953,
-        "lng": -94.140411
-      },
+      "latitude": 36.346953,
+      "longitude": -94.140411,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -949,10 +871,8 @@
       "address": "4301 S Dixieland Rd, Rogers, AR 72758, USA",
       "street": "4301 South Dixieland Road",
       "zip": "72758",
-      "coordinates": {
-        "lat": 36.280809,
-        "lng": -94.145379
-      },
+      "latitude": 36.280809,
+      "longitude": -94.145379,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -973,10 +893,8 @@
       "address": "2100 N Arkansas Ave, Russellville, AR 72802, USA",
       "street": "2100 North Arkansas Avenue",
       "zip": "72801",
-      "coordinates": {
-        "lat": 35.301075,
-        "lng": -93.137151
-      },
+      "latitude": 35.301075,
+      "longitude": -93.137151,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -997,10 +915,8 @@
       "address": "2009 E Race Ave, Searcy, AR 72143, USA",
       "street": "2009 East Race Avenue",
       "zip": "72143",
-      "coordinates": {
-        "lat": 35.249679,
-        "lng": -91.713476
-      },
+      "latitude": 35.249679,
+      "longitude": -91.713476,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1021,10 +937,8 @@
       "address": "1001 S Mt Olive St, Siloam Springs, AR 72761, USA",
       "street": "1001 South Mount Olive Street",
       "zip": "72761",
-      "coordinates": {
-        "lat": 36.173926,
-        "lng": -94.540606
-      },
+      "latitude": 36.173926,
+      "longitude": -94.540606,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1045,10 +959,8 @@
       "address": "5252 W Sunset Ave, Springdale, AR 72762, USA",
       "street": "5252 West Sunset Avenue",
       "zip": "72762",
-      "coordinates": {
-        "lat": 36.17714,
-        "lng": -94.189139
-      },
+      "latitude": 36.17714,
+      "longitude": -94.189139,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1069,10 +981,8 @@
       "address": "5252 W Sunset Ave, Springdale, AR 72762, USA",
       "street": "5252 West Sunset Avenue",
       "zip": "72762",
-      "coordinates": {
-        "lat": 36.17714,
-        "lng": -94.189139
-      },
+      "latitude": 36.17714,
+      "longitude": -94.189139,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1093,10 +1003,8 @@
       "address": "1916 N State Line Ave, Texarkana, AR 71854, USA",
       "street": "1916 North State Line Avenue",
       "zip": "71854",
-      "coordinates": {
-        "lat": 33.441589,
-        "lng": -94.042802
-      },
+      "latitude": 33.441589,
+      "longitude": -94.042802,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",

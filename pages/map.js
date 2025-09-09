@@ -134,16 +134,15 @@ function MapPage({ allLocations = [], states = [] }) {
     setNearestLocations(locationsWithDistance);
   };
 
-  // Generate location page URL
-  const getLocationUrl = (location) => {
-    const citySlug = (location.city || 'location').toLowerCase().replace(/\s+/g, '-');
-    const locationSlug = (location.company + '-' + (location.address || 'center'))
-      .toLowerCase()
-      .replace(/[^a-z0-9]+/g, '-')
-      .replace(/^-+|-+$/g, '');
-    
-    return `/${location.stateSlug}/${citySlug}/${locationSlug}`;
-  };
+// Generate location page URL
+const getLocationUrl = (location) => {
+  const locationSlug = (location.company + '-' + (location.address || 'center'))
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+  
+  return `/${location.stateSlug}/${locationSlug}`;
+};
 
   // Filter locations by state
   const getFilteredLocations = () => {
@@ -435,28 +434,22 @@ export async function getStaticProps() {
     
     // Flatten all locations from all states
     const allLocations = [];
-    if (data.states && Array.isArray(data.states)) {
-      data.states.forEach(state => {
-        if (state.locations && Array.isArray(state.locations)) {
-          state.locations.forEach((location, index) => {
-            // Generate more realistic coordinates based on state
-            const stateCoords = getStateCoordinates(state.name);
-            const mockLat = stateCoords.lat + (Math.random() - 0.5) * 2; // Within ~100 miles of state center
-            const mockLng = stateCoords.lng + (Math.random() - 0.5) * 2;
-            
-            allLocations.push({
-              ...location,
-              latitude: mockLat,
-              longitude: mockLng,
-              state: state.name,
-              stateSlug: state.slug
-            });
-          });
-        }
+data.states.forEach(state => {
+  if (state.locations && Array.isArray(state.locations)) {
+    state.locations.forEach((location, index) => {
+      allLocations.push({
+        ...location,
+        state: state.name,
+        stateSlug: state.slug
       });
-    }
+    });
+  }
+});
     
     console.log(`Loaded ${allLocations.length} locations for map`);
+    console.log('Map getStaticProps - sample location:', allLocations[0]);
+  console.log('Total locations with coords:', allLocations.filter(loc => loc.latitude && loc.longitude).length);
+
     
     return {
       props: {

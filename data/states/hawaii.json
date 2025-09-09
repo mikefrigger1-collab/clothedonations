@@ -13,10 +13,8 @@
       "address": "1314 S King St STE 1555, Honolulu, HI 96814, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 21.299071,
-        "lng": -157.8415
-      },
+      "latitude": 21.299071,
+      "longitude": -157.8415,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -40,10 +38,8 @@
       "address": "4465 Puolo Rd, Hanapepe, HI 96716, USA",
       "street": "4465 Puolo Road",
       "zip": "96716",
-      "coordinates": {
-        "lat": 21.907133,
-        "lng": -159.593109
-      },
+      "latitude": 21.907133,
+      "longitude": -159.593109,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -65,10 +61,8 @@
       "address": "188 Kamehameha Ave, Hilo, HI 96720, USA",
       "street": "188 Kamehameha Avenue",
       "zip": "96720",
-      "coordinates": {
-        "lat": 19.725289,
-        "lng": -155.086258
-      },
+      "latitude": 19.725289,
+      "longitude": -155.086258,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -90,10 +84,8 @@
       "address": "45 Rickard Pl, Honokaa, HI 96727, USA",
       "street": "Rickard Place",
       "zip": "96727",
-      "coordinates": {
-        "lat": 20.077326,
-        "lng": -155.464831
-      },
+      "latitude": 20.077326,
+      "longitude": -155.464831,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -115,10 +107,8 @@
       "address": "322 Sumner St, Honolulu, HI 96817, USA",
       "street": "322 Sumner Street",
       "zip": "96817",
-      "coordinates": {
-        "lat": 21.315289,
-        "lng": -157.866899
-      },
+      "latitude": 21.315289,
+      "longitude": -157.866899,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -140,10 +130,8 @@
       "address": "45 Kailua Rd, Kailua, HI 96734, USA",
       "street": "45 Kailua Road",
       "zip": "96734",
-      "coordinates": {
-        "lat": 21.39816,
-        "lng": -157.729418
-      },
+      "latitude": 21.39816,
+      "longitude": -157.729418,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -165,10 +153,8 @@
       "address": "74-5555 Kaiwi St, Kailua-Kona, HI 96740, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 19.642919,
-        "lng": -156.000672
-      },
+      "latitude": 19.642919,
+      "longitude": -156.000672,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -190,10 +176,8 @@
       "address": "105 Hale Kai St, Kihei, HI 96753, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 20.78003,
-        "lng": -156.446944
-      },
+      "latitude": 20.78003,
+      "longitude": -156.446944,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -215,10 +199,8 @@
       "address": "131 Shaw St, Lahaina, HI 96761, USA",
       "street": "131 Shaw Street",
       "zip": "96761",
-      "coordinates": {
-        "lat": 20.86839,
-        "lng": -156.674466
-      },
+      "latitude": 20.86839,
+      "longitude": -156.674466,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -240,10 +222,8 @@
       "address": "4291 Rice St, Lihue, HI 96766, USA",
       "street": "4291 Rice Street",
       "zip": "96766",
-      "coordinates": {
-        "lat": 21.972425,
-        "lng": -159.365649
-      },
+      "latitude": 21.972425,
+      "longitude": -159.365649,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -265,10 +245,8 @@
       "address": "435 Kilani Ave, Wahiawa, HI 96786, USA",
       "street": "435 Kilani Avenue",
       "zip": "96786",
-      "coordinates": {
-        "lat": 21.497468,
-        "lng": -158.030471
-      },
+      "latitude": 21.497468,
+      "longitude": -158.030471,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -290,10 +268,8 @@
       "address": "94-925 Waipahu St, Waipahu, HI 96797, USA",
       "street": "94-925 Waipahu Street",
       "zip": "96797",
-      "coordinates": {
-        "lat": 21.386503,
-        "lng": -158.005972
-      },
+      "latitude": 21.386503,
+      "longitude": -158.005972,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -315,10 +291,8 @@
       "address": "98-019 Kamehameha Hwy, Aiea, HI 96701, USA",
       "street": "98-019 Kamehameha Highway",
       "zip": "96701",
-      "coordinates": {
-        "lat": 21.384937,
-        "lng": -157.950593
-      },
+      "latitude": 21.384937,
+      "longitude": -157.950593,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -339,10 +313,8 @@
       "address": "266 Kanoelehua Ave, Hilo, HI 96720, USA",
       "street": "266 Kanoelehua Avenue",
       "zip": "96720",
-      "coordinates": {
-        "lat": 19.718916,
-        "lng": -155.064768
-      },
+      "latitude": 19.718916,
+      "longitude": -155.064768,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -363,10 +335,8 @@
       "address": "1069 S Beretania St, Honolulu, HI 96814, USA",
       "street": "1069 South Beretania Street",
       "zip": "96814",
-      "coordinates": {
-        "lat": 21.302382,
-        "lng": -157.846127
-      },
+      "latitude": 21.302382,
+      "longitude": -157.846127,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -387,10 +357,8 @@
       "address": "1075 S Beretania St, Honolulu, HI 96814, USA",
       "street": "1075 South Beretania Street",
       "zip": "96814",
-      "coordinates": {
-        "lat": 21.302356,
-        "lng": -157.845941
-      },
+      "latitude": 21.302356,
+      "longitude": -157.845941,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -411,10 +379,8 @@
       "address": "3638 Waialae Ave, Honolulu, HI 96816, USA",
       "street": "3638 Waialae Avenue",
       "zip": "96816",
-      "coordinates": {
-        "lat": 21.282538,
-        "lng": -157.798068
-      },
+      "latitude": 21.282538,
+      "longitude": -157.798068,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -435,10 +401,8 @@
       "address": "614 Cooke St #100, Honolulu, HI 96813, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 21.300173,
-        "lng": -157.857203
-      },
+      "latitude": 21.300173,
+      "longitude": -157.857203,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -459,10 +423,8 @@
       "address": "250 Alamaha St N9, Kahului, HI 96732, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 20.886455,
-        "lng": -156.459478
-      },
+      "latitude": 20.886455,
+      "longitude": -156.459478,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -483,10 +445,8 @@
       "address": "105 Oneawa St, Kailua, HI 96734, USA",
       "street": "105 Oneawa Street",
       "zip": "96734",
-      "coordinates": {
-        "lat": 21.395892,
-        "lng": -157.745252
-      },
+      "latitude": 21.395892,
+      "longitude": -157.745252,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -507,10 +467,8 @@
       "address": "73-4786 Kanalani St, Kailua-Kona, HI 96740, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 19.689115,
-        "lng": -156.021587
-      },
+      "latitude": 19.689115,
+      "longitude": -156.021587,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -531,10 +489,8 @@
       "address": "2140 Lauwiliwili St, Kapolei, HI 96707, USA",
       "street": "2140 Lauwiliwili Street",
       "zip": "96707",
-      "coordinates": {
-        "lat": 21.318578,
-        "lng": -158.091114
-      },
+      "latitude": 21.318578,
+      "longitude": -158.091114,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -555,10 +511,8 @@
       "address": "823 California Ave, Wahiawa, HI 96786, USA",
       "street": "823 California Avenue",
       "zip": "96786",
-      "coordinates": {
-        "lat": 21.496297,
-        "lng": -158.025487
-      },
+      "latitude": 21.496297,
+      "longitude": -158.025487,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -579,10 +533,8 @@
       "address": "94-050 Farrington Hwy, Waipahu, HI 96797, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 21.377963,
-        "lng": -158.02542
-      },
+      "latitude": 21.377963,
+      "longitude": -158.02542,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",

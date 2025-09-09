@@ -13,10 +13,8 @@
       "address": "100 E Scotland Dr, Bear, DE 19701, USA",
       "street": "100 East Scotland Drive",
       "zip": "19701",
-      "coordinates": {
-        "lat": 39.610851,
-        "lng": -75.703502
-      },
+      "latitude": 39.610851,
+      "longitude": -75.703502,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "841 Pulaski Hwy, Bear, DE 19701, USA",
       "street": "841 Pulaski Highway",
       "zip": "19701",
-      "coordinates": {
-        "lat": 39.639934,
-        "lng": -75.648948
-      },
+      "latitude": 39.639934,
+      "longitude": -75.648948,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "128 Lantana Dr, Hockessin, DE 19707, USA",
       "street": "128 Lantana Drive",
       "zip": "19707",
-      "coordinates": {
-        "lat": 39.773786,
-        "lng": -75.708618
-      },
+      "latitude": 39.773786,
+      "longitude": -75.708618,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "7491 Lancaster Pike, Hockessin, DE 19707, USA",
       "street": "7491 Lancaster Pike",
       "zip": "19707",
-      "coordinates": {
-        "lat": 39.790264,
-        "lng": -75.69945
-      },
+      "latitude": 39.790264,
+      "longitude": -75.69945,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "4434 Summit Bridge Rd, Middletown, DE 19709, USA",
       "street": "Summit Bridge Road",
       "zip": "19709",
-      "coordinates": {
-        "lat": 39.513461,
-        "lng": -75.712389
-      },
+      "latitude": 39.513461,
+      "longitude": -75.712389,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "5234 Summit Bridge Rd, Middletown, DE 19709, USA",
       "street": "5234 Summit Bridge Road",
       "zip": "19709",
-      "coordinates": {
-        "lat": 39.466266,
-        "lng": -75.721442
-      },
+      "latitude": 39.466266,
+      "longitude": -75.721442,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -163,10 +151,8 @@
       "address": "950 Red Lion Rd, New Castle, DE 19720, USA",
       "street": "950 Red Lion Road",
       "zip": "19720",
-      "coordinates": {
-        "lat": 39.613475,
-        "lng": -75.64913
-      },
+      "latitude": 39.613475,
+      "longitude": -75.64913,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -188,10 +174,8 @@
       "address": "101 Executive Dr, Newark, DE 19702, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.618797,
-        "lng": -75.747359
-      },
+      "latitude": 39.618797,
+      "longitude": -75.747359,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -213,10 +197,8 @@
       "address": "2090 Stafford Way, Newark, DE 19711, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.685462,
-        "lng": -75.721249
-      },
+      "latitude": 39.685462,
+      "longitude": -75.721249,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -238,10 +220,8 @@
       "address": "16 W Mt Vernon St, Smyrna, DE 19977, USA",
       "street": "16 West Mount Vernon Street",
       "zip": "19977",
-      "coordinates": {
-        "lat": 39.301292,
-        "lng": -75.608139
-      },
+      "latitude": 39.301292,
+      "longitude": -75.608139,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -263,10 +243,8 @@
       "address": "101 Western Ave, Wilmington, DE 19805, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.738453,
-        "lng": -75.59216
-      },
+      "latitude": 39.738453,
+      "longitude": -75.59216,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -288,10 +266,8 @@
       "address": "107 S Market St, Wilmington, DE 19801, USA",
       "street": "107 South Market Street",
       "zip": "19801",
-      "coordinates": {
-        "lat": 39.735302,
-        "lng": -75.555873
-      },
+      "latitude": 39.735302,
+      "longitude": -75.555873,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -313,10 +289,8 @@
       "address": "1215 Centerville Rd, Wilmington, DE 19808, USA",
       "street": "1215 Centerville Road",
       "zip": "19808",
-      "coordinates": {
-        "lat": 39.731417,
-        "lng": -75.618331
-      },
+      "latitude": 39.731417,
+      "longitude": -75.618331,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -338,10 +312,8 @@
       "address": "3000 Newport Gap Pike, Wilmington, DE 19808, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.75077,
-        "lng": -75.652391
-      },
+      "latitude": 39.75077,
+      "longitude": -75.652391,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -363,10 +335,8 @@
       "address": "714 Greenbank Rd, Wilmington, DE 19808, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.73525,
-        "lng": -75.635129
-      },
+      "latitude": 39.73525,
+      "longitude": -75.635129,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -388,10 +358,8 @@
       "address": "2 Bellecor Dr, Wilmington Manor, DE 19720, USA",
       "street": "2 Bellecor Drive",
       "zip": "19720",
-      "coordinates": {
-        "lat": 39.692245,
-        "lng": -75.597348
-      },
+      "latitude": 39.692245,
+      "longitude": -75.597348,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -413,10 +381,8 @@
       "address": "2308 Concord Pike, Wilmington, DE 19803, USA",
       "street": "2308 Concord Pike",
       "zip": "19803",
-      "coordinates": {
-        "lat": 39.793505,
-        "lng": -75.547549
-      },
+      "latitude": 39.793505,
+      "longitude": -75.547549,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -439,10 +405,8 @@
       "address": "334 Fox Hunt Dr, Bear, DE 19701, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.606555,
-        "lng": -75.710213
-      },
+      "latitude": 39.606555,
+      "longitude": -75.710213,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -463,10 +427,8 @@
       "address": "18178 Sussex Hwy, Bridgeville, DE 19933, USA",
       "street": "18178 Sussex Highway",
       "zip": "19933",
-      "coordinates": {
-        "lat": 38.736409,
-        "lng": -75.593619
-      },
+      "latitude": 38.736409,
+      "longitude": -75.593619,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -487,10 +449,8 @@
       "address": "255 Wilmington West Chester Pike, Chadds Ford, PA 19317, USA",
       "street": "255 Wilmington West Chester Pike",
       "zip": "19317",
-      "coordinates": {
-        "lat": 39.852641,
-        "lng": -75.537974
-      },
+      "latitude": 39.852641,
+      "longitude": -75.537974,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -511,10 +471,8 @@
       "address": "2701 Philadelphia Pike, Claymont, DE 19703, USA",
       "street": "2701 Philadelphia Pike",
       "zip": "19703",
-      "coordinates": {
-        "lat": 39.794665,
-        "lng": -75.468018
-      },
+      "latitude": 39.794665,
+      "longitude": -75.468018,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -535,10 +493,8 @@
       "address": "1030 Forrest Ave #113, Dover, DE 19904, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.157628,
-        "lng": -75.544046
-      },
+      "latitude": 39.157628,
+      "longitude": -75.544046,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -559,10 +515,8 @@
       "address": "1678 S Governors Ave, Dover, DE 19904, USA",
       "street": "1678 South Governors Avenue",
       "zip": "19904",
-      "coordinates": {
-        "lat": 39.126534,
-        "lng": -75.533038
-      },
+      "latitude": 39.126534,
+      "longitude": -75.533038,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -583,10 +537,8 @@
       "address": "401 West Chester Pike, Havertown, PA 19083, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.9707,
-        "lng": -75.303636
-      },
+      "latitude": 39.9707,
+      "longitude": -75.303636,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -607,10 +559,8 @@
       "address": "7270 Lancaster Pike, Hockessin, DE 19707, USA",
       "street": "7270 Lancaster Pike",
       "zip": "19707",
-      "coordinates": {
-        "lat": 39.787047,
-        "lng": -75.692032
-      },
+      "latitude": 39.787047,
+      "longitude": -75.692032,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -631,10 +581,8 @@
       "address": "2137 MacDade Boulevard, Holmes, PA 19043, USA",
       "street": "2137 Macdade Boulevard",
       "zip": "19043",
-      "coordinates": {
-        "lat": 39.898217,
-        "lng": -75.311311
-      },
+      "latitude": 39.898217,
+      "longitude": -75.311311,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -655,10 +603,8 @@
       "address": "1607 Philadelphia Pike, Wilmington, DE 19809, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.786222,
-        "lng": -75.477126
-      },
+      "latitude": 39.786222,
+      "longitude": -75.477126,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -679,10 +625,8 @@
       "address": "1501 Barley Mill Rd, Wilmington, DE 19807, USA",
       "street": "1501 Barley Mill Road",
       "zip": "19807",
-      "coordinates": {
-        "lat": 39.767442,
-        "lng": -75.615412
-      },
+      "latitude": 39.767442,
+      "longitude": -75.615412,
       "acceptedMaterials": [
         "Clothing",
         "Linen",

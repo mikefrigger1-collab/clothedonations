@@ -13,10 +13,8 @@
       "address": "4008 S Shirley Ave, Sioux Falls, SD 57106, USA",
       "street": "South Shirley Avenue",
       "zip": "57106",
-      "coordinates": {
-        "lat": 43.516816,
-        "lng": -96.775249
-      },
+      "latitude": 43.516816,
+      "longitude": -96.775249,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -40,10 +38,8 @@
       "address": "1025 6th Ave SW, Aberdeen, SD 57401, USA",
       "street": "1025 6th Avenue Southwest",
       "zip": "57401",
-      "coordinates": {
-        "lat": 45.459131,
-        "lng": -98.503523
-      },
+      "latitude": 45.459131,
+      "longitude": -98.503523,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -65,10 +61,8 @@
       "address": "237 Illinois Ave SW, Huron, SD 57350, USA",
       "street": "237 Illinois Avenue Southwest",
       "zip": "57350",
-      "coordinates": {
-        "lat": 44.363929,
-        "lng": -98.217838
-      },
+      "latitude": 44.363929,
+      "longitude": -98.217838,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -90,10 +84,8 @@
       "address": "724 N Sanborn Blvd, Mitchell, SD 57301, USA",
       "street": "724 North Sanborn Boulevard",
       "zip": "57301",
-      "coordinates": {
-        "lat": 43.716232,
-        "lng": -98.029174
-      },
+      "latitude": 43.716232,
+      "longitude": -98.029174,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -115,10 +107,8 @@
       "address": "621 E Saint Patrick St, Rapid City, SD 57701, USA",
       "street": "621 East Saint Patrick Street",
       "zip": "57701",
-      "coordinates": {
-        "lat": 44.067014,
-        "lng": -103.205129
-      },
+      "latitude": 44.067014,
+      "longitude": -103.205129,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -140,10 +130,8 @@
       "address": "320 Ryan Rd, Spearfish, SD 57783, USA",
       "street": "320 Ryan Road",
       "zip": "57783",
-      "coordinates": {
-        "lat": 44.501232,
-        "lng": -103.857053
-      },
+      "latitude": 44.501232,
+      "longitude": -103.857053,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -165,10 +153,8 @@
       "address": "621 4th St SE, Watertown, SD 57201, USA",
       "street": "621 4th Street Southeast",
       "zip": "57201",
-      "coordinates": {
-        "lat": 44.891595,
-        "lng": -97.111724
-      },
+      "latitude": 44.891595,
+      "longitude": -97.111724,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -190,10 +176,8 @@
       "address": "Co Hwy 19, Aberdeen, SD 57401, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 45.44461,
-        "lng": -98.43552
-      },
+      "latitude": 45.44461,
+      "longitude": -98.43552,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -214,10 +198,8 @@
       "address": "625 Main Ave, Brookings, SD 57006, USA",
       "street": "625 Main Avenue",
       "zip": "57006",
-      "coordinates": {
-        "lat": 44.312685,
-        "lng": -96.799224
-      },
+      "latitude": 44.312685,
+      "longitude": -96.799224,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -238,10 +220,8 @@
       "address": "1415 W Havens Ave, Mitchell, SD 57301, USA",
       "street": "1415 West Havens Avenue",
       "zip": "57301",
-      "coordinates": {
-        "lat": 43.701084,
-        "lng": -98.044047
-      },
+      "latitude": 43.701084,
+      "longitude": -98.044047,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -262,10 +242,8 @@
       "address": "1902 Eastgate Ave, Pierre, SD 57501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 44.384311,
-        "lng": -100.315148
-      },
+      "latitude": 44.384311,
+      "longitude": -100.315148,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -286,10 +264,8 @@
       "address": "611 Lindbergh Ave, Rapid City, SD 57701, USA",
       "street": "611 Lindbergh Avenue",
       "zip": "57701",
-      "coordinates": {
-        "lat": 44.09967,
-        "lng": -103.22442
-      },
+      "latitude": 44.09967,
+      "longitude": -103.22442,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -310,10 +286,8 @@
       "address": "611 Timmons Blvd, Rapid City, SD 57703, USA",
       "street": "Timmons Boulevard",
       "zip": "57703",
-      "coordinates": {
-        "lat": 44.076274,
-        "lng": -103.149991
-      },
+      "latitude": 44.076274,
+      "longitude": -103.149991,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -334,10 +308,8 @@
       "address": "120 N Kiwanis Ave, Sioux Falls, SD 57104, USA",
       "street": "120 North Kiwanis Avenue",
       "zip": "57104",
-      "coordinates": {
-        "lat": 43.548363,
-        "lng": -96.760022
-      },
+      "latitude": 43.548363,
+      "longitude": -96.760022,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -358,10 +330,8 @@
       "address": "3400 S Norton Ave, Sioux Falls, SD 57105, USA",
       "street": "3400 South Norton Avenue",
       "zip": "57197",
-      "coordinates": {
-        "lat": 43.513666,
-        "lng": -96.73443
-      },
+      "latitude": 43.513666,
+      "longitude": -96.73443,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -382,10 +352,8 @@
       "address": "4701 E 41st St, Sioux Falls, SD 57110, USA",
       "street": "4701 East 41st Street",
       "zip": "57110",
-      "coordinates": {
-        "lat": 43.514227,
-        "lng": -96.66874
-      },
+      "latitude": 43.514227,
+      "longitude": -96.66874,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -406,10 +374,8 @@
       "address": "2318 9th Ave SE, Watertown, SD 57201, USA",
       "street": "2318 9th Avenue Southeast",
       "zip": "57201",
-      "coordinates": {
-        "lat": 44.88938,
-        "lng": -97.076906
-      },
+      "latitude": 44.88938,
+      "longitude": -97.076906,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -430,10 +396,8 @@
       "address": "2508 Fox Run Pkwy, Yankton, SD 57078, USA",
       "street": "2508 Fox Run Parkway",
       "zip": "57078",
-      "coordinates": {
-        "lat": 42.899858,
-        "lng": -97.398556
-      },
+      "latitude": 42.899858,
+      "longitude": -97.398556,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -454,10 +418,8 @@
       "address": "137 E Illinois St, Spearfish, SD 57783, USA",
       "street": "137 East Illinois Street",
       "zip": "57783",
-      "coordinates": {
-        "lat": 44.489954,
-        "lng": -103.857746
-      },
+      "latitude": 44.489954,
+      "longitude": -103.857746,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"

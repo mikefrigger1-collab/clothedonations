@@ -13,10 +13,8 @@
       "address": "15892 Clayton Rd, Ellisville, MO 63011, USA",
       "street": "15892 Clayton Road",
       "zip": "63011",
-      "coordinates": {
-        "lat": 38.603833,
-        "lng": -90.584754
-      },
+      "latitude": 38.603833,
+      "longitude": -90.584754,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -40,10 +38,8 @@
       "address": "2251 NW Barry Rd, Kansas City, MO 64154, USA",
       "street": "2251 Northwest Barry Road",
       "zip": "64154",
-      "coordinates": {
-        "lat": 39.245808,
-        "lng": -94.606788
-      },
+      "latitude": 39.245808,
+      "longitude": -94.606788,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -67,10 +63,8 @@
       "address": "300 S Rte 291, Liberty, MO 64068, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.242542,
-        "lng": -94.442839
-      },
+      "latitude": 39.242542,
+      "longitude": -94.442839,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -94,10 +88,8 @@
       "address": "9618 Watson Rd, St. Louis, MO 63126, USA",
       "street": "Watson Road",
       "zip": "63109",
-      "coordinates": {
-        "lat": 38.556513,
-        "lng": -90.382435
-      },
+      "latitude": 38.556513,
+      "longitude": -90.382435,
       "acceptedMaterials": [
         "Appliances",
         "Books",
@@ -121,10 +113,8 @@
       "address": "2110 Tenbrook Rd, Arnold, MO 63010, USA",
       "street": "2110 Tenbrook Road",
       "zip": "63010",
-      "coordinates": {
-        "lat": 38.448501,
-        "lng": -90.36737
-      },
+      "latitude": 38.448501,
+      "longitude": -90.36737,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -146,10 +136,8 @@
       "address": "112 Cedar Tree Sq, Belton, MO 64012, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.814151,
-        "lng": -94.508835
-      },
+      "latitude": 38.814151,
+      "longitude": -94.508835,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -171,10 +159,8 @@
       "address": "1833 MO-7, Blue Springs, MO 64015, USA",
       "street": "1833 MO 7",
       "zip": "64015",
-      "coordinates": {
-        "lat": 38.99811,
-        "lng": -94.27385
-      },
+      "latitude": 38.99811,
+      "longitude": -94.27385,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -196,10 +182,8 @@
       "address": "616 S 130 St, Bonner Springs, KS 66012, USA",
       "street": "South 130 Street",
       "zip": "66012",
-      "coordinates": {
-        "lat": 39.086432,
-        "lng": -94.884289
-      },
+      "latitude": 39.086432,
+      "longitude": -94.884289,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -221,10 +205,8 @@
       "address": "6469 N Prospect Ave, Gladstone, MO 64119, USA",
       "street": "6469 North Prospect Avenue",
       "zip": "64119",
-      "coordinates": {
-        "lat": 39.211563,
-        "lng": -94.546165
-      },
+      "latitude": 39.211563,
+      "longitude": -94.546165,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -246,10 +228,8 @@
       "address": "1535 East 23rd St S, Independence, MO 64055, USA",
       "street": "1535 East 23rd Street South",
       "zip": "64055",
-      "coordinates": {
-        "lat": 39.077336,
-        "lng": -94.391931
-      },
+      "latitude": 39.077336,
+      "longitude": -94.391931,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -271,10 +251,8 @@
       "address": "1301 E 10th St, Kansas City, MO 64106, USA",
       "street": "1301 East 10th Street",
       "zip": "64106",
-      "coordinates": {
-        "lat": 39.101065,
-        "lng": -94.566567
-      },
+      "latitude": 39.101065,
+      "longitude": -94.566567,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -296,10 +274,8 @@
       "address": "8330 N Broadway, Kansas City, MO 64118, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.244208,
-        "lng": -94.585965
-      },
+      "latitude": 39.244208,
+      "longitude": -94.585965,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -321,10 +297,8 @@
       "address": "102 E 4th St, Rolla, MO 65401, USA",
       "street": "102 East 4th Street",
       "zip": "65401",
-      "coordinates": {
-        "lat": 37.946738,
-        "lng": -91.770237
-      },
+      "latitude": 37.946738,
+      "longitude": -91.770237,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -346,10 +320,8 @@
       "address": "2944 W Chestnut Expy, Springfield, MO 65802, USA",
       "street": "2944 West Chestnut Expressway",
       "zip": "65802",
-      "coordinates": {
-        "lat": 37.211802,
-        "lng": -93.336491
-      },
+      "latitude": 37.211802,
+      "longitude": -93.336491,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -371,10 +343,8 @@
       "address": "10740 Page Ave, St. Louis, MO 63132, USA",
       "street": "10740 Page Avenue",
       "zip": "63132",
-      "coordinates": {
-        "lat": 38.692037,
-        "lng": -90.39893
-      },
+      "latitude": 38.692037,
+      "longitude": -90.39893,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -396,10 +366,8 @@
       "address": "30 Harvester Square, St Peters, MO 63303, USA",
       "street": "Harvester Square",
       "zip": "63303",
-      "coordinates": {
-        "lat": 38.746364,
-        "lng": -90.576768
-      },
+      "latitude": 38.746364,
+      "longitude": -90.576768,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -421,10 +389,8 @@
       "address": "125 N Holden St, Warrensburg, MO 64093, USA",
       "street": "125 North Holden Street",
       "zip": "64093",
-      "coordinates": {
-        "lat": 38.763981,
-        "lng": -93.740038
-      },
+      "latitude": 38.763981,
+      "longitude": -93.740038,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -446,10 +412,8 @@
       "address": "109 Eastside Dr, Ashland, MO 65010, USA",
       "street": "109 Eastside Drive",
       "zip": "65010",
-      "coordinates": {
-        "lat": 38.776392,
-        "lng": -92.251039
-      },
+      "latitude": 38.776392,
+      "longitude": -92.251039,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -468,10 +432,8 @@
       "address": "Carlyle, IL 62231, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.610326,
-        "lng": -89.37258
-      },
+      "latitude": 38.610326,
+      "longitude": -89.37258,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -490,10 +452,8 @@
       "address": "Catawissa, MO 63015, USA",
       "street": "",
       "zip": "63015",
-      "coordinates": {
-        "lat": 38.424775,
-        "lng": -90.782632
-      },
+      "latitude": 38.424775,
+      "longitude": -90.782632,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -512,10 +472,8 @@
       "address": "101 Chesterfield Towne Center, Chesterfield, MO 63005, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.661477,
-        "lng": -90.618363
-      },
+      "latitude": 38.661477,
+      "longitude": -90.618363,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -534,10 +492,8 @@
       "address": "18000 Chesterfield Airport Rd, Chesterfield, MO 63005, USA",
       "street": "18000 Chesterfield Airport Road",
       "zip": "63005",
-      "coordinates": {
-        "lat": 38.668818,
-        "lng": -90.634724
-      },
+      "latitude": 38.668818,
+      "longitude": -90.634724,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -556,10 +512,8 @@
       "address": "909 Chesterfield Pkwy E, Chesterfield, MO 63017, USA",
       "street": "909 Chesterfield Parkway East",
       "zip": "63017",
-      "coordinates": {
-        "lat": 38.656353,
-        "lng": -90.553571
-      },
+      "latitude": 38.656353,
+      "longitude": -90.553571,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -578,10 +532,8 @@
       "address": "6600 Clayton Rd, Clayton, MO 63117, USA",
       "street": "6600 Clayton Road",
       "zip": "63117",
-      "coordinates": {
-        "lat": 38.63328,
-        "lng": -90.314858
-      },
+      "latitude": 38.63328,
+      "longitude": -90.314858,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -600,10 +552,8 @@
       "address": "111 S Providence Rd, Columbia, MO 65203, USA",
       "street": "111 South Providence Road",
       "zip": "65203",
-      "coordinates": {
-        "lat": 38.95021,
-        "lng": -92.335568
-      },
+      "latitude": 38.95021,
+      "longitude": -92.335568,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -622,10 +572,8 @@
       "address": "1805 W Worley St, Columbia, MO 65203, USA",
       "street": "1805 West Worley Street",
       "zip": "65203",
-      "coordinates": {
-        "lat": 38.961023,
-        "lng": -92.366343
-      },
+      "latitude": 38.961023,
+      "longitude": -92.366343,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -644,10 +592,8 @@
       "address": "431 N Main St, Columbia, IL 62236, USA",
       "street": "431 North Main Street",
       "zip": "62236",
-      "coordinates": {
-        "lat": 38.446312,
-        "lng": -90.20382
-      },
+      "latitude": 38.446312,
+      "longitude": -90.20382,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -666,10 +612,8 @@
       "address": "4840 Rangeline St, Columbia, MO 65202, USA",
       "street": "Rangeline Street",
       "zip": "65216",
-      "coordinates": {
-        "lat": 39.002704,
-        "lng": -92.321931
-      },
+      "latitude": 39.002704,
+      "longitude": -92.321931,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -688,10 +632,8 @@
       "address": "705 Business Loop 70 W, Columbia, MO 65203, USA",
       "street": "705 Business Loop 70 West",
       "zip": "65202",
-      "coordinates": {
-        "lat": 38.967301,
-        "lng": -92.347966
-      },
+      "latitude": 38.967301,
+      "longitude": -92.347966,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -710,10 +652,8 @@
       "address": "808 Richmond Ave, Columbia, MO 65201, USA",
       "street": "808 Richmond Avenue",
       "zip": "65201",
-      "coordinates": {
-        "lat": 38.941522,
-        "lng": -92.330849
-      },
+      "latitude": 38.941522,
+      "longitude": -92.330849,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -732,10 +672,8 @@
       "address": "3201 Papin Rd, De Soto, MO 63020, USA",
       "street": "3201 Papin Road",
       "zip": "63020",
-      "coordinates": {
-        "lat": 38.066834,
-        "lng": -90.487431
-      },
+      "latitude": 38.066834,
+      "longitude": -90.487431,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -754,10 +692,8 @@
       "address": "25 Truitt Dr, Eureka, MO 63025, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.500208,
-        "lng": -90.624759
-      },
+      "latitude": 38.500208,
+      "longitude": -90.624759,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -776,10 +712,8 @@
       "address": "Eureka, MO, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.502554,
-        "lng": -90.627904
-      },
+      "latitude": 38.502554,
+      "longitude": -90.627904,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -798,10 +732,8 @@
       "address": "721 Gravois Rd, Fenton, MO 63026, USA",
       "street": "721 Gravois Road",
       "zip": "63026",
-      "coordinates": {
-        "lat": 38.511813,
-        "lng": -90.447657
-      },
+      "latitude": 38.511813,
+      "longitude": -90.447657,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -820,10 +752,8 @@
       "address": "Maritz Tower, 1375 N Hwy Dr, Fenton, MO 63026, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.542221,
-        "lng": -90.479361
-      },
+      "latitude": 38.542221,
+      "longitude": -90.479361,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -842,10 +772,8 @@
       "address": "11501 New Halls Ferry Road, Florissant, MO 63033, USA",
       "street": "New Halls Ferry Road",
       "zip": "63033",
-      "coordinates": {
-        "lat": 38.775856,
-        "lng": -90.273798
-      },
+      "latitude": 38.775856,
+      "longitude": -90.273798,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -864,10 +792,8 @@
       "address": "12815 New Halls Ferry Road, Florissant, MO 63033, USA",
       "street": "12815 New Halls Ferry Road",
       "zip": "63033",
-      "coordinates": {
-        "lat": 38.791795,
-        "lng": -90.286319
-      },
+      "latitude": 38.791795,
+      "longitude": -90.286319,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -886,10 +812,8 @@
       "address": "2020 N Bluff St, Fulton, MO 65251, USA",
       "street": "2020 North Bluff Street",
       "zip": "65251",
-      "coordinates": {
-        "lat": 38.868562,
-        "lng": -91.942681
-      },
+      "latitude": 38.868562,
+      "longitude": -91.942681,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -908,10 +832,8 @@
       "address": "12641 IL-143, Highland, IL 62249, USA",
       "street": "12641 IL 143",
       "zip": "62249",
-      "coordinates": {
-        "lat": 38.754554,
-        "lng": -89.680791
-      },
+      "latitude": 38.754554,
+      "longitude": -89.680791,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -930,10 +852,8 @@
       "address": "252 W Simon Blvd, Holts Summit, MO 65043, USA",
       "street": "252 West Simon Boulevard",
       "zip": "65043",
-      "coordinates": {
-        "lat": 38.655712,
-        "lng": -92.120247
-      },
+      "latitude": 38.655712,
+      "longitude": -92.120247,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -952,10 +872,8 @@
       "address": "115 Lafayette St, Jefferson City, MO 65101, USA",
       "street": "Lafayette Street",
       "zip": "65101",
-      "coordinates": {
-        "lat": 38.573699,
-        "lng": -92.161831
-      },
+      "latitude": 38.573699,
+      "longitude": -92.161831,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -974,10 +892,8 @@
       "address": "1801 Missouri Blvd, Jefferson City, MO 65109, USA",
       "street": "1801 Missouri Boulevard",
       "zip": "65109",
-      "coordinates": {
-        "lat": 38.579452,
-        "lng": -92.199537
-      },
+      "latitude": 38.579452,
+      "longitude": -92.199537,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -996,10 +912,8 @@
       "address": "3732 W Truman Blvd, Jefferson City, MO 65109, USA",
       "street": "3732 West Truman Boulevard",
       "zip": "65101",
-      "coordinates": {
-        "lat": 38.586793,
-        "lng": -92.256558
-      },
+      "latitude": 38.586793,
+      "longitude": -92.256558,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1018,10 +932,8 @@
       "address": "1601 Christy Dr, Jefferson City, MO 65101, USA",
       "street": "1601 Christy Drive",
       "zip": "65101",
-      "coordinates": {
-        "lat": 38.559223,
-        "lng": -92.189628
-      },
+      "latitude": 38.559223,
+      "longitude": -92.189628,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1040,10 +952,8 @@
       "address": "2511 W Edgewood Dr, Jefferson City, MO 65109, USA",
       "street": "2511 West Edgewood Drive",
       "zip": "65109",
-      "coordinates": {
-        "lat": 38.570139,
-        "lng": -92.219593
-      },
+      "latitude": 38.570139,
+      "longitude": -92.219593,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1062,10 +972,8 @@
       "address": "9102 Halls Ferry Road, Jennings, MO 63136, USA",
       "street": "9102 Halls Ferry Road",
       "zip": "63136",
-      "coordinates": {
-        "lat": 38.723439,
-        "lng": -90.240415
-      },
+      "latitude": 38.723439,
+      "longitude": -90.240415,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1084,10 +992,8 @@
       "address": "1 E 45 St, Kansas City, MO 64111, USA",
       "street": "East 45 Street",
       "zip": "64110",
-      "coordinates": {
-        "lat": 39.045081,
-        "lng": -94.586389
-      },
+      "latitude": 39.045081,
+      "longitude": -94.586389,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1106,10 +1012,8 @@
       "address": "114 W Gregory Blvd, Kansas City, MO 64114, USA",
       "street": "114 West Gregory Boulevard",
       "zip": "64114",
-      "coordinates": {
-        "lat": 38.999675,
-        "lng": -94.591258
-      },
+      "latitude": 38.999675,
+      "longitude": -94.591258,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1128,10 +1032,8 @@
       "address": "2800 E 18th St, Kansas City, MO 64127, USA",
       "street": "2800 East 18th Street",
       "zip": "64127",
-      "coordinates": {
-        "lat": 39.090933,
-        "lng": -94.549186
-      },
+      "latitude": 39.090933,
+      "longitude": -94.549186,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1150,10 +1052,8 @@
       "address": "311 W 72nd St, Kansas City, MO 64114, USA",
       "street": "311 West 72nd Street",
       "zip": "64114",
-      "coordinates": {
-        "lat": 38.99702,
-        "lng": -94.593239
-      },
+      "latitude": 38.99702,
+      "longitude": -94.593239,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1172,10 +1072,8 @@
       "address": "414 E 63rd St, Kansas City, MO 64110, USA",
       "street": "414 East 63rd Street",
       "zip": "64110",
-      "coordinates": {
-        "lat": 39.013973,
-        "lng": -94.582877
-      },
+      "latitude": 39.013973,
+      "longitude": -94.582877,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1194,10 +1092,8 @@
       "address": "4200 Main St, Kansas City, MO 64111, USA",
       "street": "4200 Main Street",
       "zip": "64111",
-      "coordinates": {
-        "lat": 39.050391,
-        "lng": -94.586828
-      },
+      "latitude": 39.050391,
+      "longitude": -94.586828,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1216,10 +1112,8 @@
       "address": "515 Liberty St, Kansas City, MO 64105, USA",
       "street": "515 Liberty Street",
       "zip": "64105",
-      "coordinates": {
-        "lat": 39.108171,
-        "lng": -94.603508
-      },
+      "latitude": 39.108171,
+      "longitude": -94.603508,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1238,10 +1132,8 @@
       "address": "5401 NW 64th St, Kansas City, MO 64151, USA",
       "street": "5401 Tom Watson Parkway",
       "zip": "64151",
-      "coordinates": {
-        "lat": 39.209978,
-        "lng": -94.64342
-      },
+      "latitude": 39.209978,
+      "longitude": -94.64342,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1260,10 +1152,8 @@
       "address": "6341 Wornall Rd, Kansas City, MO 64113, USA",
       "street": "6341 Wornall Road",
       "zip": "64113",
-      "coordinates": {
-        "lat": 39.012983,
-        "lng": -94.592659
-      },
+      "latitude": 39.012983,
+      "longitude": -94.592659,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1282,10 +1172,8 @@
       "address": "717 W 101st Terrace, Kansas City, MO 64114, USA",
       "street": "West 101st Terrace",
       "zip": "64114",
-      "coordinates": {
-        "lat": 38.944301,
-        "lng": -94.600622
-      },
+      "latitude": 38.944301,
+      "longitude": -94.600622,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1304,10 +1192,8 @@
       "address": "815 E Meyer Blvd, Kansas City, MO 64131, USA",
       "street": "815 East Meyer Boulevard",
       "zip": "64131",
-      "coordinates": {
-        "lat": 39.011095,
-        "lng": -94.577476
-      },
+      "latitude": 39.011095,
+      "longitude": -94.577476,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1326,10 +1212,8 @@
       "address": "8200 Wornall Rd, Kansas City, MO 64114, USA",
       "street": "8200 Wornall Road",
       "zip": "64114",
-      "coordinates": {
-        "lat": 38.978628,
-        "lng": -94.595577
-      },
+      "latitude": 38.978628,
+      "longitude": -94.595577,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1348,10 +1232,8 @@
       "address": "9215 Ward Pkwy, Kansas City, MO 64114, USA",
       "street": "9215 Ward Parkway",
       "zip": "64114",
-      "coordinates": {
-        "lat": 38.9627,
-        "lng": -94.602392
-      },
+      "latitude": 38.9627,
+      "longitude": -94.602392,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1370,10 +1252,8 @@
       "address": "9700 Holmes Rd, Kansas City, MO 64131, USA",
       "street": "9700 Holmes Road",
       "zip": "64131",
-      "coordinates": {
-        "lat": 38.951141,
-        "lng": -94.582837
-      },
+      "latitude": 38.951141,
+      "longitude": -94.582837,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1392,10 +1272,8 @@
       "address": "10854 Manchester Rd, Kirkwood, MO 63122, USA",
       "street": "10854 Manchester Road",
       "zip": "63122",
-      "coordinates": {
-        "lat": 38.599455,
-        "lng": -90.408554
-      },
+      "latitude": 38.599455,
+      "longitude": -90.408554,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1414,10 +1292,8 @@
       "address": "401 N Kirkwood Rd, Kirkwood, MO 63122, USA",
       "street": "401 North Kirkwood Road",
       "zip": "63122",
-      "coordinates": {
-        "lat": 38.58464,
-        "lng": -90.406536
-      },
+      "latitude": 38.58464,
+      "longitude": -90.406536,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1436,10 +1312,8 @@
       "address": "14205 Manchester Rd, Manchester, MO 63011, USA",
       "street": "14205 Manchester Road",
       "zip": "63011",
-      "coordinates": {
-        "lat": 38.594049,
-        "lng": -90.50259
-      },
+      "latitude": 38.594049,
+      "longitude": -90.50259,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1458,10 +1332,8 @@
       "address": "Lafayette Ctr, Manchester, MO 63011, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.594995,
-        "lng": -90.520848
-      },
+      "latitude": 38.594995,
+      "longitude": -90.520848,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1480,10 +1352,8 @@
       "address": "2855 N Lindbergh Blvd, Maryland Heights, MO 63043, USA",
       "street": "2855 North Lindbergh Boulevard",
       "zip": "63043",
-      "coordinates": {
-        "lat": 38.712308,
-        "lng": -90.408505
-      },
+      "latitude": 38.712308,
+      "longitude": -90.408505,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1502,10 +1372,8 @@
       "address": "2458 Old Dorsett Rd, Maryland Heights, MO 63043, USA",
       "street": "2458 Old Dorsett Road",
       "zip": "63043",
-      "coordinates": {
-        "lat": 38.717152,
-        "lng": -90.445667
-      },
+      "latitude": 38.717152,
+      "longitude": -90.445667,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1524,10 +1392,8 @@
       "address": "806 W Main St, Mascoutah, IL 62258, USA",
       "street": "806 West Main Street",
       "zip": "62258",
-      "coordinates": {
-        "lat": 38.490826,
-        "lng": -89.80935
-      },
+      "latitude": 38.490826,
+      "longitude": -89.80935,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1546,10 +1412,8 @@
       "address": "90 Truman St, Newburg, MO 65550, USA",
       "street": "Truman Street",
       "zip": "",
-      "coordinates": {
-        "lat": 37.943731,
-        "lng": -91.88173
-      },
+      "latitude": 37.943731,
+      "longitude": -91.88173,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1568,10 +1432,8 @@
       "address": "2125 Fayette St, North Kansas City, MO 64116, USA",
       "street": "2125 Fayette Street",
       "zip": "64116",
-      "coordinates": {
-        "lat": 39.144973,
-        "lng": -94.574574
-      },
+      "latitude": 39.144973,
+      "longitude": -94.574574,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1590,10 +1452,8 @@
       "address": "900 TR Hughes Blvd, O'Fallon, MO 63366, USA",
       "street": "900 TR Hughes Boulevard",
       "zip": "63366",
-      "coordinates": {
-        "lat": 38.8202,
-        "lng": -90.681131
-      },
+      "latitude": 38.8202,
+      "longitude": -90.681131,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1612,10 +1472,8 @@
       "address": "6841 Hwy N, O'Fallon, MO 63368, USA",
       "street": "6841 MO N",
       "zip": "63368",
-      "coordinates": {
-        "lat": 38.756709,
-        "lng": -90.704508
-      },
+      "latitude": 38.756709,
+      "longitude": -90.704508,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1634,10 +1492,8 @@
       "address": "1001 Kingshighway, Rolla, MO 65401, USA",
       "street": "1001 Kingshighway",
       "zip": "65401",
-      "coordinates": {
-        "lat": 37.946603,
-        "lng": -91.777827
-      },
+      "latitude": 37.946603,
+      "longitude": -91.777827,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1656,10 +1512,8 @@
       "address": "1050 S Bishop Ave, Rolla, MO 65401, USA",
       "street": "1050 South Bishop Avenue",
       "zip": "65401",
-      "coordinates": {
-        "lat": 37.928446,
-        "lng": -91.781119
-      },
+      "latitude": 37.928446,
+      "longitude": -91.781119,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1678,10 +1532,8 @@
       "address": "1304 MO-72, Rolla, MO 65401, USA",
       "street": "1304 I 44 Bus;MO 72;HR 66",
       "zip": "65401",
-      "coordinates": {
-        "lat": 37.937277,
-        "lng": -91.752475
-      },
+      "latitude": 37.937277,
+      "longitude": -91.752475,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1700,10 +1552,8 @@
       "address": "605 W 4th St, Rolla, MO 65401, USA",
       "street": "605 West 4th Street",
       "zip": "65401",
-      "coordinates": {
-        "lat": 37.94673,
-        "lng": -91.776248
-      },
+      "latitude": 37.94673,
+      "longitude": -91.776248,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1722,10 +1572,8 @@
       "address": "3585 Veterans Memorial Pkwy, St Charles, MO 63303, USA",
       "street": "3585 Veterans Memorial Parkway",
       "zip": "63303",
-      "coordinates": {
-        "lat": 38.789198,
-        "lng": -90.552588
-      },
+      "latitude": 38.789198,
+      "longitude": -90.552588,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1744,10 +1592,8 @@
       "address": "900 San Miguel Dr, St Charles, MO 63303, USA",
       "street": "900 San Miguel Drive",
       "zip": "63303",
-      "coordinates": {
-        "lat": 38.78671,
-        "lng": -90.545967
-      },
+      "latitude": 38.78671,
+      "longitude": -90.545967,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1766,10 +1612,8 @@
       "address": "2021 Zumbehl Rd, St Charles, MO 63303, USA",
       "street": "2021 Zumbehl Road",
       "zip": "63303",
-      "coordinates": {
-        "lat": 38.782901,
-        "lng": -90.534842
-      },
+      "latitude": 38.782901,
+      "longitude": -90.534842,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1788,10 +1632,8 @@
       "address": "291 Stevenson Dr, Sparta, IL 62286, USA",
       "street": "291 Stevenson Drive",
       "zip": "62286",
-      "coordinates": {
-        "lat": 38.14678,
-        "lng": -89.704373
-      },
+      "latitude": 38.14678,
+      "longitude": -89.704373,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1810,10 +1652,8 @@
       "address": "9540 Watson Rd, St. Louis, MO 63126, USA",
       "street": "Watson Road",
       "zip": "63109",
-      "coordinates": {
-        "lat": 38.557111,
-        "lng": -90.378808
-      },
+      "latitude": 38.557111,
+      "longitude": -90.378808,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1832,10 +1672,8 @@
       "address": "10195 Corporate Square Dr, St. Louis, MO 63132, USA",
       "street": "10195 Corporate Square Drive",
       "zip": "63132",
-      "coordinates": {
-        "lat": 38.680319,
-        "lng": -90.402957
-      },
+      "latitude": 38.680319,
+      "longitude": -90.402957,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1854,10 +1692,8 @@
       "address": "10633 New Halls Ferry Road, St. Louis, MO 63136, USA",
       "street": "10633 New Halls Ferry Road",
       "zip": "63136",
-      "coordinates": {
-        "lat": 38.765893,
-        "lng": -90.261491
-      },
+      "latitude": 38.765893,
+      "longitude": -90.261491,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1876,10 +1712,8 @@
       "address": "12095 Benham Rd, St. Louis, MO 63138, USA",
       "street": "12095 Benham Road",
       "zip": "63138",
-      "coordinates": {
-        "lat": 38.795554,
-        "lng": -90.231135
-      },
+      "latitude": 38.795554,
+      "longitude": -90.231135,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1898,10 +1732,8 @@
       "address": "1212 Fee Fee Rd, St. Louis, MO 63146, USA",
       "street": "Fee Fee Road",
       "zip": "63146",
-      "coordinates": {
-        "lat": 38.68142,
-        "lng": -90.476706
-      },
+      "latitude": 38.68142,
+      "longitude": -90.476706,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1920,10 +1752,8 @@
       "address": "2037 Chablis Dr, St. Louis, MO 63146, USA",
       "street": "2037 Chablis Drive",
       "zip": "63146",
-      "coordinates": {
-        "lat": 38.697922,
-        "lng": -90.46557
-      },
+      "latitude": 38.697922,
+      "longitude": -90.46557,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1942,10 +1772,8 @@
       "address": "2930 Telegraph Rd, St. Louis, MO 63125, USA",
       "street": "2930 Telegraph Road",
       "zip": "63125",
-      "coordinates": {
-        "lat": 38.503436,
-        "lng": -90.296504
-      },
+      "latitude": 38.503436,
+      "longitude": -90.296504,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1964,10 +1792,8 @@
       "address": "3717 Tree Ct Dr, St. Louis, MO 63122, USA",
       "street": "Tree Court Drive",
       "zip": "63029",
-      "coordinates": {
-        "lat": 38.566255,
-        "lng": -90.462533
-      },
+      "latitude": 38.566255,
+      "longitude": -90.462533,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -1986,10 +1812,8 @@
       "address": "4305 Butler Hill Rd, St. Louis, MO 63128, USA",
       "street": "4305 Butler Hill Road",
       "zip": "63128",
-      "coordinates": {
-        "lat": 38.486835,
-        "lng": -90.356228
-      },
+      "latitude": 38.486835,
+      "longitude": -90.356228,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2008,10 +1832,8 @@
       "address": "4646 S Lindbergh Blvd, St. Louis, MO 63126, USA",
       "street": "4646 South Lindbergh Boulevard",
       "zip": "63127",
-      "coordinates": {
-        "lat": 38.529991,
-        "lng": -90.380916
-      },
+      "latitude": 38.529991,
+      "longitude": -90.380916,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2030,10 +1852,8 @@
       "address": "4660 Chippewa St, St. Louis, MO 63116, USA",
       "street": "4660 Chippewa Street",
       "zip": "63116",
-      "coordinates": {
-        "lat": 38.589922,
-        "lng": -90.272316
-      },
+      "latitude": 38.589922,
+      "longitude": -90.272316,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2052,10 +1872,8 @@
       "address": "5630 Telegraph Rd, St. Louis, MO 63129, USA",
       "street": "5630 Telegraph Road",
       "zip": "63129",
-      "coordinates": {
-        "lat": 38.467717,
-        "lng": -90.305049
-      },
+      "latitude": 38.467717,
+      "longitude": -90.305049,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2074,10 +1892,8 @@
       "address": "981 S Skinker Blvd, St. Louis, MO 63117, USA",
       "street": "981 South Skinker Boulevard",
       "zip": "63117",
-      "coordinates": {
-        "lat": 38.633089,
-        "lng": -90.304718
-      },
+      "latitude": 38.633089,
+      "longitude": -90.304718,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2096,10 +1912,8 @@
       "address": "MacKenzie Rd, St. Louis, MO, USA",
       "street": "Mackenzie Road",
       "zip": "63123",
-      "coordinates": {
-        "lat": 38.574427,
-        "lng": -90.319491
-      },
+      "latitude": 38.574427,
+      "longitude": -90.319491,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2118,10 +1932,8 @@
       "address": "710 Edwardsville Rd, Troy, IL 62294, USA",
       "street": "710 Edwardsville Road",
       "zip": "62294",
-      "coordinates": {
-        "lat": 38.731912,
-        "lng": -89.90455
-      },
+      "latitude": 38.731912,
+      "longitude": -89.90455,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2140,10 +1952,8 @@
       "address": "Union, MO 63084, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.450052,
-        "lng": -91.008476
-      },
+      "latitude": 38.450052,
+      "longitude": -91.008476,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2162,10 +1972,8 @@
       "address": "14010 US-67, West Alton, MO 63386, USA",
       "street": "14010 US 67",
       "zip": "63386",
-      "coordinates": {
-        "lat": 38.861729,
-        "lng": -90.22225
-      },
+      "latitude": 38.861729,
+      "longitude": -90.22225,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2184,10 +1992,8 @@
       "address": "1927 US Hwy 63, Westphalia, MO 65085, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.440557,
-        "lng": -92.001321
-      },
+      "latitude": 38.440557,
+      "longitude": -92.001321,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2206,10 +2012,8 @@
       "address": "300 MO-109, Wildwood, MO 63005, USA",
       "street": "300 MO 109",
       "zip": "63005",
-      "coordinates": {
-        "lat": 38.642917,
-        "lng": -90.670745
-      },
+      "latitude": 38.642917,
+      "longitude": -90.670745,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -2228,10 +2032,8 @@
       "address": "1719 Homer M Adams Pkwy, Alton, IL 62002, USA",
       "street": "1719 Homer M Adams Parkway",
       "zip": "62002",
-      "coordinates": {
-        "lat": 38.916716,
-        "lng": -90.16524
-      },
+      "latitude": 38.916716,
+      "longitude": -90.16524,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2252,10 +2054,8 @@
       "address": "3616 Richardson Square Way, Arnold, MO 63010, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.409839,
-        "lng": -90.383769
-      },
+      "latitude": 38.409839,
+      "longitude": -90.383769,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2276,10 +2076,8 @@
       "address": "14373 Manchester Rd, Ballwin, MO 63011, USA",
       "street": "Manchester Road",
       "zip": "63011",
-      "coordinates": {
-        "lat": 38.594244,
-        "lng": -90.513895
-      },
+      "latitude": 38.594244,
+      "longitude": -90.513895,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2300,10 +2098,8 @@
       "address": "5720 N Belt W, Belleville, IL 62226, USA",
       "street": "5720 North Belt West",
       "zip": "62226",
-      "coordinates": {
-        "lat": 38.540877,
-        "lng": -90.035041
-      },
+      "latitude": 38.540877,
+      "longitude": -90.035041,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2324,10 +2120,8 @@
       "address": "9116 Manchester Rd, Brentwood, MO 63144, USA",
       "street": "9116 Manchester Road",
       "zip": "63144",
-      "coordinates": {
-        "lat": 38.611937,
-        "lng": -90.355718
-      },
+      "latitude": 38.611937,
+      "longitude": -90.355718,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2348,10 +2142,8 @@
       "address": "5665 St.Louis Mills Blvd, Bridgeton, MO 63044, USA",
       "street": "5665 St Louis Mills Boulevard",
       "zip": "63044",
-      "coordinates": {
-        "lat": 38.78134,
-        "lng": -90.422175
-      },
+      "latitude": 38.78134,
+      "longitude": -90.422175,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2372,10 +2164,8 @@
       "address": "250 S Silver Springs Rd, Cape Girardeau, MO 63703, USA",
       "street": "250 South Silver Springs Road",
       "zip": "63703",
-      "coordinates": {
-        "lat": 37.298374,
-        "lng": -89.565496
-      },
+      "latitude": 37.298374,
+      "longitude": -89.565496,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2396,10 +2186,8 @@
       "address": "1145 E Main St, Carbondale, IL 62901, USA",
       "street": "1145 East Main Street",
       "zip": "62901",
-      "coordinates": {
-        "lat": 37.728147,
-        "lng": -89.197265
-      },
+      "latitude": 37.728147,
+      "longitude": -89.197265,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2420,10 +2208,8 @@
       "address": "1305 W Broadway, Centralia, IL 62801, USA",
       "street": "1305 West Broadway",
       "zip": "62801",
-      "coordinates": {
-        "lat": 38.530087,
-        "lng": -89.157651
-      },
+      "latitude": 38.530087,
+      "longitude": -89.157651,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2444,10 +2230,8 @@
       "address": "11 Forum Shopping Center, Chesterfield, MO 63017, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.680827,
-        "lng": -90.499394
-      },
+      "latitude": 38.680827,
+      "longitude": -90.499394,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2468,10 +2252,8 @@
       "address": "14808 Clayton Rd, Chesterfield, MO 63017, USA",
       "street": "14808 Clayton Road",
       "zip": "63017",
-      "coordinates": {
-        "lat": 38.616786,
-        "lng": -90.537212
-      },
+      "latitude": 38.616786,
+      "longitude": -90.537212,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2492,10 +2274,8 @@
       "address": "17355 Edison Ave, Chesterfield, MO 63005, USA",
       "street": "17355 Edison Avenue",
       "zip": "63005",
-      "coordinates": {
-        "lat": 38.664585,
-        "lng": -90.603973
-      },
+      "latitude": 38.664585,
+      "longitude": -90.603973,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2516,10 +2296,8 @@
       "address": "1255 N Truman Blvd, Crystal City, MO 63019, USA",
       "street": "1255 North Truman Boulevard",
       "zip": "63019",
-      "coordinates": {
-        "lat": 38.233163,
-        "lng": -90.393795
-      },
+      "latitude": 38.233163,
+      "longitude": -90.393795,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2540,10 +2318,8 @@
       "address": "103 W Washington St, Cuba, MO 65453, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.062831,
-        "lng": -91.404014
-      },
+      "latitude": 38.062831,
+      "longitude": -91.404014,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2564,10 +2340,8 @@
       "address": "125 Commerce Ln, Fairview Heights, IL 62208, USA",
       "street": "125 Commerce Lane",
       "zip": "62208",
-      "coordinates": {
-        "lat": 38.598712,
-        "lng": -89.990791
-      },
+      "latitude": 38.598712,
+      "longitude": -89.990791,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2588,10 +2362,8 @@
       "address": "695 Potosi St, Farmington, MO 63640, USA",
       "street": "695 Potosi Street",
       "zip": "63640",
-      "coordinates": {
-        "lat": 37.790978,
-        "lng": -90.431793
-      },
+      "latitude": 37.790978,
+      "longitude": -90.431793,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2612,10 +2384,8 @@
       "address": "99 Old Sugar Creek Rd, Fenton, MO 63026, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.489882,
-        "lng": -90.485709
-      },
+      "latitude": 38.489882,
+      "longitude": -90.485709,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2636,10 +2406,8 @@
       "address": "10764 W Florissant Ave, Ferguson, MO 63135, USA",
       "street": "10764 West Florissant Avenue",
       "zip": "63136",
-      "coordinates": {
-        "lat": 38.765662,
-        "lng": -90.283638
-      },
+      "latitude": 38.765662,
+      "longitude": -90.283638,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2660,10 +2428,8 @@
       "address": "445 N Hwy 67, Florissant, MO 63031, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.797911,
-        "lng": -90.339256
-      },
+      "latitude": 38.797911,
+      "longitude": -90.339256,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2684,10 +2450,8 @@
       "address": "2055 N Bluff St, Fulton, MO 65251, USA",
       "street": "2055 North Bluff Street",
       "zip": "65251",
-      "coordinates": {
-        "lat": 38.869147,
-        "lng": -91.944323
-      },
+      "latitude": 38.869147,
+      "longitude": -91.944323,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2708,10 +2472,8 @@
       "address": "2101 N Bluff St, Fulton, MO 65251, USA",
       "street": "2101 North Bluff Street",
       "zip": "65251",
-      "coordinates": {
-        "lat": 38.869721,
-        "lng": -91.94417
-      },
+      "latitude": 38.869721,
+      "longitude": -91.94417,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2732,10 +2494,8 @@
       "address": "210 Jct Dr W, Glen Carbon, IL 62034, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.776699,
-        "lng": -89.951922
-      },
+      "latitude": 38.776699,
+      "longitude": -89.951922,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2756,10 +2516,8 @@
       "address": "3675 Nameoki Rd, Granite City, IL 62040, USA",
       "street": "3675 Nameoki Road",
       "zip": "62040",
-      "coordinates": {
-        "lat": 38.727292,
-        "lng": -90.124036
-      },
+      "latitude": 38.727292,
+      "longitude": -90.124036,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2780,10 +2538,8 @@
       "address": "3503 Stardust Dr, Hannibal, MO 63401, USA",
       "street": "Stardust Drive",
       "zip": "63401",
-      "coordinates": {
-        "lat": 39.722092,
-        "lng": -91.39679
-      },
+      "latitude": 39.722092,
+      "longitude": -91.39679,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2804,10 +2560,8 @@
       "address": "913 Robert Raymond Dr, Lake St Louis, MO 63367, USA",
       "street": "913 Robert Raymond Drive",
       "zip": "63367",
-      "coordinates": {
-        "lat": 38.766605,
-        "lng": -90.784503
-      },
+      "latitude": 38.766605,
+      "longitude": -90.784503,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2828,10 +2582,8 @@
       "address": "Marion, IL, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.730605,
-        "lng": -88.933126
-      },
+      "latitude": 37.730605,
+      "longitude": -88.933126,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2852,10 +2604,8 @@
       "address": "1101 W Monroe St, Mexico, MO 65265, USA",
       "street": "1101 West Monroe Street",
       "zip": "65265",
-      "coordinates": {
-        "lat": 39.174604,
-        "lng": -91.895724
-      },
+      "latitude": 39.174604,
+      "longitude": -91.895724,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2876,10 +2626,8 @@
       "address": "US-54, Mexico, MO, USA",
       "street": "US 54",
       "zip": "",
-      "coordinates": {
-        "lat": 39.163325,
-        "lng": -91.843234
-      },
+      "latitude": 39.163325,
+      "longitude": -91.843234,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2900,10 +2648,8 @@
       "address": "403 1st St, New London, MO 63459, USA",
       "street": "403 1st Street",
       "zip": "63459",
-      "coordinates": {
-        "lat": 39.588168,
-        "lng": -91.405492
-      },
+      "latitude": 39.588168,
+      "longitude": -91.405492,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2924,10 +2670,8 @@
       "address": "1210 State Hwy K, O'Fallon, MO 63366, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.795624,
-        "lng": -90.698547
-      },
+      "latitude": 38.795624,
+      "longitude": -90.698547,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2948,10 +2692,8 @@
       "address": "1811 North Hwy, Pilot Grove, MO 65276, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.861109,
-        "lng": -92.940043
-      },
+      "latitude": 38.861109,
+      "longitude": -92.940043,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2972,10 +2714,8 @@
       "address": "1304 Forum Dr, Rolla, MO 65401, USA",
       "street": "1304 Forum Drive",
       "zip": "65401",
-      "coordinates": {
-        "lat": 37.953359,
-        "lng": -91.750802
-      },
+      "latitude": 37.953359,
+      "longitude": -91.750802,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2996,10 +2736,8 @@
       "address": "2420 W Clay St, St Charles, MO 63301, USA",
       "street": "2420 West Clay Street",
       "zip": "63303",
-      "coordinates": {
-        "lat": 38.784819,
-        "lng": -90.510482
-      },
+      "latitude": 38.784819,
+      "longitude": -90.510482,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3020,10 +2758,8 @@
       "address": "1111 W James Blvd, St James, MO 65559, USA",
       "street": "West James Boulevard",
       "zip": "65559",
-      "coordinates": {
-        "lat": 37.9954,
-        "lng": -91.631527
-      },
+      "latitude": 37.9954,
+      "longitude": -91.631527,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3044,10 +2780,8 @@
       "address": "319 N Jefferson St, St James, MO 65559, USA",
       "street": "319 North Jefferson Street",
       "zip": "65559",
-      "coordinates": {
-        "lat": 37.99956,
-        "lng": -91.617725
-      },
+      "latitude": 37.99956,
+      "longitude": -91.617725,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3068,10 +2802,8 @@
       "address": "10125 Watson Rd, St. Louis, MO 63127, USA",
       "street": "10125 Watson Road",
       "zip": "63127",
-      "coordinates": {
-        "lat": 38.556423,
-        "lng": -90.399026
-      },
+      "latitude": 38.556423,
+      "longitude": -90.399026,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3092,10 +2824,8 @@
       "address": "10570 Baptist Church Rd, St. Louis, MO 63123, USA",
       "street": "10570 Baptist Church Road",
       "zip": "63128",
-      "coordinates": {
-        "lat": 38.524015,
-        "lng": -90.360567
-      },
+      "latitude": 38.524015,
+      "longitude": -90.360567,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3116,10 +2846,8 @@
       "address": "1727 Locust St, St. Louis, MO 63103, USA",
       "street": "1727 Locust Street",
       "zip": "63103",
-      "coordinates": {
-        "lat": 38.632527,
-        "lng": -90.204868
-      },
+      "latitude": 38.632527,
+      "longitude": -90.204868,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3140,10 +2868,8 @@
       "address": "18 S County Center Way, St. Louis, MO 63129, USA",
       "street": "18 South County Center Way",
       "zip": "63129",
-      "coordinates": {
-        "lat": 38.506204,
-        "lng": -90.331509
-      },
+      "latitude": 38.506204,
+      "longitude": -90.331509,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3164,10 +2890,8 @@
       "address": "4200 Forest Park Ave, St. Louis, MO 63108, USA",
       "street": "4200 Forest Park Avenue",
       "zip": "63108",
-      "coordinates": {
-        "lat": 38.635763,
-        "lng": -90.249621
-      },
+      "latitude": 38.635763,
+      "longitude": -90.249621,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3188,10 +2912,8 @@
       "address": "4271 Bayless Ave, St. Louis, MO 63123, USA",
       "street": "4271 Bayless Avenue",
       "zip": "63123",
-      "coordinates": {
-        "lat": 38.548652,
-        "lng": -90.292085
-      },
+      "latitude": 38.548652,
+      "longitude": -90.292085,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3212,10 +2934,8 @@
       "address": "3551 Harvester Rd, St Peters, MO 63303, USA",
       "street": "3551 Harvester Road",
       "zip": "63303",
-      "coordinates": {
-        "lat": 38.747601,
-        "lng": -90.578961
-      },
+      "latitude": 38.747601,
+      "longitude": -90.578961,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3236,10 +2956,8 @@
       "address": "620 Mid Rivers Mall Dr, St Peters, MO 63376, USA",
       "street": "620 Mid Rivers Mall Drive",
       "zip": "63376",
-      "coordinates": {
-        "lat": 38.785943,
-        "lng": -90.624932
-      },
+      "latitude": 38.785943,
+      "longitude": -90.624932,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3260,10 +2978,8 @@
       "address": "47 MO-8, Steelville, MO 65565, USA",
       "street": "47 MO 8",
       "zip": "65565",
-      "coordinates": {
-        "lat": 37.96955,
-        "lng": -91.345795
-      },
+      "latitude": 37.96955,
+      "longitude": -91.345795,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3284,10 +3000,8 @@
       "address": "7531 Olive Blvd, University City, MO 63130, USA",
       "street": "7531 Olive Boulevard",
       "zip": "63130",
-      "coordinates": {
-        "lat": 38.672266,
-        "lng": -90.333027
-      },
+      "latitude": 38.672266,
+      "longitude": -90.333027,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3308,10 +3022,8 @@
       "address": "1295 US-54, Vandalia, MO 63382, USA",
       "street": "1295 US 54",
       "zip": "63382",
-      "coordinates": {
-        "lat": 39.317649,
-        "lng": -91.469396
-      },
+      "latitude": 39.317649,
+      "longitude": -91.469396,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3332,10 +3044,8 @@
       "address": "295 US-54, Vandalia, MO 63382, USA",
       "street": "295 US 54",
       "zip": "63382",
-      "coordinates": {
-        "lat": 39.309998,
-        "lng": -91.490167
-      },
+      "latitude": 39.309998,
+      "longitude": -91.490167,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3356,10 +3066,8 @@
       "address": "2030 Phoenix Center Dr, Washington, MO 63090, USA",
       "street": "2030 Phoenix Center Drive",
       "zip": "63090",
-      "coordinates": {
-        "lat": 38.537355,
-        "lng": -90.984978
-      },
+      "latitude": 38.537355,
+      "longitude": -90.984978,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -3380,10 +3088,8 @@
       "address": "13986 Manchester Rd, Ballwin, MO 63021, USA",
       "street": "13986 Manchester Road",
       "zip": "63011",
-      "coordinates": {
-        "lat": 38.595002,
-        "lng": -90.489736
-      },
+      "latitude": 38.595002,
+      "longitude": -90.489736,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3403,10 +3109,8 @@
       "address": "625 Gravois Rd, Fenton, MO 63026, USA",
       "street": "625 Gravois Road",
       "zip": "63026",
-      "coordinates": {
-        "lat": 38.514297,
-        "lng": -90.442056
-      },
+      "latitude": 38.514297,
+      "longitude": -90.442056,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3426,10 +3130,8 @@
       "address": "2200 N Hwy 67, Florissant, MO 63033, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.801516,
-        "lng": -90.311104
-      },
+      "latitude": 38.801516,
+      "longitude": -90.311104,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3449,10 +3151,8 @@
       "address": "10585 St Charles Rock Rd, St Ann, MO 63074, USA",
       "street": "10585 Saint Charles Rock Road",
       "zip": "63074",
-      "coordinates": {
-        "lat": 38.731353,
-        "lng": -90.386869
-      },
+      "latitude": 38.731353,
+      "longitude": -90.386869,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3472,10 +3172,8 @@
       "address": "1069 Regency Pkwy, St Charles, MO 63303, USA",
       "street": "1069 Regency Parkway",
       "zip": "63303",
-      "coordinates": {
-        "lat": 38.784081,
-        "lng": -90.529881
-      },
+      "latitude": 38.784081,
+      "longitude": -90.529881,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3495,10 +3193,8 @@
       "address": "11015 Olive Blvd, St. Louis, MO 63141, USA",
       "street": "11015 Olive Boulevard",
       "zip": "63141",
-      "coordinates": {
-        "lat": 38.674034,
-        "lng": -90.423172
-      },
+      "latitude": 38.674034,
+      "longitude": -90.423172,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3518,10 +3214,8 @@
       "address": "10052 W Florissant Ave, St. Louis, MO 63136, USA",
       "street": "West Florissant Avenue",
       "zip": "63136",
-      "coordinates": {
-        "lat": 38.750369,
-        "lng": -90.279893
-      },
+      "latitude": 38.750369,
+      "longitude": -90.279893,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3541,10 +3235,8 @@
       "address": "3924 Lemay Ferry Rd, St. Louis, MO 63125, USA",
       "street": "3924 Lemay Ferry Road",
       "zip": "63125",
-      "coordinates": {
-        "lat": 38.505578,
-        "lng": -90.324563
-      },
+      "latitude": 38.505578,
+      "longitude": -90.324563,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3564,10 +3256,8 @@
       "address": "4928 Christy Blvd, St. Louis, MO 63116, USA",
       "street": "4928 Christy Boulevard",
       "zip": "63116",
-      "coordinates": {
-        "lat": 38.585372,
-        "lng": -90.273816
-      },
+      "latitude": 38.585372,
+      "longitude": -90.273816,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -3587,10 +3277,8 @@
       "address": "7444 Holmes Rd, Kansas City, MO 64131, USA",
       "street": "7444 Holmes Road",
       "zip": "64131",
-      "coordinates": {
-        "lat": 38.991981,
-        "lng": -94.58062
-      },
+      "latitude": 38.991981,
+      "longitude": -94.58062,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3611,10 +3299,8 @@
       "address": "8700 Lackman Rd, Kansas City, MO 64112, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.035705,
-        "lng": -94.594981
-      },
+      "latitude": 39.035705,
+      "longitude": -94.594981,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3635,10 +3321,8 @@
       "address": "705 E 75th St, Kansas City, MO 64131, USA",
       "street": "705 East 75th Street",
       "zip": "64114",
-      "coordinates": {
-        "lat": 38.991405,
-        "lng": -94.57972
-      },
+      "latitude": 38.991405,
+      "longitude": -94.57972,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3659,10 +3343,8 @@
       "address": "1401 E 63rd St, Kansas City, MO 64110, USA",
       "street": "1401 East 63rd Street",
       "zip": "64110",
-      "coordinates": {
-        "lat": 39.012939,
-        "lng": -94.570453
-      },
+      "latitude": 39.012939,
+      "longitude": -94.570453,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3683,10 +3365,8 @@
       "address": "2705 NW Platte Dr, Riverside, MO 64150, USA",
       "street": "Northwest Platte Road",
       "zip": "64150",
-      "coordinates": {
-        "lat": 39.171461,
-        "lng": -94.611647
-      },
+      "latitude": 39.171461,
+      "longitude": -94.611647,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
@@ -3707,18 +3387,16 @@
       "address": "1709 Walnut St, Kansas City, MO 64108",
       "street": "1709 Walnut St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.09299605,
+      "longitude": -94.58213901,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-of-greater-kansas-city",
-      "lastUpdated": "24/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-of-greater-kansas-city/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26574",
@@ -3731,18 +3409,16 @@
       "address": "Family Store & Donation Center, 1301 E 10th St, Kansas City, MO 64108",
       "street": "Family Store & Donation Center",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.462337095603,
-        "lng": -122.334870950623
-      },
+      "latitude": 39.10188673,
+      "longitude": -94.56697877,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
-      "lastUpdated": "25/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26575",
@@ -3755,18 +3431,16 @@
       "address": "800 E 18th St, Kansas City, MO 64108",
       "street": "800 E 18th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.488421728605,
-        "lng": -122.346878352673
-      },
+      "latitude": 39.0920799,
+      "longitude": -94.57391129,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-of-western-mo-&-eastern-ks",
-      "lastUpdated": "26/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-of-western-mo-&-eastern-ks/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26576",
@@ -3779,18 +3453,16 @@
       "address": "2605 W 43rd Ave, Kansas City, MO 64108",
       "street": "2605 W 43rd Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.049923,
+      "longitude": -94.61504,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin",
-      "lastUpdated": "27/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26577",
@@ -3803,18 +3475,16 @@
       "address": "3922 Troost Ave, Kansas City, MO 64108",
       "street": "3922 Troost Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.462337095603,
-        "lng": -122.334870950623
-      },
+      "latitude": 39.0553664,
+      "longitude": -94.5724176,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/troost39-thrift-store",
-      "lastUpdated": "28/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/troost39-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26578",
@@ -3827,18 +3497,16 @@
       "address": "1351 E 10th St, Kansas City, MO 64108",
       "street": "1351 E 10th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 41.499816048741,
-        "lng": -81.591546301069
-      },
+      "latitude": 39.100898,
+      "longitude": -94.565796,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-adult-rehabilitation-center",
-      "lastUpdated": "29/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-adult-rehabilitation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26579",
@@ -3851,18 +3519,16 @@
       "address": "1722 Oak St, Kansas City, MO 64108",
       "street": "1722 Oak St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 41.500995608536,
-        "lng": -81.592574108844
-      },
+      "latitude": 39.0924906,
+      "longitude": -94.57920975,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/arizona-trading-company",
-      "lastUpdated": "30/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/arizona-trading-company/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26580",
@@ -3875,18 +3541,16 @@
       "address": "3637 Broadway Blvd, Kansas City, MO 64108",
       "street": "3637 Broadway Blvd",
       "zip": "64108",
-      "coordinates": {
-        "lat": 41.519923265293,
-        "lng": -81.620774471707
-      },
+      "latitude": 39.0607849,
+      "longitude": -94.5899396,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/salvation-army-of-kansas-and-western-missouri",
-      "lastUpdated": "31/08/2029"
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-of-kansas-and-western-missouri/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26581",
@@ -3899,18 +3563,16 @@
       "address": "1700 E 8th St, Kansas City, MO 64108",
       "street": "1700 E 8th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 41.606847114656,
-        "lng": -81.52676944586
-      },
+      "latitude": 39.10413095,
+      "longitude": -94.56117949,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-(community-assistance)",
-      "lastUpdated": "1/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-(community-assistance)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26582",
@@ -3923,18 +3585,16 @@
       "address": "1110 E Truman Rd, Kansas City, MO 64108",
       "street": "1110 E Truman Rd",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.095635,
+      "longitude": -94.569672,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/salvation-army-warehouse",
-      "lastUpdated": "2/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-warehouse/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26583",
@@ -3947,18 +3607,16 @@
       "address": "1520 Cherry St, Kansas City, MO 64108",
       "street": "1520 Cherry St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 41.597938561831,
-        "lng": -81.52673128913
-      },
+      "latitude": 39.0947672,
+      "longitude": -94.57681177,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/shelter-kc",
-      "lastUpdated": "3/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/shelter-kc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26584",
@@ -3971,18 +3629,16 @@
       "address": "1516 Prospect Ave, Kansas City, MO 64108",
       "street": "1516 Prospect Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.842511767315,
-        "lng": -122.251724466094
-      },
+      "latitude": 39.09440704,
+      "longitude": -94.55173686,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/uplift-organization-inc",
-      "lastUpdated": "4/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/uplift-organization-inc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26585",
@@ -3995,18 +3651,16 @@
       "address": "207 Linwood Blvd, Kansas City, MO 64108",
       "street": "207 Linwood Blvd",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.841344800926,
-        "lng": -122.251613401564
-      },
+      "latitude": 39.06822106,
+      "longitude": -94.58117339,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/redemptorist-social-services-center",
-      "lastUpdated": "5/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/redemptorist-social-services-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26586",
@@ -4019,18 +3673,16 @@
       "address": "300 Linwood Blvd, Kansas City, MO 64108",
       "street": "300 Linwood Blvd",
       "zip": "64108",
-      "coordinates": {
-        "lat": 41.548397699121,
-        "lng": -81.510185498262
-      },
+      "latitude": 39.06778395,
+      "longitude": -94.58920216,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/connections-to-success",
-      "lastUpdated": "6/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/connections-to-success/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26587",
@@ -4043,18 +3695,16 @@
       "address": "1100 E 11th St, Kansas City, MO 64108",
       "street": "1100 E 11th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.811982676836,
-        "lng": -122.247803553543
-      },
+      "latitude": 39.10111805,
+      "longitude": -94.56944331,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-administration",
-      "lastUpdated": "7/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-administration/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26588",
@@ -4067,18 +3717,16 @@
       "address": "413 E 18th St, Kansas City, MO 64108",
       "street": "413 E 18th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.0914955,
+      "longitude": -94.5783255,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/do-good-co.",
-      "lastUpdated": "8/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/do-good-co./",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26589",
@@ -4091,18 +3739,16 @@
       "address": "3630 Main St, Kansas City, MO 64108",
       "street": "3630 Main St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.794771339327,
-        "lng": -122.269686820321
-      },
+      "latitude": 39.060882,
+      "longitude": -94.5863757,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-midtown",
-      "lastUpdated": "9/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-midtown/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26590",
@@ -4115,18 +3761,16 @@
       "address": "2300 Main St, Kansas City, MO 64108",
       "street": "2300 Main St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.08692532,
+      "longitude": -94.58368481,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/make-a-wish-car-donation",
-      "lastUpdated": "10/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/make-a-wish-car-donation/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26591",
@@ -4139,18 +3783,16 @@
       "address": "705 Virginia Ave, Kansas City, MO 64108",
       "street": "705 Virginia Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.834298424622,
-        "lng": -122.263242969033
-      },
+      "latitude": 39.10409799,
+      "longitude": -94.56591616,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hope-faith---homeless-assistance-campus",
-      "lastUpdated": "11/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/hope-faith---homeless-assistance-campus/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26592",
@@ -4163,18 +3805,16 @@
       "address": "3939 N Cleveland Ave, Kansas City, MO 64108",
       "street": "3939 N Cleveland Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.16557378,
+      "longitude": -94.53527344,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/northland-clothing-center",
-      "lastUpdated": "12/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/northland-clothing-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26593",
@@ -4187,18 +3827,16 @@
       "address": "736 Shawnee Ave, Kansas City, MO 64108",
       "street": "736 Shawnee Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.841312661189,
-        "lng": -122.25874261472
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/cross-lines-community-outreach",
-      "lastUpdated": "13/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/cross-lines-community-outreach/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26594",
@@ -4211,18 +3849,16 @@
       "address": "1756 Campbell St, Kansas City, MO 64108",
       "street": "1756 Campbell St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.09217357,
+      "longitude": -94.572999,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill",
-      "lastUpdated": "14/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26595",
@@ -4235,18 +3871,16 @@
       "address": "3936 Troost Ave, Kansas City, MO 64108",
       "street": "3936 Troost Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.793794643444,
-        "lng": -122.222349065377
-      },
+      "latitude": 39.054823,
+      "longitude": -94.5724729,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center",
-      "lastUpdated": "15/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26596",
@@ -4259,18 +3893,16 @@
       "address": "3757 Independence Ave, Kansas City, MO 64108",
       "street": "3757 Independence Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.740607070755,
-        "lng": -122.349042106393
-      },
+      "latitude": 39.1057724,
+      "longitude": -94.53800642,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/buy-the-pound-thrift-store",
-      "lastUpdated": "16/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/buy-the-pound-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26597",
@@ -4283,18 +3915,16 @@
       "address": "4115 Pennsylvania Ave, Kansas City, MO 64108",
       "street": "4115 Pennsylvania Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.05241408,
+      "longitude": -94.59098758,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/clothz-minded",
-      "lastUpdated": "17/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/clothz-minded/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26598",
@@ -4307,18 +3937,16 @@
       "address": "1310 Wabash Ave, Kansas City, MO 64108",
       "street": "1310 Wabash Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.723265974306,
-        "lng": -122.348052200655
-      },
+      "latitude": 39.09734743,
+      "longitude": -94.55269996,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-family-center",
-      "lastUpdated": "18/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-family-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26599",
@@ -4331,18 +3959,16 @@
       "address": "600 Minnesota Ave, Kansas City, MO 64108",
       "street": "600 Minnesota Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 37.740850712102,
-        "lng": -122.202380972297
-      },
+      "latitude": 39.105942,
+      "longitude": -94.58082762,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/catholic-charities-of-ne-kansas---wyandotte-county-office",
-      "lastUpdated": "19/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/catholic-charities-of-ne-kansas---wyandotte-county-office/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26600",
@@ -4355,18 +3981,16 @@
       "address": "3900 Pennsylvania Ave #2940, Kansas City, MO 64108",
       "street": "3900 Pennsylvania Ave #2940",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.59201993775,
-        "lng": -122.326054737911
-      },
+      "latitude": 39.0563226,
+      "longitude": -94.5934375,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/boomerang",
-      "lastUpdated": "20/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/boomerang/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26601",
@@ -4379,18 +4003,16 @@
       "address": "601 NW 68th St, Kansas City, MO 64108",
       "street": "601 NW 68th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.217335,
+      "longitude": -94.588039,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
-      "lastUpdated": "21/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26602",
@@ -4403,18 +4025,16 @@
       "address": "718 Shawnee Ave, Kansas City, MO 64108",
       "street": "718 Shawnee Ave",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.594274679393,
-        "lng": -122.328962145142
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/cross-lines-community-kitchen",
-      "lastUpdated": "22/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/cross-lines-community-kitchen/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26603",
@@ -4427,18 +4047,16 @@
       "address": "1413 Liberty St, Kansas City, MO 64108",
       "street": "1413 Liberty St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.466020500708,
-        "lng": -122.336948126911
-      },
+      "latitude": 39.097421,
+      "longitude": -94.60221883,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/salvation-army",
-      "lastUpdated": "23/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26604",
@@ -4451,18 +4069,16 @@
       "address": "1108 E 10th St, Kansas City, MO 64108",
       "street": "1108 E 10th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.466778902671,
-        "lng": -122.359772459494
-      },
+      "latitude": 39.10209195,
+      "longitude": -94.56941469,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-(men's-shelter)",
-      "lastUpdated": "24/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/city-union-mission-(men's-shelter)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26605",
@@ -4475,18 +4091,16 @@
       "address": "3535 Broadway Blvd, Kansas City, MO 64108",
       "street": "3535 Broadway Blvd",
       "zip": "64108",
-      "coordinates": {
-        "lat": 47.477963317661,
-        "lng": -122.292574023967
-      },
+      "latitude": 39.0627793,
+      "longitude": -94.5899861,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/wyco-vintage",
-      "lastUpdated": "25/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/wyco-vintage/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26606",
@@ -4499,18 +4113,16 @@
       "address": "3013 E 9th St, Kansas City, MO 64108",
       "street": "3013 E 9th St",
       "zip": "64108",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.102095,
+      "longitude": -94.546074,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/salvation-army---eastside-corps",
-      "lastUpdated": "26/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army---eastside-corps/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26607",
@@ -4523,18 +4135,16 @@
       "address": "712 E 31st St, Kansas City, MO 64109",
       "street": "712 E 31st St",
       "zip": "64109",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.07077108,
+      "longitude": -94.57627973,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/true-light-family-resource-center",
-      "lastUpdated": "27/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/true-light-family-resource-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26608",
@@ -4547,18 +4157,16 @@
       "address": "2420 E, Linwood Blvd, Kansas City, MO 64109",
       "street": "2420 E",
       "zip": "64109",
-      "coordinates": {
-        "lat": 47.753816689082,
-        "lng": -122.315948821368
-      },
+      "latitude": 39.06820588,
+      "longitude": -94.55489835,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/kmd-foundation,inc.",
-      "lastUpdated": "28/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/kmd-foundation,inc./",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26609",
@@ -4571,18 +4179,16 @@
       "address": "7740 Wornall Rd, Kansas City, MO 64109",
       "street": "7740 Wornall Rd",
       "zip": "64109",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.9873671,
+      "longitude": -94.5947936,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/city-thrift-waldo",
-      "lastUpdated": "29/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/city-thrift-waldo/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26610",
@@ -4595,18 +4201,16 @@
       "address": "1423 Linwood Blvd, Kansas City, MO 64109",
       "street": "1423 Linwood Blvd",
       "zip": "64109",
-      "coordinates": {
-        "lat": 47.482651559177,
-        "lng": -122.333910916684
-      },
+      "latitude": 39.0681104,
+      "longitude": -94.56589351,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/habitat-for-humanity-of-kansas-city-(administrative-office)",
-      "lastUpdated": "30/09/2029"
+      "permalink": "https://www.clothedonations.com/missouri/habitat-for-humanity-of-kansas-city-(administrative-office)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26611",
@@ -4619,18 +4223,16 @@
       "address": "3120 Troost Ave, Kansas City, MO 64109",
       "street": "3120 Troost Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.298084864458,
-        "lng": -81.835276814236
-      },
+      "latitude": 39.07005853,
+      "longitude": -94.57144478,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/journey-to-new-life,-inc.",
-      "lastUpdated": "1/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/journey-to-new-life,-inc./",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26612",
@@ -4643,18 +4245,16 @@
       "address": "719 E 31st St, Kansas City, MO 64109",
       "street": "719 E 31st St",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.380882862905,
-        "lng": -81.712102943851
-      },
+      "latitude": 39.07060512,
+      "longitude": -94.5762401,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/emancipation-station",
-      "lastUpdated": "2/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/emancipation-station/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26613",
@@ -4667,18 +4267,16 @@
       "address": "8026 Wornall Rd, Kansas City, MO 64109",
       "street": "8026 Wornall Rd",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.384481637135,
-        "lng": -81.747174203857
-      },
+      "latitude": 38.9821523,
+      "longitude": -94.59501,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store",
-      "lastUpdated": "3/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26614",
@@ -4691,18 +4289,16 @@
       "address": "3039 Troost Ave, Kansas City, MO 64109",
       "street": "3039 Troost Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.384469681693,
-        "lng": -81.739729234207
-      },
+      "latitude": 39.07157404,
+      "longitude": -94.57115608,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/operation-breakthrough",
-      "lastUpdated": "4/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/operation-breakthrough/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26615",
@@ -4715,18 +4311,16 @@
       "address": "2251 NW Barry Rd, Kansas City, MO 64109",
       "street": "2251 NW Barry Rd",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.40971997913,
-        "lng": -81.738259674795
-      },
+      "latitude": 39.24574045,
+      "longitude": -94.6066987,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/savers",
-      "lastUpdated": "5/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/savers/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26616",
@@ -4739,18 +4333,16 @@
       "address": "4824 N Oak Trafficway, Kansas City, MO 64109",
       "street": "4824 N Oak Trafficway",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.520584855495,
-        "lng": -81.549169961271
-      },
+      "latitude": 39.15321596,
+      "longitude": -94.57759437,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-north-oak",
-      "lastUpdated": "6/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-north-oak/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26617",
@@ -4763,18 +4355,16 @@
       "address": "6219 Johnson Dr, Kansas City, MO 64109",
       "street": "6219 Johnson Dr",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.501297499202,
-        "lng": -81.538395178224
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
-      "lastUpdated": "7/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26618",
@@ -4787,18 +4377,16 @@
       "address": "5441 W 95th St, Kansas City, MO 64109",
       "street": "5441 W 95th St",
       "zip": "64109",
-      "coordinates": {
-        "lat": 37.798758864291,
-        "lng": -122.267778636329
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center",
-      "lastUpdated": "8/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26619",
@@ -4811,18 +4399,16 @@
       "address": "3922 Troost Ave, Kansas City, MO 64109",
       "street": "3922 Troost Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 37.943468845505,
-        "lng": -121.26827219363
-      },
+      "latitude": 39.0553664,
+      "longitude": -94.5724176,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-bookstore-at-troost-39-thrift-store",
-      "lastUpdated": "9/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-bookstore-at-troost-39-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26620",
@@ -4835,18 +4421,16 @@
       "address": "11186 Antioch Rd, Kansas City, MO 64109",
       "street": "11186 Antioch Rd",
       "zip": "64109",
-      "coordinates": {
-        "lat": 37.980491224654,
-        "lng": -121.297818044857
-      },
+      "latitude": 39.16494543,
+      "longitude": -94.54824967,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/city-thrift-overland-park",
-      "lastUpdated": "10/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/city-thrift-overland-park/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26621",
@@ -4859,18 +4443,16 @@
       "address": "8001 Longview Rd, Kansas City, MO 64109",
       "street": "8001 Longview Rd",
       "zip": "64109",
-      "coordinates": {
-        "lat": 38.005567480412,
-        "lng": -121.31831783542
-      },
+      "latitude": 38.91471577,
+      "longitude": -94.4988819,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/catholic-charities---serve-&-lift-center---kansas-city",
-      "lastUpdated": "11/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/catholic-charities---serve-&-lift-center---kansas-city/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26622",
@@ -4883,18 +4465,16 @@
       "address": "11421 Metcalf Ave, Kansas City, MO 64109",
       "street": "11421 Metcalf Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.511242009876,
-        "lng": -81.619158749199
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
-      "lastUpdated": "12/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26623",
@@ -4907,18 +4487,16 @@
       "address": "3936 Troost Ave, Kansas City, MO 64109",
       "street": "3936 Troost Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 37.967895073549,
-        "lng": -121.274913705807
-      },
+      "latitude": 39.054823,
+      "longitude": -94.572473,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center---food-distribution-center",
-      "lastUpdated": "13/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26624",
@@ -4931,18 +4509,16 @@
       "address": "2711 Troost Ave, Kansas City, MO 64109",
       "street": "2711 Troost Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.512821110069,
-        "lng": -81.611127060389
-      },
+      "latitude": 39.07729395,
+      "longitude": -94.5706084,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/copycat-kids",
-      "lastUpdated": "14/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/copycat-kids/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26625",
@@ -4955,18 +4531,16 @@
       "address": "2611 E 11th St, Kansas City, MO 64109",
       "street": "2611 E 11th St",
       "zip": "64109",
-      "coordinates": {
-        "lat": 37.970256038519,
-        "lng": -121.278014770289
-      },
+      "latitude": 39.10026855,
+      "longitude": -94.55103988,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/shelter-kc-women's-center",
-      "lastUpdated": "15/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/shelter-kc-women's-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26626",
@@ -4979,18 +4553,16 @@
       "address": "5441 W 95th St, Kansas City, MO 64109",
       "street": "5441 W 95th St",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.506025307035,
-        "lng": -81.613037525697
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/savers",
-      "lastUpdated": "16/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/savers/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26627",
@@ -5003,18 +4575,16 @@
       "address": "Kansas City, MO 64109",
       "street": "Kansas City",
       "zip": "64109",
-      "coordinates": {
-        "lat": 37.990413771694,
-        "lng": -121.316455473687
-      },
+      "latitude": 39.06705007,
+      "longitude": -94.56701111,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/lost-&-found-kcmo",
-      "lastUpdated": "17/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/lost-&-found-kcmo/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26628",
@@ -5027,18 +4597,16 @@
       "address": "4232 Troost Ave, Kansas City, MO 64109",
       "street": "4232 Troost Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 41.515972134835,
-        "lng": -81.569099084438
-      },
+      "latitude": 39.04951,
+      "longitude": -94.572712,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/uzazi-village",
-      "lastUpdated": "18/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/uzazi-village/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26629",
@@ -5051,18 +4619,16 @@
       "address": "8150 Wornall Rd, Kansas City, MO 64109",
       "street": "8150 Wornall Rd",
       "zip": "64109",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.9802402,
+      "longitude": -94.5965935,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/cornerstones-of-care",
-      "lastUpdated": "19/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/cornerstones-of-care/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26630",
@@ -5075,18 +4641,16 @@
       "address": "4215 Euclid Ave, Kansas City, MO 64109",
       "street": "4215 Euclid Ave",
       "zip": "64109",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.04994069,
+      "longitude": -94.56074267,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/angels-encamped-foundation",
-      "lastUpdated": "20/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/angels-encamped-foundation/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26631",
@@ -5099,18 +4663,16 @@
       "address": "5008 Prospect Ave, Kansas City, MO 64110",
       "street": "5008 Prospect Ave",
       "zip": "64110",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.03531773,
+      "longitude": -94.55475218,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/kansas-city-gift",
-      "lastUpdated": "21/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/kansas-city-gift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26632",
@@ -5123,18 +4685,16 @@
       "address": "8330 N Broadway, Kansas City, MO 64110",
       "street": "8330 N Broadway",
       "zip": "64110",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.05380503,
+      "longitude": -94.59056695,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
-      "lastUpdated": "22/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26633",
@@ -5147,18 +4707,16 @@
       "address": "6501 N Cosby Ave, Kansas City, MO 64110",
       "street": "6501 N Cosby Ave",
       "zip": "64110",
-      "coordinates": {
-        "lat": 37.956464382179,
-        "lng": -121.274330747065
-      },
+      "latitude": 39.2130543,
+      "longitude": -94.6451069,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-shop---picture-hills-(hpc)",
-      "lastUpdated": "23/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-shop---picture-hills-(hpc)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26634",
@@ -5171,18 +4729,16 @@
       "address": "Kansas City, MO 64110",
       "street": "Kansas City",
       "zip": "64110",
-      "coordinates": {
-        "lat": 47.466021522083,
-        "lng": -122.336847520371
-      },
+      "latitude": 39.04255085,
+      "longitude": -94.56275388,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/rex-vintage",
-      "lastUpdated": "24/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/rex-vintage/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26635",
@@ -5195,18 +4751,16 @@
       "address": "303 W 79th St, Kansas City, MO 64110",
       "street": "303 W 79th St",
       "zip": "64110",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.984634,
+      "longitude": -94.593454,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/happybottoms",
-      "lastUpdated": "25/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/happybottoms/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26636",
@@ -5219,18 +4773,16 @@
       "address": "1301 E 10th St, Kansas City, MO 64110",
       "street": "1301 E 10th St",
       "zip": "64110",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.10188673,
+      "longitude": -94.56697877,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/salvation-army-family-store",
-      "lastUpdated": "26/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-family-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26637",
@@ -5243,18 +4795,16 @@
       "address": "10325 Metcalf Ave, Kansas City, MO 64110",
       "street": "10325 Metcalf Ave",
       "zip": "64110",
-      "coordinates": {
-        "lat": 47.708646078443,
-        "lng": -122.323192061826
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/blessings-abound",
-      "lastUpdated": "27/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/blessings-abound/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26638",
@@ -5267,18 +4817,16 @@
       "address": "918 E 9th St, Kansas City, MO 64110",
       "street": "918 E 9th St",
       "zip": "64110",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.056246,
+      "longitude": -94.573522,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/restart-inc",
-      "lastUpdated": "28/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/restart-inc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26639",
@@ -5291,18 +4839,16 @@
       "address": "4801 Main St Suite #425, Kansas City, MO 64112",
       "street": "4801 Main St Suite #425",
       "zip": "64112",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.03943985,
+      "longitude": -94.58651496,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/united-way-of-greater-kansas-city",
-      "lastUpdated": "29/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/united-way-of-greater-kansas-city/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26640",
@@ -5315,18 +4861,16 @@
       "address": "8026 Wornall Rd, Kansas City, MO 64112",
       "street": "8026 Wornall Rd",
       "zip": "64112",
-      "coordinates": {
-        "lat": 47.493144976683,
-        "lng": -122.239414874783
-      },
+      "latitude": 38.98215102,
+      "longitude": -94.59480015,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/family-thrift-store",
-      "lastUpdated": "30/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/family-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26641",
@@ -5339,18 +4883,16 @@
       "address": "4747 Broadway Blvd, Kansas City, MO 64112",
       "street": "4747 Broadway Blvd",
       "zip": "64112",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.0409569,
+      "longitude": -94.5910181,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/charlie-hustle",
-      "lastUpdated": "31/10/2029"
+      "permalink": "https://www.clothedonations.com/missouri/charlie-hustle/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26642",
@@ -5363,18 +4905,16 @@
       "address": "8230 Wornall Rd, Kansas City, MO 64112",
       "street": "8230 Wornall Rd",
       "zip": "64112",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.97825814,
+      "longitude": -94.59499256,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-waldo",
-      "lastUpdated": "1/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-waldo/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26643",
@@ -5387,18 +4927,16 @@
       "address": "3720 State Ave, Kansas City, MO 64112",
       "street": "3720 State Ave",
       "zip": "64112",
-      "coordinates": {
-        "lat": 42.331840067282,
-        "lng": -83.051099081363
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/adelante-thrift",
-      "lastUpdated": "2/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/adelante-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26644",
@@ -5411,18 +4949,16 @@
       "address": "2251 NW Barry Rd, Kansas City, MO 64112",
       "street": "2251 NW Barry Rd",
       "zip": "64112",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.24574045,
+      "longitude": -94.6066987,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center",
-      "lastUpdated": "3/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26645",
@@ -5435,18 +4971,16 @@
       "address": "13637 Washington St, Kansas City, MO 64112",
       "street": "13637 Washington St",
       "zip": "64112",
-      "coordinates": {
-        "lat": 42.374102490979,
-        "lng": -83.062476305107
-      },
+      "latitude": 39.01131819,
+      "longitude": -94.59507446,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/blessings-abound",
-      "lastUpdated": "4/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/blessings-abound/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26646",
@@ -5459,18 +4993,16 @@
       "address": "841 W 39th St, Kansas City, MO 64112",
       "street": "841 W 39th St",
       "zip": "64112",
-      "coordinates": {
-        "lat": 42.340201348035,
-        "lng": -83.06843610323
-      },
+      "latitude": 39.0566738,
+      "longitude": -94.59788106,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/annie's",
-      "lastUpdated": "5/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/annie's/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26647",
@@ -5483,18 +5015,16 @@
       "address": "6601 N Oak Trafficway, Kansas City, MO 64113",
       "street": "6601 N Oak Trafficway",
       "zip": "64113",
-      "coordinates": {
-        "lat": 41.481397901975,
-        "lng": -81.836561470045
-      },
+      "latitude": 39.15322882,
+      "longitude": -94.57772053,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-resale-shop-operated-by-boost-kc",
-      "lastUpdated": "6/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-resale-shop-operated-by-boost-kc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26648",
@@ -5507,18 +5037,16 @@
       "address": "On 75th at Broadway EB, Broadway St, Kansas City, MO 64113",
       "street": "On 75th at Broadway EB",
       "zip": "64113",
-      "coordinates": {
-        "lat": 41.471748723145,
-        "lng": -81.888006766495
-      },
+      "latitude": 39.05380503,
+      "longitude": -94.59056695,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
-      "lastUpdated": "7/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26649",
@@ -5531,18 +5059,16 @@
       "address": "9351 N Oak Trafficway, Kansas City, MO 64113",
       "street": "9351 N Oak Trafficway",
       "zip": "64113",
-      "coordinates": {
-        "lat": 41.457156235629,
-        "lng": -81.897543391336
-      },
+      "latitude": 39.15322882,
+      "longitude": -94.57772053,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
-      "lastUpdated": "8/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26650",
@@ -5555,18 +5081,16 @@
       "address": "Kansas City, MO 64113",
       "street": "Kansas City",
       "zip": "64113",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.02058323,
+      "longitude": -94.59200638,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
-      "lastUpdated": "9/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26651",
@@ -5579,18 +5103,16 @@
       "address": "8108 NW Prairie View Rd, Kansas City, MO 64113",
       "street": "8108 NW Prairie View Rd",
       "zip": "64113",
-      "coordinates": {
-        "lat": 47.405662354056,
-        "lng": -122.324856656666
-      },
+      "latitude": 39.24131211,
+      "longitude": -94.6588798,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
-      "lastUpdated": "10/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26652",
@@ -5603,18 +5125,16 @@
       "address": "8301 N St Clair Ave, Kansas City, MO 64113",
       "street": "8301 N St Clair Ave",
       "zip": "64113",
-      "coordinates": {
-        "lat": 37.960480859434,
-        "lng": -121.275102603688
-      },
+      "latitude": 39.244155,
+      "longitude": -94.647321,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/variety-donation-bin",
-      "lastUpdated": "11/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/variety-donation-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26653",
@@ -5627,18 +5147,16 @@
       "address": "7400 N Oak Trafficway, Kansas City, MO 64113",
       "street": "7400 N Oak Trafficway",
       "zip": "64113",
-      "coordinates": {
-        "lat": 38.021067218648,
-        "lng": -121.269320562687
-      },
+      "latitude": 39.15322882,
+      "longitude": -94.57772053,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/arc-thrift-store",
-      "lastUpdated": "12/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/arc-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26654",
@@ -5651,18 +5169,16 @@
       "address": "5948 N Northwood Rd, Kansas City, MO 64113",
       "street": "5948 N Northwood Rd",
       "zip": "64113",
-      "coordinates": {
-        "lat": 37.9067805801,
-        "lng": -121.249367919784
-      },
+      "latitude": 39.20274941,
+      "longitude": -94.63165832,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
-      "lastUpdated": "13/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26655",
@@ -5675,18 +5191,16 @@
       "address": "2425 NE Vivion Rd, Kansas City, MO 64113",
       "street": "2425 NE Vivion Rd",
       "zip": "64113",
-      "coordinates": {
-        "lat": 37.971920667986,
-        "lng": -121.300601654272
-      },
+      "latitude": 39.1848965,
+      "longitude": -94.5499338,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store",
-      "lastUpdated": "14/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26656",
@@ -5699,18 +5213,16 @@
       "address": "8660 N Ambassador Dr, Kansas City, MO 64113",
       "street": "8660 N Ambassador Dr",
       "zip": "64113",
-      "coordinates": {
-        "lat": 37.946998935989,
-        "lng": -121.297802876683
-      },
+      "latitude": 39.24974184,
+      "longitude": -94.64984395,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
-      "lastUpdated": "15/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26657",
@@ -5723,18 +5235,16 @@
       "address": "9740 N Cedar Ave, Kansas City, MO 64113",
       "street": "9740 N Cedar Ave",
       "zip": "64113",
-      "coordinates": {
-        "lat": 37.947407327106,
-        "lng": -121.297156201887
-      },
+      "latitude": 39.2699485,
+      "longitude": -94.45445271,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-liberty",
-      "lastUpdated": "16/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-liberty/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26658",
@@ -5747,18 +5257,16 @@
       "address": "Kansas City, MO 64113",
       "street": "Kansas City",
       "zip": "64113",
-      "coordinates": {
-        "lat": 41.456086860928,
-        "lng": -81.901615589838
-      },
+      "latitude": 39.02058323,
+      "longitude": -94.59200638,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
-      "lastUpdated": "17/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26659",
@@ -5771,18 +5279,16 @@
       "address": "Kansas City, MO 64113",
       "street": "Kansas City",
       "zip": "64113",
-      "coordinates": {
-        "lat": 37.965631079808,
-        "lng": -121.256023646354
-      },
+      "latitude": 39.02058323,
+      "longitude": -94.59200638,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
-      "lastUpdated": "18/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26660",
@@ -5795,18 +5301,16 @@
       "address": "Kansas City, MO 64114",
       "street": "Kansas City",
       "zip": "64114",
-      "coordinates": {
-        "lat": 41.305516127514,
-        "lng": -81.835130276738
-      },
+      "latitude": 38.97139034,
+      "longitude": -94.59484261,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
-      "lastUpdated": "19/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26661",
@@ -5819,18 +5323,16 @@
       "address": "21 Design Dr, Kansas City, MO 64116",
       "street": "21 Design Dr",
       "zip": "64116",
-      "coordinates": {
-        "lat": 38.002105235798,
-        "lng": -121.316900875769
-      },
+      "latitude": 39.14837049,
+      "longitude": -94.5818558,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/house-of-hope",
-      "lastUpdated": "20/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/house-of-hope/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26662",
@@ -5843,18 +5345,16 @@
       "address": "1900 NE Englewood Rd, Kansas City, MO 64116",
       "street": "1900 NE Englewood Rd",
       "zip": "64116",
-      "coordinates": {
-        "lat": 41.305569245625,
-        "lng": -81.835130728162
-      },
+      "latitude": 39.196329,
+      "longitude": -94.557301,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/a-turning-point",
-      "lastUpdated": "21/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/a-turning-point/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26663",
@@ -5867,18 +5367,16 @@
       "address": "1102 Fayette St, Kansas City, MO 64116",
       "street": "1102 Fayette St",
       "zip": "64116",
-      "coordinates": {
-        "lat": 37.960643533498,
-        "lng": -121.27430424705
-      },
+      "latitude": 39.12886055,
+      "longitude": -94.57503686,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/dav",
-      "lastUpdated": "22/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/dav/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26664",
@@ -5891,18 +5389,16 @@
       "address": "5306 N Oak Trafficway, Kansas City, MO 64116",
       "street": "5306 N Oak Trafficway",
       "zip": "64116",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.189155,
+      "longitude": -94.5774866,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army---northland-corps",
-      "lastUpdated": "23/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army---northland-corps/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26665",
@@ -5915,18 +5411,16 @@
       "address": "Kansas City, MO 64116",
       "street": "Kansas City",
       "zip": "64116",
-      "coordinates": {
-        "lat": 37.962401167306,
-        "lng": -121.293314349519
-      },
+      "latitude": 39.16856945,
+      "longitude": -94.57696586,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
-      "lastUpdated": "24/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26666",
@@ -5939,18 +5433,16 @@
       "address": "6314 N Oak Trafficway, Kansas City, MO 64116",
       "street": "6314 N Oak Trafficway",
       "zip": "64116",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.2091647,
+      "longitude": -94.5762768,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount",
-      "lastUpdated": "25/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26667",
@@ -5963,18 +5455,16 @@
       "address": "1401 Fairfax Trafficway, Kansas City, MO 64116",
       "street": "1401 Fairfax Trafficway",
       "zip": "64116",
-      "coordinates": {
-        "lat": 42.34449320973,
-        "lng": -83.065466520685
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/bbbs-donation-center",
-      "lastUpdated": "26/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/bbbs-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26668",
@@ -5987,18 +5477,16 @@
       "address": "6101 N Chestnut Ave, Kansas City, MO 64116",
       "street": "6101 N Chestnut Ave",
       "zip": "64116",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.175213,
+      "longitude": -94.545984,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/assistance-league-kansas-city",
-      "lastUpdated": "27/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/assistance-league-kansas-city/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26669",
@@ -6011,18 +5499,16 @@
       "address": "927 S 7th St, Kansas City, MO 64116",
       "street": "927 S 7th St",
       "zip": "64116",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/giving-the-basics",
-      "lastUpdated": "28/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/giving-the-basics/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26670",
@@ -6035,18 +5521,16 @@
       "address": "8124 NW Prairie View Rd, Kansas City, MO 64116",
       "street": "8124 NW Prairie View Rd",
       "zip": "64116",
-      "coordinates": {
-        "lat": 47.61607643091,
-        "lng": -122.132316015143
-      },
+      "latitude": 39.24154833,
+      "longitude": -94.65888141,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin",
-      "lastUpdated": "29/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26671",
@@ -6059,18 +5543,16 @@
       "address": "4701 Deramus Ave, Kansas City, MO 64117",
       "street": "4701 Deramus Ave",
       "zip": "64117",
-      "coordinates": {
-        "lat": 47.569608870623,
-        "lng": -122.169367848266
-      },
+      "latitude": 39.1368997,
+      "longitude": -94.52510714,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-deramus",
-      "lastUpdated": "30/11/2029"
+      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-deramus/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26672",
@@ -6083,18 +5565,16 @@
       "address": "1100 NE Vivion Rd, Kansas City, MO 64117",
       "street": "1100 NE Vivion Rd",
       "zip": "64117",
-      "coordinates": {
-        "lat": 47.617808658088,
-        "lng": -122.121781136502
-      },
+      "latitude": 39.1814885,
+      "longitude": -94.5669557,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/metropolitan-lutheran-ministry",
-      "lastUpdated": "1/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/metropolitan-lutheran-ministry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26673",
@@ -6107,18 +5587,16 @@
       "address": "Kansas City, MO 64117",
       "street": "Kansas City",
       "zip": "64117",
-      "coordinates": {
-        "lat": 47.628440611047,
-        "lng": -122.170976795142
-      },
+      "latitude": 39.16933724,
+      "longitude": -94.52644122,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
-      "lastUpdated": "2/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26674",
@@ -6131,18 +5609,16 @@
       "address": "200 NW 72nd St, Kansas City, MO 64118",
       "street": "200 NW 72nd St",
       "zip": "64118",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.2251127,
+      "longitude": -94.58337832,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/kc-thrift",
-      "lastUpdated": "3/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/kc-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26675",
@@ -6155,18 +5631,16 @@
       "address": "347 NW Barry Rd, Kansas City, MO 64119",
       "street": "347 NW Barry Rd",
       "zip": "64119",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.24653496,
+      "longitude": -94.58418304,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/my-best-friend's-closet",
-      "lastUpdated": "4/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/my-best-friend's-closet/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26676",
@@ -6179,18 +5653,16 @@
       "address": "8448 N Church Rd, Kansas City, MO 64119",
       "street": "8448 N Church Rd",
       "zip": "64119",
-      "coordinates": {
-        "lat": 42.342164946078,
-        "lng": -83.073888615215
-      },
+      "latitude": 39.24564423,
+      "longitude": -94.46161219,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin",
-      "lastUpdated": "5/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/big-brothers-big-sisters-donation-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26677",
@@ -6203,18 +5675,16 @@
       "address": "7265 N Oak Trafficway, Kansas City, MO 64119",
       "street": "7265 N Oak Trafficway",
       "zip": "64119",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.2261272,
+      "longitude": -94.5755166,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/community-blood-center",
-      "lastUpdated": "6/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/community-blood-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26678",
@@ -6227,18 +5697,16 @@
       "address": "8557 N Oak Trafficway, Kansas City, MO 64119",
       "street": "8557 N Oak Trafficway",
       "zip": "64119",
-      "coordinates": {
-        "lat": 42.345193135425,
-        "lng": -83.057199462662
-      },
+      "latitude": 39.249002,
+      "longitude": -94.575412,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/plato's-closet-kansas-city-mo",
-      "lastUpdated": "7/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/plato's-closet-kansas-city-mo/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26679",
@@ -6251,18 +5719,16 @@
       "address": "5601 NE Antioch Rd #12, Kansas City, MO 64119",
       "street": "5601 NE Antioch Rd #12",
       "zip": "64119",
-      "coordinates": {
-        "lat": 42.351406789347,
-        "lng": -83.076969606345
-      },
+      "latitude": 39.18895731,
+      "longitude": -94.54877959,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/northland-shepherd's-centers",
-      "lastUpdated": "8/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/northland-shepherd's-centers/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26680",
@@ -6275,18 +5741,16 @@
       "address": "500 N 7th St Trfy Suite 101, Kansas City, MO 64120",
       "street": "500 N 7th St Trfy Suite 101",
       "zip": "64120",
-      "coordinates": {
-        "lat": 42.430039939777,
-        "lng": -83.216413130298
-      },
+      "latitude": 39.12160795,
+      "longitude": -94.58290517,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/avenue-of-life",
-      "lastUpdated": "9/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/avenue-of-life/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26681",
@@ -6299,18 +5763,16 @@
       "address": "5108 Independence Ave, Kansas City, MO 64120",
       "street": "5108 Independence Ave",
       "zip": "64120",
-      "coordinates": {
-        "lat": 42.377909819655,
-        "lng": -83.032284652265
-      },
+      "latitude": 39.10541914,
+      "longitude": -94.52237892,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/rpor-drop-in-center",
-      "lastUpdated": "10/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/rpor-drop-in-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26682",
@@ -6323,18 +5785,16 @@
       "address": "5631 E Truman Rd, Kansas City, MO 64123",
       "street": "5631 E Truman Rd",
       "zip": "64123",
-      "coordinates": {
-        "lat": 42.329677278587,
-        "lng": -83.064967461151
-      },
+      "latitude": 39.093883,
+      "longitude": -94.515744,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/charity-thrift-mart",
-      "lastUpdated": "11/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/charity-thrift-mart/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26683",
@@ -6347,18 +5807,16 @@
       "address": "3013 E 9th St, Kansas City, MO 64123",
       "street": "3013 E 9th St",
       "zip": "64123",
-      "coordinates": {
-        "lat": 47.630280610701,
-        "lng": -122.143143159066
-      },
+      "latitude": 39.102095,
+      "longitude": -94.546074,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/salvation-army---eastside---food-distribution-center",
-      "lastUpdated": "12/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army---eastside---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26684",
@@ -6371,18 +5829,16 @@
       "address": "606 Gladstone Blvd, Kansas City, MO 64123",
       "street": "606 Gladstone Blvd",
       "zip": "64123",
-      "coordinates": {
-        "lat": 37.888571924736,
-        "lng": -121.243456558154
-      },
+      "latitude": 39.1059489,
+      "longitude": -94.5462309,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/independence-boulevard---food-distribution-center",
-      "lastUpdated": "13/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/independence-boulevard---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26685",
@@ -6395,18 +5851,16 @@
       "address": "208 Bennington Ave, Kansas City, MO 64123",
       "street": "208 Bennington Ave",
       "zip": "64123",
-      "coordinates": {
-        "lat": 42.322905369062,
-        "lng": -83.065398188838
-      },
+      "latitude": 39.1094847,
+      "longitude": -94.50578962,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid",
-      "lastUpdated": "14/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26686",
@@ -6419,18 +5873,16 @@
       "address": "5612 St John Ave, Kansas City, MO 64123",
       "street": "5612 St John Ave",
       "zip": "64123",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.1126556,
+      "longitude": -94.5158276,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/calvary-temple",
-      "lastUpdated": "15/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/calvary-temple/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26687",
@@ -6443,18 +5895,16 @@
       "address": "Cherith Brook Giving Grove, 3226 E 12th St, Kansas City, MO 64123",
       "street": "Cherith Brook Giving Grove",
       "zip": "64123",
-      "coordinates": {
-        "lat": 37.959597493584,
-        "lng": -121.306571776194
-      },
+      "latitude": 39.0987591,
+      "longitude": -94.54323788,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/cherith-brook-catholic-worker-house",
-      "lastUpdated": "16/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/cherith-brook-catholic-worker-house/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26688",
@@ -6467,18 +5917,16 @@
       "address": "6435 E Truman Rd, Kansas City, MO 64123",
       "street": "6435 E Truman Rd",
       "zip": "64123",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.093548,
+      "longitude": -94.506124,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center",
-      "lastUpdated": "17/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/bishop-sullivan-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26689",
@@ -6491,18 +5939,16 @@
       "address": "6000 Independence Ave, Kansas City, MO 64123",
       "street": "6000 Independence Ave",
       "zip": "64123",
-      "coordinates": {
-        "lat": 37.948774832966,
-        "lng": -121.286065744426
-      },
+      "latitude": 39.105002,
+      "longitude": -94.511046,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/csl-plasma",
-      "lastUpdated": "18/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/csl-plasma/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26690",
@@ -6515,18 +5961,16 @@
       "address": "5700 Winner Rd, Kansas City, MO 64123",
       "street": "5700 Winner Rd",
       "zip": "64123",
-      "coordinates": {
-        "lat": 38.021008921433,
-        "lng": -121.334757593191
-      },
+      "latitude": 39.101368,
+      "longitude": -94.514435,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/sheffield-family-life-center-church---food-distribution-center",
-      "lastUpdated": "19/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/sheffield-family-life-center-church---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26691",
@@ -6539,18 +5983,16 @@
       "address": "1815 N Chouteau Trafficway, Kansas City, MO 64123",
       "street": "1815 N Chouteau Trafficway",
       "zip": "64123",
-      "coordinates": {
-        "lat": 37.997525548286,
-        "lng": -121.303860220091
-      },
+      "latitude": 39.14025815,
+      "longitude": -94.52924559,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/missouri-organic-recycling-open-8am-to-5-pm-saturdays-only-for-kcmo-yard-waste-drop-off.",
-      "lastUpdated": "20/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/missouri-organic-recycling-open-8am-to-5-pm-saturdays-only-for-kcmo-yard-waste-drop-off./",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26692",
@@ -6563,18 +6005,16 @@
       "address": "4614 St John Ave, Kansas City, MO 64123",
       "street": "4614 St John Ave",
       "zip": "64123",
-      "coordinates": {
-        "lat": 37.947407327106,
-        "lng": -121.297156201887
-      },
+      "latitude": 39.11284771,
+      "longitude": -94.52770657,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/healing-house-processing-center",
-      "lastUpdated": "21/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/healing-house-processing-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26693",
@@ -6587,18 +6027,16 @@
       "address": "131 Belmont Blvd, Kansas City, MO 64123",
       "street": "131 Belmont Blvd",
       "zip": "64123",
-      "coordinates": {
-        "lat": 35.374375964709,
-        "lng": -119.017832433028
-      },
+      "latitude": 39.1105211,
+      "longitude": -94.5088591,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/rummage-exports,-llc",
-      "lastUpdated": "22/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/rummage-exports,-llc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26694",
@@ -6611,18 +6049,16 @@
       "address": "500 Woodland Ave, Kansas City, MO 64123",
       "street": "500 Woodland Ave",
       "zip": "64123",
-      "coordinates": {
-        "lat": 42.356259500029,
-        "lng": -83.029495554099
-      },
+      "latitude": 39.10854395,
+      "longitude": -94.56025948,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/della-lamb-community-services",
-      "lastUpdated": "23/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/della-lamb-community-services/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26695",
@@ -6635,18 +6071,16 @@
       "address": "5101 E 24th St, Kansas City, MO 64124",
       "street": "5101 E 24th St",
       "zip": "64124",
-      "coordinates": {
-        "lat": 35.376236519024,
-        "lng": -119.003147687224
-      },
+      "latitude": 39.08135425,
+      "longitude": -94.52289522,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hopecity",
-      "lastUpdated": "24/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/hopecity/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26696",
@@ -6659,18 +6093,16 @@
       "address": "5101 E 24th St, Kansas City, MO 64124",
       "street": "5101 E 24th St",
       "zip": "64124",
-      "coordinates": {
-        "lat": 42.340201348035,
-        "lng": -83.06843610323
-      },
+      "latitude": 39.08135425,
+      "longitude": -94.52289522,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hope-city---food-distribution-center",
-      "lastUpdated": "25/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/hope-city---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26697",
@@ -6683,18 +6115,16 @@
       "address": "3810 E Truman Rd, Kansas City, MO 64124",
       "street": "3810 E Truman Rd",
       "zip": "64124",
-      "coordinates": {
-        "lat": 35.376193300355,
-        "lng": -119.022426002659
-      },
+      "latitude": 39.09433094,
+      "longitude": -94.53745078,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/thrift-store",
-      "lastUpdated": "26/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26698",
@@ -6707,18 +6137,16 @@
       "address": "705 Virginia Ave, Kansas City, MO 64124",
       "street": "705 Virginia Ave",
       "zip": "64124",
-      "coordinates": {
-        "lat": 47.640185354538,
-        "lng": -122.399702870858
-      },
+      "latitude": 39.10409799,
+      "longitude": -94.56591616,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hope-faith-ministries---food-distribution-center",
-      "lastUpdated": "27/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/hope-faith-ministries---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26699",
@@ -6731,18 +6159,16 @@
       "address": "3721 S Delridge Rd, Kansas City, MO 64126",
       "street": "3721 S Delridge Rd",
       "zip": "64126",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/mother's-refuge",
-      "lastUpdated": "28/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/mother's-refuge/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26700",
@@ -6755,18 +6181,16 @@
       "address": "1535 East 23rd St S, Kansas City, MO 64126",
       "street": "1535 East 23rd St S",
       "zip": "64126",
-      "coordinates": {
-        "lat": 42.361538092817,
-        "lng": -83.096027002084
-      },
+      "latitude": 39.08346144,
+      "longitude": -94.52538381,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
-      "lastUpdated": "29/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26701",
@@ -6779,18 +6203,16 @@
       "address": "11432 E Truman Rd, Kansas City, MO 64126",
       "street": "11432 E Truman Rd",
       "zip": "64126",
-      "coordinates": {
-        "lat": 42.353707893401,
-        "lng": -83.013491773526
-      },
+      "latitude": 39.0929941,
+      "longitude": -94.4874062,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/chenal-thrift-store",
-      "lastUpdated": "30/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/chenal-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26702",
@@ -6803,18 +6225,16 @@
       "address": "2908 Indiana Ave, Kansas City, MO 64127",
       "street": "2908 Indiana Ave",
       "zip": "64127",
-      "coordinates": {
-        "lat": 42.377458967401,
-        "lng": -83.13529563258
-      },
+      "latitude": 39.07218704,
+      "longitude": -94.54360786,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/justice-dignity-center",
-      "lastUpdated": "31/12/2029"
+      "permalink": "https://www.clothedonations.com/missouri/justice-dignity-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26703",
@@ -6827,18 +6247,16 @@
       "address": "8648 E 63rd St, Kansas City, MO 64129",
       "street": "8648 E 63rd St",
       "zip": "64129",
-      "coordinates": {
-        "lat": 42.402733193773,
-        "lng": -83.113085321161
-      },
+      "latitude": 39.00978116,
+      "longitude": -94.4836642,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-raytown",
-      "lastUpdated": "1/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-raytown/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26704",
@@ -6851,18 +6269,16 @@
       "address": "8648 E 63rd St, Kansas City, MO 64129",
       "street": "8648 E 63rd St",
       "zip": "64129",
-      "coordinates": {
-        "lat": 42.398746597319,
-        "lng": -83.059019083264
-      },
+      "latitude": 39.00978116,
+      "longitude": -94.4836642,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-east-63rd",
-      "lastUpdated": "2/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-east-63rd/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26705",
@@ -6875,18 +6291,16 @@
       "address": "7506 Raytown Rd, Kansas City, MO 64129",
       "street": "7506 Raytown Rd",
       "zip": "64129",
-      "coordinates": {
-        "lat": 42.373959096249,
-        "lng": -83.06286788304
-      },
+      "latitude": 39.0449213,
+      "longitude": -94.4904497,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount",
-      "lastUpdated": "3/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26706",
@@ -6899,18 +6313,16 @@
       "address": "3848 S Noland Rd, Kansas City, MO 64129",
       "street": "3848 S Noland Rd",
       "zip": "64129",
-      "coordinates": {
-        "lat": 42.386598056631,
-        "lng": -83.106584866417
-      },
+      "latitude": 39.0508189,
+      "longitude": -94.415811,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/csl-pickup-service",
-      "lastUpdated": "4/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/csl-pickup-service/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26707",
@@ -6923,18 +6335,16 @@
       "address": "Kansas City, MO 64129",
       "street": "Kansas City",
       "zip": "64129",
-      "coordinates": {
-        "lat": 35.339611685444,
-        "lng": -119.048746848785
-      },
+      "latitude": 39.04566509,
+      "longitude": -94.49751076,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/open-box-thrift-store",
-      "lastUpdated": "5/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/open-box-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26708",
@@ -6947,18 +6357,16 @@
       "address": "3848 S Noland Rd, Kansas City, MO 64129",
       "street": "3848 S Noland Rd",
       "zip": "64129",
-      "coordinates": {
-        "lat": 42.399217069634,
-        "lng": -83.059327561569
-      },
+      "latitude": 39.0508189,
+      "longitude": -94.415811,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/thrift-world",
-      "lastUpdated": "6/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/thrift-world/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26709",
@@ -6971,18 +6379,16 @@
       "address": "On Troost at 82nd Terr Northbound Nearside, Kansas City, MO 64129",
       "street": "On Troost at 82nd Terr Northbound Nearside",
       "zip": "64129",
-      "coordinates": {
-        "lat": 35.359333824895,
-        "lng": -119.060941533731
-      },
+      "latitude": 39.03896,
+      "longitude": -94.486294,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
-      "lastUpdated": "7/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26710",
@@ -6995,18 +6401,16 @@
       "address": "5000 Bannister Rd, Kansas City, MO 64131",
       "street": "5000 Bannister Rd",
       "zip": "64131",
-      "coordinates": {
-        "lat": 42.389441518195,
-        "lng": -83.086286112884
-      },
+      "latitude": 38.9542704,
+      "longitude": -94.5321688,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-outlet-&-recycling-center",
-      "lastUpdated": "8/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-outlet-&-recycling-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26711",
@@ -7019,18 +6423,16 @@
       "address": "3704 W 95th St, Kansas City, MO 64131",
       "street": "3704 W 95th St",
       "zip": "64131",
-      "coordinates": {
-        "lat": 35.376454504987,
-        "lng": -119.010526300251
-      },
+      "latitude": 38.954704,
+      "longitude": -94.550939,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/story-boutique---benefits-kansas-city-hospice",
-      "lastUpdated": "9/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/story-boutique---benefits-kansas-city-hospice/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26712",
@@ -7043,18 +6445,16 @@
       "address": "10901 Blue Ridge Blvd, Kansas City, MO 64131",
       "street": "10901 Blue Ridge Blvd",
       "zip": "64131",
-      "coordinates": {
-        "lat": 35.370805094974,
-        "lng": -118.995131500049
-      },
+      "latitude": 38.890226,
+      "longitude": -94.576807,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/community-assistance-council/lincworks",
-      "lastUpdated": "10/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/community-assistance-council/lincworks/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26713",
@@ -7067,18 +6467,16 @@
       "address": "1014b Main St, Kansas City, MO 64131",
       "street": "1014b Main St",
       "zip": "64131",
-      "coordinates": {
-        "lat": 35.43582398939,
-        "lng": -119.012546710401
-      },
+      "latitude": 39.0535423,
+      "longitude": -94.5862834,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/chosen",
-      "lastUpdated": "11/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/chosen/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26714",
@@ -7091,18 +6489,16 @@
       "address": "13007 State Line Rd, Kansas City, MO 64131",
       "street": "13007 State Line Rd",
       "zip": "64131",
-      "coordinates": {
-        "lat": 35.36182110952,
-        "lng": -119.002893240724
-      },
+      "latitude": 38.8913671,
+      "longitude": -94.608038,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/grow",
-      "lastUpdated": "12/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/grow/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26715",
@@ -7115,18 +6511,16 @@
       "address": "Kansas City, MO 64131",
       "street": "Kansas City",
       "zip": "64131",
-      "coordinates": {
-        "lat": 35.310357761995,
-        "lng": -119.056742280982
-      },
+      "latitude": 38.97011787,
+      "longitude": -94.57751372,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/icna-relief---food-distribution-center",
-      "lastUpdated": "13/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/icna-relief---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26716",
@@ -7139,18 +6533,16 @@
       "address": "12900 State Line Rd, Kansas City, MO 64131",
       "street": "12900 State Line Rd",
       "zip": "64131",
-      "coordinates": {
-        "lat": 35.392471011122,
-        "lng": -119.018657379079
-      },
+      "latitude": 38.892171,
+      "longitude": -94.6084003,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/goodwill-leawood",
-      "lastUpdated": "14/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/goodwill-leawood/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26717",
@@ -7163,18 +6555,16 @@
       "address": "4804 S Noland Rd, Kansas City, MO 64133",
       "street": "4804 S Noland Rd",
       "zip": "64133",
-      "coordinates": {
-        "lat": 35.394750656986,
-        "lng": -118.949709607349
-      },
+      "latitude": 39.0337785,
+      "longitude": -94.4191433,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/frugal's-family-thrift-store",
-      "lastUpdated": "15/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/frugal's-family-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26718",
@@ -7187,18 +6577,16 @@
       "address": "1500 Main St, Kansas City, MO 64134",
       "street": "1500 Main St",
       "zip": "64134",
-      "coordinates": {
-        "lat": 35.332263759556,
-        "lng": -119.053903356992
-      },
+      "latitude": 38.889097,
+      "longitude": -94.527808,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount-store-grandview",
-      "lastUpdated": "16/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/maj-r-thrift-&-discount-store-grandview/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26719",
@@ -7211,18 +6599,16 @@
       "address": "13531 Wyandotte St, Kansas City, MO 64134",
       "street": "13531 Wyandotte St",
       "zip": "64134",
-      "coordinates": {
-        "lat": 42.342280401721,
-        "lng": -83.057362005286
-      },
+      "latitude": 38.8819467,
+      "longitude": -94.5975096,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-martin-city",
-      "lastUpdated": "17/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-martin-city/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26720",
@@ -7235,18 +6621,16 @@
       "address": "Kansas City, MO 64136",
       "street": "Kansas City",
       "zip": "64136",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.02312979,
+      "longitude": -94.40168439,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/mj's-affordable-finds",
-      "lastUpdated": "18/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/mj's-affordable-finds/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26721",
@@ -7259,18 +6643,16 @@
       "address": "Kansas City, MO 64136",
       "street": "Kansas City",
       "zip": "64136",
-      "coordinates": {
-        "lat": 42.397126238208,
-        "lng": -83.206364564481
-      },
+      "latitude": 39.02312979,
+      "longitude": -94.40168439,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/deals-thrift-mart",
-      "lastUpdated": "19/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/deals-thrift-mart/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26722",
@@ -7283,18 +6665,16 @@
       "address": "3848 S Noland Rd, Kansas City, MO 64136",
       "street": "3848 S Noland Rd",
       "zip": "64136",
-      "coordinates": {
-        "lat": 42.426209251075,
-        "lng": -83.102205617275
-      },
+      "latitude": 39.03486613,
+      "longitude": -94.41572714,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothing-fund",
-      "lastUpdated": "20/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothing-fund/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26723",
@@ -7307,18 +6687,16 @@
       "address": "10500 E State Rte 350, Kansas City, MO 64138",
       "street": "10500 E State Rte 350",
       "zip": "64138",
-      "coordinates": {
-        "lat": 42.411463545119,
-        "lng": -83.118698491931
-      },
+      "latitude": 38.98654135,
+      "longitude": -94.46397734,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hope-network-of-raytown",
-      "lastUpdated": "21/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/hope-network-of-raytown/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26724",
@@ -7331,18 +6709,16 @@
       "address": "6317 Raytown Rd, Kansas City, MO 64138",
       "street": "6317 Raytown Rd",
       "zip": "64138",
-      "coordinates": {
-        "lat": 42.406716235617,
-        "lng": -83.148456384118
-      },
+      "latitude": 38.98764481,
+      "longitude": -94.46443895,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/gnarly-hussle",
-      "lastUpdated": "22/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/gnarly-hussle/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26725",
@@ -7355,18 +6731,16 @@
       "address": "E State Rte 350, Kansas City, MO 64138",
       "street": "E State Rte 350",
       "zip": "64138",
-      "coordinates": {
-        "lat": 42.345918088008,
-        "lng": -83.094150115044
-      },
+      "latitude": 38.9928,
+      "longitude": -94.469545,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hope-network---food-distribution-center",
-      "lastUpdated": "23/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/hope-network---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26726",
@@ -7379,18 +6753,16 @@
       "address": "936 SE 3rd St, Kansas City, MO 64138",
       "street": "936 SE 3rd St",
       "zip": "64138",
-      "coordinates": {
-        "lat": 42.404830615298,
-        "lng": -83.036235218562
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-store",
-      "lastUpdated": "24/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26727",
@@ -7403,18 +6775,16 @@
       "address": "Kansas City, MO 64138",
       "street": "Kansas City",
       "zip": "64138",
-      "coordinates": {
-        "lat": 35.373179393968,
-        "lng": -118.979758522972
-      },
+      "latitude": 39.100105,
+      "longitude": -94.5781416,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/coldwater-of-lee's-summit",
-      "lastUpdated": "25/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/coldwater-of-lee's-summit/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26728",
@@ -7427,18 +6797,16 @@
       "address": "12904 State Line Rd, Kansas City, MO 64145",
       "street": "12904 State Line Rd",
       "zip": "64145",
-      "coordinates": {
-        "lat": 42.347937450459,
-        "lng": -83.039417146296
-      },
+      "latitude": 38.8920932,
+      "longitude": -94.6092127,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/heart-and-soul-resale-shop",
-      "lastUpdated": "26/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/heart-and-soul-resale-shop/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26729",
@@ -7451,18 +6819,16 @@
       "address": "Kansas City, MO 64145",
       "street": "Kansas City",
       "zip": "64145",
-      "coordinates": {
-        "lat": 35.354006503101,
-        "lng": -118.969619084309
-      },
+      "latitude": 38.89405905,
+      "longitude": -94.59563281,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/salvation-army-thrift-store",
-      "lastUpdated": "27/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/salvation-army-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26730",
@@ -7475,18 +6841,16 @@
       "address": "Kansas City, MO 64146",
       "street": "Kansas City",
       "zip": "64146",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.90056035,
+      "longitude": -94.57358758,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center",
-      "lastUpdated": "28/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army-family-store-&-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26731",
@@ -7499,18 +6863,16 @@
       "address": "305 N Scott Ave, Kansas City, MO 64146",
       "street": "305 N Scott Ave",
       "zip": "64146",
-      "coordinates": {
-        "lat": 35.371869878507,
-        "lng": -118.981182859076
-      },
+      "latitude": 38.819407,
+      "longitude": -94.534507,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/heart-n-hand-thrift-store",
-      "lastUpdated": "29/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/heart-n-hand-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26732",
@@ -7523,18 +6885,16 @@
       "address": "406 N Foxridge Dr, Kansas City, MO 64149",
       "street": "406 N Foxridge Dr",
       "zip": "64149",
-      "coordinates": {
-        "lat": 42.411827019767,
-        "lng": -83.24580578106
-      },
+      "latitude": 38.83856154,
+      "longitude": -94.4812518,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/eagles-community-outreach",
-      "lastUpdated": "30/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/eagles-community-outreach/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26733",
@@ -7547,18 +6907,16 @@
       "address": "6520 NW Prairie View Rd, Kansas City, MO 64151",
       "street": "6520 NW Prairie View Rd",
       "zip": "64151",
-      "coordinates": {
-        "lat": 35.412229936727,
-        "lng": -119.042961515927
-      },
+      "latitude": 39.21287592,
+      "longitude": -94.6413873,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-outlet-(hpc)",
-      "lastUpdated": "31/01/2030"
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-outlet-(hpc)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26734",
@@ -7571,18 +6929,16 @@
       "address": "8500 N Green Hills Rd, Kansas City, MO 64151",
       "street": "8500 N Green Hills Rd",
       "zip": "64151",
-      "coordinates": {
-        "lat": 35.375399104989,
-        "lng": -119.020103337403
-      },
+      "latitude": 39.24837371,
+      "longitude": -94.63111601,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin",
-      "lastUpdated": "1/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/go-green-recycling-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26735",
@@ -7595,18 +6951,16 @@
       "address": "Kansas City, MO 64151",
       "street": "Kansas City",
       "zip": "64151",
-      "coordinates": {
-        "lat": 35.394051648828,
-        "lng": -118.949701954041
-      },
+      "latitude": 39.21601843,
+      "longitude": -94.63032794,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
-      "lastUpdated": "2/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26736",
@@ -7619,18 +6973,16 @@
       "address": "Kansas City, MO 64151",
       "street": "Kansas City",
       "zip": "64151",
-      "coordinates": {
-        "lat": 35.416464893818,
-        "lng": -119.021215412791
-      },
+      "latitude": 39.21601843,
+      "longitude": -94.63032794,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin",
-      "lastUpdated": "3/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/the-clothes-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26737",
@@ -7643,18 +6995,16 @@
       "address": "6238 NW Barry Rd, Kansas City, MO 64151",
       "street": "6238 NW Barry Rd",
       "zip": "64151",
-      "coordinates": {
-        "lat": 35.409658226389,
-        "lng": -119.021012156951
-      },
+      "latitude": 39.24671967,
+      "longitude": -94.65069081,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/ditto---northland",
-      "lastUpdated": "4/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/ditto---northland/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26738",
@@ -7667,18 +7017,16 @@
       "address": "Kansas City, MO 64151",
       "street": "Kansas City",
       "zip": "64151",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.21601843,
+      "longitude": -94.63032794,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
-      "lastUpdated": "5/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26739",
@@ -7691,18 +7039,16 @@
       "address": "7110 North West Hwy 9, House of Prayer, 7110 MO-9, Kansas City, MO 64151",
       "street": "7110 North West Hwy 9",
       "zip": "64151",
-      "coordinates": {
-        "lat": 35.37627349578,
-        "lng": -119.016701109747
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/northland-infant-clothing-center",
-      "lastUpdated": "6/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/northland-infant-clothing-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26740",
@@ -7715,18 +7061,16 @@
       "address": "2701 NW Gateway Ave, Kansas City, MO 64151",
       "street": "2701 NW Gateway Ave",
       "zip": "64151",
-      "coordinates": {
-        "lat": 42.361683203239,
-        "lng": -83.082765502806
-      },
+      "latitude": 39.17134952,
+      "longitude": -94.61192173,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin",
-      "lastUpdated": "7/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/planet-aid-bin/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26741",
@@ -7739,18 +7083,16 @@
       "address": "7210 N Oak Trafficway, Kansas City, MO 64151",
       "street": "7210 N Oak Trafficway",
       "zip": "64151",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.25007597,
+      "longitude": -94.57585621,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/mission-thrift-store",
-      "lastUpdated": "8/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/mission-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26742",
@@ -7763,18 +7105,16 @@
       "address": "9100 N Skyview Ave, Kansas City, MO 64151",
       "street": "9100 N Skyview Ave",
       "zip": "64151",
-      "coordinates": {
-        "lat": 42.413947669271,
-        "lng": -83.160113498321
-      },
+      "latitude": 39.258194,
+      "longitude": -94.657201,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/jcpenney",
-      "lastUpdated": "9/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/jcpenney/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26743",
@@ -7787,18 +7127,16 @@
       "address": "8500 NW Prairie View Rd, Kansas City, MO 64151",
       "street": "8500 NW Prairie View Rd",
       "zip": "64151",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.24868319,
+      "longitude": -94.66122294,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/vintage-stock",
-      "lastUpdated": "10/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/vintage-stock/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26744",
@@ -7811,18 +7149,16 @@
       "address": "6972 N Broadway, Kansas City, MO 64151",
       "street": "6972 N Broadway",
       "zip": "64151",
-      "coordinates": {
-        "lat": 42.429482166643,
-        "lng": -82.957923135851
-      },
+      "latitude": 39.220405,
+      "longitude": -94.586753,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/northland-animal-welfare-society-(naws)",
-      "lastUpdated": "11/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/northland-animal-welfare-society-(naws)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26745",
@@ -7835,18 +7171,16 @@
       "address": "4151 N Mulberry Dr, Kansas City, MO 64151",
       "street": "4151 N Mulberry Dr",
       "zip": "64151",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.16985195,
+      "longitude": -94.59746553,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-village-at-briarcliff",
-      "lastUpdated": "12/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/the-village-at-briarcliff/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26746",
@@ -7859,18 +7193,16 @@
       "address": "2255 NW Vivion Rd, Kansas City, MO 64152",
       "street": "2255 NW Vivion Rd",
       "zip": "64152",
-      "coordinates": {
-        "lat": 34.004175871201,
-        "lng": -118.409204776497
-      },
+      "latitude": 39.1803009,
+      "longitude": -94.6047484,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/mimi's-pantry",
-      "lastUpdated": "13/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/mimi's-pantry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26747",
@@ -7883,18 +7215,16 @@
       "address": "1305 Branch St, Kansas City, MO 64153",
       "street": "1305 Branch St",
       "zip": "64153",
-      "coordinates": {
-        "lat": 42.419798197751,
-        "lng": -82.975475650589
-      },
+      "latitude": 39.359874,
+      "longitude": -94.769589,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-shop---platte-city-(hpc)",
-      "lastUpdated": "14/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-thrift-shop---platte-city-(hpc)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26748",
@@ -7907,18 +7237,16 @@
       "address": "8516 N Oak Trafficway, Kansas City, MO 64154",
       "street": "8516 N Oak Trafficway",
       "zip": "64154",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.2480483,
+      "longitude": -94.5767624,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-northland",
-      "lastUpdated": "15/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/habitat-kc-restore-northland/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26749",
@@ -7931,18 +7259,16 @@
       "address": "Kansas City, MO 64156",
       "street": "Kansas City",
       "zip": "64156",
-      "coordinates": {
-        "lat": 42.402509142301,
-        "lng": -83.162241704675
-      },
+      "latitude": 39.2581874,
+      "longitude": -94.53199216,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/savers",
-      "lastUpdated": "16/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/savers/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26750",
@@ -7955,18 +7281,16 @@
       "address": "2050 Plumbers Way #190, Kansas City, MO 64156",
       "street": "2050 Plumbers Way #190",
       "zip": "64156",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.051001,
+      "longitude": -94.541464,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/in-as-much-food-pantry",
-      "lastUpdated": "17/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/in-as-much-food-pantry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26751",
@@ -7979,18 +7303,16 @@
       "address": "7 W Mill St, Kansas City, MO 64156",
       "street": "7 W Mill St",
       "zip": "64156",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.05316018,
+      "longitude": -94.59286873,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hillcrest-hope-thrift-store",
-      "lastUpdated": "18/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-hope-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26752",
@@ -8003,18 +7325,16 @@
       "address": "Kansas City, MO 64156",
       "street": "Kansas City",
       "zip": "64156",
-      "coordinates": {
-        "lat": 34.048441442685,
-        "lng": -118.276846690816
-      },
+      "latitude": 39.2581874,
+      "longitude": -94.53199216,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center",
-      "lastUpdated": "19/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/savers-community-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26753",
@@ -8027,18 +7347,16 @@
       "address": "915 W Liberty Dr, Kansas City, MO 64157",
       "street": "915 W Liberty Dr",
       "zip": "64157",
-      "coordinates": {
-        "lat": 42.408099123196,
-        "lng": -83.092428149554
-      },
+      "latitude": 39.240148,
+      "longitude": -94.434919,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/wild-child-resale",
-      "lastUpdated": "20/02/2030"
+      "permalink": "https://www.clothedonations.com/missouri/wild-child-resale/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26797",
@@ -8051,18 +7369,16 @@
       "address": "Independence, MO 64050",
       "street": "Independence",
       "zip": "64050",
-      "coordinates": {
-        "lat": 42.247764791346,
-        "lng": -88.973204831064
-      },
+      "latitude": 39.09429629,
+      "longitude": -94.41506894,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store",
-      "lastUpdated": "5/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/red-racks-dav-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26798",
@@ -8075,18 +7391,16 @@
       "address": "401 N Liberty St, Independence, MO 64051",
       "street": "401 N Liberty St",
       "zip": "64051",
-      "coordinates": {
-        "lat": 42.265200371924,
-        "lng": -88.979968891818
-      },
+      "latitude": 39.094743,
+      "longitude": -94.416752,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/mustard-seed",
-      "lastUpdated": "6/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/mustard-seed/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26799",
@@ -8099,18 +7413,16 @@
       "address": "14700 E Truman Rd, Independence, MO 64051",
       "street": "14700 E Truman Rd",
       "zip": "64051",
-      "coordinates": {
-        "lat": 42.26235660867,
-        "lng": -89.056145420403
-      },
+      "latitude": 39.09355322,
+      "longitude": -94.40677188,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army,-independence,-mo",
-      "lastUpdated": "7/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/the-salvation-army,-independence,-mo/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26800",
@@ -8123,18 +7435,16 @@
       "address": "Independence, MO 64051",
       "street": "Independence",
       "zip": "64051",
-      "coordinates": {
-        "lat": 43.210404996704,
-        "lng": -77.706945628694
-      },
+      "latitude": 39.0924792,
+      "longitude": -94.4137923,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/24-thrift-&-tique",
-      "lastUpdated": "8/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/24-thrift-&-tique/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26801",
@@ -8147,18 +7457,16 @@
       "address": "404 N Noland Rd, Independence, MO 64051",
       "street": "404 N Noland Rd",
       "zip": "64051",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.09449245,
+      "longitude": -94.41265127,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/community-services-league",
-      "lastUpdated": "9/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/community-services-league/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26802",
@@ -8171,18 +7479,16 @@
       "address": "1102 NW Woods Chapel Rd, Independence, MO 64051",
       "street": "1102 NW Woods Chapel Rd",
       "zip": "64051",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.0302824,
+      "longitude": -94.3030705,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/city-thrift-outlet-and-donation-center",
-      "lastUpdated": "10/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/city-thrift-outlet-and-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26803",
@@ -8195,18 +7501,16 @@
       "address": "931 Brown St, Independence, MO 64051",
       "street": "931 Brown St",
       "zip": "64051",
-      "coordinates": {
-        "lat": 42.254049703963,
-        "lng": -89.080986695363
-      },
+      "latitude": 39.028894,
+      "longitude": -94.280637,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/manor-thrift-shop",
-      "lastUpdated": "11/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/manor-thrift-shop/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26804",
@@ -8219,18 +7523,16 @@
       "address": "10813 East 23rd St S, Independence, MO 64052",
       "street": "10813 East 23rd St S",
       "zip": "64052",
-      "coordinates": {
-        "lat": 43.094652817374,
-        "lng": -77.615131974787
-      },
+      "latitude": 39.0803624,
+      "longitude": -94.4452919,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/cozy-corner-thrift",
-      "lastUpdated": "12/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/cozy-corner-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26805",
@@ -8243,18 +7545,16 @@
       "address": "10100 E Truman Rd, Independence, MO 64052",
       "street": "10100 E Truman Rd",
       "zip": "64052",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 39.095437,
+      "longitude": -94.458421,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/another-ones-treasure",
-      "lastUpdated": "13/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/another-ones-treasure/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26806",
@@ -8267,18 +7567,16 @@
       "address": "3883 Blue Ridge Blvd, Independence, MO 64052",
       "street": "3883 Blue Ridge Blvd",
       "zip": "64052",
-      "coordinates": {
-        "lat": 43.199672581425,
-        "lng": -77.561840238615
-      },
+      "latitude": 39.0515725,
+      "longitude": -94.44152036,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/life-connection-church---food-distribution-center",
-      "lastUpdated": "14/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/life-connection-church---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26807",
@@ -8291,18 +7589,16 @@
       "address": "9623 E Independence Ave, Independence, MO 64052",
       "street": "9623 E Independence Ave",
       "zip": "64052",
-      "coordinates": {
-        "lat": 42.269089453822,
-        "lng": -88.999267927481
-      },
+      "latitude": 39.102782,
+      "longitude": -94.462788,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/mount-washington-baptist-church---food-distribution-center",
-      "lastUpdated": "15/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/mount-washington-baptist-church---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26808",
@@ -8315,18 +7611,16 @@
       "address": "217 S Cedar Ave, Independence, MO 64052",
       "street": "217 S Cedar Ave",
       "zip": "64052",
-      "coordinates": {
-        "lat": 42.266330902413,
-        "lng": -88.962716789635
-      },
+      "latitude": 39.10801365,
+      "longitude": -94.45766892,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/fairmount-community-center",
-      "lastUpdated": "16/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/fairmount-community-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26809",
@@ -8339,18 +7633,16 @@
       "address": "401 N Spring St, Independence, MO 64053",
       "street": "401 N Spring St",
       "zip": "64053",
-      "coordinates": {
-        "lat": 43.08662186397,
-        "lng": -77.637181613177
-      },
+      "latitude": 39.09483085,
+      "longitude": -94.41947715,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/hillcrest-ministries",
-      "lastUpdated": "17/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/hillcrest-ministries/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26810",
@@ -8363,18 +7655,16 @@
       "address": "1527 S Noland Rd, Independence, MO 64055",
       "street": "1527 S Noland Rd",
       "zip": "64055",
-      "coordinates": {
-        "lat": 43.072480078203,
-        "lng": -77.607155897363
-      },
+      "latitude": 39.07334057,
+      "longitude": -94.41398027,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/thrift-therapy",
-      "lastUpdated": "18/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/thrift-therapy/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26811",
@@ -8387,18 +7677,16 @@
       "address": "505 N Dodgion St, Independence, MO 64055",
       "street": "505 N Dodgion St",
       "zip": "64055",
-      "coordinates": {
-        "lat": 42.265520802163,
-        "lng": -89.082359764725
-      },
+      "latitude": 39.094436,
+      "longitude": -94.410777,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/missouri/truman-heritage-habitat-for-humanity-independence-restore",
-      "lastUpdated": "19/04/2030"
+      "permalink": "https://www.clothedonations.com/missouri/truman-heritage-habitat-for-humanity-independence-restore/",
+      "lastUpdated": "5/05/2025"
     }
   ]
 }

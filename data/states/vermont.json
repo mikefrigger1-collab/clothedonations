@@ -13,10 +13,8 @@
       "address": "1 Field Ave, Rutland, VT 05701, USA",
       "street": "1 Field Avenue",
       "zip": "5702",
-      "coordinates": {
-        "lat": 43.626569,
-        "lng": -72.97627
-      },
+      "latitude": 43.626569,
+      "longitude": -72.97627,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "215 North St, Bennington, VT 05201, USA",
       "street": "215 North Street",
       "zip": "5201",
-      "coordinates": {
-        "lat": 42.882224,
-        "lng": -73.196266
-      },
+      "latitude": 42.882224,
+      "longitude": -73.196266,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -62,10 +58,8 @@
       "address": "230 N Main St, Rutland, VT 05701, USA",
       "street": "230 North Main Street",
       "zip": "5701",
-      "coordinates": {
-        "lat": 43.625133,
-        "lng": -72.97496
-      },
+      "latitude": 43.625133,
+      "longitude": -72.97496,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -86,10 +80,8 @@
       "address": "1080 Shelburne Rd, South Burlington, VT 05403, USA",
       "street": "1080 Shelburne Road",
       "zip": "5403",
-      "coordinates": {
-        "lat": 44.43904,
-        "lng": -73.209543
-      },
+      "latitude": 44.43904,
+      "longitude": -73.209543,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -110,10 +102,8 @@
       "address": "64 Harvest Ln, Williston, VT 05495, USA",
       "street": "64 Harvest Lane",
       "zip": "5495",
-      "coordinates": {
-        "lat": 44.451551,
-        "lng": -73.118846
-      },
+      "latitude": 44.451551,
+      "longitude": -73.118846,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",

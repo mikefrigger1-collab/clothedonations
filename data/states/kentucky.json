@@ -13,10 +13,8 @@
       "address": "The Molloy Building, 1100 W Pike St, Covington, KY 41011, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.075452,
-        "lng": -84.523412
-      },
+      "latitude": 39.075452,
+      "longitude": -84.523412,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "202 W Pleasant St, Cynthiana, KY 41031, USA",
       "street": "202 West Pleasant Street",
       "zip": "41031",
-      "coordinates": {
-        "lat": 38.390949,
-        "lng": -84.29916
-      },
+      "latitude": 38.390949,
+      "longitude": -84.29916,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "525 Graves Ave, Erlanger, KY 41018, USA",
       "street": "525 Graves Avenue",
       "zip": "41018",
-      "coordinates": {
-        "lat": 39.022934,
-        "lng": -84.610339
-      },
+      "latitude": 39.022934,
+      "longitude": -84.610339,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "100 Washington Square, Georgetown, KY 40324, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.190675,
-        "lng": -84.559522
-      },
+      "latitude": 38.190675,
+      "longitude": -84.559522,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "319 E Main St, Georgetown, KY 40324, USA",
       "street": "319 East Main Street",
       "zip": "40324",
-      "coordinates": {
-        "lat": 38.209964,
-        "lng": -84.556472
-      },
+      "latitude": 38.209964,
+      "longitude": -84.556472,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "825 Lindbergh Ct, Hebron, KY 41048, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.079338,
-        "lng": -84.660205
-      },
+      "latitude": 39.079338,
+      "longitude": -84.660205,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -163,10 +151,8 @@
       "address": "2285 Versailles Rd, Lexington, KY 40504, USA",
       "street": "2285 Versailles Road",
       "zip": "40504",
-      "coordinates": {
-        "lat": 38.047565,
-        "lng": -84.551457
-      },
+      "latitude": 38.047565,
+      "longitude": -84.551457,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -188,10 +174,8 @@
       "address": "2520 Nicholasville Rd, Lexington, KY 40503, USA",
       "street": "2520 Nicholasville Road",
       "zip": "40503",
-      "coordinates": {
-        "lat": 37.998283,
-        "lng": -84.518428
-      },
+      "latitude": 37.998283,
+      "longitude": -84.518428,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -213,10 +197,8 @@
       "address": "3090 Helmsdale Pl, Lexington, KY 40509, USA",
       "street": "3090 Helmsdale Place",
       "zip": "40509",
-      "coordinates": {
-        "lat": 38.010728,
-        "lng": -84.421534
-      },
+      "latitude": 38.010728,
+      "longitude": -84.421534,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -238,10 +220,8 @@
       "address": "3160 Beaumont Centre Cir, Lexington, KY 40513, USA",
       "street": "3160 Beaumont Centre Circle",
       "zip": "40513",
-      "coordinates": {
-        "lat": 38.020031,
-        "lng": -84.557276
-      },
+      "latitude": 38.020031,
+      "longitude": -84.557276,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -263,10 +243,8 @@
       "address": "3330 Partner Pl, Lexington, KY 40503, USA",
       "street": "3330 Partner Place",
       "zip": "40503",
-      "coordinates": {
-        "lat": 37.995294,
-        "lng": -84.545417
-      },
+      "latitude": 37.995294,
+      "longitude": -84.545417,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -288,10 +266,8 @@
       "address": "736 W Main St, Lexington, KY 40508, USA",
       "street": "736 West Main Street",
       "zip": "40508",
-      "coordinates": {
-        "lat": 38.052835,
-        "lng": -84.505259
-      },
+      "latitude": 38.052835,
+      "longitude": -84.505259,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -313,10 +289,8 @@
       "address": "340 W 10th St, Newport, KY 41071, USA",
       "street": "340 West 10th Street",
       "zip": "41071",
-      "coordinates": {
-        "lat": 39.083231,
-        "lng": -84.495568
-      },
+      "latitude": 39.083231,
+      "longitude": -84.495568,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -338,10 +312,8 @@
       "address": "205 S 1st St, Nicholasville, KY 40356, USA",
       "street": "205 South 1st Street",
       "zip": "40356",
-      "coordinates": {
-        "lat": 37.879142,
-        "lng": -84.574686
-      },
+      "latitude": 37.879142,
+      "longitude": -84.574686,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -363,10 +335,8 @@
       "address": "1803 US-25E Scenic, Barbourville, KY 40906, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.852243,
-        "lng": -83.856953
-      },
+      "latitude": 36.852243,
+      "longitude": -83.856953,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -387,10 +357,8 @@
       "address": "1803 US-25E Scenic, Barbourville, KY 40906, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.852243,
-        "lng": -83.856953
-      },
+      "latitude": 36.852243,
+      "longitude": -83.856953,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -411,10 +379,8 @@
       "address": "219 Padgett St, Bardstown, KY 40004, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.829018,
-        "lng": -85.462092
-      },
+      "latitude": 37.829018,
+      "longitude": -85.462092,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -435,10 +401,8 @@
       "address": "112 Prince Royal Dr, Berea, KY 40403, USA",
       "street": "112 Prince Royal Drive",
       "zip": "40403",
-      "coordinates": {
-        "lat": 37.571042,
-        "lng": -84.309907
-      },
+      "latitude": 37.571042,
+      "longitude": -84.309907,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -459,10 +423,8 @@
       "address": "112 Prince Royal Dr, Berea, KY 40403, USA",
       "street": "112 Prince Royal Drive",
       "zip": "40403",
-      "coordinates": {
-        "lat": 37.571042,
-        "lng": -84.309907
-      },
+      "latitude": 37.571042,
+      "longitude": -84.309907,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -483,10 +445,8 @@
       "address": "1806 U.S. 31 W Bypass, Bowling Green, KY 42101, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.978787,
-        "lng": -86.453803
-      },
+      "latitude": 36.978787,
+      "longitude": -86.453803,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -507,10 +467,8 @@
       "address": "5395 Scottsville Rd, Bowling Green, KY 42104, USA",
       "street": "5395 Scottsville Road",
       "zip": "42104",
-      "coordinates": {
-        "lat": 36.922004,
-        "lng": -86.410324
-      },
+      "latitude": 36.922004,
+      "longitude": -86.410324,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -531,10 +489,8 @@
       "address": "740 U.S. 31 W Bypass, Bowling Green, KY 42101, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.985342,
-        "lng": -86.430712
-      },
+      "latitude": 36.985342,
+      "longitude": -86.430712,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -555,10 +511,8 @@
       "address": "808 Campbell Ln, Bowling Green, KY 42101, USA",
       "street": "808 Campbell Lane",
       "zip": "42104",
-      "coordinates": {
-        "lat": 36.962022,
-        "lng": -86.461145
-      },
+      "latitude": 36.962022,
+      "longitude": -86.461145,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -579,10 +533,8 @@
       "address": "550 Campbellsville Bypass, Campbellsville, KY 42718, USA",
       "street": "550 Campbellsville Bypass",
       "zip": "42718",
-      "coordinates": {
-        "lat": 37.3457,
-        "lng": -85.369371
-      },
+      "latitude": 37.3457,
+      "longitude": -85.369371,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -603,10 +555,8 @@
       "address": "220 S 2nd St, Central City, KY 42330, USA",
       "street": "South 2nd Street",
       "zip": "42330",
-      "coordinates": {
-        "lat": 37.29114,
-        "lng": -87.120855
-      },
+      "latitude": 37.29114,
+      "longitude": -87.120855,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -627,10 +577,8 @@
       "address": "212 Dohoney Trce, Columbia, KY 42728, USA",
       "street": "212 Dohoney Trace",
       "zip": "42728",
-      "coordinates": {
-        "lat": 37.077842,
-        "lng": -85.334257
-      },
+      "latitude": 37.077842,
+      "longitude": -85.334257,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -651,10 +599,8 @@
       "address": "6438 KY-146, Crestwood, KY 40014, USA",
       "street": "Lagrange Road",
       "zip": "40014",
-      "coordinates": {
-        "lat": 38.327639,
-        "lng": -85.466443
-      },
+      "latitude": 38.327639,
+      "longitude": -85.466443,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -675,10 +621,8 @@
       "address": "252 Skywatch Dr, Danville, KY 40422, USA",
       "street": "Skywatch Drive",
       "zip": "40422",
-      "coordinates": {
-        "lat": 37.617702,
-        "lng": -84.785321
-      },
+      "latitude": 37.617702,
+      "longitude": -84.785321,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -699,10 +643,8 @@
       "address": "2003 N Dixie Hwy, Elizabethtown, KY 42701, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.739242,
-        "lng": -85.888796
-      },
+      "latitude": 37.739242,
+      "longitude": -85.888796,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -723,10 +665,8 @@
       "address": "3032 Ring Rd, Elizabethtown, KY 42701, USA",
       "street": "3032 Ring Road",
       "zip": "42701",
-      "coordinates": {
-        "lat": 37.710994,
-        "lng": -85.839135
-      },
+      "latitude": 37.710994,
+      "longitude": -85.839135,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -747,10 +687,8 @@
       "address": "121 Arrowhead Ct, Frankfort, KY 40601, USA",
       "street": "Arrowhead Court",
       "zip": "40601",
-      "coordinates": {
-        "lat": 38.183997,
-        "lng": -84.818673
-      },
+      "latitude": 38.183997,
+      "longitude": -84.818673,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -771,10 +709,8 @@
       "address": "1002 Lexington Rd #8, Georgetown, KY 40324, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.189925,
-        "lng": -84.560498
-      },
+      "latitude": 38.189925,
+      "longitude": -84.560498,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -795,10 +731,8 @@
       "address": "212 S L Rogers Wells Blvd, Glasgow, KY 42141, USA",
       "street": "212 South L Rogers Wells Boulevard",
       "zip": "42141",
-      "coordinates": {
-        "lat": 36.997922,
-        "lng": -85.929616
-      },
+      "latitude": 36.997922,
+      "longitude": -85.929616,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -819,10 +753,8 @@
       "address": "108 Village Center Rd, Harlan, KY 40831, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.816301,
-        "lng": -83.316348
-      },
+      "latitude": 36.816301,
+      "longitude": -83.316348,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -843,10 +775,8 @@
       "address": "108 Village Center Rd, Harlan, KY 40831, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.816301,
-        "lng": -83.316348
-      },
+      "latitude": 36.816301,
+      "longitude": -83.316348,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -867,10 +797,8 @@
       "address": "908 S College St, Harrodsburg, KY 40330, USA",
       "street": "908 South College Street",
       "zip": "40330",
-      "coordinates": {
-        "lat": 37.744736,
-        "lng": -84.843027
-      },
+      "latitude": 37.744736,
+      "longitude": -84.843027,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -891,10 +819,8 @@
       "address": "908 S College St, Harrodsburg, KY 40330, USA",
       "street": "908 South College Street",
       "zip": "40330",
-      "coordinates": {
-        "lat": 37.744736,
-        "lng": -84.843027
-      },
+      "latitude": 37.744736,
+      "longitude": -84.843027,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -915,10 +841,8 @@
       "address": "154 Commerce Drive, Hazard, KY 41701, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.294488,
-        "lng": -83.217932
-      },
+      "latitude": 37.294488,
+      "longitude": -83.217932,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -939,10 +863,8 @@
       "address": "154 Commerce Drive, Hazard, KY 41701, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.294488,
-        "lng": -83.217932
-      },
+      "latitude": 37.294488,
+      "longitude": -83.217932,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -963,10 +885,8 @@
       "address": "2624 Fort Campbell Blvd, Hopkinsville, KY 42240, USA",
       "street": "2624 Fort Campbell Boulevard",
       "zip": "42240",
-      "coordinates": {
-        "lat": 36.842968,
-        "lng": -87.483069
-      },
+      "latitude": 36.842968,
+      "longitude": -87.483069,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -987,10 +907,8 @@
       "address": "1240 Anderson Crossing Dr, Lawrenceburg, KY 40342, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.018128,
-        "lng": -84.908921
-      },
+      "latitude": 38.018128,
+      "longitude": -84.908921,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1011,10 +929,8 @@
       "address": "730 W Main St, Lebanon, KY 40033, USA",
       "street": "730 West Main Street",
       "zip": "40033",
-      "coordinates": {
-        "lat": 37.560967,
-        "lng": -85.269054
-      },
+      "latitude": 37.560967,
+      "longitude": -85.269054,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1035,10 +951,8 @@
       "address": "130 W New Cir Rd #115, Lexington, KY 40505, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.065897,
-        "lng": -84.472718
-      },
+      "latitude": 38.065897,
+      "longitude": -84.472718,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1059,10 +973,8 @@
       "address": "130 W New Cir Rd STE 110, Lexington, KY 40505, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.065097,
-        "lng": -84.472235
-      },
+      "latitude": 38.065097,
+      "longitude": -84.472235,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1083,10 +995,8 @@
       "address": "130 W New Cir Rd STE 110, Lexington, KY 40505, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.065097,
-        "lng": -84.472235
-      },
+      "latitude": 38.065097,
+      "longitude": -84.472235,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1107,10 +1017,8 @@
       "address": "1441 Leestown Rd, Lexington, KY 40511, USA",
       "street": "1441 Leestown Road",
       "zip": "40511",
-      "coordinates": {
-        "lat": 38.064956,
-        "lng": -84.521318
-      },
+      "latitude": 38.064956,
+      "longitude": -84.521318,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1131,10 +1039,8 @@
       "address": "3101 Clays Mill Rd #102A, Lexington, KY 40503, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.002681,
-        "lng": -84.54548
-      },
+      "latitude": 38.002681,
+      "longitude": -84.54548,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1155,10 +1061,8 @@
       "address": "3130 Mapleleaf Dr, Lexington, KY 40509, USA",
       "street": "3130 Mapleleaf Drive",
       "zip": "40509",
-      "coordinates": {
-        "lat": 38.006154,
-        "lng": -84.427688
-      },
+      "latitude": 38.006154,
+      "longitude": -84.427688,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1179,10 +1083,8 @@
       "address": "3640 Boston Rd, Lexington, KY 40514, USA",
       "street": "3640 Boston Road",
       "zip": "40514",
-      "coordinates": {
-        "lat": 37.980524,
-        "lng": -84.550679
-      },
+      "latitude": 37.980524,
+      "longitude": -84.550679,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1203,10 +1105,8 @@
       "address": "4740 Hartland Pkwy, Lexington, KY 40515, USA",
       "street": "4740 Hartland Parkway",
       "zip": "40517",
-      "coordinates": {
-        "lat": 37.961242,
-        "lng": -84.480384
-      },
+      "latitude": 37.961242,
+      "longitude": -84.480384,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1227,10 +1127,8 @@
       "address": "829 S Main St, London, KY 40741, USA",
       "street": "829 South Main Street",
       "zip": "40741",
-      "coordinates": {
-        "lat": 37.122308,
-        "lng": -84.080262
-      },
+      "latitude": 37.122308,
+      "longitude": -84.080262,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1251,10 +1149,8 @@
       "address": "100 Huntington Ridge Dr, Louisville, KY 40223, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.241315,
-        "lng": -85.507037
-      },
+      "latitude": 38.241315,
+      "longitude": -85.507037,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1275,10 +1171,8 @@
       "address": "12616 Taylorsville Rd, Louisville, KY 40299, USA",
       "street": "12616 Taylorsville Road",
       "zip": "40299",
-      "coordinates": {
-        "lat": 38.187377,
-        "lng": -85.517167
-      },
+      "latitude": 38.187377,
+      "longitude": -85.517167,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1299,10 +1193,8 @@
       "address": "133 S Hurstbourne Pkwy, Louisville, KY 40222, USA",
       "street": "133 South Hurstbourne Parkway",
       "zip": "40222",
-      "coordinates": {
-        "lat": 38.244173,
-        "lng": -85.576044
-      },
+      "latitude": 38.244173,
+      "longitude": -85.576044,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1323,10 +1215,8 @@
       "address": "4000 McCollum Ct, Louisville, KY 40218, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.193838,
-        "lng": -85.664467
-      },
+      "latitude": 38.193838,
+      "longitude": -85.664467,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1347,10 +1237,8 @@
       "address": "4109 Taylorsville Rd, Louisville, KY 40220, USA",
       "street": "4109 Taylorsville Road",
       "zip": "40220",
-      "coordinates": {
-        "lat": 38.220327,
-        "lng": -85.619588
-      },
+      "latitude": 38.220327,
+      "longitude": -85.619588,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1371,10 +1259,8 @@
       "address": "4224 Shelbyville Rd, Louisville, KY 40207, USA",
       "street": "Shelbyville Road",
       "zip": "40207",
-      "coordinates": {
-        "lat": 38.251191,
-        "lng": -85.638389
-      },
+      "latitude": 38.251191,
+      "longitude": -85.638389,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1395,10 +1281,8 @@
       "address": "4840 Dixie Hwy, Louisville, KY 40216, USA",
       "street": "4840 Dixie Highway",
       "zip": "40216",
-      "coordinates": {
-        "lat": 38.171579,
-        "lng": -85.826586
-      },
+      "latitude": 38.171579,
+      "longitude": -85.826586,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1419,10 +1303,8 @@
       "address": "4950 US-42, Louisville, KY 40222, USA",
       "street": "US 42",
       "zip": "40059",
-      "coordinates": {
-        "lat": 38.285578,
-        "lng": -85.630881
-      },
+      "latitude": 38.285578,
+      "longitude": -85.630881,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1443,10 +1325,8 @@
       "address": "5117 Antle Dr, Louisville, KY 40229, USA",
       "street": "5117 Antle Drive",
       "zip": "40229",
-      "coordinates": {
-        "lat": 38.087922,
-        "lng": -85.669061
-      },
+      "latitude": 38.087922,
+      "longitude": -85.669061,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1467,10 +1347,8 @@
       "address": "5230 Bardstown Rd, Louisville, KY 40291, USA",
       "street": "5230 Bardstown Road",
       "zip": "40291",
-      "coordinates": {
-        "lat": 38.169527,
-        "lng": -85.607166
-      },
+      "latitude": 38.169527,
+      "longitude": -85.607166,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1491,10 +1369,8 @@
       "address": "5601 Outer Loop, Louisville, KY 40219, USA",
       "street": "5601 Outer Loop",
       "zip": "40219",
-      "coordinates": {
-        "lat": 38.139588,
-        "lng": -85.656998
-      },
+      "latitude": 38.139588,
+      "longitude": -85.656998,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1515,10 +1391,8 @@
       "address": "909 E Broadway, Louisville, KY 40204, USA",
       "street": "909 East Broadway",
       "zip": "40204",
-      "coordinates": {
-        "lat": 38.24489,
-        "lng": -85.736939
-      },
+      "latitude": 38.24489,
+      "longitude": -85.736939,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1539,10 +1413,8 @@
       "address": "909 E Broadway, Louisville, KY 40204, USA",
       "street": "909 East Broadway",
       "zip": "40204",
-      "coordinates": {
-        "lat": 38.24489,
-        "lng": -85.736939
-      },
+      "latitude": 38.24489,
+      "longitude": -85.736939,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1563,10 +1435,8 @@
       "address": "962 E Chestnut St, Louisville, KY 40204, USA",
       "street": "962 East Chestnut Street",
       "zip": "40204",
-      "coordinates": {
-        "lat": 38.247093,
-        "lng": -85.734233
-      },
+      "latitude": 38.247093,
+      "longitude": -85.734233,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1587,10 +1457,8 @@
       "address": "1235 Paris Rd, Mayfield, KY 42066, USA",
       "street": "1235 Paris Road",
       "zip": "42066",
-      "coordinates": {
-        "lat": 36.720562,
-        "lng": -88.626887
-      },
+      "latitude": 36.720562,
+      "longitude": -88.626887,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1611,10 +1479,8 @@
       "address": "505 Market Place Drive, Maysville, KY 41056, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.628977,
-        "lng": -83.79327
-      },
+      "latitude": 38.628977,
+      "longitude": -83.79327,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1635,10 +1501,8 @@
       "address": "710 N 12th St, Middlesboro, KY 40965, USA",
       "street": "North 12th Street",
       "zip": "40864",
-      "coordinates": {
-        "lat": 36.61303,
-        "lng": -83.70203
-      },
+      "latitude": 36.61303,
+      "longitude": -83.70203,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1659,10 +1523,8 @@
       "address": "206 Kroger Center Dr, Morehead, KY 40351, USA",
       "street": "Kroger Center Drive",
       "zip": "40351",
-      "coordinates": {
-        "lat": 38.194252,
-        "lng": -83.483144
-      },
+      "latitude": 38.194252,
+      "longitude": -83.483144,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1683,10 +1545,8 @@
       "address": "206 Kroger Center Dr, Morehead, KY 40351, USA",
       "street": "Kroger Center Drive",
       "zip": "40351",
-      "coordinates": {
-        "lat": 38.194252,
-        "lng": -83.483144
-      },
+      "latitude": 38.194252,
+      "longitude": -83.483144,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1707,10 +1567,8 @@
       "address": "900 Indian Mound Dr, Mt Sterling, KY 40353, USA",
       "street": "Indian Mound Drive",
       "zip": "40353",
-      "coordinates": {
-        "lat": 38.05881,
-        "lng": -83.955159
-      },
+      "latitude": 38.05881,
+      "longitude": -83.955159,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1731,10 +1589,8 @@
       "address": "337 Oakbrooke Dr #700, Mt Washington, KY 40047, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 38.054127,
-        "lng": -85.539377
-      },
+      "latitude": 38.054127,
+      "longitude": -85.539377,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1755,10 +1611,8 @@
       "address": "1208 N 12th St, Murray, KY 42071, USA",
       "street": "1208 North 12th Street",
       "zip": "42071",
-      "coordinates": {
-        "lat": 36.628571,
-        "lng": -88.312579
-      },
+      "latitude": 36.628571,
+      "longitude": -88.312579,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1779,10 +1633,8 @@
       "address": "1051 N Main St, Nicholasville, KY 40356, USA",
       "street": "1051 North Main Street",
       "zip": "40356",
-      "coordinates": {
-        "lat": 37.901622,
-        "lng": -84.564556
-      },
+      "latitude": 37.901622,
+      "longitude": -84.564556,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1803,10 +1655,8 @@
       "address": "112 Bellerive Blvd #3, Nicholasville, KY 40356, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.98495,
-        "lng": -84.591196
-      },
+      "latitude": 37.98495,
+      "longitude": -84.591196,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1827,10 +1677,8 @@
       "address": "301 E Brannon Rd, Nicholasville, KY 40356, USA",
       "street": "East Brannon Road",
       "zip": "40514",
-      "coordinates": {
-        "lat": 37.956338,
-        "lng": -84.533605
-      },
+      "latitude": 37.956338,
+      "longitude": -84.533605,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1851,10 +1699,8 @@
       "address": "2560 Lone Oak Rd, Paducah, KY 42003, USA",
       "street": "2560 Lone Oak Road",
       "zip": "42003",
-      "coordinates": {
-        "lat": 37.041747,
-        "lng": -88.658386
-      },
+      "latitude": 37.041747,
+      "longitude": -88.658386,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1875,10 +1721,8 @@
       "address": "2560 Lone Oak Rd, Paducah, KY 42003, USA",
       "street": "2560 Lone Oak Road",
       "zip": "42003",
-      "coordinates": {
-        "lat": 37.041747,
-        "lng": -88.658386
-      },
+      "latitude": 37.041747,
+      "longitude": -88.658386,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1899,10 +1743,8 @@
       "address": "343 S Mayo Trail, Paintsville, KY 41240, USA",
       "street": "South Mayo Trail",
       "zip": "41240",
-      "coordinates": {
-        "lat": 37.810414,
-        "lng": -82.803991
-      },
+      "latitude": 37.810414,
+      "longitude": -82.803991,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1923,10 +1765,8 @@
       "address": "118 Matlack St, Paris, KY 40361, USA",
       "street": "118 Matlack Street",
       "zip": "40361",
-      "coordinates": {
-        "lat": 38.191428,
-        "lng": -84.279191
-      },
+      "latitude": 38.191428,
+      "longitude": -84.279191,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1947,10 +1787,8 @@
       "address": "4493 N Mayo Trail, Pikeville, KY 41501, USA",
       "street": "4493 North Mayo Trail",
       "zip": "41501",
-      "coordinates": {
-        "lat": 37.527082,
-        "lng": -82.575532
-      },
+      "latitude": 37.527082,
+      "longitude": -82.575532,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1971,10 +1809,8 @@
       "address": "15007 US-25E Scenic, Pineville, KY 40977, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 36.774754,
-        "lng": -83.734777
-      },
+      "latitude": 36.774754,
+      "longitude": -83.734777,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -1995,10 +1831,8 @@
       "address": "355 Village Dr, Prestonsburg, KY 41653, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.65647,
-        "lng": -82.781567
-      },
+      "latitude": 37.65647,
+      "longitude": -82.781567,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2019,10 +1853,8 @@
       "address": "355 Village Dr, Prestonsburg, KY 41653, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.65647,
-        "lng": -82.781567
-      },
+      "latitude": 37.65647,
+      "longitude": -82.781567,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2043,10 +1875,8 @@
       "address": "175 W Lincoln Trail Blvd, Radcliff, KY 40160, USA",
       "street": "175 West Lincoln Trail Boulevard",
       "zip": "40160",
-      "coordinates": {
-        "lat": 37.839247,
-        "lng": -85.941832
-      },
+      "latitude": 37.839247,
+      "longitude": -85.941832,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2067,10 +1897,8 @@
       "address": "670 University Shopping Ctr, Richmond, KY 40475, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.73506,
-        "lng": -84.307998
-      },
+      "latitude": 37.73506,
+      "longitude": -84.307998,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2091,10 +1919,8 @@
       "address": "450 Boone Station Rd, Shelbyville, KY 40065, USA",
       "street": "Boone Station Road",
       "zip": "40065",
-      "coordinates": {
-        "lat": 38.217253,
-        "lng": -85.203085
-      },
+      "latitude": 38.217253,
+      "longitude": -85.203085,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2115,10 +1941,8 @@
       "address": "513 Adam Shepherd Pkwy, Shepherdsville, KY 40165, USA",
       "street": "Adam Shepherd Parkway",
       "zip": "40165",
-      "coordinates": {
-        "lat": 37.995145,
-        "lng": -85.711585
-      },
+      "latitude": 37.995145,
+      "longitude": -85.711585,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2139,10 +1963,8 @@
       "address": "5828 S Hwy 27, Somerset, KY 42501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.020158,
-        "lng": -84.626501
-      },
+      "latitude": 37.020158,
+      "longitude": -84.626501,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2163,10 +1985,8 @@
       "address": "370 S Hwy 27 #9A, Somerset, KY 42501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.09004,
-        "lng": -84.615569
-      },
+      "latitude": 37.09004,
+      "longitude": -84.615569,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2187,10 +2007,8 @@
       "address": "5830 S Hwy 27, Somerset, KY 42501, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.020246,
-        "lng": -84.627166
-      },
+      "latitude": 37.020246,
+      "longitude": -84.627166,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2211,10 +2029,8 @@
       "address": "101 US-150 #101, Stanford, KY 40484, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 37.539986,
-        "lng": -84.653785
-      },
+      "latitude": 37.539986,
+      "longitude": -84.653785,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2235,10 +2051,8 @@
       "address": "399 Kroger Way, Versailles, KY 40383, USA",
       "street": "Kroger Way",
       "zip": "40383",
-      "coordinates": {
-        "lat": 38.051749,
-        "lng": -84.713332
-      },
+      "latitude": 38.051749,
+      "longitude": -84.713332,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2259,10 +2073,8 @@
       "address": "729 KY-92, Williamsburg, KY 40769, USA",
       "street": "US 25W;KY 92",
       "zip": "40769",
-      "coordinates": {
-        "lat": 36.722002,
-        "lng": -84.173476
-      },
+      "latitude": 36.722002,
+      "longitude": -84.173476,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2283,10 +2095,8 @@
       "address": "1509 Bypass Rd, Winchester, KY 40391, USA",
       "street": "1509 Bypass Road",
       "zip": "40391",
-      "coordinates": {
-        "lat": 37.995929,
-        "lng": -84.216558
-      },
+      "latitude": 37.995929,
+      "longitude": -84.216558,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -2307,10 +2117,8 @@
       "address": "10280 Shelbyville Rd, Blue Ridge Manor, KY 40223, USA",
       "street": "10280 Shelbyville Road",
       "zip": "40223",
-      "coordinates": {
-        "lat": 38.244843,
-        "lng": -85.563782
-      },
+      "latitude": 38.244843,
+      "longitude": -85.563782,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2330,10 +2138,8 @@
       "address": "2655 Crescent Springs Pike, Covington, KY 41017, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 39.046348,
-        "lng": -84.583709
-      },
+      "latitude": 39.046348,
+      "longitude": -84.583709,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2353,10 +2159,8 @@
       "address": "518 Barkley St, Falmouth, KY 41040, USA",
       "street": "518 Barkley Street",
       "zip": "41040",
-      "coordinates": {
-        "lat": 38.676294,
-        "lng": -84.340257
-      },
+      "latitude": 38.676294,
+      "longitude": -84.340257,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2376,10 +2180,8 @@
       "address": "7110 Turfway Rd, Florence, KY 41042, USA",
       "street": "7110 Turfway Road",
       "zip": "41042",
-      "coordinates": {
-        "lat": 39.005864,
-        "lng": -84.620992
-      },
+      "latitude": 39.005864,
+      "longitude": -84.620992,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2399,10 +2201,8 @@
       "address": "2217 Hikes Ln, Louisville, KY 40218, USA",
       "street": "2217 Hikes Lane",
       "zip": "40218",
-      "coordinates": {
-        "lat": 38.200518,
-        "lng": -85.660247
-      },
+      "latitude": 38.200518,
+      "longitude": -85.660247,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2422,10 +2222,8 @@
       "address": "248 E Market St, Louisville, KY 40202, USA",
       "street": "248 East Market Street",
       "zip": "40202",
-      "coordinates": {
-        "lat": 38.254077,
-        "lng": -85.748679
-      },
+      "latitude": 38.254077,
+      "longitude": -85.748679,
       "acceptedMaterials": [
         "Clothing",
         "Homewares"
@@ -2445,18 +2243,16 @@
       "address": "982 Eastern Parkway, Louisville, KY 40201",
       "street": "982 Eastern Parkway",
       "zip": "40201",
-      "coordinates": {
-        "lat": 43.204865261969,
-        "lng": -77.696302748359
-      },
+      "latitude": 38.219262,
+      "longitude": -85.733479,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/kosair-for-kids-sam-swope-center",
-      "lastUpdated": "20/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/kosair-for-kids-sam-swope-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26813",
@@ -2469,18 +2265,16 @@
       "address": "Louisville, KY 40201",
       "street": "Louisville",
       "zip": "40201",
-      "coordinates": {
-        "lat": 42.261468868523,
-        "lng": -89.082163942243
-      },
+      "latitude": 38.2542376,
+      "longitude": -85.759407,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/loadup-junk-removal",
-      "lastUpdated": "21/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/loadup-junk-removal/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26814",
@@ -2493,18 +2287,16 @@
       "address": "1015 S Preston St, Louisville, KY 40201",
       "street": "1015 S Preston St",
       "zip": "40201",
-      "coordinates": {
-        "lat": 43.209672473455,
-        "lng": -77.69510766423
-      },
+      "latitude": 38.2368754,
+      "longitude": -85.74798022,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville",
-      "lastUpdated": "22/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26815",
@@ -2517,18 +2309,16 @@
       "address": "216 W Chestnut St, Louisville, KY 40201",
       "street": "216 W Chestnut St",
       "zip": "40201",
-      "coordinates": {
-        "lat": 42.305217242045,
-        "lng": -88.976722354392
-      },
+      "latitude": 38.24846975,
+      "longitude": -85.75548991,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-ky/tn-divisional-headquarters",
-      "lastUpdated": "23/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-ky/tn-divisional-headquarters/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26816",
@@ -2541,18 +2331,16 @@
       "address": "909 E Broadway, Louisville, KY 40201",
       "street": "909 E Broadway",
       "zip": "40201",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.244884,
+      "longitude": -85.736769,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-opportunity-center---metro-louisville",
-      "lastUpdated": "24/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-opportunity-center---metro-louisville/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26817",
@@ -2565,18 +2353,16 @@
       "address": "909 E Broadway, Louisville, KY 40201",
       "street": "909 E Broadway",
       "zip": "40201",
-      "coordinates": {
-        "lat": 42.232063169797,
-        "lng": -89.013709721596
-      },
+      "latitude": 38.244884,
+      "longitude": -85.736769,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "25/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26818",
@@ -2589,18 +2375,16 @@
       "address": "Clothing Assistance Program, 1400 W Jefferson St, Louisville, KY 40201",
       "street": "Clothing Assistance Program",
       "zip": "40201",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2553466,
+      "longitude": -85.77401032,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/clothing-assistance-program",
-      "lastUpdated": "26/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/clothing-assistance-program/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26819",
@@ -2613,18 +2397,16 @@
       "address": "2722 Crittenden Dr, Louisville, KY 40201",
       "street": "2722 Crittenden Dr",
       "zip": "40201",
-      "coordinates": {
-        "lat": 42.261700453943,
-        "lng": -88.980128233622
-      },
+      "latitude": 38.2043799,
+      "longitude": -85.75121702,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/dress-for-success-louisville",
-      "lastUpdated": "27/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/dress-for-success-louisville/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26820",
@@ -2637,18 +2419,16 @@
       "address": "10280 Shelbyville Rd, Louisville, KY 40201",
       "street": "10280 Shelbyville Rd",
       "zip": "40201",
-      "coordinates": {
-        "lat": 43.198311538481,
-        "lng": -77.627794446168
-      },
+      "latitude": 38.244822,
+      "longitude": -85.563838,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-thrift-store",
-      "lastUpdated": "28/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26821",
@@ -2661,18 +2441,16 @@
       "address": "8633 Preston Hwy, Louisville, KY 40201",
       "street": "8633 Preston Hwy",
       "zip": "40201",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.1283395,
+      "longitude": -85.6796746,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-thrift-store",
-      "lastUpdated": "29/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26822",
@@ -2685,18 +2463,16 @@
       "address": "2217 Hikes Ln, Louisville, KY 40201",
       "street": "2217 Hikes Ln",
       "zip": "40201",
-      "coordinates": {
-        "lat": 43.143519428674,
-        "lng": -77.653820372978
-      },
+      "latitude": 38.2005348,
+      "longitude": -85.6603211,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-thrift-store",
-      "lastUpdated": "30/04/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26823",
@@ -2709,18 +2485,16 @@
       "address": "1250 Bardstown Rd Suite 24, Louisville, KY 40201",
       "street": "1250 Bardstown Rd Suite 24",
       "zip": "40201",
-      "coordinates": {
-        "lat": 40.694574130821,
-        "lng": -89.585352665815
-      },
+      "latitude": 38.234783,
+      "longitude": -85.71769136,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/nearly-new-shop",
-      "lastUpdated": "1/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/nearly-new-shop/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26824",
@@ -2733,18 +2507,16 @@
       "address": "550 S 1st St, Louisville, KY 40201",
       "street": "550 S 1st St",
       "zip": "40201",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.248977,
+      "longitude": -85.753073,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/ronald-mcdonald-house",
-      "lastUpdated": "2/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/ronald-mcdonald-house/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26825",
@@ -2757,18 +2529,16 @@
       "address": "2338 Lexington Rd, Louisville, KY 40201",
       "street": "2338 Lexington Rd",
       "zip": "40201",
-      "coordinates": {
-        "lat": 40.687838939398,
-        "lng": -89.595937198543
-      },
+      "latitude": 38.24520855,
+      "longitude": -85.70287797,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-attended-donation-center",
-      "lastUpdated": "3/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-attended-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26826",
@@ -2781,18 +2551,16 @@
       "address": "4425 Shelbyville Rd, Louisville, KY 40201",
       "street": "4425 Shelbyville Rd",
       "zip": "40201",
-      "coordinates": {
-        "lat": 43.144419277795,
-        "lng": -77.549612459758
-      },
+      "latitude": 38.251554,
+      "longitude": -85.634097,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "4/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26827",
@@ -2805,18 +2573,16 @@
       "address": "432 E Jefferson St, Louisville, KY 40201",
       "street": "432 E Jefferson St",
       "zip": "40201",
-      "coordinates": {
-        "lat": 40.732024666728,
-        "lng": -89.580074926833
-      },
+      "latitude": 38.25214745,
+      "longitude": -85.74495511,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/wayside-christian-mission",
-      "lastUpdated": "5/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/wayside-christian-mission/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26828",
@@ -2829,18 +2595,16 @@
       "address": "10290 Shelbyville Rd, Louisville, KY 40201",
       "street": "10290 Shelbyville Rd",
       "zip": "40201",
-      "coordinates": {
-        "lat": 43.128636128081,
-        "lng": -77.484608990768
-      },
+      "latitude": 38.244539,
+      "longitude": -85.563574,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-donation-center",
-      "lastUpdated": "6/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st.-vincent-de-paul-louisville-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26829",
@@ -2853,18 +2617,16 @@
       "address": "425 S 2nd St Suite 100, Louisville, KY 40201",
       "street": "425 S 2nd St Suite 100",
       "zip": "40201",
-      "coordinates": {
-        "lat": 42.274440011033,
-        "lng": -89.0452546179
-      },
+      "latitude": 38.2517292,
+      "longitude": -85.7537839,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/up-for-women-and-children",
-      "lastUpdated": "7/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/up-for-women-and-children/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26830",
@@ -2877,18 +2639,16 @@
       "address": "291 N Hubbards Ln, Louisville, KY 40201",
       "street": "291 N Hubbards Ln",
       "zip": "40201",
-      "coordinates": {
-        "lat": 43.152649109416,
-        "lng": -77.585195001297
-      },
+      "latitude": 38.258044,
+      "longitude": -85.638234,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/clothes-mentor-louisville,-ky-(st.-matthews)",
-      "lastUpdated": "8/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/clothes-mentor-louisville,-ky-(st.-matthews)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26831",
@@ -2901,18 +2661,16 @@
       "address": "331 N 19th St, Louisville, KY 40201",
       "street": "331 N 19th St",
       "zip": "40201",
-      "coordinates": {
-        "lat": 42.247966461481,
-        "lng": -89.070271596133
-      },
+      "latitude": 38.2631602,
+      "longitude": -85.7804493,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/louisville-thrift-store",
-      "lastUpdated": "9/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/louisville-thrift-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26832",
@@ -2925,18 +2683,16 @@
       "address": "835 E Gray St, Louisville, KY 40202",
       "street": "835 E Gray St",
       "zip": "40202",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.24585084,
+      "longitude": -85.73854769,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/golden-arrow",
-      "lastUpdated": "10/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/golden-arrow/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26833",
@@ -2949,18 +2705,16 @@
       "address": "435 E Broadway, Louisville, KY 40202",
       "street": "435 E Broadway",
       "zip": "40202",
-      "coordinates": {
-        "lat": 42.269273235938,
-        "lng": -89.088016195072
-      },
+      "latitude": 38.24549065,
+      "longitude": -85.74611681,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/catholic-charities-of-louisville",
-      "lastUpdated": "11/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/catholic-charities-of-louisville/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26834",
@@ -2973,18 +2727,16 @@
       "address": "637 Baxter Ave, Louisville, KY 40202",
       "street": "637 Baxter Ave",
       "zip": "40202",
-      "coordinates": {
-        "lat": 43.167348378056,
-        "lng": -77.69665486286
-      },
+      "latitude": 38.2453016,
+      "longitude": -85.72759342,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-umbrella-stand",
-      "lastUpdated": "12/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-umbrella-stand/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26835",
@@ -2997,18 +2749,16 @@
       "address": "911 S Brook St, Louisville, KY 40202",
       "street": "911 S Brook St",
       "zip": "40202",
-      "coordinates": {
-        "lat": 42.266330902413,
-        "lng": -88.962716789635
-      },
+      "latitude": 38.24033355,
+      "longitude": -85.75199285,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-salvation-army-usa---louisville-area-command",
-      "lastUpdated": "13/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-salvation-army-usa---louisville-area-command/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26836",
@@ -3021,18 +2771,16 @@
       "address": "500 E Caldwell St, Louisville, KY 40202",
       "street": "500 E Caldwell St",
       "zip": "40202",
-      "coordinates": {
-        "lat": 43.089478070446,
-        "lng": -77.641905604242
-      },
+      "latitude": 38.2387614,
+      "longitude": -85.746448,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/loaves-and-fishes-inc",
-      "lastUpdated": "14/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/loaves-and-fishes-inc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26837",
@@ -3045,18 +2793,16 @@
       "address": "435 E Broadway, Louisville, KY 40202",
       "street": "435 E Broadway",
       "zip": "40202",
-      "coordinates": {
-        "lat": 40.699600163658,
-        "lng": -89.602381866827
-      },
+      "latitude": 38.24549065,
+      "longitude": -85.74611681,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/catholic-charities-of-louisville-(including-migration-and-refugee-services)",
-      "lastUpdated": "15/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/catholic-charities-of-louisville-(including-migration-and-refugee-services)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26838",
@@ -3069,18 +2815,16 @@
       "address": "700 E Muhammad Ali Blvd, Louisville, KY 40202",
       "street": "700 E Muhammad Ali Blvd",
       "zip": "40202",
-      "coordinates": {
-        "lat": 43.165374650181,
-        "lng": -77.579509982767
-      },
+      "latitude": 38.249024,
+      "longitude": -85.74058416,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st-john-center",
-      "lastUpdated": "16/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st-john-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26839",
@@ -3093,18 +2837,16 @@
       "address": "730 E Gray St, Louisville, KY 40202",
       "street": "730 E Gray St",
       "zip": "40202",
-      "coordinates": {
-        "lat": 40.66358031453,
-        "lng": -89.574513555119
-      },
+      "latitude": 38.245482,
+      "longitude": -85.73996669,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st-martin-of-tours-schuhmann",
-      "lastUpdated": "17/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st-martin-of-tours-schuhmann/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26840",
@@ -3117,18 +2859,16 @@
       "address": "4109 Taylorsville Rd, Louisville, KY 40202",
       "street": "4109 Taylorsville Rd",
       "zip": "40202",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.22327842,
+      "longitude": -85.68372236,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "18/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26841",
@@ -3141,18 +2881,16 @@
       "address": "Louisville, KY 40202",
       "street": "Louisville",
       "zip": "40202",
-      "coordinates": {
-        "lat": 40.675610513473,
-        "lng": -89.642344269681
-      },
+      "latitude": 38.25122764,
+      "longitude": -85.74940436,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-re-tail-thrift-shop",
-      "lastUpdated": "19/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-re-tail-thrift-shop/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26842",
@@ -3165,18 +2903,16 @@
       "address": "4044 Taylorsville Rd, Louisville, KY 40202",
       "street": "4044 Taylorsville Rd",
       "zip": "40202",
-      "coordinates": {
-        "lat": 43.24617116263,
-        "lng": -77.646906422541
-      },
+      "latitude": 38.22327842,
+      "longitude": -85.68372236,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/habitat-for-humanity-louisville-restore---hikes-point",
-      "lastUpdated": "20/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/habitat-for-humanity-louisville-restore---hikes-point/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26843",
@@ -3189,18 +2925,16 @@
       "address": "994 Barret Ave, Louisville, KY 40202",
       "street": "994 Barret Ave",
       "zip": "40202",
-      "coordinates": {
-        "lat": 40.710884585979,
-        "lng": -89.638981695069
-      },
+      "latitude": 38.2365923,
+      "longitude": -85.7285156,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/fat-rabbit-thrift-&-vintage",
-      "lastUpdated": "21/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/fat-rabbit-thrift-&-vintage/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26844",
@@ -3213,18 +2947,16 @@
       "address": "3936 Taylorsville Rd, Louisville, KY 40202",
       "street": "3936 Taylorsville Rd",
       "zip": "40202",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.22327842,
+      "longitude": -85.68372236,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/hopeâ€™s-closet-of-kentucky",
-      "lastUpdated": "22/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/hopeâ€™s-closet-of-kentucky/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26845",
@@ -3237,18 +2969,16 @@
       "address": "1620 Bank St, Louisville, KY 40203",
       "street": "1620 Bank St",
       "zip": "40203",
-      "coordinates": {
-        "lat": 40.724359159962,
-        "lng": -89.612875889377
-      },
+      "latitude": 38.2610497,
+      "longitude": -85.7774077,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/habitat-for-humanity-of-metro-louisville---headquarters",
-      "lastUpdated": "23/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/habitat-for-humanity-of-metro-louisville---headquarters/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26846",
@@ -3261,18 +2991,16 @@
       "address": "748 S Preston St, Louisville, KY 40203",
       "street": "748 S Preston St",
       "zip": "40203",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.243322,
+      "longitude": -85.748105,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/franciscan-kitchen",
-      "lastUpdated": "24/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/franciscan-kitchen/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26847",
@@ -3285,18 +3013,16 @@
       "address": "1228 E Breckinridge St, Louisville, KY 40204",
       "street": "1228 E Breckinridge St",
       "zip": "40204",
-      "coordinates": {
-        "lat": 43.087278057847,
-        "lng": -77.609109364818
-      },
+      "latitude": 38.2399832,
+      "longitude": -85.7312534,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/highlands-community-ministries",
-      "lastUpdated": "25/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/highlands-community-ministries/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26848",
@@ -3309,18 +3035,16 @@
       "address": "982 Eastern Pkwy, Louisville, KY 40204",
       "street": "982 Eastern Pkwy",
       "zip": "40204",
-      "coordinates": {
-        "lat": 43.101541028827,
-        "lng": -77.696044633634
-      },
+      "latitude": 38.2192028,
+      "longitude": -85.733501,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/kosair-for-kids-sam-swope-center",
-      "lastUpdated": "26/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/kosair-for-kids-sam-swope-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26849",
@@ -3333,18 +3057,16 @@
       "address": "808 Clarks Ln, Louisville, KY 40204",
       "street": "808 Clarks Ln",
       "zip": "40204",
-      "coordinates": {
-        "lat": 40.68867584388,
-        "lng": -89.603963375867
-      },
+      "latitude": 38.2131073,
+      "longitude": -85.7408789,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/shop-of-found-things,-llc",
-      "lastUpdated": "27/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/shop-of-found-things,-llc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26850",
@@ -3357,18 +3079,16 @@
       "address": "1567 S Shelby St, Louisville, KY 40204",
       "street": "1567 S Shelby St",
       "zip": "40204",
-      "coordinates": {
-        "lat": 40.696773114808,
-        "lng": -89.592481497688
-      },
+      "latitude": 38.22227885,
+      "longitude": -85.74271595,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/amvets-preston-post",
-      "lastUpdated": "28/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/amvets-preston-post/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26851",
@@ -3381,18 +3101,16 @@
       "address": "2002 Newburg Rd, Louisville, KY 40205",
       "street": "2002 Newburg Rd",
       "zip": "40205",
-      "coordinates": {
-        "lat": 40.732105748464,
-        "lng": -89.585029234397
-      },
+      "latitude": 38.2184134,
+      "longitude": -85.71125621,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/sisters-of-charity-of-nazareth",
-      "lastUpdated": "29/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/sisters-of-charity-of-nazareth/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26852",
@@ -3405,18 +3123,16 @@
       "address": "6201 Preston Hwy Ste B, Louisville, KY 40205",
       "street": "6201 Preston Hwy Ste B",
       "zip": "40205",
-      "coordinates": {
-        "lat": 43.208116395963,
-        "lng": -77.684032954107
-      },
+      "latitude": 38.1612299,
+      "longitude": -85.6961126,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-outlet",
-      "lastUpdated": "30/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-outlet/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26853",
@@ -3429,18 +3145,16 @@
       "address": "Louisville, KY 40205",
       "street": "Louisville",
       "zip": "40205",
-      "coordinates": {
-        "lat": 40.699636413457,
-        "lng": -89.605349057057
-      },
+      "latitude": 38.22212286,
+      "longitude": -85.6868068,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "31/05/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26854",
@@ -3453,18 +3167,16 @@
       "address": "5230 Bardstown Rd, Louisville, KY 40205",
       "street": "5230 Bardstown Rd",
       "zip": "40205",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.1695711,
+      "longitude": -85.6071339,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "1/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26855",
@@ -3477,18 +3189,16 @@
       "address": "6201 Preston Hwy a, Louisville, KY 40206",
       "street": "6201 Preston Hwy a",
       "zip": "40206",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.1612299,
+      "longitude": -85.6961126,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-opportunity-center---south-louisville",
-      "lastUpdated": "2/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-opportunity-center---south-louisville/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26856",
@@ -3501,18 +3211,16 @@
       "address": "Louisville, KY 40207",
       "street": "Louisville",
       "zip": "40207",
-      "coordinates": {
-        "lat": 43.205871308811,
-        "lng": -77.665472015684
-      },
+      "latitude": 38.2542376,
+      "longitude": -85.759407,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/express",
-      "lastUpdated": "3/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/express/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26857",
@@ -3525,18 +3233,16 @@
       "address": "133 S Hurstbourne Pkwy, Louisville, KY 40207",
       "street": "133 S Hurstbourne Pkwy",
       "zip": "40207",
-      "coordinates": {
-        "lat": 40.734336136302,
-        "lng": -89.612735165505
-      },
+      "latitude": 38.2441326,
+      "longitude": -85.5762811,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "4/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26858",
@@ -3549,18 +3255,16 @@
       "address": "4950 West U.S. Highway #42, Louisville, KY 40207",
       "street": "4950 West U.S. Highway #42",
       "zip": "40207",
-      "coordinates": {
-        "lat": 43.204818041763,
-        "lng": -77.696110494729
-      },
+      "latitude": 38.285545,
+      "longitude": -85.630941,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "5/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26859",
@@ -3573,18 +3277,16 @@
       "address": "Louisville, KY 40207",
       "street": "Louisville",
       "zip": "40207",
-      "coordinates": {
-        "lat": 40.72524237339,
-        "lng": -89.562246636395
-      },
+      "latitude": 38.2542376,
+      "longitude": -85.759407,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/restore-donation-center",
-      "lastUpdated": "6/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/restore-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26860",
@@ -3597,18 +3299,16 @@
       "address": "9125 Galene Dr A, Louisville, KY 40207",
       "street": "9125 Galene Dr A",
       "zip": "40207",
-      "coordinates": {
-        "lat": 40.695208455621,
-        "lng": -89.586658602233
-      },
+      "latitude": 38.199698,
+      "longitude": -85.588054,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/wayside-christian-mission",
-      "lastUpdated": "7/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/wayside-christian-mission/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26861",
@@ -3621,18 +3321,16 @@
       "address": "1010 Beecher St, Louisville, KY 40208",
       "street": "1010 Beecher St",
       "zip": "40208",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.19162065,
+      "longitude": -85.77754639,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-louisville-south-corps",
-      "lastUpdated": "8/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/salvation-army-louisville-south-corps/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26862",
@@ -3645,18 +3343,16 @@
       "address": "1811 Standard Ave, Louisville, KY 40208",
       "street": "1811 Standard Ave",
       "zip": "40208",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2314438,
+      "longitude": -85.7902201,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-lords-kitchen-coh",
-      "lastUpdated": "9/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-lords-kitchen-coh/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26863",
@@ -3669,18 +3365,16 @@
       "address": "1300 S 4th St #250, Louisville, KY 40208",
       "street": "1300 S 4th St #250",
       "zip": "40208",
-      "coordinates": {
-        "lat": 40.701243970921,
-        "lng": -89.602211839201
-      },
+      "latitude": 38.23249095,
+      "longitude": -85.7610176,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/coalition-for-the-homeless",
-      "lastUpdated": "10/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/coalition-for-the-homeless/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26864",
@@ -3693,18 +3387,16 @@
       "address": "1143 S 3rd St, Louisville, KY 40208",
       "street": "1143 S 3rd St",
       "zip": "40208",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2356114,
+      "longitude": -85.75791569,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/infant-resource-project",
-      "lastUpdated": "11/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/infant-resource-project/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26865",
@@ -3717,18 +3409,16 @@
       "address": "220 St Catherine St, Louisville, KY 40208",
       "street": "220 St Catherine St",
       "zip": "40208",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.237011,
+      "longitude": -85.75772,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/community-ministries-of-walnut-street-baptist-church-food-pantry",
-      "lastUpdated": "12/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/community-ministries-of-walnut-street-baptist-church-food-pantry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26866",
@@ -3741,18 +3431,16 @@
       "address": "927 S 2nd St, Louisville, KY 40208",
       "street": "927 S 2nd St",
       "zip": "40208",
-      "coordinates": {
-        "lat": 40.69685935562,
-        "lng": -89.594784541656
-      },
+      "latitude": 38.240357,
+      "longitude": -85.755663,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/center-for-women-&-families",
-      "lastUpdated": "13/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/center-for-women-&-families/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26867",
@@ -3765,18 +3453,16 @@
       "address": "223 E Magnolia Ave, Louisville, KY 40208",
       "street": "223 E Magnolia Ave",
       "zip": "40208",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2285606,
+      "longitude": -85.7535329,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/la-casita-center",
-      "lastUpdated": "14/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/la-casita-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26868",
@@ -3789,18 +3475,16 @@
       "address": "6306 Kenjoy Dr, Louisville, KY 40209",
       "street": "6306 Kenjoy Dr",
       "zip": "40209",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.1668634,
+      "longitude": -85.75964047,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-salvation-army-angel-tree-joy-center",
-      "lastUpdated": "15/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-salvation-army-angel-tree-joy-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26869",
@@ -3813,18 +3497,16 @@
       "address": "Louisville, KY 40210",
       "street": "Louisville",
       "zip": "40210",
-      "coordinates": {
-        "lat": 29.591147994846,
-        "lng": -95.222945309036
-      },
+      "latitude": 38.23108287,
+      "longitude": -85.7894493,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/c2k-thrift",
-      "lastUpdated": "16/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/c2k-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26870",
@@ -3837,18 +3519,16 @@
       "address": "2820 W Broadway, Louisville, KY 40210",
       "street": "2820 W Broadway",
       "zip": "40210",
-      "coordinates": {
-        "lat": 43.124133723096,
-        "lng": -77.55015994248
-      },
+      "latitude": 38.248394,
+      "longitude": -85.799189,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-west-louisville-opportunity-center",
-      "lastUpdated": "17/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-west-louisville-opportunity-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26871",
@@ -3861,18 +3541,16 @@
       "address": "201 N 25th St, Louisville, KY 40210",
       "street": "201 N 25th St",
       "zip": "40210",
-      "coordinates": {
-        "lat": 29.863251489528,
-        "lng": -95.468168296811
-      },
+      "latitude": 38.261951,
+      "longitude": -85.790878,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/neighborhood-house",
-      "lastUpdated": "18/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/neighborhood-house/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26872",
@@ -3885,18 +3563,16 @@
       "address": "2235 W Market St, Louisville, KY 40210",
       "street": "2235 W Market St",
       "zip": "40210",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2589356,
+      "longitude": -85.788025,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/sister-visitor-center---choice-food-pantry",
-      "lastUpdated": "19/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/sister-visitor-center---choice-food-pantry/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26873",
@@ -3909,18 +3585,16 @@
       "address": "2820 W Broadway, Louisville, KY 40210",
       "street": "2820 W Broadway",
       "zip": "40210",
-      "coordinates": {
-        "lat": 29.839983302404,
-        "lng": -95.473253571763
-      },
+      "latitude": 38.248394,
+      "longitude": -85.799189,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill---administrative-office",
-      "lastUpdated": "20/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill---administrative-office/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26874",
@@ -3933,18 +3607,16 @@
       "address": "Louisville, KY 40210",
       "street": "Louisville",
       "zip": "40210",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.23108287,
+      "longitude": -85.7894493,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/dare-to-care-senior-outreach-warehouse",
-      "lastUpdated": "21/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/dare-to-care-senior-outreach-warehouse/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26875",
@@ -3957,18 +3629,16 @@
       "address": "2533 Portland Ave, Louisville, KY 40210",
       "street": "2533 Portland Ave",
       "zip": "40210",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.271306,
+      "longitude": -85.7901462,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/merriment-thrift",
-      "lastUpdated": "22/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/merriment-thrift/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26876",
@@ -3981,18 +3651,16 @@
       "address": "970 Barret Ave, Louisville, KY 40210",
       "street": "970 Barret Ave",
       "zip": "40210",
-      "coordinates": {
-        "lat": 40.684827387259,
-        "lng": -89.60304343803
-      },
+      "latitude": 38.23727725,
+      "longitude": -85.7291204,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/barret-babes",
-      "lastUpdated": "23/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/barret-babes/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26877",
@@ -4005,18 +3673,16 @@
       "address": "1321 S Preston St, Louisville, KY 40210",
       "street": "1321 S Preston St",
       "zip": "40210",
-      "coordinates": {
-        "lat": 40.739830864528,
-        "lng": -89.63692024437
-      },
+      "latitude": 38.2303922,
+      "longitude": -85.7497596,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/voa-home-|-louisville",
-      "lastUpdated": "24/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/voa-home-|-louisville/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26878",
@@ -4029,18 +3695,16 @@
       "address": "996 Barret Ave, Louisville, KY 40210",
       "street": "996 Barret Ave",
       "zip": "40210",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2365439,
+      "longitude": -85.7284693,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-nitty-gritty",
-      "lastUpdated": "25/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-nitty-gritty/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26879",
@@ -4053,18 +3717,16 @@
       "address": "415 E St Catherine St, Louisville, KY 40210",
       "street": "415 E St Catherine St",
       "zip": "40210",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2360456,
+      "longitude": -85.74826649,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/society-of-saint-vincent-de-paul,-council-of-louisville,-ky---food-distribution-center",
-      "lastUpdated": "26/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/society-of-saint-vincent-de-paul,-council-of-louisville,-ky---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26880",
@@ -4077,18 +3739,16 @@
       "address": "2235 W Market St, Louisville, KY 40211",
       "street": "2235 W Market St",
       "zip": "40211",
-      "coordinates": {
-        "lat": 29.819118465228,
-        "lng": -95.45949364989
-      },
+      "latitude": 38.2589356,
+      "longitude": -85.788025,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/catholic-charities-of-louisville-sister-visitor-center",
-      "lastUpdated": "27/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/catholic-charities-of-louisville-sister-visitor-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26881",
@@ -4101,18 +3761,16 @@
       "address": "344 N 26th St, Louisville, KY 40211",
       "street": "344 N 26th St",
       "zip": "40211",
-      "coordinates": {
-        "lat": 40.697722829746,
-        "lng": -89.585656389787
-      },
+      "latitude": 38.26524535,
+      "longitude": -85.7934291,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/love-city,-inc.",
-      "lastUpdated": "28/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/love-city,-inc./",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26882",
@@ -4125,18 +3783,16 @@
       "address": "2833 Garfield Ave, Louisville, KY 40211",
       "street": "2833 Garfield Ave",
       "zip": "40211",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2677973,
+      "longitude": -85.7971428,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/hope-rescued",
-      "lastUpdated": "29/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/hope-rescued/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26883",
@@ -4149,18 +3805,16 @@
       "address": "306 N 28th St, Louisville, KY 40212",
       "street": "306 N 28th St",
       "zip": "40212",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2665412,
+      "longitude": -85.7958472,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-salvation-army",
-      "lastUpdated": "30/06/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-salvation-army/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26884",
@@ -4173,18 +3827,16 @@
       "address": "2508 Portland Ave, Louisville, KY 40212",
       "street": "2508 Portland Ave",
       "zip": "40212",
-      "coordinates": {
-        "lat": 40.69462794996,
-        "lng": -89.58526753372
-      },
+      "latitude": 38.2699674,
+      "longitude": -85.78969914,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/portland-avenue-community-trust---food-distribution-center",
-      "lastUpdated": "1/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/portland-avenue-community-trust---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26885",
@@ -4197,18 +3849,16 @@
       "address": "1800 Portland Ave #1060, Louisville, KY 40212",
       "street": "1800 Portland Ave #1060",
       "zip": "40212",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.26430145,
+      "longitude": -85.77758303,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/new-roots",
-      "lastUpdated": "2/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/new-roots/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26886",
@@ -4221,18 +3871,16 @@
       "address": "6201 Preston Hwy D, Louisville, KY 40213",
       "street": "6201 Preston Hwy D",
       "zip": "40213",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.1604559,
+      "longitude": -85.6962003,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-second-chance-outlet",
-      "lastUpdated": "3/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-second-chance-outlet/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26887",
@@ -4245,18 +3893,16 @@
       "address": "7209b Fegenbush Ln, Louisville, KY 40213",
       "street": "7209b Fegenbush Ln",
       "zip": "40213",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.1454368,
+      "longitude": -85.6264687,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/city-store-+-outreach-center",
-      "lastUpdated": "4/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/city-store-+-outreach-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26888",
@@ -4269,18 +3915,16 @@
       "address": "415 1/2 W Ashland Ave, Louisville, KY 40214",
       "street": "415 1/2 W Ashland Ave",
       "zip": "40214",
-      "coordinates": {
-        "lat": 30.020820798038,
-        "lng": -95.445087745741
-      },
+      "latitude": 38.1858552,
+      "longitude": -85.76833213,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/south-louisville-community-ministries",
-      "lastUpdated": "5/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/south-louisville-community-ministries/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26889",
@@ -4293,18 +3937,16 @@
       "address": "Louisville, KY 40214",
       "street": "Louisville",
       "zip": "40214",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.15748253,
+      "longitude": -85.77942663,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/shirleyâ€™s-deals-prp",
-      "lastUpdated": "6/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/shirleyâ€™s-deals-prp/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26890",
@@ -4317,18 +3959,16 @@
       "address": "4335 Hazelwood Ave, Louisville, KY 40214",
       "street": "4335 Hazelwood Ave",
       "zip": "40214",
-      "coordinates": {
-        "lat": 40.770895559556,
-        "lng": -89.63127990687
-      },
+      "latitude": 38.17760015,
+      "longitude": -85.78925655,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/love-transformation-project",
-      "lastUpdated": "7/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/love-transformation-project/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26891",
@@ -4341,18 +3981,16 @@
       "address": "6105 S 3rd St, Louisville, KY 40214",
       "street": "6105 S 3rd St",
       "zip": "40214",
-      "coordinates": {
-        "lat": 40.743718633474,
-        "lng": -89.612604832301
-      },
+      "latitude": 38.16724204,
+      "longitude": -85.76863982,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/twice-blessed",
-      "lastUpdated": "8/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/twice-blessed/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26892",
@@ -4365,18 +4003,16 @@
       "address": "Louisville, KY 40215",
       "street": "Louisville",
       "zip": "40215",
-      "coordinates": {
-        "lat": 40.737459384707,
-        "lng": -89.603151113204
-      },
+      "latitude": 38.1918627,
+      "longitude": -85.7848014,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/light-house-charities",
-      "lastUpdated": "9/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/light-house-charities/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26893",
@@ -4389,18 +4025,16 @@
       "address": "2501 Millers Ln Suite 1113, Louisville, KY 40215",
       "street": "2501 Millers Ln Suite 1113",
       "zip": "40215",
-      "coordinates": {
-        "lat": 43.124129910792,
-        "lng": -77.549039004138
-      },
+      "latitude": 38.2174495,
+      "longitude": -85.80528394,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/reuse-buy",
-      "lastUpdated": "10/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/reuse-buy/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26894",
@@ -4413,18 +4047,16 @@
       "address": "Louisville, KY 40216",
       "street": "Louisville",
       "zip": "40216",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.18513203,
+      "longitude": -85.83110877,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/shively-area-ministries",
-      "lastUpdated": "11/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/shively-area-ministries/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26895",
@@ -4437,18 +4069,16 @@
       "address": "1570 Bardstown Rd, Louisville, KY 40217",
       "street": "1570 Bardstown Rd",
       "zip": "40217",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2309647,
+      "longitude": -85.7058987,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-groovy-aura",
-      "lastUpdated": "12/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-groovy-aura/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26896",
@@ -4461,18 +4091,16 @@
       "address": "5117 Antle Dr, Louisville, KY 40219",
       "street": "5117 Antle Dr",
       "zip": "40219",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.0879182,
+      "longitude": -85.66906006,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "13/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26897",
@@ -4485,18 +4113,16 @@
       "address": "11330 Preston Hwy, Louisville, KY 40219",
       "street": "11330 Preston Hwy",
       "zip": "40219",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.0842112,
+      "longitude": -85.6702635,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/shirleyâ€™s-deals-hillview",
-      "lastUpdated": "14/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/shirleyâ€™s-deals-hillview/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26898",
@@ -4509,18 +4135,16 @@
       "address": "Louisville, KY 40219",
       "street": "Louisville",
       "zip": "40219",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.14301061,
+      "longitude": -85.67753273,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-river-city-love-squad,-inc.",
-      "lastUpdated": "15/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-river-city-love-squad,-inc./",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26899",
@@ -4533,18 +4157,16 @@
       "address": "12616 Taylorsville Rd, Louisville, KY 40220",
       "street": "12616 Taylorsville Rd",
       "zip": "40220",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.18737,
+      "longitude": -85.5171427,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "16/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26900",
@@ -4557,18 +4179,16 @@
       "address": "4064 Taylorsville Rd, Louisville, KY 40220",
       "street": "4064 Taylorsville Rd",
       "zip": "40220",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.217912,
+      "longitude": -85.6225224,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/clothes-mentor-louisville,-ky-(taylorsville)",
-      "lastUpdated": "17/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/clothes-mentor-louisville,-ky-(taylorsville)/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26901",
@@ -4581,18 +4201,16 @@
       "address": "4030 Taylorsville Rd, Louisville, KY 40220",
       "street": "4030 Taylorsville Rd",
       "zip": "40220",
-      "coordinates": {
-        "lat": 29.827103215134,
-        "lng": -95.49543942125
-      },
+      "latitude": 38.21921435,
+      "longitude": -85.62351184,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/once-upon-a-child",
-      "lastUpdated": "18/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/once-upon-a-child/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26902",
@@ -4605,18 +4223,16 @@
       "address": "969-B Cherokee Rd, Louisville, KY 40221",
       "street": "969-B Cherokee Rd",
       "zip": "40221",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.24163,
+      "longitude": -85.722799,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/kentucky-refugee-ministries,-inc.",
-      "lastUpdated": "19/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/kentucky-refugee-ministries,-inc./",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26903",
@@ -4629,18 +4245,16 @@
       "address": "4839 Southside Dr, Louisville, KY 40221",
       "street": "4839 Southside Dr",
       "zip": "40221",
-      "coordinates": {
-        "lat": 29.819208511448,
-        "lng": -95.484376150485
-      },
+      "latitude": 38.17735125,
+      "longitude": -85.76287213,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/st-john-vianney-catholic-church",
-      "lastUpdated": "20/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/st-john-vianney-catholic-church/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26904",
@@ -4653,18 +4267,16 @@
       "address": "1400 W Jefferson St, Louisville, KY 40221",
       "street": "1400 W Jefferson St",
       "zip": "40221",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2553466,
+      "longitude": -85.77401032,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/15th-district-pta",
-      "lastUpdated": "21/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/15th-district-pta/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26905",
@@ -4677,18 +4289,16 @@
       "address": "1250 Bardstown Rd Suite 26, Louisville, KY 40221",
       "street": "1250 Bardstown Rd Suite 26",
       "zip": "40221",
-      "coordinates": {
-        "lat": 29.819540916248,
-        "lng": -95.46694859169
-      },
+      "latitude": 38.234783,
+      "longitude": -85.71769136,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/national-council-of-jewish-women,-louisville-section",
-      "lastUpdated": "22/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/national-council-of-jewish-women,-louisville-section/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26906",
@@ -4701,18 +4311,16 @@
       "address": "9403 Westport Rd, Louisville, KY 40222",
       "street": "9403 Westport Rd",
       "zip": "40222",
-      "coordinates": {
-        "lat": 43.124019131698,
-        "lng": -77.549648003114
-      },
+      "latitude": 38.286465,
+      "longitude": -85.576698,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-attended-donation-center",
-      "lastUpdated": "23/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-attended-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26907",
@@ -4725,18 +4333,16 @@
       "address": "100 Huntington Ridge Dr, Louisville, KY 40223",
       "street": "100 Huntington Ridge Dr",
       "zip": "40223",
-      "coordinates": {
-        "lat": 29.819500950709,
-        "lng": -95.46791347473
-      },
+      "latitude": 38.241337,
+      "longitude": -85.506982,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "24/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26908",
@@ -4749,18 +4355,16 @@
       "address": "10266 Shelbyville Rd, Louisville, KY 40223",
       "street": "10266 Shelbyville Rd",
       "zip": "40223",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.2450063,
+      "longitude": -85.5642845,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/dorsey-plaza",
-      "lastUpdated": "25/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/dorsey-plaza/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26909",
@@ -4773,18 +4377,16 @@
       "address": "11717 Main St, Louisville, KY 40223",
       "street": "11717 Main St",
       "zip": "40223",
-      "coordinates": {
-        "lat": 43.124019131699,
-        "lng": -77.549667258397
-      },
+      "latitude": 38.24550879,
+      "longitude": -85.53935892,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/blessing-box-of-first-baptist-church-middletown,-ky",
-      "lastUpdated": "26/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/blessing-box-of-first-baptist-church-middletown,-ky/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26910",
@@ -4797,18 +4399,16 @@
       "address": "8918 Stone Green Way #100, Louisville, KY 40224",
       "street": "8918 Stone Green Way #100",
       "zip": "40224",
-      "coordinates": {
-        "lat": 40.688239914498,
-        "lng": -89.590328045973
-      },
+      "latitude": 38.214111,
+      "longitude": -85.598499,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/operation-open-arms-inc",
-      "lastUpdated": "27/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/operation-open-arms-inc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26911",
@@ -4821,18 +4421,16 @@
       "address": "1631 Rowan St, Louisville, KY 40225",
       "street": "1631 Rowan St",
       "zip": "40225",
-      "coordinates": {
-        "lat": 40.708889963162,
-        "lng": -89.632288848152
-      },
+      "latitude": 38.260552,
+      "longitude": -85.7774986,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/habitat-for-humanity-louisville-restore---portland-neighborhood",
-      "lastUpdated": "28/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/habitat-for-humanity-louisville-restore---portland-neighborhood/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26912",
@@ -4845,18 +4443,16 @@
       "address": "Louisville, KY 40228",
       "street": "Louisville",
       "zip": "40228",
-      "coordinates": {
-        "lat": 40.645608958437,
-        "lng": -89.666853848949
-      },
+      "latitude": 38.13844735,
+      "longitude": -85.62888051,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-vehicle-donation-and-auto-auction",
-      "lastUpdated": "29/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-vehicle-donation-and-auto-auction/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26913",
@@ -4869,18 +4465,16 @@
       "address": "9300 Beulah Church Rd, Louisville, KY 40228",
       "street": "9300 Beulah Church Rd",
       "zip": "40228",
-      "coordinates": {
-        "lat": 40.69850184327,
-        "lng": -89.600617306474
-      },
+      "latitude": 38.14853035,
+      "longitude": -85.58955379,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/fern-creek-highview-united-ministries---food-distribution-center",
-      "lastUpdated": "30/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/fern-creek-highview-united-ministries---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26914",
@@ -4893,18 +4487,16 @@
       "address": "Louisville, KY 40228",
       "street": "Louisville",
       "zip": "40228",
-      "coordinates": {
-        "lat": 40.738803563481,
-        "lng": -89.602983561253
-      },
+      "latitude": 38.13844735,
+      "longitude": -85.62888051,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/tonini-church-supply-co",
-      "lastUpdated": "31/07/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/tonini-church-supply-co/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26915",
@@ -4917,18 +4509,16 @@
       "address": "Louisville, KY 40228",
       "street": "Louisville",
       "zip": "40228",
-      "coordinates": {
-        "lat": 29.754434758884,
-        "lng": -95.6253244286
-      },
+      "latitude": 38.13844735,
+      "longitude": -85.62888051,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/once-upon-a-child-louisville---outer-loop",
-      "lastUpdated": "1/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/once-upon-a-child-louisville---outer-loop/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26916",
@@ -4941,18 +4531,16 @@
       "address": "1975 Preston Hwy, Louisville, KY 40229",
       "street": "1975 Preston Hwy",
       "zip": "40229",
-      "coordinates": {
-        "lat": 40.69496482277,
-        "lng": -89.592970834752
-      },
+      "latitude": 38.07488079,
+      "longitude": -85.66887542,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/outreach-thrift-shop",
-      "lastUpdated": "2/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/outreach-thrift-shop/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26917",
@@ -4965,18 +4553,16 @@
       "address": "Louisville, KY 40245",
       "street": "Louisville",
       "zip": "40245",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.26839771,
+      "longitude": -85.48767111,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "3/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26918",
@@ -4989,18 +4575,16 @@
       "address": "Louisville, KY 40258",
       "street": "Louisville",
       "zip": "40258",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.14435808,
+      "longitude": -85.86471809,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/shirleyâ€™s-deals-valley-station",
-      "lastUpdated": "4/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/shirleyâ€™s-deals-valley-station/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26919",
@@ -5013,18 +4597,16 @@
       "address": "4413 E Pages Ln, Louisville, KY 40258",
       "street": "4413 E Pages Ln",
       "zip": "40258",
-      "coordinates": {
-        "lat": 40.717932296132,
-        "lng": -89.56017972048
-      },
+      "latitude": 38.12624,
+      "longitude": -85.841885,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/the-louisville-dream-center",
-      "lastUpdated": "5/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/the-louisville-dream-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26920",
@@ -5037,18 +4619,16 @@
       "address": "Louisville, KY 40258",
       "street": "Louisville",
       "zip": "40258",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.14435808,
+      "longitude": -85.86471809,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/once-upon-a-child-louisville---dixie,-ky",
-      "lastUpdated": "6/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/once-upon-a-child-louisville---dixie,-ky/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26921",
@@ -5061,18 +4641,16 @@
       "address": "6501 Bethany Ln, Louisville, KY 40258",
       "street": "6501 Bethany Ln",
       "zip": "40258",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.10054205,
+      "longitude": -85.88291075,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/exodus-family-ministries",
-      "lastUpdated": "7/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/exodus-family-ministries/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26922",
@@ -5085,18 +4663,16 @@
       "address": "Louisville, KY 40258",
       "street": "Louisville",
       "zip": "40258",
-      "coordinates": {
-        "lat": 40.6501309257,
-        "lng": -89.652093301327
-      },
+      "latitude": 38.14435808,
+      "longitude": -85.86471809,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/shirley's-way,-inc",
-      "lastUpdated": "8/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/shirley's-way,-inc/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26923",
@@ -5109,18 +4685,16 @@
       "address": "4413 E Pages Ln, Louisville, KY 40258",
       "street": "4413 E Pages Ln",
       "zip": "40258",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.12624,
+      "longitude": -85.841885,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/life-church---food-distribution-center",
-      "lastUpdated": "9/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/life-church---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26924",
@@ -5133,18 +4707,16 @@
       "address": "Louisville, KY 40258",
       "street": "Louisville",
       "zip": "40258",
-      "coordinates": {
-        "lat": 40.797751642604,
-        "lng": -89.63108399926
-      },
+      "latitude": 38.14435808,
+      "longitude": -85.86471809,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/buff-city-soap",
-      "lastUpdated": "10/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/buff-city-soap/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26925",
@@ -5157,18 +4729,16 @@
       "address": "Louisville, KY 40259",
       "street": "Louisville",
       "zip": "40259",
-      "coordinates": {
-        "lat": 44.939521114351,
-        "lng": -93.109521268909
-      },
+      "latitude": 38.2542376,
+      "longitude": -85.759407,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill-donation-center",
-      "lastUpdated": "11/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill-donation-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26926",
@@ -5181,18 +4751,16 @@
       "address": "513 Adam Shepherd Pkwy, Louisville, KY 40272",
       "street": "513 Adam Shepherd Pkwy",
       "zip": "40272",
-      "coordinates": {
-        "lat": 29.586255709124,
-        "lng": -95.626392951314
-      },
+      "latitude": 38.141177,
+      "longitude": -85.776881,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "12/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26927",
@@ -5205,18 +4773,16 @@
       "address": "757 S Brook St, Louisville, KY 40283",
       "street": "757 S Brook St",
       "zip": "40283",
-      "coordinates": {
-        "lat": 43.192919234,
-        "lng": -77.506553862597
-      },
+      "latitude": 38.2432725,
+      "longitude": -85.75165969,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/re:center-ministries",
-      "lastUpdated": "13/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/re:center-ministries/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26928",
@@ -5229,18 +4795,16 @@
       "address": "337 Oakbrooke Dr Ste 700, Louisville, KY 40291",
       "street": "337 Oakbrooke Dr Ste 700",
       "zip": "40291",
-      "coordinates": {
-        "lat": 43.214450221834,
-        "lng": -77.416058060376
-      },
+      "latitude": 38.0541234,
+      "longitude": -85.5393659,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/goodwill",
-      "lastUpdated": "14/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/goodwill/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26929",
@@ -5253,18 +4817,16 @@
       "address": "Louisville, KY 40292",
       "street": "Louisville",
       "zip": "40292",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.21429413,
+      "longitude": -85.75900938,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/garden-commons",
-      "lastUpdated": "15/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/garden-commons/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26930",
@@ -5277,18 +4839,16 @@
       "address": "Swain Student Activities Center, 2100 S Floyd St, Louisville, KY 40292",
       "street": "Swain Student Activities Center",
       "zip": "40292",
-      "coordinates": {
-        "lat": 43.208852107704,
-        "lng": -77.460114345954
-      },
+      "latitude": 38.2176299,
+      "longitude": -85.75522393,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/university-of-louisville-campus-store",
-      "lastUpdated": "16/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/university-of-louisville-campus-store/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26931",
@@ -5301,18 +4861,16 @@
       "address": "10617 Taylorsville Rd, Jeffersontown, KY 40299",
       "street": "10617 Taylorsville Rd",
       "zip": "40299",
-      "coordinates": {
-        "lat": 0,
-        "lng": 0
-      },
+      "latitude": 38.18991653,
+      "longitude": -85.55900679,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/jeffersontown-area-ministries---food-distribution-center",
-      "lastUpdated": "17/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/jeffersontown-area-ministries---food-distribution-center/",
+      "lastUpdated": "5/05/2025"
     },
     {
       "id": "26932",
@@ -5325,18 +4883,16 @@
       "address": "5001 S Hurstbourne Pkwy, Jeffersontown, KY 40299",
       "street": "5001 S Hurstbourne Pkwy",
       "zip": "40299",
-      "coordinates": {
-        "lat": 43.207772656737,
-        "lng": -77.451126937604
-      },
+      "latitude": 38.1744264,
+      "longitude": -85.6051608,
       "acceptedMaterials": [
         "Clothing",
         "Linen",
         "Shoes"
       ],
       "logo": "goodwill.jpg",
-      "permalink": "https://www.clothedonations.com/kentucky/down-syndrome-of-louisville",
-      "lastUpdated": "18/08/2030"
+      "permalink": "https://www.clothedonations.com/kentucky/down-syndrome-of-louisville/",
+      "lastUpdated": "5/05/2025"
     }
   ]
 }

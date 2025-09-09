@@ -13,10 +13,8 @@
       "address": "624 Market St, Beatrice, NE 68310, USA",
       "street": "624 Market Street",
       "zip": "68310",
-      "coordinates": {
-        "lat": 40.265105,
-        "lng": -96.745761
-      },
+      "latitude": 40.265105,
+      "longitude": -96.745761,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "1502 Harlan Dr, Bellevue, NE 68005, USA",
       "street": "1502 Harlan Drive",
       "zip": "68005",
-      "coordinates": {
-        "lat": 41.141722,
-        "lng": -95.912368
-      },
+      "latitude": 41.141722,
+      "longitude": -95.912368,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "15 E 18th St, Kearney, NE 68847, USA",
       "street": "15 East 18th Street",
       "zip": "68847",
-      "coordinates": {
-        "lat": 40.692249,
-        "lng": -99.08147
-      },
+      "latitude": 40.692249,
+      "longitude": -99.08147,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "4690 Leighton Ave, Lincoln, NE 68504, USA",
       "street": "4690 Leighton Avenue",
       "zip": "68504",
-      "coordinates": {
-        "lat": 40.836325,
-        "lng": -96.656379
-      },
+      "latitude": 40.836325,
+      "longitude": -96.656379,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "610 W Norfolk Ave, Norfolk, NE 68701, USA",
       "street": "610 West Norfolk Avenue",
       "zip": "68701",
-      "coordinates": {
-        "lat": 42.033536,
-        "lng": -97.415809
-      },
+      "latitude": 42.033536,
+      "longitude": -97.415809,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "410 E Leota St, North Platte, NE 69101, USA",
       "street": "410 East Leota Street",
       "zip": "69101",
-      "coordinates": {
-        "lat": 41.119437,
-        "lng": -100.76026
-      },
+      "latitude": 41.119437,
+      "longitude": -100.76026,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -163,10 +151,8 @@
       "address": "16960 Evans Plaza, Omaha, NE 68116, USA",
       "street": "16960 Evans Plaza",
       "zip": "68116",
-      "coordinates": {
-        "lat": 41.29158,
-        "lng": -96.180008
-      },
+      "latitude": 41.29158,
+      "longitude": -96.180008,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -188,10 +174,8 @@
       "address": "18280 Wright St, Omaha, NE 68130, USA",
       "street": "18280 Wright Street",
       "zip": "68130",
-      "coordinates": {
-        "lat": 41.233419,
-        "lng": -96.200272
-      },
+      "latitude": 41.233419,
+      "longitude": -96.200272,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -213,10 +197,8 @@
       "address": "2011 N 156th St, Omaha, NE 68116, USA",
       "street": "2011 North 156th Street",
       "zip": "68116",
-      "coordinates": {
-        "lat": 41.278365,
-        "lng": -96.155184
-      },
+      "latitude": 41.278365,
+      "longitude": -96.155184,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -238,10 +220,8 @@
       "address": "250 N 168th Cir, Omaha, NE 68118, USA",
       "street": "250 North 168th Circle",
       "zip": "68118",
-      "coordinates": {
-        "lat": 41.260799,
-        "lng": -96.177434
-      },
+      "latitude": 41.260799,
+      "longitude": -96.177434,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -263,10 +243,8 @@
       "address": "2525 Dodge St, Omaha, NE 68131, USA",
       "street": "2525 Dodge Street",
       "zip": "68131",
-      "coordinates": {
-        "lat": 41.259196,
-        "lng": -95.948729
-      },
+      "latitude": 41.259196,
+      "longitude": -95.948729,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -288,10 +266,8 @@
       "address": "2303 Towne Centre Dr, Bellevue, NE 68123, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.116843,
-        "lng": -95.945469
-      },
+      "latitude": 41.116843,
+      "longitude": -95.945469,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -312,10 +288,8 @@
       "address": "1364 Washington St, Blair, NE 68008, USA",
       "street": "1364 Washington Street",
       "zip": "68008",
-      "coordinates": {
-        "lat": 41.544244,
-        "lng": -96.131866
-      },
+      "latitude": 41.544244,
+      "longitude": -96.131866,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -336,10 +310,8 @@
       "address": "4330 23rd St, Columbus, NE 68601, USA",
       "street": "4330 23rd Street",
       "zip": "68601",
-      "coordinates": {
-        "lat": 41.439739,
-        "lng": -97.380198
-      },
+      "latitude": 41.439739,
+      "longitude": -97.380198,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -360,10 +332,8 @@
       "address": "3175 Elk Ln, Fremont, NE 68025, USA",
       "street": "Elk Lane",
       "zip": "68025",
-      "coordinates": {
-        "lat": 41.449773,
-        "lng": -96.456587
-      },
+      "latitude": 41.449773,
+      "longitude": -96.456587,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -384,10 +354,8 @@
       "address": "1808 S Locust St, Grand Island, NE 68801, USA",
       "street": "1808 South Locust Street",
       "zip": "68801",
-      "coordinates": {
-        "lat": 40.9032,
-        "lng": -98.340545
-      },
+      "latitude": 40.9032,
+      "longitude": -98.340545,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -408,10 +376,8 @@
       "address": "2223 N Webb Rd, Grand Island, NE 68803, USA",
       "street": "2223 North Webb Road",
       "zip": "68803",
-      "coordinates": {
-        "lat": 40.942663,
-        "lng": -98.377689
-      },
+      "latitude": 40.942663,
+      "longitude": -98.377689,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -432,10 +398,8 @@
       "address": "11722 Standing Stone Dr, Gretna, NE 68028, USA",
       "street": "11722 Standing Stone Drive",
       "zip": "68028",
-      "coordinates": {
-        "lat": 41.133797,
-        "lng": -96.246306
-      },
+      "latitude": 41.133797,
+      "longitude": -96.246306,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -456,10 +420,8 @@
       "address": "2416 W 2nd St, Hastings, NE 68901, USA",
       "street": "2416 West 2nd Street",
       "zip": "68901",
-      "coordinates": {
-        "lat": 40.585815,
-        "lng": -98.416966
-      },
+      "latitude": 40.585815,
+      "longitude": -98.416966,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -480,10 +442,8 @@
       "address": "3906 4th Ave, Kearney, NE 68845, USA",
       "street": "3906 4th Avenue",
       "zip": "68845",
-      "coordinates": {
-        "lat": 40.714552,
-        "lng": -99.087219
-      },
+      "latitude": 40.714552,
+      "longitude": -99.087219,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -504,10 +464,8 @@
       "address": "2401 Plum Creek Pkwy, Lexington, NE 68850, USA",
       "street": "2401 Plum Creek Parkway",
       "zip": "68850",
-      "coordinates": {
-        "lat": 40.751563,
-        "lng": -99.7409
-      },
+      "latitude": 40.751563,
+      "longitude": -99.7409,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -528,10 +486,8 @@
       "address": "206 Westview Plaza, McCook, NE 69001, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 40.200857,
-        "lng": -100.646316
-      },
+      "latitude": 40.200857,
+      "longitude": -100.646316,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -552,10 +508,8 @@
       "address": "102 E William Ave, North Platte, NE 69101, USA",
       "street": "102 East William Avenue",
       "zip": "69101",
-      "coordinates": {
-        "lat": 41.123683,
-        "lng": -100.763476
-      },
+      "latitude": 41.123683,
+      "longitude": -100.763476,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -576,10 +530,8 @@
       "address": "1056 N 204th Ave, Elkhorn, NE 68022, USA",
       "street": "North 204th Avenue",
       "zip": "68022",
-      "coordinates": {
-        "lat": 41.268423,
-        "lng": -96.235142
-      },
+      "latitude": 41.268423,
+      "longitude": -96.235142,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -600,10 +552,8 @@
       "address": "14227 Hillsdale Cir, Omaha, NE 68137, USA",
       "street": "14227 Hillsdale Circle",
       "zip": "68137",
-      "coordinates": {
-        "lat": 41.214569,
-        "lng": -96.136724
-      },
+      "latitude": 41.214569,
+      "longitude": -96.136724,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -624,10 +574,8 @@
       "address": "15455 Ruggles St, Omaha, NE 68116, USA",
       "street": "15455 Ruggles Street",
       "zip": "68116",
-      "coordinates": {
-        "lat": 41.294949,
-        "lng": -96.156261
-      },
+      "latitude": 41.294949,
+      "longitude": -96.156261,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -648,10 +596,8 @@
       "address": "18125 R Plaza, Omaha, NE 68135, USA",
       "street": "R Plaza",
       "zip": "68137",
-      "coordinates": {
-        "lat": 41.204053,
-        "lng": -96.200138
-      },
+      "latitude": 41.204053,
+      "longitude": -96.200138,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -672,10 +618,8 @@
       "address": "201 N 78th St, Omaha, NE 68114, USA",
       "street": "201 North 78th Street",
       "zip": "68114",
-      "coordinates": {
-        "lat": 41.261179,
-        "lng": -96.035413
-      },
+      "latitude": 41.261179,
+      "longitude": -96.035413,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -696,10 +640,8 @@
       "address": "2221 N 109th St, Omaha, NE 68164, USA",
       "street": "2221 North 109th Street",
       "zip": "68164",
-      "coordinates": {
-        "lat": 41.280033,
-        "lng": -96.081934
-      },
+      "latitude": 41.280033,
+      "longitude": -96.081934,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -720,10 +662,8 @@
       "address": "4115 S 72nd St, Omaha, NE 68127, USA",
       "street": "4115 South 72nd Street",
       "zip": "68127",
-      "coordinates": {
-        "lat": 41.218852,
-        "lng": -96.023004
-      },
+      "latitude": 41.218852,
+      "longitude": -96.023004,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -744,10 +684,8 @@
       "address": "4115 S 72nd St, Omaha, NE 68127, USA",
       "street": "4115 South 72nd Street",
       "zip": "68127",
-      "coordinates": {
-        "lat": 41.218852,
-        "lng": -96.023004
-      },
+      "latitude": 41.218852,
+      "longitude": -96.023004,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -768,10 +706,8 @@
       "address": "4115 S 72nd St, Omaha, NE 68127, USA",
       "street": "4115 South 72nd Street",
       "zip": "68127",
-      "coordinates": {
-        "lat": 41.218852,
-        "lng": -96.023004
-      },
+      "latitude": 41.218852,
+      "longitude": -96.023004,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -792,10 +728,8 @@
       "address": "4805 N 72nd St, Omaha, NE 68134, USA",
       "street": "4805 North 72nd Street",
       "zip": "68134",
-      "coordinates": {
-        "lat": 41.302261,
-        "lng": -96.021395
-      },
+      "latitude": 41.302261,
+      "longitude": -96.021395,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -816,10 +750,8 @@
       "address": "5018 Grover St, Omaha, NE 68106, USA",
       "street": "5018 Grover Street",
       "zip": "68106",
-      "coordinates": {
-        "lat": 41.227393,
-        "lng": -95.99088
-      },
+      "latitude": 41.227393,
+      "longitude": -95.99088,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -840,10 +772,8 @@
       "address": "5411 S 96th St, Omaha, NE 68127, USA",
       "street": "5411 South 96th Street",
       "zip": "68127",
-      "coordinates": {
-        "lat": 41.2039,
-        "lng": -96.061436
-      },
+      "latitude": 41.2039,
+      "longitude": -96.061436,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -864,10 +794,8 @@
       "address": "8310 Spring St, Omaha, NE 68124, USA",
       "street": "8310 Spring Street",
       "zip": "68124",
-      "coordinates": {
-        "lat": 41.231612,
-        "lng": -96.042391
-      },
+      "latitude": 41.231612,
+      "longitude": -96.042391,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -888,10 +816,8 @@
       "address": "704 Gold Coast Dr, Papillion, NE 68046, USA",
       "street": "",
       "zip": "",
-      "coordinates": {
-        "lat": 41.139104,
-        "lng": -96.050454
-      },
+      "latitude": 41.139104,
+      "longitude": -96.050454,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -912,10 +838,8 @@
       "address": "8507 Giles Rd, Papillion, NE 68046, USA",
       "street": "Giles Road",
       "zip": "68128",
-      "coordinates": {
-        "lat": 41.175741,
-        "lng": -96.046619
-      },
+      "latitude": 41.175741,
+      "longitude": -96.046619,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",
@@ -936,10 +860,8 @@
       "address": "1508 E 20th St, Scottsbluff, NE 69361, USA",
       "street": "1508 East 20th Street",
       "zip": "69361",
-      "coordinates": {
-        "lat": 41.865936,
-        "lng": -103.643236
-      },
+      "latitude": 41.865936,
+      "longitude": -103.643236,
       "acceptedMaterials": [
         "Clothing",
         "Furniture",

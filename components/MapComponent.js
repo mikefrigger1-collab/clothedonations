@@ -1,7 +1,11 @@
 // Save as: components/MapComponent.js
 import { useEffect, useRef } from 'react';
 
-const MapComponent = ({ locations, userLocation, nearestLocations }) => {
+const MapComponent = ({ locations, userLocation, nearestLocations, getLocationUrl }) => {
+  console.log('MapComponent received:', locations?.length, 'locations');
+  console.log('Sample location in MapComponent:', locations?.[0]);
+  console.log('Sample coords:', locations?.[0]?.latitude, locations?.[0]?.longitude);
+
   const mapRef = useRef(null);
   const leafletMapRef = useRef(null);
   const markersRef = useRef([]);
@@ -147,7 +151,7 @@ const MapComponent = ({ locations, userLocation, nearestLocations }) => {
 
         const popupContent = `
           <div class="p-2 min-w-[200px]">
-            <div class="font-semibold text-gray-900 mb-1">${location.company || 'Donation Center'}</div>
+            <div class="font-semibold text-gray-900 mb-1">${location.title || 'Donation Center'}</div>
             ${location.name && location.name !== location.company ? 
               `<div class="text-sm text-gray-600 mb-2">${location.name}</div>` : ''
             }
@@ -161,20 +165,18 @@ const MapComponent = ({ locations, userLocation, nearestLocations }) => {
             ${location.distance ? 
               `<div class="text-sm font-medium text-blue-600 mb-3">${location.distance.toFixed(1)} miles away</div>` : ''
             }
-            <div class="flex space-x-2">
-              <a href="https://maps.google.com/maps?q=${encodeURIComponent(`${location.address}, ${location.city}, ${location.state}`)}" 
-                 target="_blank" 
-                 rel="noopener noreferrer"
-                 class="bg-blue-600 text-white px-3 py-1 rounded text-sm hover:bg-blue-700 transition-colors">
-                Directions
-              </a>
-              ${location.phone ? 
-                `<a href="tel:${location.phone}" 
-                    class="bg-gray-100 text-gray-700 px-3 py-1 rounded text-sm hover:bg-gray-200 transition-colors">
-                   Call
-                 </a>` : ''
-              }
-            </div>
+<div class="flex space-x-2">
+  <a href="${getLocationUrl(location)}" 
+     class="bg-blue-600 text-white px-3 py-1 rounded text-sm transition-colors !text-white">
+    View Details
+  </a>
+  ${location.phone ? 
+    `<a href="tel:${location.phone}" 
+        class="bg-gray-100 text-gray-700 px-3 py-1 rounded text-sm hover:bg-gray-200 transition-colors">
+       Call
+     </a>` : ''
+  }
+</div>
           </div>
         `;
 

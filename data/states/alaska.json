@@ -13,10 +13,8 @@
       "address": "1712 A St, Anchorage, AK 99501, USA",
       "street": "1712 A Street",
       "zip": "99501",
-      "coordinates": {
-        "lat": 61.204565,
-        "lng": -149.884523
-      },
+      "latitude": 61.204565,
+      "longitude": -149.884523,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -38,10 +36,8 @@
       "address": "300 W Northern Lights Blvd, Anchorage, AK 99503, USA",
       "street": "300 West Northern Lights Boulevard",
       "zip": "99503",
-      "coordinates": {
-        "lat": 61.195018,
-        "lng": -149.889561
-      },
+      "latitude": 61.195018,
+      "longitude": -149.889561,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -63,10 +59,8 @@
       "address": "501 E Dimond Blvd, Anchorage, AK 99515, USA",
       "street": "501 East Dimond Boulevard",
       "zip": "99515",
-      "coordinates": {
-        "lat": 61.145502,
-        "lng": -149.872169
-      },
+      "latitude": 61.145502,
+      "longitude": -149.872169,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -88,10 +82,8 @@
       "address": "660 E 48th Ave, Anchorage, AK 99503, USA",
       "street": "660 East 48th Avenue",
       "zip": "99503",
-      "coordinates": {
-        "lat": 61.176949,
-        "lng": -149.870908
-      },
+      "latitude": 61.176949,
+      "longitude": -149.870908,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -113,10 +105,8 @@
       "address": "2281 Sun Mountain Ave, Wasilla, AK 99654, USA",
       "street": "2281 East Sun Mountain Avenue",
       "zip": "99654",
-      "coordinates": {
-        "lat": 61.57307,
-        "lng": -149.392586
-      },
+      "latitude": 61.57307,
+      "longitude": -149.392586,
       "acceptedMaterials": [
         "Appliances",
         "Clothing",
@@ -138,10 +128,8 @@
       "address": "2200 Gambell St, Anchorage, AK 99503, USA",
       "street": "2200 Gambell Street",
       "zip": "99503",
-      "coordinates": {
-        "lat": 61.199997,
-        "lng": -149.871018
-      },
+      "latitude": 61.199997,
+      "longitude": -149.871018,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -160,10 +148,8 @@
       "address": "2211 Arca Dr, Anchorage, AK 99508, USA",
       "street": "2211 Arca Drive",
       "zip": "99508",
-      "coordinates": {
-        "lat": 61.200596,
-        "lng": -149.82004
-      },
+      "latitude": 61.200596,
+      "longitude": -149.82004,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -182,10 +168,8 @@
       "address": "2300 Abbott Rd, Anchorage, AK 99507, USA",
       "street": "2300 Abbott Road",
       "zip": "99507",
-      "coordinates": {
-        "lat": 61.136305,
-        "lng": -149.83727
-      },
+      "latitude": 61.136305,
+      "longitude": -149.83727,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -204,10 +188,8 @@
       "address": "3521 E Tudor Rd, Anchorage, AK 99507, USA",
       "street": "3521 East Tudor Road",
       "zip": "99507",
-      "coordinates": {
-        "lat": 61.182035,
-        "lng": -149.814203
-      },
+      "latitude": 61.182035,
+      "longitude": -149.814203,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -226,10 +208,8 @@
       "address": "7701 Debarr Road, Anchorage, AK 99504, USA",
       "street": "7701 DeBarr Road",
       "zip": "99504",
-      "coordinates": {
-        "lat": 61.211136,
-        "lng": -149.736598
-      },
+      "latitude": 61.211136,
+      "longitude": -149.736598,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -248,10 +228,8 @@
       "address": "13401 Old Glenn Hwy, Eagle River, AK 99577, USA",
       "street": "Old Glenn Highway",
       "zip": "99577",
-      "coordinates": {
-        "lat": 61.341522,
-        "lng": -149.556259
-      },
+      "latitude": 61.341522,
+      "longitude": -149.556259,
       "acceptedMaterials": [
         "Clothing"
       ],
@@ -270,10 +248,8 @@
       "address": "17108 Hanson Dr, Eagle River, AK 99577, USA",
       "street": "17108 Hanson Drive",
       "zip": "99577",
-      "coordinates": {
-        "lat": 61.327445,
-        "lng": -149.562998
-      },
+      "latitude": 61.327445,
+      "longitude": -149.562998,
       "acceptedMaterials": [
         "Clothing"
       ],
